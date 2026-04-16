@@ -1,0 +1,27 @@
+# 환경변수
+.env
+
+# 데이터베이스
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# 로그
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 가상환경
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.DS_Store
