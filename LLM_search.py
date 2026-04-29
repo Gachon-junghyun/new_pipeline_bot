@@ -26,6 +26,9 @@ import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 
+import article_scraper
+import db_manager
+
 
 BASE_DIR = Path(__file__).resolve().parent
 DB_PATH = BASE_DIR / "news_alert.db"
@@ -51,6 +54,7 @@ class NewsItem:
     source: str
     date: str
     summary: str = ""
+    body: str = ""
 
 
 @dataclass
@@ -105,19 +109,23 @@ def search_local_db(query: str, limit: int, since_iso: str | None) -> list[NewsI
     params: list[object] = []
 
     for term in terms:
-        where.append("title LIKE ?")
+        where.append("s.title LIKE ?")
         params.append(f"%{term}%")
     if since_iso:
-        where.append("fetched_at >= ?")
+        where.append("COALESCE(s.published_at, s.fetched_at) >= ?")
         params.append(since_iso)
 
     sql = """
-        SELECT title, url, source, fetched_at
-        FROM seen_news
+        SELECT s.title, s.url, s.source, s.fetched_at,
+               COALESCE(s.published_at, s.fetched_at) AS date,
+               COALESCE(s.summary, '')                AS summary,
+               COALESCE(a.body, '')                   AS body
+        FROM seen_news s
+        LEFT JOIN article_contents a ON s.url_hash = a.url_hash
     """
     if where:
         sql += " WHERE " + " AND ".join(where)
-    sql += " ORDER BY fetched_at DESC LIMIT ?"
+    sql += " ORDER BY date DESC LIMIT ?"
     params.append(limit)
 
     conn = sqlite3.connect(DB_PATH)
@@ -130,7 +138,9 @@ def search_local_db(query: str, limit: int, since_iso: str | None) -> list[NewsI
             title=row["title"] or "",
             url=row["url"] or "",
             source=row["source"] or "",
-            date=row["fetched_at"] or "",
+            date=row["date"] or "",
+            summary=row["summary"] or "",
+            body=row["body"] or "",
         )
         for row in rows
     ]
@@ -476,7 +486,7 @@ def write_report(
     local_items: list[NewsItem],
     scenario_items: list[ScenarioItem],
     naver_items: list[NewsItem],
-    fetch_articles: bool,
+    fetch_articles: bool = False,  # 하위 호환용, 실제 동작은 항상 자동 스크랩
 ) -> Path:
     OUTPUT_DIR.mkdir(exist_ok=True)
     slug = re.sub(r"[^0-9A-Za-z가-힣_-]+", "_", query).strip("_")[:48] or "search"
@@ -512,9 +522,14 @@ def write_report(
             )
             if item.summary:
                 lines.append(f"- summary: {item.summary}")
-            if fetch_articles and item.url:
-                article = fetch_article_text(item.url)
-                lines.extend(["- article_excerpt:", textwrap.indent(article, "  ")])
+            body = item.body
+            if not body and item.url:
+                scraped, status = article_scraper.scrape_article(item.url, item.source)
+                if scraped:
+                    db_manager.save_article_content(item.url, scraped, status)
+                    body = scraped
+            if body:
+                lines.extend(["- article_body:", textwrap.indent(body[:1200], "  ")])
             lines.append("")
 
     append_items("Local DB", local_items)

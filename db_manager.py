@@ -39,11 +39,13 @@ def init_db():
     conn = _get_conn()
     conn.executescript("""
         CREATE TABLE IF NOT EXISTS seen_news (
-            url_hash   TEXT PRIMARY KEY,
-            url        TEXT NOT NULL,
-            title      TEXT,
-            source     TEXT,
-            fetched_at TEXT
+            url_hash     TEXT PRIMARY KEY,
+            url          TEXT NOT NULL,
+            title        TEXT,
+            source       TEXT,
+            fetched_at   TEXT,
+            published_at TEXT,
+            summary      TEXT
         );
 
         CREATE TABLE IF NOT EXISTS users (
@@ -68,8 +70,25 @@ def init_db():
             sent_at    TEXT,
             UNIQUE(user_id, url_hash)
         );
+
+        CREATE TABLE IF NOT EXISTS article_contents (
+            url_hash    TEXT PRIMARY KEY,
+            url         TEXT NOT NULL,
+            body        TEXT,
+            scraped_at  TEXT,
+            status      TEXT DEFAULT 'ok'
+        );
     """)
     conn.commit()
+
+    # 기존 DB에 컬럼이 없을 경우 추가 (seen_news 마이그레이션)
+    for col, typedef in [("published_at", "TEXT"), ("summary", "TEXT")]:
+        try:
+            conn.execute(f"ALTER TABLE seen_news ADD COLUMN {col} {typedef}")
+            conn.commit()
+        except sqlite3.OperationalError:
+            pass  # 이미 존재하면 무시
+
     conn.close()
 
 
@@ -97,9 +116,16 @@ def filter_new_articles(articles: List[Dict]) -> List[Dict]:
         if row is None:
             conn.execute(
                 "INSERT OR IGNORE INTO seen_news "
-                "(url_hash, url, title, source, fetched_at) VALUES (?, ?, ?, ?, ?)",
-                (h, url, art.get("title", ""), art.get("source", ""),
-                 datetime.now().isoformat()),
+                "(url_hash, url, title, source, fetched_at, published_at, summary) "
+                "VALUES (?, ?, ?, ?, ?, ?, ?)",
+                (
+                    h, url,
+                    art.get("title", ""),
+                    art.get("source", ""),
+                    datetime.now().isoformat(),
+                    art.get("published", "") or "",
+                    (art.get("summary", "") or "")[:300],
+                ),
             )
             new_articles.append(art)
     conn.commit()
@@ -243,7 +269,7 @@ def search_news(keyword: str, limit: int = 20) -> List[Dict]:
     """seen_news 테이블에서 제목으로 검색."""
     conn = _get_conn()
     rows = conn.execute(
-        "SELECT title, url, source, fetched_at "
+        "SELECT title, url, source, fetched_at, published_at, summary "
         "FROM seen_news "
         "WHERE title LIKE ? "
         "ORDER BY fetched_at DESC "
@@ -257,6 +283,60 @@ def search_news(keyword: str, limit: int = 20) -> List[Dict]:
 # ─────────────────────────────────────────────
 # 통계
 # ─────────────────────────────────────────────
+# ─────────────────────────────────────────────
+# 기사 본문 저장 / 조회
+# ─────────────────────────────────────────────
+def save_article_content(url: str, body: str, status: str = "ok"):
+    h = _url_hash(url)
+    conn = _get_conn()
+    conn.execute(
+        "INSERT OR REPLACE INTO article_contents "
+        "(url_hash, url, body, scraped_at, status) VALUES (?, ?, ?, ?, ?)",
+        (h, url, body, datetime.now().isoformat(), status),
+    )
+    conn.commit()
+    conn.close()
+
+
+def get_article_content(url: str) -> Optional[Dict]:
+    h = _url_hash(url)
+    conn = _get_conn()
+    row = conn.execute(
+        "SELECT url, body, scraped_at, status FROM article_contents WHERE url_hash = ?",
+        (h,),
+    ).fetchone()
+    conn.close()
+    return dict(row) if row else None
+
+
+def get_unscraped_articles(keyword: Optional[str] = None, limit: int = 50) -> List[Dict]:
+    """seen_news 중 article_contents가 없거나 status='error'인 것 반환."""
+    conn = _get_conn()
+    if keyword:
+        rows = conn.execute(
+            """
+            SELECT s.url, s.title, s.source FROM seen_news s
+            LEFT JOIN article_contents a ON s.url_hash = a.url_hash
+            WHERE (a.url_hash IS NULL OR a.status = 'error')
+              AND s.title LIKE ?
+            ORDER BY s.fetched_at DESC LIMIT ?
+            """,
+            (f"%{keyword}%", limit),
+        ).fetchall()
+    else:
+        rows = conn.execute(
+            """
+            SELECT s.url, s.title, s.source FROM seen_news s
+            LEFT JOIN article_contents a ON s.url_hash = a.url_hash
+            WHERE a.url_hash IS NULL OR a.status = 'error'
+            ORDER BY s.fetched_at DESC LIMIT ?
+            """,
+            (limit,),
+        ).fetchall()
+    conn.close()
+    return [dict(r) for r in rows]
+
+
 def get_stats() -> Dict:
     conn = _get_conn()
     total_news = conn.execute("SELECT COUNT(*) FROM seen_news").fetchone()[0]

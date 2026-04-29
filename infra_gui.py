@@ -16,6 +16,7 @@ from urllib.parse import urlencode
 from fastapi import FastAPI, Query, Request
 from fastapi.responses import HTMLResponse, PlainTextResponse, RedirectResponse
 
+import db_manager
 import infra_search
 
 
@@ -191,6 +192,19 @@ def _style() -> str:
         font-size: 12px;
       }
       .summary, .significance { white-space: pre-wrap; margin: 8px 0 0; }
+      .article-body {
+        white-space: pre-wrap;
+        margin: 8px 0 0;
+        max-height: 260px;
+        overflow-y: auto;
+        background: #f7f8fa;
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        padding: 10px;
+        font-size: 12px;
+        line-height: 1.6;
+      }
+      details > summary { cursor: pointer; color: var(--blue); font-size: 13px; margin-top: 8px; }
       @media (max-width: 980px) {
         .controls { grid-template-columns: 1fr 1fr 100px 100px; }
         .editor { grid-template-columns: 1fr; }
@@ -441,6 +455,19 @@ def scenario_detail(
         )
         url = node.get("url") or ""
         url_html = f'<a href="{_esc(url)}" target="_blank" rel="noreferrer">Open article</a>' if url else ""
+
+        body_html = ""
+        if url:
+            cached = db_manager.get_article_content(url)
+            if cached and cached.get("status") == "ok" and cached.get("body"):
+                excerpt = _esc(cached["body"][:2000])
+                body_html = (
+                    "<details>"
+                    "<summary>기사 본문 보기</summary>"
+                    f'<div class="article-body">{excerpt}</div>'
+                    "</details>"
+                )
+
         nodes.append(
             '<section class="node">'
             f"<h3>{_esc(node.get('node_order'))}. {_esc(node.get('title'))}</h3>"
@@ -453,6 +480,7 @@ def scenario_detail(
             f'<div class="tags">{node_terms}</div>'
             f'<p class="significance"><strong>Significance</strong><br>{_esc(node.get("significance"))}</p>'
             f'<p class="summary"><strong>Summary</strong><br>{_esc(node.get("summary"))}</p>'
+            f"{body_html}"
             "</section>"
         )
 
