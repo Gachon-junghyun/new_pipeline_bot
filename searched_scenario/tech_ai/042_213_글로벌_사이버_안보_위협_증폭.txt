@@ -1,0 +1,42 @@
+# [213] 글로벌 사이버 안보 위협 증폭
+
+profile: AI & Semiconductors
+label: primary
+score: 35 (metadata=0, nodes=31, repeat=4)
+category: geopolitics
+updated_at: 2026-04-22T22:41:55.861837
+nodes: 5 total / 2 matched
+keywords: 사이버 안보, 금융 보안, 국가 안보, 사이버 전쟁, 핵심 인프라 방어
+
+## Description
+국가 안보와 금융 시스템을 위협하는 사이버 공격의 위험이 고조되면서, 각국 정부와 기업의 대응 전략이 중요해지고 있습니다. 이는 지정학적 갈등, 기술 경쟁과 맞물려 글로벌 경제 및 안보 지형에 큰 영향을 미칠 수 있습니다.
+
+## Matched Tags
+- ai: 24
+- platform: 7
+
+## Matched Terms
+  ai:AI x4
+  ai:인공지능 x1
+  platform:플랫폼 x1
+
+## Matched News Nodes
+
+### (3) 가상화폐 플랫폼서 4천300억원 해킹…"북한 라자루스그룹 소행"
+- score: 7
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 10:31:28 +0900
+- url: https://www.yna.co.kr/view/AKR20260422051900009
+- matched_terms: platform:플랫폼 x1
+- significance: 이번 가상화폐 해킹 사건은 북한 라자루스그룹과 같은 국가 주도 해커 조직의 활동이 금융 시스템과 국가 안보에 심각한 위협이 됨을 보여주며, 사이버 안보 강화의 시급성을 부각시킨다.
+- summary: (서울=연합뉴스) 김동현 기자 = 지난 주말 발생한 대규모 가상화폐 탈취가 북한 해커조직의 소행으로 보인다는 주장이 제기됐다.
+
+### (4) '보안 핵폭탄' 앤트로픽 미토스에 무단 접속…조사 착수
+- score: 24
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 11:18:55 +0900
+- url: https://www.yna.co.kr/view/AKR20260422074500009
+- matched_terms: ai:AI x4
+  ai:인공지능 x1
+- significance: AI 기업 앤트로픽의 '보안 핵폭탄' AI 모델에 대한 무단 접속 사건은 고도화되는 AI 기술이 잠재적 사이버 안보 위협으로 악용될 수 있음을 보여주며, 글로벌 사이버 안보의 취약성과 대응책 마련의 시급성을 강조한다.
+- summary: (서울=연합뉴스) 임화섭 기자 = 사이버보안 취약점을 공격하는 능력이 뛰어나 '보안 핵폭탄'으로 지목되고 있는 인공지능(AI) 기업 앤트로픽의 ...

@@ -1,0 +1,57 @@
+# [44] 바이오 헬스케어 확장
+
+profile: AI & Semiconductors
+label: primary
+score: 85 (metadata=0, nodes=79, repeat=6)
+category: tech
+updated_at: 2026-04-15T22:01:41.060460
+nodes: 8 total / 3 matched
+keywords: 바이오, 헬스케어, 웰니스, 미용, 고령화
+
+## Description
+고령화 및 건강에 대한 관심 증가로 바이오 기술이 질병 치료를 넘어 미용, 예방 등 웰니스 산업 전반으로 확장되고 있습니다. 이는 바이오 기업들의 신규 시장 진출과 기술 혁신 경쟁을 심화시킬 것입니다.
+
+## Matched Tags
+- ai: 63
+- platform: 13
+- semiconductor: 3
+
+## Matched Terms
+  ai:AI x7
+  ai:인공지능 x3
+  ai:생성형 AI x2
+  platform:플랫폼 x2
+  semiconductor:반도체 x1
+
+## Matched News Nodes
+
+### (2) 우범기 전주시장 예비후보 "인공지능 기반 웰니스 플랫폼 구축"
+- score: 38
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 10:13:10 +0900
+- url: https://www.yna.co.kr/view/AKR20260415058500055
+- matched_terms: ai:AI x3
+  ai:인공지능 x2
+  platform:플랫폼 x2
+- significance: 전주시장 예비후보의 AI 기반 웰니스 플랫폼 구축 공약은 바이오 헬스케어가 지역 복지 혁신 및 시민 건강 증진을 위해 AI 기술과 결합하여 확장되고 있음을 보여주는 사례입니다.
+- summary: (전주=연합뉴스) 김동철 기자 = 우범기 전북 전주시장 예비후보(더불어민주당)가 시민들의 건강 증진과 지역 복지 혁신을 위한 인공지능(AI) 기...
+
+### (4) 성인 58% "생성형 AI가 의사 상담·진료 대체할 수 있다"
+- score: 38
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 11:12:39 +0900
+- url: https://www.yna.co.kr/view/AKR20260415079300005
+- matched_terms: ai:AI x4
+  ai:생성형 AI x2
+  ai:인공지능 x1
+- significance: 생성형 AI가 의사 상담 및 진료를 대체할 수 있다는 인식은 바이오 헬스케어 산업의 AI 기술 접목을 가속화하고, 의료 서비스 모델의 근본적인 변화를 예고하는 중요한 지표입니다.
+- summary: (서울=연합뉴스) 임미나 기자 = 생성형 인공지능(AI)을 통한 의료 정보 검색으로 의사·한의사와의 대면 진료를 대체할 수 있다는 인식이 크게 ...
+
+### (8) '극소량 땀'으로 생체 상태 분석…DGIST, 웨어러블센서 개발
+- score: 3
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 15:36:06 +0900
+- url: https://www.yna.co.kr/view/AKR20260415130700053
+- matched_terms: semiconductor:반도체 x1
+- significance: DGIST의 웨어러블 센서 개발은 극소량의 땀으로 생체 신호를 분석하는 기술로, 질병 치료를 넘어 예방, 진단 등 웰니스 분야로 확장되는 바이오 헬스케어 트렌드를 가속화하는 중요한 진전입니다.
+- summary: (대구=연합뉴스) 최수호 기자 = 대구경북과학기술원(DGIST)은 외부 구동장치가 없어도 극소량의 땀을 수집해 생체신호를 분석할 수 있는 반도체...

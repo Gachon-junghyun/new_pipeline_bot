@@ -1,0 +1,29 @@
+# [23] 레거시 미디어 부활
+
+profile: AI & Semiconductors
+label: secondary
+score: 18 (metadata=10, nodes=6, repeat=2)
+category: corporate
+updated_at: 2026-04-15T02:26:39.377396
+nodes: 1 total / 1 matched
+keywords: 미디어산업, 스트리밍, 레거시미디어, 디지털전환, 콘텐츠경쟁
+
+## Description
+과거 전통 미디어 강자들이 대형 이벤트 독점권과 플랫폼 전략을 통해 디지털 전환 시대에 재도약하는 시나리오입니다. YouTube와 같은 디지털 플랫폼의 아성을 위협하며 미디어 산업 판도 변화를 예고합니다.
+
+## Matched Tags
+- platform: 16
+
+## Matched Terms
+  platform:플랫폼 x3
+
+## Matched News Nodes
+
+### (1) NBC just dethroned YouTube as ratings king. Here’s how it did it.
+- score: 6
+- source: marketwatch
+- published_at: Tue, 14 Apr 2026 16:35:00 GMT
+- url: https://www.marketwatch.com/story/nbc-just-dethroned-youtube-as-ratings-king-heres-how-it-did-it-c957438a?mod=mw_rss_topstories
+- matched_terms: platform:플랫폼 x1
+- significance: NBC가 올림픽과 슈퍼볼을 통해 YouTube를 넘어선 것은 전통 미디어가 대형 콘텐츠의 독점력을 활용하여 디지털 플랫폼과의 경쟁에서 우위를 점할 수 있음을 보여주는 중요한 전환점입니다.
+- summary: A one-two punch of the Olympics and the Super Bowl helped NBC rise to the top spot, ending YouTube’s 12-month run as the No. 1 media company by viewership.

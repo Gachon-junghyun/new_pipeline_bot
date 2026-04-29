@@ -1,0 +1,31 @@
+# [124] 디지털 영토 분쟁 심화
+
+profile: AI & Semiconductors
+label: primary
+score: 42 (metadata=18, nodes=22, repeat=2)
+category: geopolitics
+updated_at: 2026-04-16T08:32:11.588276
+nodes: 1 total / 1 matched
+keywords: 디지털 주권, 정보 왜곡, 플랫폼 책임, 영토 분쟁, 지정학적 리스크
+
+## Description
+디지털 플랫폼의 정보 왜곡이 국가 주권 및 영토 인식에 미치는 영향이 커지고 있습니다. 이는 플랫폼 기업의 사회적 책임과 국제 관계에서의 정보 주권 문제를 복합적으로 야기하며, 디지털 공간에서의 새로운 형태의 지정학적 갈등으로 번질 수 있습니다.
+
+## Matched Tags
+- platform: 40
+
+## Matched Terms
+  platform:플랫폼 x4
+  platform:구글 x3
+
+## Matched News Nodes
+
+### (1) "격렬비열도 검색했더니 '공녈비-열도'"…구글 표기 오류
+- score: 22
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 08:00:03 +0900
+- url: https://www.yna.co.kr/view/AKR20260415100700371
+- matched_terms: platform:구글 x3
+  platform:플랫폼 x1
+- significance: 구글이라는 글로벌 플랫폼의 명칭 오류가 한 국가의 영토 인식에 혼란을 초래하며, 디지털 공간에서의 정보가 현실 세계의 지정학적 민감성과 어떻게 연결되는지를 보여주는 초기 사례입니다.
+- summary: (서울=연합뉴스) 박현수 기자 = 대한민국 서해의 영해기점 도서인 격렬비열도를 구글에서 검색할 경우 잘못된 명칭으로 표기되는 오류가 확인돼 논란...

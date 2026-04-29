@@ -1,0 +1,20 @@
+# [75] 일본의 디지털 주권 강화
+
+profile: AI & Semiconductors
+label: secondary
+score: 13 (metadata=13, nodes=0, repeat=0)
+category: geopolitics
+updated_at: 2026-04-15T17:32:17.081712
+nodes: 1 total / 0 matched
+keywords: 라인야후, 디지털 주권, 데이터 안보, 플랫폼 독립, 기술 민족주의
+
+## Description
+일본이 라인야후를 통해 자국 내 데이터 및 디지털 플랫폼 주도권을 확보하려는 움직임입니다. 이는 단순히 기업 간의 시스템 분리를 넘어, 기술 주권 및 데이터 안보 강화로 이어질 수 있으며, 향후 유사 사례가 다른 산업으로 확산될 가능성을 시사합니다.
+
+## Matched Tags
+- platform: 13
+
+## Matched Terms
+  platform:플랫폼 x2
+
+## Matched News Nodes

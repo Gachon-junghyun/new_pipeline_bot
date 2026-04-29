@@ -1,0 +1,29 @@
+# [319] 농업의 미래 산업화
+
+profile: Infrastructure
+label: secondary
+score: 21 (metadata=0, nodes=19, repeat=2)
+category: macro
+updated_at: 2026-04-24T17:42:19.618302
+nodes: 8 total / 1 matched
+keywords: 스마트팜, 청년농업인, 귀농귀촌, 농업혁신, 식량안보
+
+## Description
+고령화 및 인구 감소로 위기에 처한 농업이 스마트 기술, 친환경 농법, 청년 농업인 유입을 통해 고부가가치 미래 산업으로 변화하는 흐름을 추적합니다. 이는 식량 안보 강화 및 지역 경제 활성화에 기여할 수 있습니다.
+
+## Matched Tags
+- energy_facility: 19
+
+## Matched Terms
+  energy_facility:태양광 x4
+
+## Matched News Nodes
+
+### (5) 日, '영농형 태양광' 설치 기준 강화…농사 방치 막는다
+- score: 19
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 15:15:47 +0900
+- url: https://www.yna.co.kr/view/AKR20260424114900009
+- matched_terms: energy_facility:태양광 x4
+- significance: 일본의 영농형 태양광 설치 기준 강화는 농업과의 공존을 모색하며 스마트팜 등 미래 농업 기술 도입에 영향을 미쳐 '농업의 미래 산업화' 시나리오에 긍정적 또는 부정적 영향을 미칠 수 있습니다.
+- summary: (서울=연합뉴스) 최이락 기자 = 일본 정부가 농업과 태양광 발전의 공존을 위해 영농형 태양광 발전 설치 기준을 대폭 강화하기로 했다.

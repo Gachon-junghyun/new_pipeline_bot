@@ -132,7 +132,7 @@ def find_matching_scenario(article: dict,
     # 최대 50개만 검토 (프롬프트 길이 제한)
     candidates = scenarios[:50]
     scenario_list = "\n".join(
-        f"ID={s['id']} | 이름: {s['name']} | 설명: {s['description'][:80]} "
+        f"ID={s['id']} | 이름: {s['name']} | 설명: {(s.get('description') or '')[:80]} "
         f"| 카테고리: {s['category']} | 키워드: {', '.join(s['keywords'][:5])}"
         for s in candidates
     )
@@ -284,11 +284,11 @@ def process_article(article: dict) -> Dict:
         "summary": _strip_html(article.get("summary", "")),
     }
 
-    scenarios = scenario_db.get_all_scenarios()
+    scenarios = scenario_db.find_candidate_scenarios_for_article(article)
     print(
         f"\n{'='*55}\n"
         f"[PIPELINE] {article.get('title', '')[:50]}\n"
-        f"  source: {article.get('source','')} | 기존 시나리오 {len(scenarios)}개\n"
+        f"  source: {article.get('source','')} | 매칭 후보 {len(scenarios)}개\n"
         f"{'='*55}"
     )
 

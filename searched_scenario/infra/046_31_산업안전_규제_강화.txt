@@ -1,0 +1,29 @@
+# [31] 산업안전 규제 강화
+
+profile: Infrastructure
+label: secondary
+score: 18 (metadata=0, nodes=16, repeat=2)
+category: corporate
+updated_at: 2026-04-15T22:01:32.164360
+nodes: 8 total / 1 matched
+keywords: 산업안전, 중대재해처벌법, ESG 경영, 광산업, 안전 시스템
+
+## Description
+광산업 등 고위험 산업군에서 중대재해 예방을 위한 기업의 자율적 노력과 정부의 규제 강화 움직임이 나타나고 있습니다. 이는 산업 안전 분야의 투자 확대로 이어질 수 있으며, ESG 경영의 중요성 증대와 맞물려 기업의 사회적 책임 요구가 더욱 커질 것입니다.
+
+## Matched Tags
+- energy_facility: 16
+
+## Matched Terms
+  energy_facility:발전소 x3
+
+## Matched News Nodes
+
+### (4) 인도 중부 발전소 보일러 시설 폭발…10명 사망·23명 부상
+- score: 16
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 10:05:35 +0900
+- url: https://www.yna.co.kr/view/AKR20260415059300104
+- matched_terms: energy_facility:발전소 x3
+- significance: 인도 발전소 보일러 폭발 사고는 고위험 산업군에서 중대재해 예방을 위한 기업의 자율적 노력과 정부의 규제 강화 필요성을 다시 한번 부각시키는 사건입니다.
+- summary: (자카르타=연합뉴스) 손현규 특파원 = 인도 중부에 있는 발전소에서 보일러 시설이 폭발해 10명이 숨지고 20명 넘게 다쳤다.

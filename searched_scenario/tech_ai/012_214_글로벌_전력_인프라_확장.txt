@@ -1,0 +1,117 @@
+# [214] 글로벌 전력 인프라 확장
+
+profile: AI & Semiconductors
+label: primary
+score: 141 (metadata=26, nodes=105, repeat=10)
+category: energy
+updated_at: 2026-04-23T11:42:09.968991
+nodes: 16 total / 9 matched
+keywords: 전력인프라, 데이터센터, AI, 에너지전환, 스마트그리드
+
+## Description
+AI, 데이터센터 수요 폭증과 에너지 전환 가속화로 전력 인프라에 대한 투자가 전 세계적으로 확대되고 있습니다. 이는 관련 기업들의 실적 개선과 함께 산업 구조 변화를 가져올 핵심적인 거시 트렌드입니다.
+
+## Matched Tags
+- data_center: 104
+- ai: 56
+- platform: 13
+
+## Matched Terms
+  ai:AI x10
+  data_center:데이터센터 x9
+  data_center:전력 수요 x9
+  platform:빅테크 x2
+
+## Matched News Nodes
+
+### (2) 삼성증권 "LS일렉 주가 101% 급등에도 매수 유효…목표가↑"
+- score: 12
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 08:40:52 +0900
+- url: https://www.yna.co.kr/view/AKR20260422027800008
+- matched_terms: ai:AI x1
+  data_center:데이터센터 x1
+- significance: LS일렉트릭의 주가 급등은 AI 및 데이터센터 수요 증가와 에너지 전환 가속화로 인한 글로벌 전력 인프라 투자의 확대가 실제 기업 실적과 시장 평가에 긍정적인 영향을 미치고 있음을 보여준다.
+- summary: (서울=연합뉴스) 김태종 기자 = 삼성증권[016360]은 22일 LS일렉트릭[010120]에 대해 투자의견 '매수'를 유지하고 목표주가를 기존...
+
+### (3) Today's Pick : LS일렉트릭에 미 빅테크 기업 러브콜…배전시장 강자로 떠올라 [마켓PRO]
+- score: 19
+- source: hankyung
+- published_at: Wed, 22 Apr 2026 08:22:34 +0900
+- url: https://www.hankyung.com/article/202604227480i
+- matched_terms: platform:빅테크 x2
+  data_center:데이터센터 x1
+- significance: LS일렉트릭이 미 빅테크 기업들의 데이터센터 증설로 인한 배전시장 수요 증가의 수혜를 입는 것은 글로벌 전력 인프라 확장이 가속화되는 중요한 사례이다.
+- summary: 
+
+### (4) 'K전력' 빅3 스타트 좋네…LS일렉트릭, 북미 매출 날았다 [종목+]
+- score: 12
+- source: hankyung
+- published_at: Wed, 22 Apr 2026 08:16:19 +0900
+- url: https://www.hankyung.com/article/2026042274526
+- matched_terms: ai:AI x1
+  data_center:데이터센터 x1
+- significance: LS일렉트릭의 북미 매출 증가는 AI, 데이터센터 확대로 인한 글로벌 전력 인프라 수요 증가 시나리오가 현실화되고 있음을 보여주는 구체적인 사례이다.
+- summary: 
+
+### (5) 14년 뒤인 2040년 최대전력수요 현재보다 1.4배로 증가 전망
+- score: 27
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 10:29:52 +0900
+- url: https://www.yna.co.kr/view/AKR20260422057200530
+- matched_terms: data_center:전력 수요 x3
+  ai:AI x1
+  data_center:데이터센터 x1
+- significance: 2040년 한국의 최대 전력 수요가 현재보다 1.4배 증가할 것이라는 전망은 AI, 데이터센터 및 산업화에 따른 전력 수요 급증으로 글로벌 전력 인프라 확장이 필수적임을 보여주는 국내 사례입니다.
+- summary: (서울=연합뉴스) 이재영 기자 = 14년 뒤인 2040년 연중 최대 전력 수요가 최소 131.8GW(기가와트), 최대 138.2GW로 100GW...
+
+### (7) 14년 뒤인 2040년 최대전력수요 현재보다 1.4배로 증가 전망(종합)
+- score: 21
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 12:17:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260422057251530
+- matched_terms: data_center:전력 수요 x2
+  ai:AI x1
+  data_center:데이터센터 x1
+- significance: 2040년 한국의 최대 전력 수요가 현재보다 1.4배 증가할 것이라는 전망은 AI 및 데이터센터 수요 폭증과 에너지 전환 가속화로 인한 전력 인프라 확장 시나리오의 국내 상황을 구체적으로 보여주는 사례이다.
+- summary: (서울=연합뉴스) 이재영 기자 = 14년 뒤인 2040년 연중 최대 전력 수요가 최소 131.8GW(기가와트), 최대 138.2GW로 100GW...
+
+### (9) 韓-베트남, 원전개발·전력인프라 등 협력문건 12건 체결
+- score: 6
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 20:45:56 +0900
+- url: https://www.yna.co.kr/view/AKR20260422138600001
+- matched_terms: data_center:전력 수요 x1
+- significance: 한국과 베트남의 원전 개발 및 전력 인프라 협력은 아시아 지역의 에너지 전환 가속화와 전력 수요 증가에 대응하는 국제 협력 사례로, '글로벌 전력 인프라 확장' 시나리오를 강화한다.
+- summary: (하노이=연합뉴스) 임형섭 황윤기 기자 = 한국과 베트남은 22일(현지시간) 이재명 대통령과 또 럼 베트남 서기장과의 정상회담을 계기로 원전을 ...
+
+### (10) 金총리. '새울원전 3호기 보조건물 연기'에 "원인 철저 규명"
+- score: 12
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 19:16:26 +0900
+- url: https://www.yna.co.kr/view/AKR20260422157500001
+- matched_terms: ai:AI x1
+  data_center:데이터센터 x1
+- significance: 새울원전 3호기 보조건물에서 발생한 연기 사고는 원자력 발전의 안정성 및 신뢰성 확보의 중요성을 부각하며, AI와 데이터센터 수요 증가로 전력 인프라 확장이 필수적인 시나리오에서 발전 설비의 안전 관리 강화가 핵심 과제임을 보여줍니다.
+- summary: (서울=연합뉴스) 이상현 기자 = 김민석 국무총리는 22일 울산 새울원자력발전소 3호기 시운전 과정에서 보조건물의 전자 부품에서 연기가 발생해 ...
+
+### (11) “2040년 전력수요, 2038년보다 원전 2기분 더 필요”
+- score: 18
+- source: donga
+- published_at: Thu, 23 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260422/133794951/2
+- matched_terms: ai:AI x1
+  data_center:데이터센터 x1
+  data_center:전력 수요 x1
+- significance: 정부의 2040년 전력 목표수요 전망치는 AI, 데이터센터 확산 등으로 인한 전력 수요 급증과 에너지 전환 가속화라는 '글로벌 전력 인프라 확장' 시나리오의 국내적 현상을 구체적으로 보여주는 지표입니다.
+- summary: 정부가 제12차 전력수급기본계획(전기본)에 반영될 2040년 전력 목표수요를 131.8GW(기가와트)로 전망했다. 11차 전기본의 2038년 목표수요(1
+
+### (14) 2040년 최대 전력 수요 ‘원전 7기분’ 더 늘었다…전기화 수요 90% 급증[Pick코노미]
+- score: 20
+- source: sedaily
+- published_at: Thu, 23 Apr 2026 05:30:05 +0900
+- url: https://www.sedaily.com/article/20035954
+- matched_terms: ai:AI x2
+  data_center:전력 수요 x2
+- significance: 2040년 최대 전력 수요가 원전 7기분에 달할 것으로 예측되면서, AI와 전기화 수요 증가가 전력 인프라 확장의 시급성을 더욱 부각시키고 있다.
+- summary:

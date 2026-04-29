@@ -1,0 +1,29 @@
+# [61] 한국 노동시장 유연화 쟁점
+
+profile: AI & Semiconductors
+label: secondary
+score: 12 (metadata=0, nodes=10, repeat=2)
+category: macro
+updated_at: 2026-04-15T19:32:21.649581
+nodes: 6 total / 1 matched
+keywords: 노란봉투법, 노동시장, 노사관계, 기업규제, 노동개혁
+
+## Description
+노란봉투법 시행에 따른 기업들의 불만과 정부/여당의 재개정 추진은 한국 노동시장의 경직성 완화 요구와 노동계 권리 강화 주장이 충돌하며 정책 방향에 불확실성을 가중시키는 핵심 쟁점입니다. 이는 향후 기업 투자 및 고용 환경, 노사 관계 전반에 중대한 영향을 미칠 것입니다.
+
+## Matched Tags
+- semiconductor: 10
+
+## Matched Terms
+  semiconductor:삼성전자 x2
+
+## Matched News Nodes
+
+### (2) 삼성전자 진출한 인도 우타르프라데시주, 최저임금 인상 명령
+- score: 10
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 14:46:45 +0900
+- url: https://www.yna.co.kr/view/AKR20260415118600009
+- matched_terms: semiconductor:삼성전자 x2
+- significance: 인도 우타르프라데시주의 최저임금 인상 명령은 글로벌 기업의 인도 투자 환경에 중요한 변화를 가져오며, 이는 '한국 노동시장 유연화 쟁점' 시나리오와 유사하게 기업 규제 및 노동 시장 환경 변화가 산업에 미치는 영향을 보여주는 사례가 될 수 있다.
+- summary: (서울=연합뉴스) 유창엽 기자 = 삼성전자 등 글로벌 업체들이 대거 진출한 인도 북부 우타르프라데시 주 정부가 업체들에 최저임금 인상을 명령했다...

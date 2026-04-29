@@ -1,0 +1,47 @@
+# [67] 연준 독립성 논란 재점화
+
+profile: AI & Semiconductors
+label: primary
+score: 26 (metadata=0, nodes=20, repeat=6)
+category: finance
+updated_at: 2026-04-16T04:32:26.749815
+nodes: 7 total / 3 matched
+keywords: 연준, 차기 의장, 통화정책, 독립성, 금융시장
+
+## Description
+차기 연준 의장 후보의 막대한 재산과 그 형성 과정에 대한 투명성 문제는 연준의 독립성과 공정성에 대한 대중의 신뢰를 흔들 수 있습니다. 이는 향후 통화 정책 결정에 대한 정치적 압력이나 투기적 논란으로 이어질 가능성을 내포합니다.
+
+## Matched Tags
+- ai: 20
+
+## Matched Terms
+  ai:AI x4
+
+## Matched News Nodes
+
+### (4) Trump threatens to fire Fed chair Powell if he doesn't leave in May
+- score: 7
+- source: bbc
+- published_at: Wed, 15 Apr 2026 14:14:41 GMT
+- url: https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x1
+- significance: 트럼프의 연준 의장 해임 위협은 연준의 정치적 독립성에 대한 우려를 증폭시키며 해당 시나리오의 핵심 내용을 강화한다.
+- summary: Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell.
+
+### (5) Powell’s term as Fed chair is coming to an end. Trump wants to fire him anyway.
+- score: 10
+- source: marketwatch
+- published_at: Wed, 15 Apr 2026 17:09:00 GMT
+- url: https://www.marketwatch.com/story/powells-term-as-fed-chair-is-coming-to-an-end-trump-wants-to-fire-him-anyway-18f3f488?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+- significance: 트럼프 행정부가 현 연준 의장 해임을 시도하는 것은 연준의 정치적 독립성을 크게 훼손하고, 향후 통화정책 결정에 대한 외부 개입 우려를 증폭시키는 핵심적인 사건입니다.
+- summary: President Donald Trump and Department of Justice officials aren’t showing signs of backing down in a standoff over the leadership of the Federal Reserve, even as current Fed Chair Jerome Powell’s term
+
+### (7) Trump’s Quest for More Sway Over Fed Faces Fresh Hurdles
+- score: 3
+- source: nyt
+- published_at: Wed, 15 Apr 2026 19:27:34 +0000
+- url: https://www.nytimes.com/2026/04/15/business/trump-federal-bank-fresh-hurdles.html
+- matched_terms: ai:AI x1
+- significance: 트럼프 행정부가 파월 의장의 연임 또는 연준 내 잔류를 반대하고 새로운 인물을 통해 연준에 대한 통제력을 강화하려는 시도는 연준의 독립성을 침해하려는 움직임으로 비춰져 기존 시나리오의 흐름을 더욱 강화합니다.
+- summary: Jerome H. Powell’s term as chair of the Federal Reserve ends on May 15, but it appears increasingly likely that he will stay on in some capacity at the central bank after that.

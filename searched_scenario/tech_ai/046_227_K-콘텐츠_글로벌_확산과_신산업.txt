@@ -1,0 +1,40 @@
+# [227] K-콘텐츠 글로벌 확산과 신산업
+
+profile: AI & Semiconductors
+label: primary
+score: 32 (metadata=0, nodes=28, repeat=4)
+category: macro
+updated_at: 2026-04-24T17:42:18.130178
+nodes: 13 total / 2 matched
+keywords: K-콘텐츠, 한류, 임팩트 투자, 스타트업, 소프트파워
+
+## Description
+K-콘텐츠의 전 세계적 영향력 확대를 바탕으로 한국의 문화 산업 생태계가 신규 투자 유치 및 연관 산업 발전을 통해 경제적 가치를 창출하고, 소프트파워 강국으로서의 위상을 강화하는 시나리오입니다.
+
+## Matched Tags
+- platform: 28
+
+## Matched Terms
+  platform:플랫폼 x5
+  platform:애플 x1
+
+## Matched News Nodes
+
+### (5) 우리은행, 공연 예매 플랫폼 '투더문' 서비스 개시
+- score: 19
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 10:28:19 +0900
+- url: https://www.yna.co.kr/view/AKR20260423068500002
+- matched_terms: platform:플랫폼 x3
+  platform:애플 x1
+- significance: 우리은행이 공연 예매 플랫폼 '투더문'을 출시하며 K-콘텐츠 중 하나인 공연 산업에 금융권이 직접 참여하여 관련 생태계 활성화 및 신산업 육성에 기여하는 사례로 볼 수 있습니다.
+- summary: (서울=연합뉴스) 한지훈 기자 = 우리은행은 공연 창작자와 관객을 연결하는 문화 플랫폼 '투더문' 애플리케이션을 열었다고 23일 밝혔다.
+
+### (6) [웹툰소식] 태피툰, '웨비 어워드' 엔터부문 글로벌 투표 1위
+- score: 9
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 14:34:43 +0900
+- url: https://www.yna.co.kr/view/AKR20260423095600005
+- matched_terms: platform:플랫폼 x2
+- significance: 글로벌 웹툰 플랫폼 태피툰의 웨비 어워드 수상은 K-웹툰을 포함한 K-콘텐츠의 해외 영향력 확대와 사업적 성공 가능성을 보여주는 사례입니다.
+- summary: (서울=연합뉴스) 고가혜 기자 = ▲ 태피툰, 웨비 어워드 수상 = 글로벌 웹툰 플랫폼 태피툰이 제30회 웨비 어워드에서 '엔터테인먼트' 부문 ...

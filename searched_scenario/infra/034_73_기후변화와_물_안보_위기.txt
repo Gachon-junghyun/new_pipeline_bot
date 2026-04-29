@@ -1,0 +1,38 @@
+# [73] 기후변화와 물 안보 위기
+
+profile: Infrastructure
+label: primary
+score: 29 (metadata=13, nodes=12, repeat=4)
+category: macro
+updated_at: 2026-04-15T18:32:29.306397
+nodes: 3 total / 2 matched
+keywords: 기후변화, 물부족, 수자원안보, 가뭄, 극한기후
+
+## Description
+기후 변화로 인한 극단적인 기상 현상(가뭄, 홍수 등)이 전 세계적으로 심화되며, 특히 도서 지역을 중심으로 물 부족 및 수자원 안보 문제가 주요 이슈로 부상하고 있습니다. 이는 생존 및 경제 활동에 심각한 위협이 될 수 있습니다.
+
+## Matched Tags
+- water: 25
+
+## Matched Terms
+  water:수자원 x4
+
+## Matched News Nodes
+
+### (3) 보령댐서 보령화력에 보내는 공업용수 일부 하수재이용수로 대체
+- score: 6
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 17:38:44 +0900
+- url: https://www.yna.co.kr/view/AKR20260415162000063
+- matched_terms: water:수자원 x1
+- significance: 공업용수를 하수재이용수로 대체하는 것은 기후변화로 인한 물 부족 문제에 대응하고 수자원 안보를 강화하려는 구체적인 노력을 보여준다.
+- summary: (대전=연합뉴스) 김소연 기자 = 보령댐에서 보령화력으로 공급하던 공업용수 일부를 하수재이용수로 대체하기로 했다.
+
+### (2) 금강 세종보 천막농성 벌인 환경단체 운동가 1심서 무죄
+- score: 6
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 17:20:47 +0900
+- url: https://www.yna.co.kr/view/AKR20260415158800063
+- matched_terms: water:수자원 x1
+- significance: 금강 세종보 천막 농성 무죄 판결은 환경 단체의 수자원 보전 활동에 정당성을 부여하며, 기후변화와 물 안보 위기 시나리오에서 환경 보호와 개발 간 갈등이 심화될 수 있음을 시사한다.
+- summary: (대전=연합뉴스) 강수환 기자 = 보 재가동을 막기 위해 세종시 금강 세종보 인근에 천막을 설치해 농성을 벌인 환경단체 환경운동가에게 1심 법원...

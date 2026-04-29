@@ -1,0 +1,29 @@
+# [54] 수소경제 전환 가속화
+
+profile: Infrastructure
+label: secondary
+score: 16 (metadata=8, nodes=6, repeat=2)
+category: energy
+updated_at: 2026-04-15T19:32:26.203950
+nodes: 4 total / 1 matched
+keywords: 수소경제, 탄소중립, 수소차, 수소지게차, 재생에너지
+
+## Description
+글로벌 탄소중립 목표 달성을 위해 수소에너지의 생산, 유통, 활용 전반의 생태계 구축이 가속화되고 있습니다. 각국 정부의 정책 지원과 기업들의 투자가 늘어나며 관련 산업의 성장이 기대됩니다.
+
+## Matched Tags
+- energy_facility: 14
+
+## Matched Terms
+  energy_facility:재생에너지 x2
+
+## Matched News Nodes
+
+### (3) 재생열 비중 2035년까지 35%로…히트펌프 350만대 보급
+- score: 6
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 17:00:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260415133000530
+- matched_terms: energy_facility:재생에너지 x1
+- significance: 열에너지의 재생에너지 전환 목표는 수소경제 전환 가속화 시나리오에서 탄소중립 목표 달성을 위한 중요한 정책적 의지를 보여주는 구체적인 이행 방안이다.
+- summary: (서울=연합뉴스) 이재영 기자 = 국내 에너지 소비 48%를 차지하는 열에너지도 '재생' 중심으로 전환한다. 현재는 열에너지의 96%가 화석연료...

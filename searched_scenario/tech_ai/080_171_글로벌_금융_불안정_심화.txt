@@ -1,0 +1,32 @@
+# [171] 글로벌 금융 불안정 심화
+
+profile: AI & Semiconductors
+label: secondary
+score: 12 (metadata=0, nodes=10, repeat=2)
+category: finance
+updated_at: 2026-04-22T02:50:39.372464
+nodes: 7 total / 1 matched
+keywords: 금융안정, 중앙은행, 거시경제위험, 시스템리스크, 정책변화
+
+## Description
+복합적인 거시경제 위험 속에서 기존 금융 시스템의 한계가 드러나며, 중앙은행의 금융안정 역할 재정립 및 정책 변화 논의가 전 세계적으로 확산될 수 있습니다. 이는 자산 시장 변동성 확대 및 경제 주체들의 불확실성 증대로 이어질 수 있습니다.
+
+## Matched Tags
+- data_center: 7
+- ai: 3
+
+## Matched Terms
+  ai:AI x1
+  data_center:cloud x1
+
+## Matched News Nodes
+
+### (5) Fed: Warsh hearing clouds leadership timing – BNY
+- score: 10
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 12:17:49 Z
+- url: https://www.fxstreet.com/news/fed-warsh-hearing-clouds-leadership-timing-bny-202604211217
+- matched_terms: ai:AI x1
+  data_center:cloud x1
+- significance: 미국 연준 지도부 교체 불확실성은 주요국 통화 정책의 예측 가능성을 낮춰 금융 시장의 불안정성을 심화시킬 수 있습니다.
+- summary: BNY’s John Velis highlights uncertainty around Federal Reserve (Fed) leadership as Kevin Warsh faces Senate confirmation hearings. Political conditions could delay his appointment, while Jerome Powell

@@ -1,0 +1,29 @@
+# [204] 고령화 보건 재정 압박
+
+profile: AI & Semiconductors
+label: secondary
+score: 12 (metadata=0, nodes=10, repeat=2)
+category: macro
+updated_at: 2026-04-22T06:50:36.798331
+nodes: 4 total / 1 matched
+keywords: 고령화, 의료비, 재정부담, GLP-1, 메디케어
+
+## Description
+고령화 시대에 접어들며 의료비, 특히 신약 및 만성질환 관리 비용이 급증하고 있습니다. 이는 정부 재정 및 보험 시스템에 막대한 부담으로 작용하며, 비용 분담 및 접근성 문제가 주요 쟁점으로 부상하고 있습니다. 장기적으로 보건 의료 시스템의 지속가능성을 위협하고 사회적 갈등을 증폭시킬 수 있습니다.
+
+## Matched Tags
+- ai: 10
+
+## Matched Terms
+  ai:AI x2
+
+## Matched News Nodes
+
+### (1) Health insurers raise questions about Medicare program that will offer GLP-1s to seniors for $50
+- score: 10
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 17:54:00 GMT
+- url: https://www.marketwatch.com/story/health-insurers-raise-questions-about-medicare-program-that-will-offer-glp-1s-to-seniors-for-50-4efaca72?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+- significance: 이 뉴스는 고령층의 신약 접근성을 확대하려는 정부 정책이 보험 업계의 재정적 우려와 충돌하며, 보건 재정의 지속가능성 문제를 본격적으로 제기하는 첫 번째 신호탄입니다.
+- summary: Some health insurers are pushing back against a new program that will allow Medicare beneficiaries to pay $50 per month for GLP-1 medications for weight loss.

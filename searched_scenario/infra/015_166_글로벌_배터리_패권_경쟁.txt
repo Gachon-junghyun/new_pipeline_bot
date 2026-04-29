@@ -1,0 +1,51 @@
+# [166] 글로벌 배터리 패권 경쟁
+
+profile: Infrastructure
+label: primary
+score: 50 (metadata=18, nodes=26, repeat=6)
+category: tech
+updated_at: 2026-04-21T22:01:16.889254
+nodes: 3 total / 3 matched
+keywords: 배터리, ESS, 전기차, 공급망, 에너지 전환
+
+## Description
+전기차 및 에너지저장장치(ESS) 시장의 폭발적 성장에 따라 글로벌 기업들의 배터리 시장 주도권 경쟁이 심화되고 있습니다. 각국은 자국 산업 보호 및 육성을 위한 정책을 펼치며 공급망 재편과 기술 혁신 경쟁을 촉진하고, 이는 장기적으로 에너지 산업의 판도를 바꿀 것입니다.
+
+## Matched Tags
+- energy_facility: 37
+- transport: 7
+
+## Matched Terms
+  energy_facility:ESS x5
+  energy_facility:에너지저장 x2
+  transport:터널 x1
+
+## Matched News Nodes
+
+### (2) SK온, 도쿄 거점 만든다…일본 지사 4월말 출범
+- score: 12
+- source: asiae
+- published_at: Tue, 21 Apr 2026 19:11:32 +0900
+- url: https://www.asiae.co.kr/article/2026042119113203079
+- matched_terms: energy_facility:ESS x2
+  energy_facility:에너지저장 x1
+- significance: SK온의 일본 도쿄 지사 설립은 일본 완성차 및 ESS 시장 확대를 위한 전진기지 구축으로, 글로벌 배터리 시장에서의 경쟁 우위를 확보하려는 전략적 움직임입니다.
+- summary: SK온이 일본 도쿄에 지사를 설립한다. 21일 SK온에 따르면 회사는 4월말~5월초 도쿄 지사 설립을 목표로 행정 절차를 진행 중이다. 해당 지사는 닛산 등 일본 완성차 업체와의 협력 확대와 에너지저장장치(ESS) 사업 기회 발굴을 담당하는 전진기지 역할을 맡는다. 이번 지사는 별도의 법인을 세우는 형태가 아니라 현지 영업 거점을 마련하는 사무소 성격이다.
+
+### (3) [특징주] '캐즘 터널' 빠져나오나…2차전지주 '불기둥'(종합)
+- score: 7
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 15:57:31 +0900
+- url: https://www.yna.co.kr/view/AKR20260421050952008
+- matched_terms: transport:터널 x1
+- significance: 2차전지주의 동반 상승은 업황 개선 기대를 반영하며 글로벌 배터리 패권 경쟁 시나리오에서 산업의 활력과 투자 심리 회복을 시사한다.
+- summary: (서울=연합뉴스) 고은지 기자 = 2차전지 관련 종목들이 업황 개선 기대 속 21일 동반 상승했다.
+
+### (1) SK온, 일본 지사 설립 추진…배터리·ESS 시장 동시 공략
+- score: 7
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 18:35:47 +0900
+- url: https://www.yna.co.kr/view/AKR20260421163500003
+- matched_terms: energy_facility:ESS x1
+- significance: SK온의 일본 시장 진출은 글로벌 배터리 시장에서의 경쟁이 특정 지역을 넘어 확산되고 있음을 보여주며, 시장 선점을 위한 기업들의 적극적인 투자 및 전략 변화의 시작을 알립니다.
+- summary: (서울=연합뉴스) 한지은 기자 = SK온이 일본 시장 공략을 위해 현지 지사 설립에 나선다.

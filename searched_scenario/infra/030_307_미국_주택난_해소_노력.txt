@@ -1,0 +1,32 @@
+# [307] 미국 주택난 해소 노력
+
+profile: Infrastructure
+label: primary
+score: 31 (metadata=13, nodes=16, repeat=2)
+category: macro
+updated_at: 2026-04-24T02:42:14.652083
+nodes: 1 total / 1 matched
+keywords: 주택난, 제조 주택, 주택 공급, 규제 완화, 주거 비용
+
+## Description
+미국 내 심화되는 주택 부족 문제를 해결하기 위한 정책적, 산업적 노력이 전개되고 있습니다. 기존 주택 공급 확대 외에 제조 주택(manufactured homes)의 규제 완화, 건설 기술 혁신, 저렴한 주택 금융 확대 등이 핵심 흐름입니다.
+
+## Matched Tags
+- urban: 19
+- energy_facility: 10
+
+## Matched Terms
+  urban:주택 공급 x3
+  energy_facility:ESS x2
+
+## Matched News Nodes
+
+### (1) Congress May Finally Recognize That Mobile Homes Aren’t Really That Mobile
+- score: 16
+- source: nyt
+- published_at: Thu, 23 Apr 2026 17:34:04 +0000
+- url: https://www.nytimes.com/2026/04/23/business/manufactured-homes-chassis.html
+- matched_terms: energy_facility:ESS x2
+  urban:주택 공급 x1
+- significance: 이 뉴스는 제조 주택 건설 비용을 낮춰 주택 공급을 확대하고 주거 비용 부담을 완화하려는 미국 정부의 규제 완화 움직임의 시작점입니다.
+- summary: An obscure federal rule requires manufactured homes to be built on a chassis, making them more costly. A bill in Congress would remove the mandate, enacted five decades ago.

@@ -1,0 +1,38 @@
+# [184] 전기차 전환 가속화 경쟁
+
+profile: Infrastructure
+label: secondary
+score: 16 (metadata=0, nodes=12, repeat=4)
+category: corporate
+updated_at: 2026-04-23T09:42:21.262343
+nodes: 23 total / 2 matched
+keywords: 전기차, 가격경쟁, 브랜드전략, 모빌리티, 신차출시
+
+## Description
+글로벌 자동차 시장에서 전통 완성차 업체와 신생 전기차 업체 간의 경쟁이 심화되며, 가격 경쟁력 확보와 기술 혁신이 핵심 변수로 작용합니다. 각 기업의 전략 변화가 시장 판도를 재편할 수 있습니다.
+
+## Matched Tags
+- transport: 12
+
+## Matched Terms
+  transport:도로 x2
+
+## Matched News Nodes
+
+### (17) 현대차, 중국 진출 24년만에 친환경차 브랜드로 전략 개편
+- score: 6
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 08:30:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260423011900003
+- matched_terms: transport:도로 x1
+- significance: 현대차의 중국 시장 친환경차 브랜드로의 전략 개편은 글로벌 전기차 전환 경쟁 속에서 특정 시장에 특화된 브랜드 전략을 통해 돌파구를 찾으려는 시도로, 이는 시나리오 '전기차 전환 가속화 경쟁'의 중요한 흐름을 형성합니다.
+- summary: (서울=연합뉴스) 홍규빈 기자 = 현대차그룹이 중국 시장 부진을 타개하기 위해 현지 진출 24년 만에 승부수를 띄운다.
+
+### (2) 모디와 약속 지킨 정의선…'3륜 전기차' 개발
+- score: 6
+- source: hankyung
+- published_at: Tue, 21 Apr 2026 22:00:01 +0900
+- url: https://www.hankyung.com/article/2026042167541
+- matched_terms: transport:도로 x1
+- significance: 정의선 현대차그룹 회장이 인도 총리와의 약속을 지키며 3륜 전기차 개발을 추진하는 것은 인도를 신흥 전기차 시장의 핵심 거점으로 인식하고 현지 특화 전략을 통해 전기차 전환 경쟁에서 우위를 점하려는 시도로 해석될 수 있습니다.
+- summary:

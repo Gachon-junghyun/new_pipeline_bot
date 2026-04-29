@@ -1,0 +1,29 @@
+# [14] 韓 미래차 산업 전환
+
+profile: Infrastructure
+label: secondary
+score: 18 (metadata=0, nodes=16, repeat=2)
+category: corporate
+updated_at: 2026-04-15T19:32:36.489412
+nodes: 10 total / 1 matched
+keywords: 전기차 전환, 자동차 산업, 생산 기지, 고용 변화, 수출 경쟁력
+
+## Description
+글로벌 완성차 기업들이 한국 생산 기지를 미래차(전기차, 자율주행차) 중심으로 재편하며, 한국 자동차 산업의 구조적 변화와 경쟁력 강화가 가속화되는 시나리오입니다. 이는 국내 고용, 투자, 수출 구조에 큰 영향을 미칠 것입니다.
+
+## Matched Tags
+- industrial_facility: 16
+
+## Matched Terms
+  industrial_facility:배터리 공장 x3
+
+## Matched News Nodes
+
+### (3) "'美단속 급습' 현대차-LG엔솔 배터리 공장, 이달 가동 준비"
+- score: 16
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 12:03:30 +0900
+- url: https://www.yna.co.kr/view/AKR20260415092400009
+- matched_terms: industrial_facility:배터리 공장 x3
+- significance: 미국 내 현대차그룹과 LG에너지솔루션의 합작 배터리 공장 가동은 한국 완성차 기업이 미래차 생산을 위한 글로벌 공급망을 구축하고 전기차 전환을 가속화하는 중요한 진전으로 해당 시나리오를 강화합니다.
+- summary: (서울=연합뉴스) 김아람 기자 = 미국에서 지난해 이민 당국의 급습을 받았던 조지아주의 현대차그룹-LG에너지솔루션 합작 배터리 공장이 이달 가동...

@@ -1,0 +1,49 @@
+# [178] 유통업계 재편 가속화
+
+profile: Infrastructure
+label: primary
+score: 31 (metadata=0, nodes=25, repeat=6)
+category: corporate
+updated_at: 2026-04-24T10:42:05.989541
+nodes: 31 total / 3 matched
+keywords: 유통, M&A, SSM, 온라인쇼핑, 플랫폼경쟁
+
+## Description
+온라인 소비 증가와 경쟁 심화로 국내 유통업계의 구조조정 및 사업 재편이 가속화되고 있습니다. 이는 기업들의 생존 전략 변화와 소비자 행동 변화에 따른 산업 지형 변화를 의미합니다.
+
+## Matched Tags
+- power: 13
+- transport: 12
+
+## Matched Terms
+  power:송전 x2
+  transport:도로 x2
+
+## Matched News Nodes
+
+### (20) [단독] "같은 저가커피인데 '이익률 차이' 이렇게 크나"…점주들, 본사에 소송전
+- score: 13
+- source: hankyung
+- published_at: Thu, 23 Apr 2026 07:30:01 +0900
+- url: https://www.hankyung.com/article/202604229149g
+- matched_terms: power:송전 x2
+- significance: 저가 커피 시장의 이익률 차이로 인한 점주 소송전은 경쟁 심화와 프랜차이즈 본사-가맹점 간의 갈등을 심화시켜 유통업계의 지속적인 재편과 사업 모델 변화 압력을 가중시키는 사례이다.
+- summary: 
+
+### (30) 무신사, 성수동서 패션장학생 브랜드 선봬…"차세대 주역 육성"
+- score: 6
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 08:37:36 +0900
+- url: https://www.yna.co.kr/view/AKR20260424028300030
+- matched_terms: transport:도로 x1
+- significance: 무신사가 패션 장학 사업을 통해 신진 브랜드를 육성하는 것은 빠르게 변화하는 유통 환경 속에서 새로운 경쟁력을 확보하려는 시도로, 유통업계의 지속적인 변화 및 재편 움직임을 보여주는 사례입니다.
+- summary: (서울=연합뉴스) 신선미 기자 = 무신사는 패션 장학 사업을 통해 선정한 브랜드의 데뷔 전시인 '넥스트 인 브랜드'를 오는 30일까지 성수동 연...
+
+### (14) 스타벅스, 커피 트레일러 '스:벅차' 공개…"사회공헌 확대"
+- score: 6
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 09:30:53 +0900
+- url: https://www.yna.co.kr/view/AKR20260422040100030
+- matched_terms: transport:도로 x1
+- significance: 스타벅스의 이동형 커피 트레일러 '스:벅차' 도입은 기존 매장 중심의 유통 전략을 넘어 새로운 고객 접점을 확대하려는 시도로, 유통업계의 서비스 모델 다변화 및 경쟁 심화를 보여주는 사례입니다.
+- summary: (서울=연합뉴스) 김윤구 기자 = 스타벅스 코리아는 이동형 커피 트레일러 '스:벅차'를 선보이며 매장 중심의 고객 경험을 지역사회로 확장한다고 ...

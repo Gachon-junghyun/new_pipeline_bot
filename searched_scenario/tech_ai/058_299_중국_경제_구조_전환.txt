@@ -1,0 +1,38 @@
+# [299] 중국 경제 구조 전환
+
+profile: AI & Semiconductors
+label: secondary
+score: 23 (metadata=0, nodes=19, repeat=4)
+category: macro
+updated_at: 2026-04-24T12:41:39.024873
+nodes: 5 total / 2 matched
+keywords: 중국 경제, 구조 전환, 하이난, 제조업 고도화, 내수 부진
+
+## Description
+중국이 소비 주도 성장에서 벗어나 고부가가치 제조업 및 기술 혁신을 통한 질적 성장으로 전환하려는 노력을 보여주는 시나리오입니다. 이는 미중 경쟁 심화와 내수 부진 속에서 새로운 성장 동력을 찾으려는 전략적 움직임입니다.
+
+## Matched Tags
+- ai: 19
+
+## Matched Terms
+  ai:AI x4
+
+## Matched News Nodes
+
+### (1) Hainan was China’s shopping paradise. For Beijing that’s no longer enough.
+- score: 10
+- source: marketwatch
+- published_at: Thu, 23 Apr 2026 14:27:00 GMT
+- url: https://www.marketwatch.com/story/hainan-was-chinas-shopping-paradise-for-beijing-thats-no-longer-enough-c2535a40?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+- significance: 이 뉴스는 하이난이 단순 쇼핑 허브에서 가공 무역 및 첨단 산업 유치 지역으로 변화하려는 중국 정부의 의지를 보여주며, 중국 경제의 질적 성장 전환 시나리오의 초기 징후로 해석됩니다.
+- summary: Beijing’s message is unmistakable: If Hainan can no longer thrive merely as a place for domestic shoppers to buy their perfume and handbags, it will have to become a place to process goods, attract ov
+
+### (3) [게시판] 산업부, 박민원 창원대 총장 초청 'M.AX로 미래를 열다' 강연
+- score: 9
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 11:31:18 +0900
+- url: https://www.yna.co.kr/view/AKR20260424076800003
+- matched_terms: ai:AI x2
+- significance: 산업부의 '제조 AI 전환' 강연은 제조업 고도화를 통한 한국 경제의 질적 성장 및 산업 구조 변화 의지를 보여주며, 이는 중국의 제조업 고도화 정책과 유사한 맥락에서 글로벌 제조업 경쟁을 심화시키는 시나리오 흐름과 일치합니다.
+- summary: ▲ 산업통상부는 24일 정부세종청사에서 박민원 국립창원대 총장을 초청해 '대한민국의 심장, 제조업 M.AX(제조 AI 전환)로 미래를 열다'를 ...

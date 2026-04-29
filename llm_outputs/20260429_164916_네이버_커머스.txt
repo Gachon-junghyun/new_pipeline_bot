@@ -1,0 +1,36 @@
+# LLM News Search Report
+
+- query: 네이버 커머스
+- generated_at: 2026-04-29T16:49:16
+- source_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/news_alert.db
+- scenario_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/scenario.db
+- date_filter: 최근 30일 (2026-03-30 이후)
+- local_results: 1
+- scenario_results: 1
+- naver_results: 0
+
+## Local DB
+
+### 1. 삼성증권 "네이버, 커머스 고성장·신사업 지연 우려…목표가↓"
+- date: 2026-04-16T08:31:53.290459
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260416026400008
+
+## Scenario DB / TXT
+
+### 1. (1) 삼성증권 "네이버, 커머스 고성장·신사업 지연 우려…목표가↓"
+- scenario: # [123] 플랫폼 기업 성장통
+- file: scenario.db
+- score: db
+- category: tech
+- keywords: ["플랫폼", "신사업", "커머스", "성장률 둔화", "규제 리스크"]
+- node_id: 720
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 08:20:37 +0900
+- url: https://www.yna.co.kr/view/AKR20260416026400008
+- significance: 이 뉴스는 국내 대표 플랫폼 기업의 핵심 사업 성과와 신사업 지연 우려를 동시에 보여주며, 플랫폼 기업들이 직면한 성장통의 한 단면을 제시합니다.
+- summary: (서울=연합뉴스) 김태종 기자 = 삼성증권[016360]은 16일 네이버에 대해 커머스(전자상거래)는 고성장하고 있지만 신사업 지연이 우려된다며...
+
+## Naver News
+
+(no results)

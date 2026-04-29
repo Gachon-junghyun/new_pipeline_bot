@@ -1,0 +1,29 @@
+# [186] 사회적 안전망 약화
+
+profile: AI & Semiconductors
+label: secondary
+score: 16 (metadata=0, nodes=14, repeat=2)
+category: macro
+updated_at: 2026-04-21T22:50:13.056848
+nodes: 3 total / 1 matched
+keywords: 사회적 안전망, 책임부담, 리스크 회피, 사회 시스템, 교육 위축
+
+## Description
+안전 문제에 대한 과도한 책임 부담이 사회 전반의 활동을 위축시키고 있으며, 이는 장기적으로 교육, 문화, 경제 활동 등 사회 시스템의 비효율성을 초래할 수 있습니다. 개인과 조직의 리스크 회피 경향이 심화되며 새로운 시도와 도전이 어려워지는 방향으로 전개될 수 있습니다.
+
+## Matched Tags
+- ai: 14
+
+## Matched Terms
+  ai:AI x2
+
+## Matched News Nodes
+
+### (3) I paid $4,500 instead of filing an insurance claim. Here’s when you should do the same.
+- score: 14
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 13:40:00 GMT
+- url: https://www.marketwatch.com/story/i-paid-4-500-instead-of-filing-an-insurance-claim-heres-when-you-should-do-the-same-c8b5dd35?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+- significance: 높아지는 보험료를 감당하지 못해 개인이 직접 비용을 지불하는 현상은, 기존의 사회적 안전망이 약화되고 개인이 직접 리스크를 감당해야 하는 사회적 안전망 약화 시나리오의 한 단면을 보여줍니다.
+- summary: Two smart ways to save on insurance as premiums skyrocket. Plus: sign up for the next Don’t Short Yourself Live Q&A on cutting college costs.

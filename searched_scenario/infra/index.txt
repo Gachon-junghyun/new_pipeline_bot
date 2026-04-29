@@ -1,0 +1,68 @@
+# Scenario Search Results
+
+generated_at: 2026-04-29T15:07:56.266291
+profile: Infrastructure
+total: 62
+
+001. [primary] score=222 matched_nodes=15 id=214 글로벌 전력 인프라 확장 -> 001_214_글로벌_전력_인프라_확장.txt
+002. [primary] score=208 matched_nodes=10 id=252 글로벌 원전 시장 경쟁 심화 -> 002_252_글로벌_원전_시장_경쟁_심화.txt
+003. [primary] score=121 matched_nodes=11 id=7 한국 지역균형발전 2.0 -> 003_7_한국_지역균형발전_2.0.txt
+004. [primary] score=98 matched_nodes=2 id=132 원전 안전과 에너지 딜레마 -> 004_132_원전_안전과_에너지_딜레마.txt
+005. [primary] score=94 matched_nodes=8 id=181 동남아 공급망 재편 및 경제협력 강화 -> 005_181_동남아_공급망_재편_및_경제협력_강화.txt
+006. [primary] score=84 matched_nodes=4 id=281 서울 주택시장 재편 -> 006_281_서울_주택시장_재편.txt
+007. [primary] score=81 matched_nodes=4 id=33 글로벌 스마트시티 경쟁 -> 007_33_글로벌_스마트시티_경쟁.txt
+008. [primary] score=72 matched_nodes=14 id=215 글로벌 지정학적 불안정 심화 -> 008_215_글로벌_지정학적_불안정_심화.txt
+009. [primary] score=72 matched_nodes=2 id=210 한국 기후변화 대응 인프라 -> 009_210_한국_기후변화_대응_인프라.txt
+010. [primary] score=69 matched_nodes=5 id=121 초연결 도시 인프라 -> 010_121_초연결_도시_인프라.txt
+011. [primary] score=65 matched_nodes=6 id=30 한국 부동산 시장 개혁 -> 011_30_한국_부동산_시장_개혁.txt
+012. [primary] score=63 matched_nodes=20 id=1 글로벌 경기 불확실성 증폭 -> 012_1_글로벌_경기_불확실성_증폭.txt
+013. [primary] score=56 matched_nodes=3 id=207 한국 부동산 시장 양극화 심화 -> 013_207_한국_부동산_시장_양극화_심화.txt
+014. [primary] score=56 matched_nodes=3 id=3 글로벌 AI 반도체 경쟁 심화 -> 014_3_글로벌_AI_반도체_경쟁_심화.txt
+015. [primary] score=50 matched_nodes=3 id=166 글로벌 배터리 패권 경쟁 -> 015_166_글로벌_배터리_패권_경쟁.txt
+016. [primary] score=49 matched_nodes=1 id=335 글로벌 전력 인프라 투자 확대 -> 016_335_글로벌_전력_인프라_투자_확대.txt
+017. [primary] score=47 matched_nodes=2 id=332 공공부문 탄소중립 전환 -> 017_332_공공부문_탄소중립_전환.txt
+018. [primary] score=47 matched_nodes=2 id=288 유럽 에너지 독립 가속 -> 018_288_유럽_에너지_독립_가속.txt
+019. [primary] score=46 matched_nodes=2 id=155 인프라 노후화 리스크 확대 -> 019_155_인프라_노후화_리스크_확대.txt
+020. [primary] score=45 matched_nodes=7 id=99 중동 확전 리스크 고조 -> 020_99_중동_확전_리스크_고조.txt
+021. [primary] score=45 matched_nodes=6 id=176 인플레이션 압력 지속 -> 021_176_인플레이션_압력_지속.txt
+022. [primary] score=45 matched_nodes=2 id=18 전력시장 개편과 산업 재편 -> 022_18_전력시장_개편과_산업_재편.txt
+023. [primary] score=42 matched_nodes=2 id=82 한국 신성장 동력 확보 -> 023_82_한국_신성장_동력_확보.txt
+024. [primary] score=40 matched_nodes=2 id=162 글로벌 산업정책 경쟁 심화 -> 024_162_글로벌_산업정책_경쟁_심화.txt
+025. [primary] score=40 matched_nodes=1 id=231 해상물류 디지털 전환 가속 -> 025_231_해상물류_디지털_전환_가속.txt
+026. [primary] score=32 matched_nodes=6 id=9 중동 긴장 완화 기대 -> 026_9_중동_긴장_완화_기대.txt
+027. [primary] score=32 matched_nodes=1 id=293 글로벌 해양 디지털 전환 -> 027_293_글로벌_해양_디지털_전환.txt
+028. [primary] score=32 matched_nodes=1 id=167 글로벌 해운 지형 변화 -> 028_167_글로벌_해운_지형_변화.txt
+029. [primary] score=31 matched_nodes=3 id=178 유통업계 재편 가속화 -> 029_178_유통업계_재편_가속화.txt
+030. [primary] score=31 matched_nodes=1 id=307 미국 주택난 해소 노력 -> 030_307_미국_주택난_해소_노력.txt
+031. [primary] score=30 matched_nodes=3 id=16 글로벌 항공 수요 회복 -> 031_16_글로벌_항공_수요_회복.txt
+032. [primary] score=30 matched_nodes=2 id=122 지방정부의 탄소중립 드라이브 -> 032_122_지방정부의_탄소중립_드라이브.txt
+033. [primary] score=29 matched_nodes=2 id=8 AI, 노동시장 대전환 -> 033_8_AI_노동시장_대전환.txt
+034. [primary] score=29 matched_nodes=2 id=73 기후변화와 물 안보 위기 -> 034_73_기후변화와_물_안보_위기.txt
+035. [secondary] score=24 matched_nodes=1 id=15 한국, 녹색산업 투자 확대 -> 035_15_한국_녹색산업_투자_확대.txt
+036. [secondary] score=23 matched_nodes=1 id=193 일본 핵폐기물 처리 논란 -> 036_193_일본_핵폐기물_처리_논란.txt
+037. [secondary] score=22 matched_nodes=2 id=112 자율주행 상용화 확산 -> 037_112_자율주행_상용화_확산.txt
+038. [secondary] score=21 matched_nodes=1 id=319 농업의 미래 산업화 -> 038_319_농업의_미래_산업화.txt
+039. [secondary] score=20 matched_nodes=2 id=139 빅테크 AI 전환 경쟁 -> 039_139_빅테크_AI_전환_경쟁.txt
+040. [secondary] score=20 matched_nodes=2 id=280 글로벌 공급망 교란 심화 -> 040_280_글로벌_공급망_교란_심화.txt
+041. [secondary] score=18 matched_nodes=2 id=243 미국-중동 경제안보 동맹 강화 -> 041_243_미국-중동_경제안보_동맹_강화.txt
+042. [secondary] score=18 matched_nodes=1 id=312 노동시장 갈등 심화 -> 042_312_노동시장_갈등_심화.txt
+043. [secondary] score=18 matched_nodes=1 id=301 글로벌 데이터 안보 위협 증대 -> 043_301_글로벌_데이터_안보_위협_증대.txt
+044. [secondary] score=18 matched_nodes=1 id=216 지방정부 경제 활성화 -> 044_216_지방정부_경제_활성화.txt
+045. [secondary] score=18 matched_nodes=1 id=88 디지털 신분증 확산 혼란 -> 045_88_디지털_신분증_확산_혼란.txt
+046. [secondary] score=18 matched_nodes=1 id=31 산업안전 규제 강화 -> 046_31_산업안전_규제_강화.txt
+047. [secondary] score=18 matched_nodes=1 id=14 韓 미래차 산업 전환 -> 047_14_韓_미래차_산업_전환.txt
+048. [secondary] score=17 matched_nodes=2 id=25 재정 건전성 강화 논의 -> 048_25_재정_건전성_강화_논의.txt
+049. [secondary] score=16 matched_nodes=2 id=283 중국 위상과 국수주의 -> 049_283_중국_위상과_국수주의.txt
+050. [secondary] score=16 matched_nodes=2 id=184 전기차 전환 가속화 경쟁 -> 050_184_전기차_전환_가속화_경쟁.txt
+051. [secondary] score=16 matched_nodes=2 id=169 러북 경제안보 밀착 강화 -> 051_169_러북_경제안보_밀착_강화.txt
+052. [secondary] score=16 matched_nodes=1 id=54 수소경제 전환 가속화 -> 052_54_수소경제_전환_가속화.txt
+053. [secondary] score=13 matched_nodes=1 id=68 아시아 인프라 디지털화 -> 053_68_아시아_인프라_디지털화.txt
+054. [secondary] score=13 matched_nodes=0 id=156 전선 산업 구조 재편 -> 054_156_전선_산업_구조_재편.txt
+055. [secondary] score=13 matched_nodes=0 id=13 민간 우주 경쟁 심화 -> 055_13_민간_우주_경쟁_심화.txt
+056. [secondary] score=12 matched_nodes=1 id=276 글로벌 공중보건 규제 강화 -> 056_276_글로벌_공중보건_규제_강화.txt
+057. [secondary] score=12 matched_nodes=1 id=94 K-방산 산업 재편 가속 -> 057_94_K-방산_산업_재편_가속.txt
+058. [secondary] score=12 matched_nodes=1 id=275 글로벌 공급망 불확실성 심화 -> 058_275_글로벌_공급망_불확실성_심화.txt
+059. [secondary] score=12 matched_nodes=1 id=246 글로벌 공급망 재편과 산업 구조조정 -> 059_246_글로벌_공급망_재편과_산업_구조조정.txt
+060. [secondary] score=12 matched_nodes=1 id=194 첨단산업 노동권 변화 -> 060_194_첨단산업_노동권_변화.txt
+061. [secondary] score=12 matched_nodes=1 id=90 달러 패권 균열과 세계 질서 재편 -> 061_90_달러_패권_균열과_세계_질서_재편.txt
+062. [secondary] score=12 matched_nodes=1 id=64 한국, 글로벌 통상 재편 -> 062_64_한국_글로벌_통상_재편.txt

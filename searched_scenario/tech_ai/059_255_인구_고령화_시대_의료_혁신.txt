@@ -1,0 +1,29 @@
+# [255] 인구 고령화 시대 의료 혁신
+
+profile: AI & Semiconductors
+label: secondary
+score: 23 (metadata=8, nodes=13, repeat=2)
+category: tech
+updated_at: 2026-04-23T14:41:27.790028
+nodes: 3 total / 1 matched
+keywords: 고령화, 알츠하이머, 퇴행성뇌질환, 바이오의약품, 의료AI
+
+## Description
+전 세계적인 인구 고령화 심화와 함께 알츠하이머병과 같은 퇴행성 뇌 질환 연구 및 치료법 개발의 중요성이 커지고 있습니다. 이는 의료 기술 발전, 제약 산업 변화, 사회복지 시스템 개편 등 광범위한 영향을 미칠 거시적인 흐름을 형성할 것입니다.
+
+## Matched Tags
+- ai: 21
+
+## Matched Terms
+  ai:AI x3
+
+## Matched News Nodes
+
+### (2) 제이엘케이 "日 임상 연구로 뇌졸중 진단 AI 현장 활용 가능성 확인"
+- score: 13
+- source: hankyung
+- published_at: Thu, 23 Apr 2026 13:32:59 +0900
+- url: https://www.hankyung.com/article/2026042316436
+- matched_terms: ai:AI x2
+- significance: 이번 일본 임상 연구 결과는 뇌졸중 진단 AI의 현장 활용 가능성을 확인시켜 인구 고령화 시대 퇴행성 뇌 질환 및 관련 의료 혁신 시나리오에 긍정적인 영향을 미칩니다.
+- summary:

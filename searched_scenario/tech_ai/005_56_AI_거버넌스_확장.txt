@@ -1,0 +1,81 @@
+# [56] AI 거버넌스 확장
+
+profile: AI & Semiconductors
+label: primary
+score: 215 (metadata=49, nodes=156, repeat=10)
+category: tech
+updated_at: 2026-04-15T18:32:00.852027
+nodes: 6 total / 6 matched
+keywords: AI 거버넌스, 공공 AI, 정책 분석 AI, 디지털 정부, 데이터 기반 행정
+
+## Description
+AI 기술의 활용 범위가 민간을 넘어 정부 및 공공 영역으로 확대됨에 따라, AI의 역할과 책임, 투명성 등 거버넌스 구축의 중요성이 부각되는 시나리오입니다. AI가 정책 수립과 집행에 미치는 영향이 커질수록 사회 전반의 변화가 가속화될 것입니다.
+
+## Matched Tags
+- ai: 223
+
+## Matched Terms
+  ai:AI x35
+  ai:인공지능 x6
+
+## Matched News Nodes
+
+### (1) 정책평가연구원, '페리AI 2.0' 출시…정책 분석·예측 기능까지
+- score: 31
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 11:06:53 +0900
+- url: https://www.yna.co.kr/view/AKR20260415077800002
+- matched_terms: ai:AI x5
+  ai:인공지능 x1
+- significance: 정책 분석 및 예측 AI 서비스 출시는 AI가 공공 정책 영역에 본격적으로 진입하는 첫 번째 신호탄으로, 향후 AI의 활용 범위와 깊이에 대한 논의를 촉발할 것입니다.
+- summary: (세종=연합뉴스) 안채원 기자 = 공공데이터를 기반으로 맞춤형 정책 데이터 제공을 넘어 분석·예측 기능까지 탑재한 인공지능(AI) 서비스가 출시...
+
+### (2) 전주시정연구원 "데이터 생산·공유체계 재설계로 AI 도시 도약"
+- score: 25
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 11:15:33 +0900
+- url: https://www.yna.co.kr/view/AKR20260415080500055
+- matched_terms: ai:AI x4
+  ai:인공지능 x1
+- significance: 전주시가 AI 거점도시로 도약하기 위해 데이터 관리 체계 재설계를 추진하는 것은 공공 영역에서 AI 도입을 위한 선결 과제인 거버넌스 및 인프라 구축의 중요성을 보여주는 사례입니다.
+- summary: (전주=연합뉴스) 김동철 기자 = 전북 전주시가 인공지능(AI) 거점도시로 도약하기 위해 첨단 기술 도입에 앞서 통계와 데이터 관리 체계부터 전...
+
+### (3) 오산시, '유엔 AI 허브' 세교3신도시 내 유치 추진
+- score: 31
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 14:15:10 +0900
+- url: https://www.yna.co.kr/view/AKR20260415113300061
+- matched_terms: ai:AI x5
+  ai:인공지능 x1
+- significance: 오산시의 '유엔 AI 허브' 유치 추진은 AI 기술 활용의 지역적 확대와 함께, 공공 영역에서 AI 거버넌스 및 정책 기반을 구축하려는 움직임의 일환으로 볼 수 있습니다.
+- summary: (오산=연합뉴스) 김광호 기자 = 경기 오산시는 "정부가 국내 유치를 추진하고 있는 가칭 '유엔 인공지능(AI) 허브'를 관내 세교3신도시에 유...
+
+### (4) [테크스냅] 국무조정실·NIPA, 공공 SW 사업 발주 협력
+- score: 18
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 15:10:42 +0900
+- url: https://www.yna.co.kr/view/AKR20260415125000017
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+- significance: 국무조정실과 NIPA의 협력은 AI 전환 가속화를 위한 공공 SW 사업 발주를 통해 정부 및 공공 영역에서의 AI 도입 및 거버넌스 구축을 촉진하는 중요한 단계입니다.
+- summary: (서울=연합뉴스) 권하영 기자 = ▲ 정보통신산업진흥원(NIPA)은 지난 14일 국무조정실과 인공지능(AI) 전환 가속화를 위한 '소프트웨어(S...
+
+### (5) [AI픽] AI PM 4개로 확대…정부 ICT R&D 체계 전면 개편
+- score: 38
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 16:00:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260415046000017
+- matched_terms: ai:AI x6
+  ai:인공지능 x1
+- significance: 정부의 ICT R&D 체계 개편 및 AI PM 확대는 AI 기술의 공공 영역 확대를 지원하고, AI 거버넌스 구축의 중요성을 강조하는 정책적 변화를 의미합니다.
+- summary: (서울=연합뉴스) 권하영 기자 = 정부가 인공지능(AI) 3대 강국(G3) 도약을 목표로 ICT 연구개발(R&amp;D) 민간 전문가 체계를 A...
+
+### (6) AI 금융서비스 업데이트 출시 빨라진다…당국, 절차 간소화
+- score: 31
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 18:05:22 +0900
+- url: https://www.yna.co.kr/view/AKR20260415145600002
+- matched_terms: ai:AI x5
+  ai:인공지능 x1
+- significance: 금융 당국의 AI 서비스 규제 간소화는 AI 기술의 공공 및 민간 영역 확산에 있어 규제 환경이 유연해지고 있음을 보여주며, 이는 AI 거버넌스 논의에 실질적인 영향을 미칠 수 있다.
+- summary: (서울=연합뉴스) 강류나 기자 = 앞으로 금융회사가 보안 위험이 낮은 단순 생성형 인공지능(AI) 서비스를 변경할 때는 복잡한 절차 없이 서면 ...

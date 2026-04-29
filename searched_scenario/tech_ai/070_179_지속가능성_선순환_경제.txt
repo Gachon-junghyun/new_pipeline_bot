@@ -1,0 +1,29 @@
+# [179] 지속가능성 선순환 경제
+
+profile: AI & Semiconductors
+label: secondary
+score: 15 (metadata=0, nodes=13, repeat=2)
+category: corporate
+updated_at: 2026-04-21T20:50:05.592405
+nodes: 1 total / 1 matched
+keywords: 순환경제, ESG경영, 지속가능성, 자원재활용, 친환경비즈니스
+
+## Description
+기업들이 친환경 활동을 통해 새로운 가치를 창출하고 이를 비즈니스 모델에 통합하는 움직임이 가속화되고 있습니다. 이는 규제 준수를 넘어 새로운 시장 기회와 브랜드 가치를 제고하며 지속 가능한 경제 시스템 구축에 기여할 것입니다.
+
+## Matched Tags
+- ai: 13
+
+## Matched Terms
+  ai:AI x2
+
+## Matched News Nodes
+
+### (1) 보문골프클럽, AI로 수거한 페트병으로 '굿즈' 제작…업무협약
+- score: 13
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 20:39:05 +0900
+- url: https://www.yna.co.kr/view/AKR20260421172100053
+- matched_terms: ai:AI x2
+- significance: 골프장이라는 특정 환경에서 AI 기술을 활용한 자원 수거와 굿즈 제작으로 이어지는 모델은 기업의 친환경 비즈니스 모델 혁신을 보여주는 초기 사례입니다.
+- summary: (경주=연합뉴스) 김현태 기자 = 경북문화관광공사가 운영하는 보문골프클럽이 골프장에서 모은 투명 페트병을 굿즈(기념상품)로 만드는 자원순환 모델...

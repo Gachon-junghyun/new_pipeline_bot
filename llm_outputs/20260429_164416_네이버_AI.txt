@@ -1,0 +1,74 @@
+# LLM News Search Report
+
+- query: 네이버 AI
+- generated_at: 2026-04-29T16:44:16
+- source_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/news_alert.db
+- date_filter: 최근 14일 (2026-04-15 이후)
+- local_results: 6
+- scenario_txt_results: 2
+- naver_results: 0
+
+## Local DB
+
+### 1. LG 이어 네이버도 '엔비디아 회동'…K-AI 존재감 커졌다
+- date: 2026-04-23T07:41:21.835404
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260422156800017
+
+### 2. 네이버 검색 70% 찍었다…AI에도 점유율 '반등'
+- date: 2026-04-16T07:31:53.494102
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260415165600017
+
+### 3. 국민성장펀드, 네이버 AI데이터센터에 4000억 저리 대출
+- date: 2026-04-16T00:31:53.365913
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260415/133747528/2
+
+### 4. 국민성장펀드, 네이버 AI 데이터센터에 4천억 저리대출
+- date: 2026-04-15T22:00:34.355896
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260415151000002
+
+### 5. 국민성장펀드, 네이버 AI 데이터센터에 4000억 3%대 저리대출
+- date: 2026-04-15T18:31:57.212590
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260415/133746868/1
+
+### 6. 국민성장펀드, 네이버 AIDC에 4000억 저리 대출
+- date: 2026-04-15T17:31:54.430013
+- source: sedaily
+- url: https://www.sedaily.com/article/20032892
+
+## Scenario TXT
+
+### 1. (47) LG 이어 네이버도 '엔비디아 회동'…K-AI 존재감 커졌다
+- scenario: # [139] 빅테크 AI 전환 경쟁
+- file: searched_scenario/tech_ai/001_139_빅테크_AI_전환_경쟁.txt
+- score: 50
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 06:55:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260422156800017
+- matched_terms:
+  ai:AI x5
+  semiconductor:엔비디아 x3
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 엔비디아가 네이버, LG 등 국내 AI 선도 기업들과의 협력을 모색하는 것은 글로벌 빅테크 기업들이 AI 생태계 확장을 위해 적극적인 기술 동맹을 추진하며 산업 패권을 다투는 흐름의 일환입니다.
+- summary: (서울=연합뉴스) 권하영 기자 = 엔비디아가 개방형 인공지능(AI) 생태계 확장을 위해 네이버·LG 등 국내 주요 AI 기업들과의 기술 동맹을 ...
+
+### 2. (27) 네이버 검색 70% 찍었다…AI에도 점유율 '반등'
+- scenario: # [3] 글로벌 AI 반도체 경쟁 심화
+- file: searched_scenario/tech_ai/002_3_글로벌_AI_반도체_경쟁_심화.txt
+- score: 19
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 06:33:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260415165600017
+- matched_terms:
+  ai:AI x3
+- significance: 네이버의 국내 검색 시장 점유율 반등은 AI 기술 활용을 통한 서비스 경쟁력 강화의 결과로 해석될 수 있으며, 이는 AI 기술 투자가 기업의 시장 지배력에 미치는 영향력을 보여준다.
+- summary: (서울=연합뉴스) 한상용 기자 = 네이버 검색 점유율이 올해 들어서 60%를 계속 넘어서며 국내 검색 시장에서 강세를 이어가고 있다.
+
+## Naver News
+
+(no results)

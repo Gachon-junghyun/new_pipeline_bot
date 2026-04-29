@@ -1,0 +1,38 @@
+# [169] 러북 경제안보 밀착 강화
+
+profile: Infrastructure
+label: secondary
+score: 16 (metadata=0, nodes=12, repeat=4)
+category: geopolitics
+updated_at: 2026-04-21T19:49:56.508821
+nodes: 2 total / 2 matched
+keywords: 러시아, 북한, 경제협력, 지정학, 안보협력
+
+## Description
+러시아와 북한이 경제 협력을 넘어 군사 안보적 유대를 강화하며 새로운 동맹 관계를 구축하고 있습니다. 이는 동북아시아는 물론 글로벌 지정학적 균형에 중대한 변화를 초래할 수 있습니다.
+
+## Matched Tags
+- transport: 12
+
+## Matched Terms
+  transport:교량 x3
+
+## Matched News Nodes
+
+### (2) 북러 잇는 두만강 자동차다리 연결식…"6월 19일 완공예정"(종합)
+- score: 9
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 19:21:25 +0900
+- url: https://www.yna.co.kr/view/AKR20260421163251504
+- matched_terms: transport:교량 x2
+- significance: 두만강 자동차 교량 연결은 러시아와 북한 간의 물류 및 경제 협력을 강화하여 양국 간의 경제안보 밀착 흐름을 가속화하는 구체적인 진전으로 볼 수 있습니다.
+- summary: (서울·이스탄불=연합뉴스) 김효정 기자 김동호 특파원 = 북한과 러시아를 잇는 두만강 자동차 교량이 오는 6월 19일 완공될 예정이라고 러시아 ...
+
+### (1) 북러 잇는 두만강 자동차다리 연결식…"6월 19일 완공예정"
+- score: 3
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 18:40:42 +0900
+- url: https://www.yna.co.kr/view/AKR20260421163200504
+- matched_terms: transport:교량 x1
+- significance: 두만강 자동차 다리 완공은 러북 간 물류 및 경제 교류 활성화의 물리적 기반을 마련하며, 양국 밀착의 가시적인 신호탄이 됩니다.
+- summary: (서울=연합뉴스) 김효정 기자 = 북한과 러시아를 잇는 두만강 자동차 교량이 오는 6월 19일 완공될 예정이라고 러시아 측이 밝혔다.

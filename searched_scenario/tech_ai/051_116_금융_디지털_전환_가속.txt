@@ -1,0 +1,40 @@
+# [116] 금융 디지털 전환 가속
+
+profile: AI & Semiconductors
+label: primary
+score: 27 (metadata=8, nodes=15, repeat=4)
+category: finance
+updated_at: 2026-04-21T15:49:59.279609
+nodes: 5 total / 2 matched
+keywords: 디지털 전환, 비대면 영업, 핀테크, 플랫폼 금융, 비용 절감
+
+## Description
+금융 산업 전반에서 디지털 기술 도입과 비대면 채널 확대가 가속화되며 전통적인 영업 방식이 해체되고 있습니다. 이는 금융 기관의 비용 절감, 효율성 증대와 함께 새로운 비즈니스 모델 출현을 촉진할 것입니다.
+
+## Matched Tags
+- ai: 12
+- platform: 11
+
+## Matched Terms
+  ai:AI x2
+  platform:플랫폼 x2
+
+## Matched News Nodes
+
+### (1) 점포 닫고 모집인 줄이고…체질 바뀐 카드영업
+- score: 3
+- source: asiae
+- published_at: Thu, 16 Apr 2026 06:10:00 +0900
+- url: https://www.asiae.co.kr/article/2026041515363926553
+- matched_terms: platform:플랫폼 x1
+- significance: 카드사 점포 및 모집인 축소는 금융권의 디지털 전환과 비용 효율화 압력이 실제 영업 전략 변화로 이어지는 대표적인 사례입니다.
+- summary: 카드사들이 점포와 모집인을 계속해서 줄이고 있다. 비대면 채널 확대와 비용 절감 기조가 지속되면서 고객을 직접 확보하던 전통적인 영업 방식에서 벗어나 플랫폼과 제휴 중심으로 재편되는 흐름이 뚜렷해지고 있다. 16일 금융감독원 금융정보통계시스템에 따르면 지난해 말 기준 전업 카드사 8곳(롯데·비씨·삼성·신한·우리·하나·현대·KB국민카드)의 국내 영업점포는 1
+
+### (5) iM뱅크, 상반기 경력직원 공개 채용…AX·디지털 분야 등
+- score: 12
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 15:36:18 +0900
+- url: https://www.yna.co.kr/view/AKR20260421129400053
+- matched_terms: ai:AI x2
+- significance: iM뱅크가 AX(AI 경험) 및 디지털 분야 경력직을 채용하는 것은 금융권의 디지털 전환 가속화 흐름 속에서 AI와 디지털 기술 역량 확보를 통해 경쟁 우위를 선점하려는 전략적 움직임으로 해석될 수 있습니다.
+- summary: (대구=연합뉴스) 한무선 기자 = iM뱅크는 올해 상반기 다양한 분야에서 전문직원(경력직)을 공개 채용한다고 21일 밝혔다.

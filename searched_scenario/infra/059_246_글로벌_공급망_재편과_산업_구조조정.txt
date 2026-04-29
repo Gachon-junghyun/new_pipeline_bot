@@ -1,0 +1,31 @@
+# [246] 글로벌 공급망 재편과 산업 구조조정
+
+profile: Infrastructure
+label: secondary
+score: 12 (metadata=0, nodes=10, repeat=2)
+category: trade
+updated_at: 2026-04-23T04:41:38.367946
+nodes: 1 total / 1 matched
+keywords: 공급과잉, 산업구조조정, 경기침체, 기간산업, 지정학적 리스크
+
+## Description
+글로벌 경기 침체와 지정학적 불안정 심화로 특정 산업 분야에서 공급 과잉과 수익성 악화가 발생하며 대규모 구조조정이 불가피해지고 있습니다. 이는 특정 국가의 기간산업 유지 문제와 맞물려 국가 경제 전반에 영향을 미칠 수 있습니다.
+
+## Matched Tags
+- industrial_facility: 10
+
+## Matched Terms
+  industrial_facility:산단 x1
+  industrial_facility:산업단지 x1
+
+## Matched News Nodes
+
+### (1) ‘운휴’ 나붙은 석화산단 “전쟁뒤 가치 재확인, 기간산업 지켜야”
+- score: 10
+- source: donga
+- published_at: Thu, 23 Apr 2026 04:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260423/133794961/2
+- matched_terms: industrial_facility:산단 x1
+  industrial_facility:산업단지 x1
+- significance: 석유화학 산업의 '운휴' 공장 뉴스는 글로벌 공급망 재편과 수요 위축이 특정 기간산업의 가동 중단으로 이어지는 시나리오의 초기 징후입니다.
+- summary: 21일 충남 서산 대산산업단지의 한 석유화학 공장. 나프타를 분해해 계면활성제 원료 등을 만드는 이 공장 앞에 ‘운휴공정구역’이라고 적힌 하얀 팻말이 세

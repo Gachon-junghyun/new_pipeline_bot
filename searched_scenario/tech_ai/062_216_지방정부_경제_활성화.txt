@@ -1,0 +1,29 @@
+# [216] 지방정부 경제 활성화
+
+profile: AI & Semiconductors
+label: secondary
+score: 21 (metadata=0, nodes=19, repeat=2)
+category: macro
+updated_at: 2026-04-22T11:49:54.589014
+nodes: 4 total / 1 matched
+keywords: 지역화폐, 소상공인 지원, 지방재정, 내수 진작, 지역 경제
+
+## Description
+중앙정부 정책만으로는 한계가 있는 지역 경제 활성화를 위해 지방정부의 독자적인 재정 및 소비 진작 정책이 확대되는 추세입니다. 이는 지역별 맞춤형 경제 부양책 경쟁으로 이어질 수 있으며, 중앙과 지방 정부 간 재정 분권 논의를 가속화할 수 있습니다.
+
+## Matched Tags
+- ai: 19
+
+## Matched Terms
+  ai:AI x4
+
+## Matched News Nodes
+
+### (3) '하남 AI 혁신클러스터' 개소…기술개발·사업화 거점
+- score: 19
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 10:35:48 +0900
+- url: https://www.yna.co.kr/view/AKR20260422062300061
+- matched_terms: ai:AI x4
+- significance: 하남시 AI 혁신 클러스터 개소는 지방정부가 첨단 산업 육성을 통해 지역 경제 활성화 및 미래 성장 동력을 확보하려는 노력을 보여주는 구체적인 사례입니다.
+- summary: (하남=연합뉴스) 이우성 기자 = 경기 하남시 AI 산업 육성의 거점 역할을 할 AI 혁신 클러스터가 문을 열었다.

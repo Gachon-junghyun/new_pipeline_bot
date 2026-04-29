@@ -1,0 +1,31 @@
+# [256] K-바이오 글로벌 약진
+
+profile: AI & Semiconductors
+label: secondary
+score: 14 (metadata=0, nodes=12, repeat=2)
+category: tech
+updated_at: 2026-04-23T18:41:59.131949
+nodes: 3 total / 1 matched
+keywords: 바이오, CDMO, 신약개발, 수출, 기술혁신
+
+## Description
+국내 바이오 기업들이 기술력과 생산 능력을 바탕으로 글로벌 시장에서 존재감을 확대하고 있습니다. 이는 한국의 미래 성장 동력을 강화하고, 바이오 산업을 새로운 수출 효자 산업으로 부상시킬 잠재력을 가집니다. 글로벌 헬스케어 시장의 변화와 맞물려 K-바이오의 도약이 기대됩니다.
+
+## Matched Tags
+- ai: 12
+
+## Matched Terms
+  ai:AI x2
+  ai:인공지능 x1
+
+## Matched News Nodes
+
+### (2) 합성생물학 키워 바이오경제 도약한다
+- score: 12
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 12:00:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260423094900017
+- matched_terms: ai:AI x2
+  ai:인공지능 x1
+- significance: 합성생물학 육성을 위한 제도 정비 소식은 K-바이오가 AI 및 디지털 기술과 융합하여 글로벌 시장에서 새로운 성장 동력을 확보하고 기술 혁신을 가속화하는 중요한 진전으로 해석될 수 있습니다.
+- summary: (서울=연합뉴스) 조승한 기자 = 인공지능(AI)·빅데이터 등 첨단 디지털 기술과 바이오 기술을 융합한 '합성생물학'을 육성하기 위한 제도 기...

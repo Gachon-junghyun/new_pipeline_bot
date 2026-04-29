@@ -1,0 +1,36 @@
+# LLM News Search Report
+
+- query: 네이버 1조
+- generated_at: 2026-04-29T17:20:58
+- source_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/news_alert.db
+- scenario_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/scenario.db
+- date_filter: 최근 30일 (2026-03-30 이후)
+- local_results: 1
+- scenario_results: 1
+- naver_results: 0
+
+## Local DB
+
+### 1. 네이버·크래프톤·미래에셋, 인도서 최대 1조원 투자펀드 조성
+- date: 2026-04-21T15:49:50.319496
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260421124900017
+
+## Scenario DB / TXT
+
+### 1. (7) 네이버·크래프톤·미래에셋, 인도서 최대 1조원 투자펀드 조성
+- scenario: # [82] 한국 신성장 동력 확보
+- file: scenario.db
+- score: db
+- category: macro
+- keywords: ["정책펀드", "국민성장펀드", "미래산업투자", "경제성장률", "벤처투자"]
+- node_id: 912
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 15:19:23 +0900
+- url: https://www.yna.co.kr/view/AKR20260421124900017
+- significance: 한국 기업들이 인도에 대규모 투자 펀드를 조성하는 것은 정부 주도의 정책 펀드를 넘어 민간이 해외 유망 시장에서 신성장 동력을 확보하려는 적극적인 전략 변화를 의미한다.
+- summary: (서울=연합뉴스) 한상용 기자 = 네이버가 인도에서 크래프톤[259960], 미래에셋과 손 잡고 대규모 기술 투자를 본격화한다.
+
+## Naver News
+
+(no results)

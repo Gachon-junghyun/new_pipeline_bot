@@ -1,0 +1,79 @@
+# [30] 한국 부동산 시장 개혁
+
+profile: Infrastructure
+label: primary
+score: 65 (metadata=0, nodes=55, repeat=10)
+category: macro
+updated_at: 2026-04-21T11:49:54.555989
+nodes: 21 total / 6 matched
+keywords: 부동산정책, 다주택자, 시장규제, 주택시장안정, 정부개입
+
+## Description
+정부의 강력한 부동산 시장 개입과 정책 변화가 예상되는 시나리오입니다. 다주택자 규제 및 투기 근절을 통한 시장 안정화 시도가 국내 경제 및 자산 시장에 미칠 파급효과가 중요합니다.
+
+## Matched Tags
+- urban: 58
+
+## Matched Terms
+  urban:주택 공급 x6
+  urban:재건축 x3
+  urban:공공주택 x1
+  urban:재개발 x1
+
+## Matched News Nodes
+
+### (18) 금천구, 817세대 규모 시흥4동 모아주택 사업시행계획인가
+- score: 18
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 09:20:52 +0900
+- url: https://www.yna.co.kr/view/AKR20260416040100004
+- matched_terms: urban:재개발 x1
+  urban:재건축 x1
+  urban:주택 공급 x1
+- significance: 금천구 모아주택 사업시행계획 인가는 정부의 주택 공급 확대 및 주거 안정화 정책의 일환으로, 재건축·재개발 규제 완화를 통한 부동산 시장 개혁 흐름에 부합한다.
+- summary: (서울=연합뉴스) 정준영 기자 = 금천구(구청장 유성훈)는 시흥4동 817번지 일대 모아타운 내 모아주택 사업에 대한 사업시행계획인가를 승인하고...
+
+### (19) 부천시, 원도심 정비사업 주택 공급 본격화…4천400세대 분양
+- score: 16
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 09:40:42 +0900
+- url: https://www.yna.co.kr/view/AKR20260416047800065
+- matched_terms: urban:주택 공급 x3
+- significance: 부천시의 대규모 원도심 정비사업을 통한 주택 공급 확대는 정부의 부동산 시장 안정화 정책 기조와 궤를 같이하며, 공급 측면에서 시장 변화에 영향을 미칠 수 있습니다.
+- summary: (인천=연합뉴스) 강종구 기자 = 경기도 부천시는 원도심 정비사업 3개 구역과 역세권을 중심으로 주택 공급을 본격화한다고 16일 밝혔다.
+
+### (13) '도촬 논란' 압구정5구역 시공사 선정 절차 중단
+- score: 9
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 17:22:08 +0900
+- url: https://www.yna.co.kr/view/AKR20260415159200003
+- matched_terms: urban:재건축 x2
+- significance: 이번 시공사 선정 절차 중단은 재건축 시장의 투명성 및 공정성 강화를 요구하는 규제 당국의 개입이 확대되고 있음을 보여주며, 이는 한국 부동산 시장의 제도적 개혁 압력을 높이는 사례로 작용할 수 있습니다.
+- summary: (서울=연합뉴스) 임기창 기자 = 입찰 서류 무단 촬영 논란이 불거진 서울 강남구 압구정5구역 재건축의 시공사 선정 절차가 관할 자치구의 개입으...
+
+### (12) 3월 기준 서울 민간아파트 분양가 평당 5천490만원
+- score: 6
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 16:09:23 +0900
+- url: https://www.yna.co.kr/view/AKR20260415142900003
+- matched_terms: urban:주택 공급 x1
+- significance: 서울 민간아파트 분양가 상승은 정부의 부동산 시장 안정화 시도에도 불구하고 시장의 높은 가격 압력이 지속되고 있음을 보여주며, 이는 주택 공급 부족 문제와 맞물려 정책의 방향성을 더욱 복잡하게 만들 수 있습니다.
+- summary: (서울=연합뉴스) 임기창 기자 = 올 3월 기준 서울 민간아파트당 분양가격이 4%대 상승해 5천만원대 중반을 기록했다.
+
+### (10) 서울시, 정비사업 180억 저리 대출…비용부담 덜어 사업 독려
+- score: 6
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 11:15:03 +0900
+- url: https://www.yna.co.kr/view/AKR20260415050100004
+- matched_terms: urban:주택 공급 x1
+- significance: 서울시의 정비사업 저리 대출 지원은 고금리 환경에서 위축된 부동산 개발을 활성화하고 주택 공급을 확대하려는 정부 및 지자체의 부동산 시장 개입 강화 정책의 일환으로 볼 수 있다.
+- summary: (서울=연합뉴스) 정수연 기자 = 서울시는 정비사업 초기 조합의 금융 부담을 덜기 위해 총 180억원 규모로 정비사업 융자금을 지원한다고 15일...
+
+### (20) ‘과천 디에트르’ 특공 줍줍 경쟁률 60대1…오늘 일반 5가구 접수
+- score: 3
+- source: donga
+- published_at: Thu, 16 Apr 2026 09:47:19 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260416/133750066/1
+- matched_terms: urban:공공주택 x1
+- significance: 과천 지역의 고가 주택에 대한 높은 청약 경쟁률은 정부의 부동산 시장 안정화 노력에도 불구하고 여전히 특정 지역의 주택 수요가 견고함을 보여주며, 이는 부동산 정책의 지속적인 미세 조정 필요성을 시사합니다.
+- summary: 경기도 과천시 지식정보타운 공공주택지구 일대에 공급되는 ‘과천 디에트르 퍼스티지’ 1가구 무순위 청약에 60명이 신청한 것으로 나타났다. 16일 한국부동

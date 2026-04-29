@@ -1,0 +1,40 @@
+# [267] 글로벌 기후테크 경쟁 심화
+
+profile: AI & Semiconductors
+label: primary
+score: 42 (metadata=0, nodes=38, repeat=4)
+category: tech
+updated_at: 2026-04-23T14:41:48.918603
+nodes: 5 total / 2 matched
+keywords: 기후테크, 탄소중립, 스타트업, 친환경 기술, 에너지 전환
+
+## Description
+기후 변화 대응을 위한 기술 개발 및 투자가 전 세계적으로 가속화되고 있으며, 각국 정부와 기업들이 기후테크 스타트업 지원을 통해 미래 시장을 선점하려는 경쟁이 치열해지고 있습니다. 이는 새로운 산업 생태계 조성과 함께 글로벌 경제의 탈탄소 전환을 촉진할 것입니다.
+
+## Matched Tags
+- ai: 38
+
+## Matched Terms
+  ai:AI x6
+  ai:인공지능 x1
+
+## Matched News Nodes
+
+### (2) 인천시, 생활자원 재활용에 AI 로봇 도입…선별률 소폭 증가
+- score: 19
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 10:30:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260423070100065
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+- significance: AI 로봇을 활용한 재활용품 선별률 증가는 폐기물 관리 분야의 기후테크 도입 사례로, 지속 가능한 자원 순환 경제를 위한 기술 경쟁이 심화되고 있음을 보여준다.
+- summary: (인천=연합뉴스) 홍현기 기자 = 인천시는 인공지능(AI) 로봇을 생활자원 회수 센터에 적용한 결과 재활용품 선별률이 소폭 증가했다고 23일 밝...
+
+### (5) 코이카, "AI는 기후대응 ODA의 새 개척지" 비전 발표
+- score: 19
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 14:05:37 +0900
+- url: https://www.yna.co.kr/view/AKR20260423100400371
+- matched_terms: ai:AI x3
+- significance: 코이카가 AI를 기후변화 대응 ODA의 핵심 분야로 선정한 것은 글로벌 기후테크 경쟁 심화 시나리오에서 한국의 AI 기술을 활용한 기후대응 역량 강화 및 국제 협력 확대를 의미합니다.
+- summary: (서울=연합뉴스) 강성철 기자 = 코이카(KOICA·한국국제협력단)는 여수 엑스포 컨벤션센터에서 열린 유엔기후변화협약(UNFCCC) 기후주간 행...

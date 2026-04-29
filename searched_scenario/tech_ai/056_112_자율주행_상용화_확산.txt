@@ -1,0 +1,31 @@
+# [112] 자율주행 상용화 확산
+
+profile: AI & Semiconductors
+label: primary
+score: 25 (metadata=0, nodes=23, repeat=2)
+category: tech
+updated_at: 2026-04-21T17:50:35.837643
+nodes: 5 total / 1 matched
+keywords: 자율주행, 물류혁신, 스마트시티, 미래모빌리티, 산업자동화
+
+## Description
+자율주행 기술이 단순 연구 단계를 넘어 물류, 운송 등 실제 산업 현장에 적용되며 상업화가 본격화되는 시나리오입니다. 이는 물류 효율성 증대, 운송 비용 절감 등 경제 전반에 혁신적인 변화를 가져올 것입니다.
+
+## Matched Tags
+- ai: 23
+
+## Matched Terms
+  ai:AI x3
+  ai:인공지능 x1
+
+## Matched News Nodes
+
+### (5) [AI픽] 국가AI전략위, 자율주행·휴머노이드 소분과 신설
+- score: 23
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 16:57:59 +0900
+- url: https://www.yna.co.kr/view/AKR20260421147800017
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+- significance: 국가AI전략위원회에서 자율주행 및 휴머노이드 소분과를 신설한 것은 자율주행 기술의 국가적 육성 의지를 보여주며 상용화 확산에 더욱 박차를 가할 수 있는 중요한 정책적 기반 마련입니다.
+- summary: (서울=연합뉴스) 권하영 기자 = 국가인공지능전략위원회는 산업 AX·생태계 분과 내에 '자율주행 소분과'와 '휴머노이드 소분과'를 신설하고 제1...

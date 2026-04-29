@@ -1,0 +1,589 @@
+{
+  "profiles": {
+    "infra": {
+      "id": "infra",
+      "name": "Infrastructure",
+      "description": "Power, energy, digital, transport, water, industrial, and urban infrastructure.",
+      "threshold": 12,
+      "limit": 100,
+      "label": "all",
+      "keyword_groups": {
+        "power": [
+          "전력망",
+          "전력 인프라",
+          "송전",
+          "배전",
+          "변전소",
+          "전력 설비",
+          "grid",
+          "power grid",
+          "transmission",
+          "substation"
+        ],
+        "energy_facility": [
+          "발전소",
+          "원전",
+          "원자력",
+          "LNG",
+          "가스관",
+          "파이프라인",
+          "ESS",
+          "에너지저장",
+          "재생에너지",
+          "태양광",
+          "풍력"
+        ],
+        "digital": [
+          "데이터센터",
+          "데이터 센터",
+          "해저케이블",
+          "통신망",
+          "5G",
+          "6G",
+          "클라우드 리전",
+          "클라우드 인프라",
+          "광케이블"
+        ],
+        "transport": [
+          "철도",
+          "도로",
+          "고속도로",
+          "항만",
+          "공항",
+          "물류 허브",
+          "교량",
+          "터널",
+          "운송 인프라",
+          "철도망",
+          "항공 인프라"
+        ],
+        "water": [
+          "수처리",
+          "상하수도",
+          "상수도",
+          "하수도",
+          "담수화",
+          "폐기물 처리",
+          "폐수",
+          "수자원"
+        ],
+        "industrial_facility": [
+          "산업단지",
+          "산단",
+          "반도체 클러스터",
+          "배터리 공장",
+          "반도체 공장",
+          "제조 거점",
+          "생산기지",
+          "공장 증설"
+        ],
+        "urban": [
+          "스마트시티",
+          "도시 인프라",
+          "주택 공급",
+          "공공주택",
+          "재개발",
+          "재건축",
+          "SOC",
+          "사회간접자본"
+        ]
+      }
+    },
+    "macro": {
+      "id": "macro",
+      "name": "Macro Economy",
+      "description": "Rates, inflation, growth, FX, and fiscal policy.",
+      "threshold": 12,
+      "limit": 100,
+      "label": "all",
+      "keyword_groups": {
+        "rates": [
+          "금리",
+          "기준금리",
+          "연준",
+          "Fed",
+          "FOMC",
+          "인하",
+          "인상",
+          "bond yield",
+          "Treasury yield",
+          "terminal rate"
+        ],
+        "inflation": [
+          "물가",
+          "인플레이션",
+          "CPI",
+          "PCE",
+          "임금",
+          "유가",
+          "식료품",
+          "inflation",
+          "price pressure"
+        ],
+        "growth": [
+          "GDP",
+          "성장률",
+          "경기",
+          "침체",
+          "둔화",
+          "회복",
+          "소비",
+          "투자",
+          "recession",
+          "soft landing"
+        ],
+        "currency": [
+          "환율",
+          "달러",
+          "원화",
+          "엔화",
+          "위안",
+          "강달러",
+          "외환",
+          "FX",
+          "dollar index"
+        ],
+        "fiscal_policy": [
+          "재정",
+          "예산",
+          "추경",
+          "국채",
+          "부채한도",
+          "감세",
+          "보조금",
+          "fiscal",
+          "deficit"
+        ]
+      }
+    },
+    "tech_ai": {
+      "id": "tech_ai",
+      "name": "AI & Semiconductors",
+      "description": "AI, chips, data centers, cloud platforms, and technology regulation.",
+      "threshold": 12,
+      "limit": 100,
+      "label": "all",
+      "keyword_groups": {
+        "ai": [
+          "AI",
+          "인공지능",
+          "생성형 AI",
+          "LLM",
+          "딥러닝",
+          "추론",
+          "에이전트",
+          "artificial intelligence",
+          "generative AI"
+        ],
+        "semiconductor": [
+          "반도체",
+          "HBM",
+          "DRAM",
+          "낸드",
+          "파운드리",
+          "TSMC",
+          "삼성전자",
+          "SK하이닉스",
+          "엔비디아",
+          "Nvidia",
+          "GPU",
+          "ASIC"
+        ],
+        "data_center": [
+          "데이터센터",
+          "데이터 센터",
+          "서버",
+          "클라우드",
+          "전력 수요",
+          "AI 인프라",
+          "cloud",
+          "hyperscaler"
+        ],
+        "regulation": [
+          "AI 규제",
+          "수출통제",
+          "칩스법",
+          "CHIPS Act",
+          "보조금",
+          "export control",
+          "sanction"
+        ],
+        "platform": [
+          "빅테크",
+          "플랫폼",
+          "오픈AI",
+          "구글",
+          "마이크로소프트",
+          "애플",
+          "Meta",
+          "Amazon"
+        ]
+      }
+    },
+    "energy": {
+      "id": "energy",
+      "name": "Energy & Climate",
+      "description": "Oil, gas, nuclear, renewables, power grid, and climate transition.",
+      "threshold": 12,
+      "limit": 100,
+      "label": "all",
+      "keyword_groups": {
+        "oil_gas": [
+          "원유",
+          "유가",
+          "석유",
+          "가스",
+          "LNG",
+          "OPEC",
+          "셰일",
+          "천연가스",
+          "crude",
+          "oil",
+          "gas"
+        ],
+        "nuclear": [
+          "원전",
+          "원자력",
+          "SMR",
+          "핵연료",
+          "두산에너빌리티",
+          "체코 원전",
+          "nuclear"
+        ],
+        "renewables": [
+          "재생에너지",
+          "태양광",
+          "풍력",
+          "해상풍력",
+          "수소",
+          "ESS",
+          "renewable",
+          "solar",
+          "wind",
+          "hydrogen"
+        ],
+        "grid": [
+          "전력망",
+          "송전",
+          "배전",
+          "전력 수요",
+          "전력난",
+          "전기요금",
+          "grid",
+          "transmission"
+        ],
+        "climate": [
+          "탄소중립",
+          "기후",
+          "배출권",
+          "탄소세",
+          "탈탄소",
+          "전기화",
+          "net zero",
+          "carbon"
+        ]
+      }
+    },
+    "geopolitics": {
+      "id": "geopolitics",
+      "name": "Geopolitics",
+      "description": "Conflicts, sanctions, alliances, US-China rivalry, and Middle East risks.",
+      "threshold": 12,
+      "limit": 100,
+      "label": "all",
+      "keyword_groups": {
+        "conflict": [
+          "전쟁",
+          "분쟁",
+          "확전",
+          "휴전",
+          "공습",
+          "미사일",
+          "군사",
+          "war",
+          "conflict",
+          "ceasefire"
+        ],
+        "us_china": [
+          "미중",
+          "미-중",
+          "중국",
+          "미국",
+          "대만",
+          "남중국해",
+          "기술패권",
+          "US China",
+          "Taiwan"
+        ],
+        "sanctions": [
+          "제재",
+          "수출통제",
+          "관세",
+          "블랙리스트",
+          "압박",
+          "보복",
+          "sanction",
+          "tariff",
+          "export control"
+        ],
+        "middle_east": [
+          "중동",
+          "이란",
+          "이스라엘",
+          "가자",
+          "홍해",
+          "후티",
+          "호르무즈",
+          "Middle East",
+          "Red Sea"
+        ],
+        "alliance": [
+          "동맹",
+          "안보",
+          "나토",
+          "NATO",
+          "방산",
+          "국방",
+          "정상회담",
+          "alliance",
+          "defense"
+        ]
+      }
+    },
+    "real_estate": {
+      "id": "real_estate",
+      "name": "Real Estate",
+      "description": "Housing, construction, PF risks, urban redevelopment, and property policy.",
+      "threshold": 12,
+      "limit": 100,
+      "label": "all",
+      "keyword_groups": {
+        "housing": [
+          "주택",
+          "아파트",
+          "전세",
+          "월세",
+          "매매",
+          "분양",
+          "청약",
+          "housing",
+          "home price"
+        ],
+        "policy": [
+          "부동산 정책",
+          "대출 규제",
+          "LTV",
+          "DSR",
+          "세제",
+          "공급대책",
+          "재건축 규제"
+        ],
+        "construction": [
+          "건설",
+          "PF",
+          "프로젝트파이낸싱",
+          "미분양",
+          "착공",
+          "준공",
+          "construction"
+        ],
+        "urban": [
+          "재개발",
+          "재건축",
+          "도시정비",
+          "신도시",
+          "공공주택",
+          "임대주택"
+        ],
+        "global_property": [
+          "상업용 부동산",
+          "오피스",
+          "리츠",
+          "CRE",
+          "mortgage",
+          "rent"
+        ]
+      }
+    },
+    "trade_supply_chain": {
+      "id": "trade_supply_chain",
+      "name": "Trade & Supply Chain",
+      "description": "Trade, tariffs, supply chains, shipping, industrial policy, and export controls.",
+      "threshold": 12,
+      "limit": 100,
+      "label": "all",
+      "keyword_groups": {
+        "trade": [
+          "무역",
+          "수출",
+          "수입",
+          "관세",
+          "통상",
+          "FTA",
+          "보호무역",
+          "trade",
+          "tariff"
+        ],
+        "supply_chain": [
+          "공급망",
+          "리쇼어링",
+          "니어쇼어링",
+          "탈중국",
+          "조달",
+          "부품",
+          "supply chain",
+          "reshoring"
+        ],
+        "shipping": [
+          "해운",
+          "물류",
+          "운임",
+          "항만",
+          "컨테이너",
+          "홍해",
+          "파나마 운하",
+          "shipping",
+          "freight"
+        ],
+        "industrial_policy": [
+          "산업정책",
+          "보조금",
+          "IRA",
+          "칩스법",
+          "배터리",
+          "핵심광물",
+          "critical minerals"
+        ],
+        "export_controls": [
+          "수출통제",
+          "제재",
+          "라이선스",
+          "희토류",
+          "갈륨",
+          "흑연",
+          "export control"
+        ]
+      }
+    },
+    "finance_market": {
+      "id": "finance_market",
+      "name": "Finance & Markets",
+      "description": "Equities, credit, banks, crypto, earnings, and market stress.",
+      "threshold": 12,
+      "limit": 100,
+      "label": "all",
+      "keyword_groups": {
+        "equity": [
+          "증시",
+          "주식",
+          "코스피",
+          "코스닥",
+          "나스닥",
+          "S&P",
+          "상장",
+          "IPO",
+          "equity",
+          "stock market"
+        ],
+        "credit": [
+          "채권",
+          "스프레드",
+          "회사채",
+          "국채",
+          "부도",
+          "신용등급",
+          "credit",
+          "bond"
+        ],
+        "banking": [
+          "은행",
+          "대출",
+          "예금",
+          "연체율",
+          "금융위기",
+          "자본비율",
+          "bank",
+          "liquidity"
+        ],
+        "crypto": [
+          "비트코인",
+          "암호화폐",
+          "가상자산",
+          "스테이블코인",
+          "ETF",
+          "Bitcoin",
+          "crypto"
+        ],
+        "earnings": [
+          "실적",
+          "영업이익",
+          "매출",
+          "가이던스",
+          "어닝",
+          "컨센서스",
+          "earnings"
+        ]
+      }
+    },
+    "policy_regulation": {
+      "id": "policy_regulation",
+      "name": "Policy & Regulation",
+      "description": "Government policy, tax, regulation, labor, and public investment.",
+      "threshold": 12,
+      "limit": 100,
+      "label": "all",
+      "keyword_groups": {
+        "government": [
+          "정부",
+          "정책",
+          "법안",
+          "규제",
+          "시행령",
+          "국회",
+          "대통령",
+          "government",
+          "policy"
+        ],
+        "tax": [
+          "세금",
+          "세제",
+          "법인세",
+          "소득세",
+          "상속세",
+          "감세",
+          "증세",
+          "tax"
+        ],
+        "industry_regulation": [
+          "공정위",
+          "독점",
+          "플랫폼 규제",
+          "개인정보",
+          "망사용료",
+          "환경규제",
+          "antitrust",
+          "privacy"
+        ],
+        "labor": [
+          "고용",
+          "노동",
+          "임금",
+          "최저임금",
+          "노조",
+          "파업",
+          "인력난",
+          "labor",
+          "employment"
+        ],
+        "public_investment": [
+          "공공투자",
+          "SOC",
+          "인프라 예산",
+          "국책사업",
+          "민자사업",
+          "PPP"
+        ]
+      }
+    }
+  }
+}

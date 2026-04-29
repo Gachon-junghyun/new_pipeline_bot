@@ -1,0 +1,29 @@
+# [279] 디지털 플랫폼 규제 강화
+
+profile: AI & Semiconductors
+label: primary
+score: 49 (metadata=28, nodes=19, repeat=2)
+category: tech
+updated_at: 2026-04-23T16:41:47.957788
+nodes: 1 total / 1 matched
+keywords: 온라인 플랫폼, 규제 강화, 디지털 콘텐츠, 아동 보호, 데이터 거버넌스
+
+## Description
+온라인 플랫폼이 사회적 영향력을 확대함에 따라 각국 정부는 개인정보 보호, 유해 콘텐츠 차단, 독점 방지 등 규제를 강화하고 있습니다. 이는 디지털 경제의 성장 방향과 플랫폼 기업의 사업 모델에 중대한 영향을 미칠 것입니다.
+
+## Matched Tags
+- platform: 47
+
+## Matched Terms
+  platform:플랫폼 x7
+
+## Matched News Nodes
+
+### (1) 호주, 로블록스 등 게임 플랫폼에도 아동성범죄 등 방지책 요구
+- score: 19
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 16:23:16 +0900
+- url: https://www.yna.co.kr/view/AKR20260423149500084
+- matched_terms: platform:플랫폼 x3
+- significance: 호주 정부의 게임 플랫폼 아동 보호 규제 요구는 전 세계적으로 디지털 플랫폼에 대한 사회적 책임과 규제 필요성이 증대되고 있음을 보여주는 초기 신호입니다.
+- summary: (하노이=연합뉴스) 박진형 특파원 = 세계 최초로 청소년 소셜미디어 계정 차단을 도입한 호주 정부가 이번에는 로블록스·마인크래프트 등 인기 온라...

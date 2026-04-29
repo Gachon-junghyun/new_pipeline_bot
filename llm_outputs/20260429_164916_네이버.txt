@@ -1,0 +1,342 @@
+# LLM News Search Report
+
+- query: 네이버
+- generated_at: 2026-04-29T16:49:16
+- source_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/news_alert.db
+- scenario_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/scenario.db
+- date_filter: 최근 30일 (2026-03-30 이후)
+- local_results: 44
+- scenario_results: 8
+- naver_results: 0
+
+## Local DB
+
+### 1. ✅[미리보는 주간 증시일정] 4월5주차 이슈＆관련주 알아보자! - 네이버 프리미엄콘텐츠
+- date: 2026-04-28T15:41:22.901869
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMifEFVX3lxTE45OWo2dC1yaGpZQVIyN21KTGtGbGFXSWRfeTV2Q3ZIVjlDNHFaMzh5Y3lXaHQyLVlVY3dKRFk4YUpxOXBzb0tnY012b0s5bTh2TDgxODhia1YtVnRNWWhWandLUlFWM2lkUmVHVEVZMVFSLUVHOGdqVzBHOTc?oc=5
+
+### 2. 美 경제, 전쟁 불구 비교적 안정...증시 추가 상승 여력 [인사이트] - 네이버 프리미엄콘텐츠
+- date: 2026-04-24T13:41:22.815749
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMif0FVX3lxTE5Cc0RFVklZcDVEUloyS0NuNUVzWUNqRTFPc2ptUUVKV21KX0N1OFdmMDBySGxJME9TbUZRQ1hPalg4U1c2azBpWTlUc2hFVTIxYWNYdHJZS3ZUSVBzdjkxTWxMbzhiUkY0eEdoelRYWjNvZUM4MXAxX0FGMTRpeVk?oc=5
+
+### 3. LG 이어 네이버도 '엔비디아 회동'…K-AI 존재감 커졌다
+- date: 2026-04-23T07:41:21.835404
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260422156800017
+
+### 4. [26년 4월 23일(목)] 반도체 투톱 ‘운명의 목요일’…하이닉스는 ‘1분기 실적발표’ 삼성은 ‘노조 집결’ - 비티의 오늘 주요 뉴스 요약 - 네이버 프리미엄콘텐츠
+- date: 2026-04-23T06:41:22.959044
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkp3c2pMS3Z6MENHOHNuX24xZDA1Mjhla2t5OXg2WGZiQTJ3SnAxVTIwM3RacVN6QTI1c2F0bE9jb2RTMFBKaGdSbHQwcG9jTk51ZmgtcDhScFI5N0txUzRMbHZPNHJaZjd0QlBCLVZZcGNoeXdOUllqY205VjRzNA?oc=5
+
+### 5. [미국주식 브리핑] "미·이란 협상 무산 위기!" 유가 5% 폭등에 짓눌린 뉴욕 증시, 피난처는 어디? 2026.04.21(현지시간) - 네이버 프리미엄콘텐츠
+- date: 2026-04-22T22:41:24.461846
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMiigFBVV95cUxOanpveWdYTjd0cUtJYUktTzBiWDEyeFZIeFZ5YVlxZ2JNM2xtZjltckZ2QkctbEVuY1hpejVvdGdSalpTdjEwWUhrUngtTVFrOVBnSTZTdzRIQXBJUWhxa3BhR1E4TjBJZnZWZElPbFUtX0toVmIzMmpMNkNZaVZOOU9VOTNBTTlWRHc?oc=5
+
+### 6. GS풍력발전, 네이버에 재생에너지 직접 공급
+- date: 2026-04-21T22:00:31.014908
+- source: hankyung
+- url: https://www.hankyung.com/article/2026042167491
+
+### 7. 국민연금 뉴프레임워크, 환 헤지 늘리고 달러 채권 발행한다 - 네이버 프리미엄콘텐츠
+- date: 2026-04-21T16:49:47.484679
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1h6aEFkSGFpYkkzc3hrbi1NaDNuZk5CWjRLdVVjRzNnSGZrVmlCNkEyRXRINmpZb1Y1NTNYeDZXZk1pcGZQOUZLWVNzcUZVcnBCMmdFdXJGZFJUbDNtSUMxTVNGZUhoRm4yVk1PMG5UcjBvX1FVb1BMQ3RJUHQzQQ?oc=5
+
+### 8. [데일리 브리핑] 2026-04-21 : 주요 경제지표 스케줄 / 기관의 투자의견 / 10년물 미국채 금리동향 / WTI 원유 선물 동향에 대한 분석 노트입니다. - 네이버 프리미엄콘텐츠
+- date: 2026-04-21T16:49:47.479603
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGN5TGNjZy0xVXR4dGJRQmVYbEt3eUM5NEVoOVNwUHVQdmF1bHlyZ1VRU0kyai1vcERmYW9Gc3J2RVQwWkxabUgzZTJ2UkE0dExoSUNJVnVIaHRrSWFVbjVPMU9mYlZJbXk5WHNOZzVGUEZ1d0ZfQTZEV2ZOY19YdjFnN3k?oc=5
+
+### 9. 네이버·크래프톤·미래에셋, 인도서 최대 1조원 투자펀드 조성
+- date: 2026-04-21T15:49:50.319496
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260421124900017
+
+### 10. GS풍력, 네이버에 재생에너지 공급…육상풍력 최대 규모
+- date: 2026-04-21T13:49:47.439904
+- source: sedaily
+- url: https://www.sedaily.com/article/20035134
+
+### 11. 경복궁, ‘네이버 다이닝 위크 2026’ 첫 단독 브랜드로 참여
+- date: 2026-04-16T22:00:23.171262
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260416/133754323/1
+
+### 12. 삼성증권 "네이버, 커머스 고성장·신사업 지연 우려…목표가↓"
+- date: 2026-04-16T08:31:53.290459
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260416026400008
+
+### 13. 네이버 검색 70% 찍었다…AI에도 점유율 '반등'
+- date: 2026-04-16T07:31:53.494102
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260415165600017
+
+### 14. 국민성장펀드, 네이버 AI데이터센터에 4000억 저리 대출
+- date: 2026-04-16T00:31:53.365913
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260415/133747528/2
+
+### 15. [미국주식 브리핑] 전쟁 끝이 보인다? 뉴욕 증시 불기둥, 나스닥 3.8% 폭등 - 2026.03.31(현지시간) - 네이버 프리미엄콘텐츠
+- date: 2026-04-15T22:00:34.387330
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMiigFBVV95cUxQSmxucGpnQTQzQTh3dWlIX1h4alZaYmtDSHI3eEpDVjQ3cWJKNkRnaFRNZDlSbk5WRmVBdTRYOTU0QVRZVHVVdWpVVzFZdDdBY3VPaWJGYjNLaUVvNmFrNWZ6TlN4WE9FU21TNG5qbXo3cS1ZNF9VRHZTSm9jWU50N1RPRHFGVENsN0E?oc=5
+
+### 16. [주도 섹터] 종전 기대감에 우주 원전·양자컴 호재까지… 쉴 틈 없는 K-증시 (2026.04.15) - 네이버 프리미엄콘텐츠
+- date: 2026-04-15T22:00:34.387032
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEg4R3dfcWIzYlV1dHhPblplU2F6THJRT0U2N2VfcHhyS3BFY19mVFdTM2xBOXlfM2ZCRlVQVWFjbktMczZoWlpxaG5SMWxUWTdpbnYxRThVdW9qQUJCR0ZXTFN0VWFzVlRJTndmZV9nR29IVjVJN0pNOGVWanZRMVNiUE5XUXFXeHc?oc=5
+
+### 17. 국민성장펀드, 네이버 AI 데이터센터에 4천억 저리대출
+- date: 2026-04-15T22:00:34.355896
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260415151000002
+
+### 18. 네이버파이낸셜 상장 추진…네이버·두나무 "1년 내 IPO위원회 구성"
+- date: 2026-04-15T18:31:57.213712
+- source: asiae
+- url: https://www.asiae.co.kr/article/2026041518174714961
+
+### 19. 국민성장펀드, 네이버 AI 데이터센터에 4000억 3%대 저리대출
+- date: 2026-04-15T18:31:57.212590
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260415/133746868/1
+
+### 20. 국민성장펀드, 네이버에 4천억 저리대출
+- date: 2026-04-15T18:31:57.210752
+- source: mk
+- url: https://www.mk.co.kr/news/economy/12018000
+
+### 21. 네이버파이낸셜 상장 추진…주식교환 완료후 최장 7년내 목표
+- date: 2026-04-15T18:31:57.205036
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260415159100017
+
+### 22. 두나무-네이버파이낸셜, 합병 후 2031년 상장한다
+- date: 2026-04-15T17:31:54.430186
+- source: sedaily
+- url: https://www.sedaily.com/article/20032929
+
+### 23. 국민성장펀드, 네이버 AIDC에 4000억 저리 대출
+- date: 2026-04-15T17:31:54.430013
+- source: sedaily
+- url: https://www.sedaily.com/article/20032892
+
+### 24. 라인야후 "네이버와 시스템 분리 완료…운영 위탁도 종료"
+- date: 2026-04-15T17:31:54.418324
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260415157500009
+
+### 25. [미국주식 브리핑] PPI가 살려낸 뉴욕 증시! 유가 폭락 뚫고 터진 나스닥 2% 급등의 진실 2026.04.14(현지시간) - 네이버 프리미엄콘텐츠
+- date: 2026-04-15T16:31:59.484041
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlVscldlMXN1XzAtMFlWQy1HbnFVOXlXQk5YVldQY3VycWhrcUdJTUs2b1p6S0U4dzJUWG1ITjZYNDQ4dVl0SWFDa0tPTTA1bmxyanRJcGk4TUt4aHBVbGZiQVVKQ19GUWVLdmZacXoxSXdrbVk0eEJYaUI1blJuX1Bwc2dNSUlCeGc?oc=5
+
+### 26. 네이버, 컨템포러리 패션 서비스 ‘노크잇’ 출시… 2030 공략 나선다
+- date: 2026-04-15T14:31:51.386574
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260415/133743691/1
+
+### 27. [단독] 국민성장펀드, 네이버 데이터센터에 4천억 지원…“AI 주권 확보”
+- date: 2026-04-15T10:31:54.594711
+- source: mk
+- url: https://www.mk.co.kr/news/economy/12017365
+
+### 28. “조용히 이력서 냈어요” 삼성 반도체 내부에 부는 ‘하이닉스 이직’ 바람 - 네이버 프리미엄콘텐츠
+- date: 2026-04-13T17:11:13.266626
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMigwFBVV95cUxQRjVGSjkteWR6dklJS3gyUGlqekhoR1ZQSVJzRVpiUl92c190SmNXSnJvMkF1ei0wdzNiMzhJeGxUek5xN3QyWWVKeHJIYUpaX0lQcS1BSklCYmpoVTU1NVZSWHRLOGNMNkpnQXBMNHdoMnlSTnRQQnIySWw5MmJMekpWRQ?oc=5
+
+### 29. 경주페이 이용 쉬워진다…네이버페이 등 간편결제 연동
+- date: 2026-04-13T17:11:13.247450
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260413137600053
+
+### 30. 증시 오늘 '핫이슈'…""좋은 기업? 나쁜 주식!" 네이버의 마지막 기회" - 매일경제TV
+- date: 2026-04-12T00:11:19.089288
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yRjNtNUl0cWhhcy1xeVZjV1dnckZGNmphSnpWRzZxa3ByZWNUN1h4U1NGSnBXQWZWVlo2UUtOcEtBU3Q2UklvbE1RWnN2TmY1Q1JQd3ZiSnFCc0lpWEtTeVlwRDhvVTIt?oc=5
+
+### 31. 투자자라면 꼭 알아야 하는 경제 일정 브리핑 (26.04.13~26.04.17) - 네이버 프리미엄콘텐츠
+- date: 2026-04-11T21:11:16.707498
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ1MzdWs1d05XUERjQ3JaMWd4c1FvWDJFVGRXcVM1V2F0eTNZY21zYUh5N3Z0dzd0bkVvTDVjTTdtRnl5c210Z0Jua3h6NkNVemRQYlJuTWhlMUZ5RzhmY2FyV3VfbUEzUExqUFFsX3VGQ2RSQ3VWWlJJRVIyeHdab1UyZXRsN1JtX1E?oc=5
+
+### 32. 증시 오늘 '핫이슈'…""좋은 기업? 나쁜 주식!" 네이버의 마지막 기회" - 매일경제 마켓
+- date: 2026-04-10T09:11:13.538777
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tcDZzbmRuN3l4bEdoQWZidTY2NUswR0J1ZDkxQUpUWkpKSlM4NmFLZXBBeENvd2IxVHVDOFVRYl9kNk9kSl95TXVDak9xOV93Smc?oc=5
+
+### 33. 네이버 AI 검색 '클로바X' 2년8개월만에 종료…"AI탭 중심 재편"
+- date: 2026-04-09T18:11:17.019302
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260409161000017
+
+### 34. 네이버 재방문 기록땐 우대금리...소상공인에 10조 공급
+- date: 2026-04-09T17:11:15.468298
+- source: sedaily
+- url: https://www.sedaily.com/article/20030514
+
+### 35. 삼성전자는 언제 반도체 사업을 시작했을까요? - 네이버 프리미엄콘텐츠
+- date: 2026-04-08T13:11:14.864413
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMifkFVX3lxTE84RkduVnpQalJMeHdhMUJKTWFmRDNJd2llQ2plR0xDVTczUHM2LW5Ua2hvRzlIeWs1WUdnZzg2MmxTWDM4dHlPUWJ2Y0xHdDIyMzVfT3hpeTJSbHdQaktFVEFCSDJNNVNoMGJXVExEckZ5dnlBWGJFT016bUgydw?oc=5
+
+### 36. 네이버 ‘연관 검색어’ 사라진다, 19년만에 종료… “AI 검색 강화”
+- date: 2026-04-08T05:11:15.105703
+- source: donga
+- url: https://www.donga.com/news/Society/article/all/20260408/133694769/2
+
+### 37. 네이버페이, 이자·포인트 동시에 받는 ‘Npay 머니 우리통장’ 연 4% 금리 대상 확대
+- date: 2026-04-07T22:00:24.512787
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260407/133691658/1
+
+### 38. 네이버, ‘가이드라인’ 역할 연관검색어 서비스 이달말 종료
+- date: 2026-04-07T22:00:24.512600
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260407/133692088/1
+
+### 39. 네이버 '연관 검색어' 서비스 20여년만에 종료
+- date: 2026-04-07T18:11:15.454049
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260407142400017
+
+### 40. '대륙의 선물' 쏟아진다…네이버 상륙한 샤오미 '가격 전쟁'
+- date: 2026-04-07T10:11:15.246378
+- source: hankyung
+- url: https://www.hankyung.com/article/202604073567g
+
+### 41. 네이버클라우드, 오픈클로 활용 AI 에이전트 개발 검토…B2B 중심
+- date: 2026-04-07T07:11:14.812646
+- source: sedaily
+- url: https://www.sedaily.com/article/20029096
+
+### 42. 연준의 금리 인하는 물 건너갔는가? - 네이버 프리미엄콘텐츠
+- date: 2026-04-06T10:11:12.341872
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVpyUVAxenpaakJTMjV2bVQ1Q3VuTnVLdXNMQ0FNaDM4Q0J2ZDdrRGg5ZVNpaUxYYWNnUFZic0dCbE8zYjMyNVB5blBwWVRISGpCYVBLLVNubTZkVU1uV2FONnJrYmF4MlF4ZGYzUDFlUjJqOFg2bl9YdUw4MDBHT053eXNkcU5VcFp1dmFLcVItdw?oc=5
+
+### 43. 하림 더미식, 네이버와 두 번째 협업 즉석밥…'골든퀸 백미밥' 출시
+- date: 2026-04-06T10:11:12.330453
+- source: hankyung
+- url: https://www.hankyung.com/article/202604060377g
+
+### 44. 또 주식이 하락한 이유, 마이크론 30% 하락. - 네이버 프리미엄콘텐츠
+- date: 2026-04-01T14:11:15.500635
+- source: google_kr
+- url: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGRrdjhkRHJJc3VrUEJwYXdHUlRhcHZxWmpkM08wbUxiaUo2WW5wMmlQWjlEWXltY1ZDVmFZWW9qNXdxTEd5V2RETWFra0lyUWVHNkpBUm9QSHJoODlac3U0R011d1MtUTVWRVNmX3JEVVZMbTE1WWJCR1pUTkczWVhpQzN3NHppVUQ4?oc=5
+
+## Scenario DB / TXT
+
+### 1. (5) 네이버파이낸셜 상장 추진…주식교환 완료후 최장 7년내 목표
+- scenario: # [46] 홍콩 디지털자산 허브 부상
+- file: scenario.db
+- score: db
+- category: finance
+- keywords: ["디지털자산", "가상자산", "암호화폐", "홍콩", "규제완화"]
+- node_id: 450
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 17:25:25 +0900
+- url: https://www.yna.co.kr/view/AKR20260415159100017
+- significance: 네이버파이낸셜의 IPO 추진과 두나무와의 주식교환은 디지털 금융 및 가상자산 시장의 제도권 편입과 성장을 가속화하며, 디지털 자산 허브 경쟁에 중요한 이정표가 될 수 있습니다.
+- summary: (서울=연합뉴스) 한상용 기자 = 네이버는 가상자산 거래소 업비트 운영사 두나무와의 주식교환 이후 네이버파이낸셜의 기업공개(IPO)를 추진하기로...
+
+### 2. (1) 라인야후 "네이버와 시스템 분리 완료…운영 위탁도 종료"
+- scenario: # [75] 일본의 디지털 주권 강화
+- file: scenario.db
+- score: db
+- category: geopolitics
+- keywords: ["라인야후", "디지털 주권", "데이터 안보", "플랫폼 독립", "기술 민족주의"]
+- node_id: 419
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 17:15:51 +0900
+- url: https://www.yna.co.kr/view/AKR20260415157500009
+- significance: 이 뉴스는 일본 정부의 압력과 라인야후의 시스템 분리 완료가 일본의 디지털 주권 강화 시나리오의 첫 번째 가시적인 결과물임을 나타냅니다.
+- summary: (서울=연합뉴스) 이도연 기자 = 메신저 라인의 운영사인 라인야후가 네이버와 시스템 분리를 완료했다고 니혼게이자이신문이 15일 보도했다.
+
+### 3. (2) 국민성장펀드, 네이버 AI 데이터센터에 4천억 저리대출
+- scenario: # [82] 한국 신성장 동력 확보
+- file: scenario.db
+- score: db
+- category: macro
+- keywords: ["정책펀드", "국민성장펀드", "미래산업투자", "경제성장률", "벤처투자"]
+- node_id: 501
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 16:49:39 +0900
+- url: https://www.yna.co.kr/view/AKR20260415151000002
+- significance: 국민성장펀드의 네이버 AI 데이터센터 투자는 정부 주도로 AI 산업에 대한 대규모 투자를 확대하여 국가 경제의 신성장 동력을 확보하려는 노력의 구체적인 사례입니다.
+- summary: (서울=연합뉴스) 임수정 기자 = 국민성장펀드가 네이버의 인공지능(AI) 데이터센터 증설과 그래픽처리장치(GPU) 도입에 4천억원 규모의 저리대...
+
+### 4. (7) 네이버·크래프톤·미래에셋, 인도서 최대 1조원 투자펀드 조성
+- scenario: # [82] 한국 신성장 동력 확보
+- file: scenario.db
+- score: db
+- category: macro
+- keywords: ["정책펀드", "국민성장펀드", "미래산업투자", "경제성장률", "벤처투자"]
+- node_id: 912
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 15:19:23 +0900
+- url: https://www.yna.co.kr/view/AKR20260421124900017
+- significance: 한국 기업들이 인도에 대규모 투자 펀드를 조성하는 것은 정부 주도의 정책 펀드를 넘어 민간이 해외 유망 시장에서 신성장 동력을 확보하려는 적극적인 전략 변화를 의미한다.
+- summary: (서울=연합뉴스) 한상용 기자 = 네이버가 인도에서 크래프톤[259960], 미래에셋과 손 잡고 대규모 기술 투자를 본격화한다.
+
+### 5. (47) LG 이어 네이버도 '엔비디아 회동'…K-AI 존재감 커졌다
+- scenario: # [139] 빅테크 AI 전환 경쟁
+- file: scenario.db
+- score: db
+- category: tech
+- keywords: ["AI 전환", "빅테크 전략", "애플", "리더십 교체", "하드웨어 AI"]
+- node_id: 1707
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 06:55:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260422156800017
+- significance: 엔비디아가 네이버, LG 등 국내 AI 선도 기업들과의 협력을 모색하는 것은 글로벌 빅테크 기업들이 AI 생태계 확장을 위해 적극적인 기술 동맹을 추진하며 산업 패권을 다투는 흐름의 일환입니다.
+- summary: (서울=연합뉴스) 권하영 기자 = 엔비디아가 개방형 인공지능(AI) 생태계 확장을 위해 네이버·LG 등 국내 주요 AI 기업들과의 기술 동맹을 ...
+
+### 6. (1) 삼성증권 "네이버, 커머스 고성장·신사업 지연 우려…목표가↓"
+- scenario: # [123] 플랫폼 기업 성장통
+- file: scenario.db
+- score: db
+- category: tech
+- keywords: ["플랫폼", "신사업", "커머스", "성장률 둔화", "규제 리스크"]
+- node_id: 720
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 08:20:37 +0900
+- url: https://www.yna.co.kr/view/AKR20260416026400008
+- significance: 이 뉴스는 국내 대표 플랫폼 기업의 핵심 사업 성과와 신사업 지연 우려를 동시에 보여주며, 플랫폼 기업들이 직면한 성장통의 한 단면을 제시합니다.
+- summary: (서울=연합뉴스) 김태종 기자 = 삼성증권[016360]은 16일 네이버에 대해 커머스(전자상거래)는 고성장하고 있지만 신사업 지연이 우려된다며...
+
+### 7. (27) 네이버 검색 70% 찍었다…AI에도 점유율 '반등'
+- scenario: # [3] 글로벌 AI 반도체 경쟁 심화
+- file: scenario.db
+- score: db
+- category: tech
+- keywords: ["AI", "반도체", "메모리반도체", "HBM", "AI반도체 투자"]
+- node_id: 706
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 06:33:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260415165600017
+- significance: 네이버의 국내 검색 시장 점유율 반등은 AI 기술 활용을 통한 서비스 경쟁력 강화의 결과로 해석될 수 있으며, 이는 AI 기술 투자가 기업의 시장 지배력에 미치는 영향력을 보여준다.
+- summary: (서울=연합뉴스) 한상용 기자 = 네이버 검색 점유율이 올해 들어서 60%를 계속 넘어서며 국내 검색 시장에서 강세를 이어가고 있다.
+
+### 8. (3) 국민성장펀드, 네이버 AI데이터센터에 4000억 저리 대출
+- scenario: # [82] 한국 신성장 동력 확보
+- file: scenario.db
+- score: db
+- category: macro
+- keywords: ["정책펀드", "국민성장펀드", "미래산업투자", "경제성장률", "벤처투자"]
+- node_id: 554
+- source: donga
+- published_at: Thu, 16 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260415/133747528/2
+- significance: 국민성장펀드의 네이버 AI 데이터센터 저리 대출은 정부 주도의 정책 펀드를 통한 미래 유망 산업(AI) 투자 확대를 명확히 보여주는 사례로, 한국 경제의 신성장 동력 확보 시나리오를 가속화할 것입니다.
+- summary: 국민성장펀드가 네이버 인공지능(AI) 데이터센터 증설과 그래픽처리장치(GPU) 도입 사업에 4000억 원을 연 3%대 저리 대출로 공급한다. 금융위원회는
+
+## Naver News
+
+(no results)

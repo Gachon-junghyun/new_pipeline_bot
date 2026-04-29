@@ -1,0 +1,31 @@
+# [312] 노동시장 갈등 심화
+
+profile: AI & Semiconductors
+label: primary
+score: 31 (metadata=0, nodes=29, repeat=2)
+category: macro
+updated_at: 2026-04-24T16:42:13.417605
+nodes: 4 total / 1 matched
+keywords: 노동시장, 노사갈등, 임금협상, 고용불안, 경제영향
+
+## Description
+노동계와 경영계 간의 합리적 협의가 무산되거나 난항을 겪으며, 이는 노동 시장의 불확실성을 증대시키고 경제 전반에 영향을 미칠 수 있습니다. 임금, 고용 조건, 노조 활동 등에 대한 갈등이 심화될 가능성이 있습니다.
+
+## Matched Tags
+- semiconductor: 29
+
+## Matched Terms
+  semiconductor:삼성전자 x3
+  semiconductor:반도체 x2
+
+## Matched News Nodes
+
+### (2) 삼성전자 총파업 태세에 증권가 촉각…"반도체 가격상승 압력"
+- score: 29
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 14:08:36 +0900
+- url: https://www.yna.co.kr/view/AKR20260424096500008
+- matched_terms: semiconductor:삼성전자 x3
+  semiconductor:반도체 x2
+- significance: 삼성전자 노동조합의 총파업 태세는 국내 최대 기업의 노사 갈등이 심화되고 있음을 보여주며, 이는 반도체 산업의 생산 안정성 및 전반적인 노동 시장에 불확실성을 가중시킬 수 있다.
+- summary: (서울=연합뉴스) 황철환 고은지 이민영 기자 = 삼성전자[005930] 노동조합이 영업이익 15% 성과급 지급, 성과급 상한제 폐지 등을 요구하...

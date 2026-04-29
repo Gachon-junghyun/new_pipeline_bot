@@ -1,0 +1,185 @@
+# [214] 글로벌 전력 인프라 확장
+
+profile: Infrastructure
+label: primary
+score: 222 (metadata=28, nodes=184, repeat=10)
+category: energy
+updated_at: 2026-04-23T11:42:09.968991
+nodes: 16 total / 15 matched
+keywords: 전력인프라, 데이터센터, AI, 에너지전환, 스마트그리드
+
+## Description
+AI, 데이터센터 수요 폭증과 에너지 전환 가속화로 전력 인프라에 대한 투자가 전 세계적으로 확대되고 있습니다. 이는 관련 기업들의 실적 개선과 함께 산업 구조 변화를 가져올 핵심적인 거시 트렌드입니다.
+
+## Matched Tags
+- energy_facility: 178
+- power: 137
+- digital: 55
+
+## Matched Terms
+  power:전력 인프라 x20
+  energy_facility:원전 x15
+  digital:데이터센터 x9
+  energy_facility:재생에너지 x8
+  energy_facility:원자력 x7
+  energy_facility:발전소 x4
+  power:배전 x2
+
+## Matched News Nodes
+
+### (6) 원자력연, 장기 정지 원전 설비 건전성 평가 신기술 개발
+- score: 47
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 11:29:55 +0900
+- url: https://www.yna.co.kr/view/AKR20260422074600063
+- matched_terms: energy_facility:원자력 x4
+  energy_facility:발전소 x2
+  energy_facility:원전 x2
+  power:전력 인프라 x1
+- significance: 원자력발전소 설비 건전성 평가 신기술 개발은 장기 정지 원전의 안전성을 확보하고 가동률을 높여 전력 공급 안정화에 기여하며 글로벌 전력 인프라 확장 추세에 부합하는 기술적 진전을 의미한다.
+- summary: (대전=연합뉴스) 김준호 기자 = 한국원자력연구원은 유지보수, 예방정비, 인허가 등으로 장기간 정지되는 원자력발전소의 2차 계통 설비가 대기 환...
+
+### (12) “두코바니 이어 테믈린 원전도 韓 수주땐 시너지 효과”
+- score: 37
+- source: donga
+- published_at: Thu, 23 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260422/133793762/2
+- matched_terms: energy_facility:원전 x5
+  energy_facility:발전소 x1
+  energy_facility:원자력 x1
+  power:전력 인프라 x1
+- significance: 한국이 체코 원전 사업을 연이어 수주할 경우, 에너지 전환과 전력 인프라 확장의 글로벌 트렌드 속에서 한국 원전 기술의 경쟁력과 수출 기여도를 높이는 중요한 계기가 될 것이다.
+- summary: “체코 두코바니 원자력발전소에 이어 테믈린 원전 3, 4호기 신규 원전 건설 사업을 한국이 수주한다면 분명 시너지 효과가 있을 것이다.” 토마시 에흘레르
+
+### (10) 金총리. '새울원전 3호기 보조건물 연기'에 "원인 철저 규명"
+- score: 37
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 19:16:26 +0900
+- url: https://www.yna.co.kr/view/AKR20260422157500001
+- matched_terms: energy_facility:원자력 x2
+  energy_facility:원전 x2
+  digital:데이터센터 x1
+  energy_facility:발전소 x1
+  power:전력 인프라 x1
+- significance: 새울원전 3호기 보조건물에서 발생한 연기 사고는 원자력 발전의 안정성 및 신뢰성 확보의 중요성을 부각하며, AI와 데이터센터 수요 증가로 전력 인프라 확장이 필수적인 시나리오에서 발전 설비의 안전 관리 강화가 핵심 과제임을 보여줍니다.
+- summary: (서울=연합뉴스) 이상현 기자 = 김민석 국무총리는 22일 울산 새울원자력발전소 3호기 시운전 과정에서 보조건물의 전자 부품에서 연기가 발생해 ...
+
+### (16) "2040년 재생에너지 13.9GW"…서부발전, 재생에너지사업단 확대
+- score: 35
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 11:20:07 +0900
+- url: https://www.yna.co.kr/view/AKR20260423084900063
+- matched_terms: energy_facility:재생에너지 x5
+  power:전력 인프라 x1
+- significance: 한국서부발전의 재생에너지사업단 확대는 2040년 13.9GW 재생에너지 목표 달성을 위한 핵심적인 기업 전략 변화로, 에너지 전환 가속화에 따른 전력 인프라 확장의 한 예시이다.
+- summary: (태안=연합뉴스) 정윤덕 기자 = 한국서부발전은 기존 1단 1실 4부였던 재생에너지사업단을 1단 2실 5부로 확대하고 전담 인력 30명을 보강하...
+
+### (9) 韓-베트남, 원전개발·전력인프라 등 협력문건 12건 체결
+- score: 28
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 20:45:56 +0900
+- url: https://www.yna.co.kr/view/AKR20260422138600001
+- matched_terms: energy_facility:원전 x3
+  power:전력 인프라 x2
+- significance: 한국과 베트남의 원전 개발 및 전력 인프라 협력은 아시아 지역의 에너지 전환 가속화와 전력 수요 증가에 대응하는 국제 협력 사례로, '글로벌 전력 인프라 확장' 시나리오를 강화한다.
+- summary: (하노이=연합뉴스) 임형섭 황윤기 기자 = 한국과 베트남은 22일(현지시간) 이재명 대통령과 또 럼 베트남 서기장과의 정상회담을 계기로 원전을 ...
+
+### (3) Today's Pick : LS일렉트릭에 미 빅테크 기업 러브콜…배전시장 강자로 떠올라 [마켓PRO]
+- score: 25
+- source: hankyung
+- published_at: Wed, 22 Apr 2026 08:22:34 +0900
+- url: https://www.hankyung.com/article/202604227480i
+- matched_terms: power:배전 x2
+  digital:데이터센터 x1
+  power:전력 인프라 x1
+- significance: LS일렉트릭이 미 빅테크 기업들의 데이터센터 증설로 인한 배전시장 수요 증가의 수혜를 입는 것은 글로벌 전력 인프라 확장이 가속화되는 중요한 사례이다.
+- summary: 
+
+### (15) 경남에너지, 통영에 도시가스 확대·신재생에너지 사업 추진
+- score: 22
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 10:30:59 +0900
+- url: https://www.yna.co.kr/view/AKR20260423068200052
+- matched_terms: energy_facility:재생에너지 x3
+  power:전력 인프라 x1
+- significance: 경남에너지가 통영시와 협력하여 도시가스 보급을 확대하고 신재생에너지 사업을 추진하는 것은 지역 단위의 에너지 인프라 확충 및 에너지 전환 노력의 일환으로, 전력 인프라 확장 시나리오와 연계될 수 있다.
+- summary: (창원=연합뉴스) 김선경 기자 = 경남에너지는 통영시와 협력해 도시가스 보급 확대·신재생에너지 사업을 추진한다고 23일 밝혔다.
+
+### (14) 2040년 최대 전력 수요 ‘원전 7기분’ 더 늘었다…전기화 수요 90% 급증[Pick코노미]
+- score: 19
+- source: sedaily
+- published_at: Thu, 23 Apr 2026 05:30:05 +0900
+- url: https://www.sedaily.com/article/20035954
+- matched_terms: energy_facility:원전 x2
+  power:전력 인프라 x1
+- significance: 2040년 최대 전력 수요가 원전 7기분에 달할 것으로 예측되면서, AI와 전기화 수요 증가가 전력 인프라 확장의 시급성을 더욱 부각시키고 있다.
+- summary: 
+
+### (11) “2040년 전력수요, 2038년보다 원전 2기분 더 필요”
+- score: 19
+- source: donga
+- published_at: Thu, 23 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260422/133794951/2
+- matched_terms: digital:데이터센터 x1
+  energy_facility:원전 x1
+  power:전력 인프라 x1
+- significance: 정부의 2040년 전력 목표수요 전망치는 AI, 데이터센터 확산 등으로 인한 전력 수요 급증과 에너지 전환 가속화라는 '글로벌 전력 인프라 확장' 시나리오의 국내적 현상을 구체적으로 보여주는 지표입니다.
+- summary: 정부가 제12차 전력수급기본계획(전기본)에 반영될 2040년 전력 목표수요를 131.8GW(기가와트)로 전망했다. 11차 전기본의 2038년 목표수요(1
+
+### (8) 韓-베트남, 전력 인프라·물 안보 협력…양해각서 체결(종합)
+- score: 19
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 21:45:10 +0900
+- url: https://www.yna.co.kr/view/AKR20260422136051530
+- matched_terms: power:전력 인프라 x3
+- significance: 한국과 베트남의 전력 인프라 협력은 베트남의 에너지 수요 증가와 한국의 전력 기술력을 결합하여 글로벌 전력 인프라 확장을 가속화하는 중요한 사례이다.
+- summary: (서울=연합뉴스) 이재영 기자 = 22일 이재명 대통령과 또 럼 베트남 서기장 정상회담을 계기로 기후에너지환경부와 베트남 산업무역부·농업환경부가...
+
+### (7) 14년 뒤인 2040년 최대전력수요 현재보다 1.4배로 증가 전망(종합)
+- score: 12
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 12:17:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260422057251530
+- matched_terms: digital:데이터센터 x1
+  power:전력 인프라 x1
+- significance: 2040년 한국의 최대 전력 수요가 현재보다 1.4배 증가할 것이라는 전망은 AI 및 데이터센터 수요 폭증과 에너지 전환 가속화로 인한 전력 인프라 확장 시나리오의 국내 상황을 구체적으로 보여주는 사례이다.
+- summary: (서울=연합뉴스) 이재영 기자 = 14년 뒤인 2040년 연중 최대 전력 수요가 최소 131.8GW(기가와트), 최대 138.2GW로 100GW...
+
+### (5) 14년 뒤인 2040년 최대전력수요 현재보다 1.4배로 증가 전망
+- score: 12
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 10:29:52 +0900
+- url: https://www.yna.co.kr/view/AKR20260422057200530
+- matched_terms: digital:데이터센터 x1
+  power:전력 인프라 x1
+- significance: 2040년 한국의 최대 전력 수요가 현재보다 1.4배 증가할 것이라는 전망은 AI, 데이터센터 및 산업화에 따른 전력 수요 급증으로 글로벌 전력 인프라 확장이 필수적임을 보여주는 국내 사례입니다.
+- summary: (서울=연합뉴스) 이재영 기자 = 14년 뒤인 2040년 연중 최대 전력 수요가 최소 131.8GW(기가와트), 최대 138.2GW로 100GW...
+
+### (4) 'K전력' 빅3 스타트 좋네…LS일렉트릭, 북미 매출 날았다 [종목+]
+- score: 12
+- source: hankyung
+- published_at: Wed, 22 Apr 2026 08:16:19 +0900
+- url: https://www.hankyung.com/article/2026042274526
+- matched_terms: digital:데이터센터 x1
+  power:전력 인프라 x1
+- significance: LS일렉트릭의 북미 매출 증가는 AI, 데이터센터 확대로 인한 글로벌 전력 인프라 수요 증가 시나리오가 현실화되고 있음을 보여주는 구체적인 사례이다.
+- summary: 
+
+### (2) 삼성증권 "LS일렉 주가 101% 급등에도 매수 유효…목표가↑"
+- score: 12
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 08:40:52 +0900
+- url: https://www.yna.co.kr/view/AKR20260422027800008
+- matched_terms: digital:데이터센터 x1
+  power:전력 인프라 x1
+- significance: LS일렉트릭의 주가 급등은 AI 및 데이터센터 수요 증가와 에너지 전환 가속화로 인한 글로벌 전력 인프라 투자의 확대가 실제 기업 실적과 시장 평가에 긍정적인 영향을 미치고 있음을 보여준다.
+- summary: (서울=연합뉴스) 김태종 기자 = 삼성증권[016360]은 22일 LS일렉트릭[010120]에 대해 투자의견 '매수'를 유지하고 목표주가를 기존...
+
+### (1) "LS일렉트릭, 일회성 비용에도 최대 실적 기록…목표가↑"-하나
+- score: 6
+- source: hankyung
+- published_at: Wed, 22 Apr 2026 07:16:29 +0900
+- url: https://www.hankyung.com/article/2026042274146
+- matched_terms: power:전력 인프라 x1
+- significance: LS일렉트릭의 최대 실적은 글로벌 전력 인프라 확장이라는 거시적 흐름 속에서 관련 기업들이 이미 수혜를 입고 있음을 보여주는 첫 신호입니다.
+- summary:

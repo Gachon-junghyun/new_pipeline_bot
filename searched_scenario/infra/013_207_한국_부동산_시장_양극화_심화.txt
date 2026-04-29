@@ -1,0 +1,50 @@
+# [207] 한국 부동산 시장 양극화 심화
+
+profile: Infrastructure
+label: primary
+score: 56 (metadata=0, nodes=50, repeat=6)
+category: macro
+updated_at: 2026-04-22T11:50:03.871238
+nodes: 5 total / 3 matched
+keywords: 부동산 양극화, 고층 아파트, 분양 시장, 자산 불평등, 지역 불균형
+
+## Description
+경기 둔화와 고금리 기조 속에서도 특정 부동산(초고층, 고급 주거 등)으로 수요가 집중되며 시장 내 양극화가 심화될 수 있습니다. 이는 자산 불평등을 확대하고 지역 경제의 불균형을 초래할 수 있습니다.
+
+## Matched Tags
+- urban: 50
+
+## Matched Terms
+  urban:재개발 x4
+  urban:재건축 x3
+  urban:주택 공급 x2
+
+## Matched News Nodes
+
+### (3) 구로구 '가리봉1구역 재개발' 내달 1일 창립총회
+- score: 28
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 07:02:47 +0900
+- url: https://www.yna.co.kr/view/AKR20260422016300004
+- matched_terms: urban:재개발 x4
+  urban:주택 공급 x1
+- significance: 가리봉1구역 재개발은 서울 내 특정 지역의 주택 공급 확대로 이어져, 고금리 기조 속에서도 신축 및 재개발 수요가 견고한 특정 지역의 부동산 가치 상승을 가속화하며 시장 양극화를 심화시킬 수 있습니다.
+- summary: (서울=연합뉴스) 정준영 기자 = 구로구(구청장 장인홍)는 가리봉1구역(가리봉동 115번지 일대) 주택정비형 재개발사업 창립총회가 5월 1일 오...
+
+### (4) 현대건설, 압구정3구역 재건축 청사진 '원 시티' 공개
+- score: 16
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 10:25:26 +0900
+- url: https://www.yna.co.kr/view/AKR20260422056400003
+- matched_terms: urban:재건축 x3
+- significance: 압구정3구역 재건축 사업은 국내 최고가 주거 단지 개발 사례로, 경기 둔화 속에서도 초고가 부동산에 대한 수요가 견고함을 보여주며 한국 부동산 시장의 양극화 심화 경향을 뒷받침합니다.
+- summary: (서울=연합뉴스) 임기창 기자 = 서울 강남구 압구정3구역 재건축 우선협상대상자에 선정된 현대건설이 압구정 현대의 가치 계승을 내세우며 도시 청...
+
+### (5) 성북 장위 13-1·2구역 신통기획 확정…5천900세대 공급
+- score: 6
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 11:15:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260422055400004
+- matched_terms: urban:주택 공급 x1
+- significance: 서울 성북구 장위 신통기획을 통한 대규모 주거단지 공급 소식은 서울 내 주택 공급 확대라는 긍정적 측면이 있으나, 서울 특정 지역의 대규모 개발은 부동산 시장의 지역별 양극화를 심화시킬 가능성을 내포합니다.
+- summary: (서울=연합뉴스) 정수연 기자 = 서울 성북구 장위 13-1구역과 2구역에 5천900세대 주거단지가 들어선다.

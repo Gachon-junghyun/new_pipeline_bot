@@ -1,0 +1,43 @@
+# [155] 인프라 노후화 리스크 확대
+
+profile: Infrastructure
+label: primary
+score: 46 (metadata=8, nodes=34, repeat=4)
+category: macro
+updated_at: 2026-04-21T20:50:40.441421
+nodes: 4 total / 2 matched
+keywords: 인프라 노후화, 시스템 장애, 사회간접자본, 경제적 손실, 리스크 관리
+
+## Description
+선진국을 중심으로 사회 기반 시설 노후화로 인한 사고와 시스템 장애가 빈번해지며, 경제적 손실과 사회적 혼란이 가중될 수 있습니다. 이는 장기적인 투자 부담과 잠재적 성장률 둔화로 이어질 수 있는 거시적 위험 요인입니다.
+
+## Matched Tags
+- urban: 23
+- transport: 19
+
+## Matched Terms
+  transport:공항 x4
+  urban:재건축 x2
+  urban:도시 인프라 x1
+  urban:사회간접자본 x1
+
+## Matched News Nodes
+
+### (1) 日관문 공항 잇단 사고·장애…하네다 관제결함에 1만4천명 혼란
+- score: 19
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 14:48:24 +0900
+- url: https://www.yna.co.kr/view/AKR20260421115900009
+- matched_terms: transport:공항 x4
+- significance: 일본 관문 공항의 잇따른 사고는 선진국 인프라 노후화 문제의 심각성을 부각시키며, 경제 활동의 핵심 동맥에 발생할 수 있는 잠재적 위험을 보여주는 초기 징후입니다.
+- summary: (서울=연합뉴스) 최이락 기자 = 일본의 관문인 도쿄 하네다공항과 나리타공항에서 항공기 사고와 시스템 장애가 잇따르며 승객들이 큰 불편을 겪었다...
+
+### (4) 목동 재편 ‘신호탄’… 서울 서남권 위상 오를까
+- score: 15
+- source: donga
+- published_at: Tue, 21 Apr 2026 19:53:32 +0900
+- url: https://www.donga.com/news/list/article/all/20260421/133785761/2
+- matched_terms: urban:재건축 x2
+  urban:도시 인프라 x1
+- significance: 목동 신시가지 아파트의 노후화 문제는 장기적인 도시 인프라 노후화 리스크가 현실화되는 국내 사례로, 재건축을 통한 인프라 개선 및 도시 재편의 필요성을 보여준다.
+- summary: 서울 양천구 목동 일대가 재건축 기대감과 신규 개발 사업을 축으로 재편 움직임을 보이고 있다. 노후 주택 비중이 높은 가운데 신규 공급이 사실상 끊기면서, 시장에서는 구조적 공급 부족 해소 여부에 관심이 쏠린다.목동은 우수한 학군과 생활 인프라를 바탕으로 꾸준한 수요가 유입되는 대표 주거지다. 그러나 1980년대 후반 조성된 신시가지 아파트들의 노후화가 빠

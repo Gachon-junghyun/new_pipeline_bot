@@ -1,0 +1,97 @@
+# [181] 동남아 공급망 재편 및 경제협력 강화
+
+profile: Infrastructure
+label: primary
+score: 94 (metadata=0, nodes=84, repeat=10)
+category: trade
+updated_at: 2026-04-24T11:41:40.902546
+nodes: 48 total / 8 matched
+keywords: 공급망 재편, 베트남, 인도, 동남아시아, 경제 협력
+
+## Description
+글로벌 공급망 재편 및 미-중 갈등 심화 속에서 한국을 비롯한 주요국들이 동남아시아 국가들과의 경제 협력을 강화하며 새로운 성장 동력을 모색하는 시나리오입니다. 이는 단순한 무역을 넘어 투자, 기술 협력, 인프라 구축 등 다방면으로 전개될 수 있습니다.
+
+## Matched Tags
+- energy_facility: 77
+- transport: 29
+
+## Matched Terms
+  energy_facility:원전 x14
+  transport:철도 x5
+  transport:공항 x1
+
+## Matched News Nodes
+
+### (24) 현대로템, 베트남 철도 사업에 무인전동차 공급…철도협력 확대
+- score: 20
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 17:29:15 +0900
+- url: https://www.yna.co.kr/view/AKR20260423162500003
+- matched_terms: transport:철도 x3
+- significance: 현대로템의 베트남 철도 사업 진출은 한국 기업의 동남아시아 인프라 시장 참여 확대를 보여주며, 글로벌 공급망 재편 및 경제협력 강화 시나리오를 뒷받침합니다.
+- summary: (서울=연합뉴스) 윤민혁 기자 = 현대로템은 23일 베트남 차량 기업 타코(THACO) 그룹과 호찌민 메트로 2호선 사업 계약을 체결했다고 밝혔...
+
+### (14) 李대통령 "韓, 베트남 '선진국 진입' 최적 파트너"…또 럼 "인프라·원전 투자 환영" (종합2보)
+- score: 19
+- source: asiae
+- published_at: Thu, 23 Apr 2026 00:42:37 +0900
+- url: https://www.asiae.co.kr/article/2026042300423663416
+- matched_terms: energy_facility:원전 x2
+  transport:공항 x1
+  transport:철도 x1
+- significance: 이 뉴스는 한국과 베트남 간 교역·투자 협력 확대를 통해 동남아시아 공급망 재편 및 경제협력 강화 시나리오의 핵심 동력을 제공하며, 특히 에너지 안보, 인프라, 원전, 반도체, AI 등 첨단 산업 분야 협력으로 시나리오의 구체적인 진전을 보여줍니다.
+- summary: 이재명 대통령이 22일(현지시간) 베트남 하노이에서 또 럼 베트남 공산당 서기장 겸 국가 주석과 정상회담을 하고 2030년까지 양국 교역 규모 1500억 달러(약 222조원) 달성을 목표로 교역·투자 협력을 확대하기로 했다. 특히 양국은 최근 중동 상황으로 불안해진 공급망 안정화를 위해 에너지 안보 등에 협력하기로 하는 한편 철도·신공항·반도체·인공지능(A
+
+### (7) 한-베, 신규 원전 건설 맞손…핵심광물 공급망 협력도 가속
+- score: 16
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 21:58:19 +0900
+- url: https://www.yna.co.kr/view/AKR20260422167700003
+- matched_terms: energy_facility:원전 x3
+- significance: 한국과 베트남의 원전 및 핵심광물 공급망 협력은 동남아시아 지역에서의 경제 협력을 강화하고 글로벌 공급망 재편에 대응하는 중요한 움직임입니다.
+- summary: (서울=연합뉴스) 신창용 기자 = 한국과 베트남이 이재명 대통령의 국빈 방문을 계기로 신규 원전 건설과 핵심광물 공급망을 중심으로 경제 협력을 ...
+
+### (2) 인도 순방 마친 李, 베트남 도착…정상회담서 원전·공급망 협력 논의
+- score: 16
+- source: asiae
+- published_at: Tue, 21 Apr 2026 20:38:45 +0900
+- url: https://www.asiae.co.kr/article/2026042111040216414
+- matched_terms: energy_facility:원전 x3
+- significance: 이재명 대통령의 베트남 방문은 인도에 이어 동남아시아 국가들과의 원전, 에너지, 공급망 및 핵심광물 협력을 강화하여 한국의 경제 안보를 확보하고 동남아 공급망 재편에 적극적으로 참여하려는 전략적 움직임을 보여준다.
+- summary: 인도 국빈 방문 일정을 마무리한 이재명 대통령이 21일(현지시간) 베트남 하노이로 이동해 또 럼 베트남 공산당 서기장 겸 국가주석과의 정상외교에 나선다. 이번 한-베트남 정상회담에서는 인프라와 원전, 에너지·공급망 안정, 핵심광물 협력 등 경제안보 의제가 전면에 오를 전망이다. 이 대통령은 이번 방문을 계기로 양국의 전략적·호혜적 협력을 한 단계 더 끌어올
+
+### (39) AI-원전 분야도 손잡는 韓-베트남 “흔들리지 않는 공급망 협력”
+- score: 13
+- source: donga
+- published_at: Fri, 24 Apr 2026 04:30:00 +0900
+- url: https://www.donga.com/news/Politics/article/all/20260424/133803393/2
+- matched_terms: energy_facility:원전 x2
+- significance: 미국-이란 전쟁 장기화로 인한 국제 경제 불확실성 속에서 한국과 베트남이 AI-원전 분야에서 협력하며 공급망 안정을 꾀하는 것은 동남아시아와의 경제 협력 강화를 통해 공급망 재편을 추진하는 시나리오를 가속화한다.
+- summary: 이재명 대통령은 23일(현지 시간) 한-베트남 비즈니스 포럼에서 미국과 이란 전쟁 장기화로 국제 경제의 불확실성이 높아지는 위기 상황에 대응하기 위해 “
+
+### (35) 한·베 비즈 포럼서 기업 간 MOU 74건 쏟아져…김용범 "교역 2000억 달러도 머지 않아"
+- score: 12
+- source: asiae
+- published_at: Thu, 23 Apr 2026 22:55:18 +0900
+- url: https://www.asiae.co.kr/article/2026042322281506883
+- matched_terms: energy_facility:원전 x3
+- significance: 이 뉴스는 한국과 베트남 간의 경제협력 강화, 특히 인프라, 원전, AI 등 미래 첨단산업 분야에서의 협력 확대를 보여주며, 글로벌 공급망 재편 속에서 동남아시아의 중요성이 부각되는 시나리오를 뒷받침한다.
+- summary: 이재명 대통령의 베트남 국빈 방문을 계기로 경제협력이 한 단계 더 도약하는 계기를 맞았다. 양국은 인프라·원전·인공지능(AI) 등 12건의 정부·기관 간 협력 문건을 비롯해 에너지·K소비재를 아우르는 74건의 민간 기업 간 양해각서(MOU)를 체결했다. 원전 협력의 경우 한국 측 제안이 아니라 베트남 측 요청으로 이뤄졌다는 점에서 양국 협력이 미래 첨단산업
+
+### (40) 李 "원전·인프라·에너지 협력…베트남 '홍강의 기적' 함께 만들자" - 한국경제
+- score: 7
+- source: google_kr
+- published_at: Thu, 23 Apr 2026 04:47:35 GMT
+- url: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqRk8yNDVWcktBQU1JUVJ3OXl6T20xQXNuS24tZDdaYmNyb3pKelYwa1JEMFZjWXFKUnZrY0ZQM0tBNWdmWUUzb0VsbEI3VVRjdFAtdENuVEJkUdIBVEFVX3lxTE5raDhCTWtuRHhENDlKZU5iRWRyVjkzMVRnMjVobHNGanU0T2RQODNXN3ZUbC1oNmpGWFFyclpZLWpuUy1sZzRSSFI4bks2emtaXzkxYg?oc=5
+- matched_terms: energy_facility:원전 x1
+- significance: 한국과 베트남의 에너지, 인프라 협력 강화는 동남아시아 지역의 공급망 재편과 경제 협력 확대라는 시나리오 흐름에 중요한 사례로 작용합니다.
+- summary: <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqRk8yNDVWcktBQU1JUVJ3OXl6T20xQXNuS24tZDdaYmNyb3pKelYwa1JEMFZjWXFKUnZrY0ZQM0tBNWdmWUUzb0VsbEI3VVRjdFAtdENuVEJkUdIBVEFVX3lxTE5raDhCTWtuRHhEND
+
+### (46) 한·베트남, 정상외교 계기 도시·교통 인프라 협력 확대
+- score: 3
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 10:05:54 +0900
+- url: https://www.yna.co.kr/view/AKR20260424052400003
+- matched_terms: transport:철도 x1
+- significance: 이번 한-베트남 정상회담을 계기로 한 도시·교통 인프라 협력 확대는 한국이 베트남을 전략적 경제 파트너로 인식하고 동남아 공급망 재편의 핵심 거점으로 삼으려는 노력을 강화하는 시그널로 볼 수 있습니다.
+- summary: (서울=연합뉴스) 임기창 기자 = 국토교통부는 이재명 대통령의 베트남 국빈 방문과 관련해 베트남과 도시철도 차량 공급, 인프라 개발사업 발굴 등...

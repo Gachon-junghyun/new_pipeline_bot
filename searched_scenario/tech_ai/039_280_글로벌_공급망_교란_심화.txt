@@ -1,0 +1,56 @@
+# [280] 글로벌 공급망 교란 심화
+
+profile: AI & Semiconductors
+label: primary
+score: 38 (metadata=0, nodes=30, repeat=8)
+category: trade
+updated_at: 2026-04-24T17:41:46.508064
+nodes: 19 total / 4 matched
+keywords: 공급망, 원자재, 에너지 가격, 물가 인상, 중동 리스크
+
+## Description
+중동 지정학적 리스크 심화로 인한 원자재 공급 불안정성이 글로벌 산업 생산 및 공급망 전반에 심각한 영향을 미치고 있습니다. 이는 에너지 가격 상승, 물가 인상 압력, 그리고 전 세계적인 경기 둔화로 이어질 수 있습니다.
+
+## Matched Tags
+- ai: 30
+
+## Matched Terms
+  ai:AI x6
+
+## Matched News Nodes
+
+### (7) Energy stocks are trouncing the rest of the stock market in 2026. Why the Iran war could erode those gains from here.
+- score: 10
+- source: marketwatch
+- published_at: Thu, 23 Apr 2026 11:30:00 GMT
+- url: https://www.marketwatch.com/story/energy-stocks-are-trouncing-the-rest-of-the-stock-market-in-2026-why-the-iran-war-could-erode-those-gains-from-here-5feb3f46?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+- significance: 이란 전쟁으로 인한 유가 상승이 에너지 기업의 수익을 저해할 수 있다는 전망은 중동 지정학적 리스크로 인한 원자재 시장 교란 가능성을 보여주는 핵심 지표입니다.
+- summary: Rising oil prices are putting wind in the sails of oil and gas companies — but only for so long. They are reaching levels now that could start to bite into energy firms’ bottom lines.
+
+### (8) American Airlines reports record revenue as strong travel demand offsets higher fuel costs
+- score: 10
+- source: marketwatch
+- published_at: Thu, 23 Apr 2026 11:30:00 GMT
+- url: https://www.marketwatch.com/story/american-airlines-reports-record-revenue-as-strong-travel-demand-offsets-higher-fuel-costs-d0b89973?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+- significance: 이란 분쟁으로 인한 유가 상승과 항공사들의 운항 감축은 중동 지정학적 리스크가 글로벌 공급망과 에너지 시장에 미치는 영향을 직접적으로 보여주는 사례입니다.
+- summary: It’s a precarious time for the airline sector, as a surge in fuel costs due to the Iran conflict is forcing carriers to cut capacity.
+
+### (9) Honeywell’s stock drops as sales miss confirms fears of Middle East shipping disruptions
+- score: 3
+- source: marketwatch
+- published_at: Thu, 23 Apr 2026 12:02:00 GMT
+- url: https://www.marketwatch.com/story/honeywells-stock-drops-as-sales-miss-confirms-fears-of-middle-east-shipping-disruptions-f8534248?mod=mw_rss_topstories
+- matched_terms: ai:AI x1
+- significance: 하니웰의 매출 부진은 중동 분쟁으로 인한 선적 차질이 기업의 실적에 직접적인 영향을 미치며 글로벌 공급망 교란이 심화되고 있음을 보여주는 사례입니다.
+- summary: Honeywell’s sales missed expectations for a third straight quarter, as the Middle East conflict resulted in shipping disruptions.
+
+### (10) Kalshi traders don't see Strait of Hormuz traffic returning to normal until July
+- score: 7
+- source: cnbc
+- published_at: Thu, 23 Apr 2026 14:19:40 GMT
+- url: https://www.cnbc.com/2026/04/23/kalshi-bettors-see-strait-of-hormuz-traffic-normal-by-july.html
+- matched_terms: ai:AI x1
+- significance: 호르무즈 해협의 정상적인 선박 통행 복귀 지연 예측은 중동 지정학적 리스크가 지속되며 글로벌 원자재 공급 및 물류 불안정을 심화시킬 수 있음을 시사한다.
+- summary: Chances that traffic returns to normal fell below 50% on Wednesday, according to Kalshi bettors, despite the U.S. and Iran extending the ceasefire.

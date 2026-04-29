@@ -1,0 +1,41 @@
+# [162] 글로벌 산업정책 경쟁 심화
+
+profile: Infrastructure
+label: primary
+score: 40 (metadata=0, nodes=36, repeat=4)
+category: macro
+updated_at: 2026-04-23T13:41:33.240400
+nodes: 22 total / 2 matched
+keywords: 산업정책, 정부개입, 기업지원, 국가경쟁력, 보호무역
+
+## Description
+각국 정부가 특정 산업의 패권을 확보하고 자국 기업을 보호하기 위해 직접 시장 개입과 지원을 강화하는 추세가 심화되고 있습니다. 이는 자유 시장 경제 원칙에 변화를 가져오며, 산업 경쟁 구도와 국제 무역 질서에 큰 영향을 미칠 것입니다.
+
+## Matched Tags
+- energy_facility: 36
+
+## Matched Terms
+  energy_facility:ESS x3
+  energy_facility:원전 x3
+  energy_facility:원자력 x1
+
+## Matched News Nodes
+
+### (7) 원전수출 창구 한전으로 단일화…'공동 주계약'으로 갈등 차단
+- score: 19
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 06:05:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260421167900003
+- matched_terms: energy_facility:원전 x3
+  energy_facility:원자력 x1
+- significance: 정부의 원전 수출 체계 단일화는 에너지 산업의 국가 경쟁력 강화를 위한 적극적인 산업 정책 개입으로, 글로벌 산업정책 경쟁 심화 시나리오의 흐름을 반영합니다.
+- summary: (서울=연합뉴스) 신창용 김동규 기자 = 정부가 한국전력과 한국수력원자력으로 이원화된 원전 수출 체계를 전면 개편한다.
+
+### (16) Businesses trying to claim tariff refunds run into problems, as government officials briefly pause access to portal
+- score: 17
+- source: marketwatch
+- published_at: Wed, 22 Apr 2026 18:27:00 GMT
+- url: https://www.marketwatch.com/story/businesses-trying-to-claim-tariff-refunds-are-already-running-into-problems-74637ecf?mod=mw_rss_topstories
+- matched_terms: energy_facility:ESS x3
+- significance: 관세 환급 포털의 일시적 운영 중단은 정부의 재정 정책 및 산업 보호 정책 실행에 있어 예상치 못한 문제와 불확실성이 발생할 수 있음을 시사하며, 이는 글로벌 산업정책 경쟁 심화 시나리오에서 정부 개입의 한계점을 보여주는 사례가 될 수 있습니다.
+- summary: It wasn’t all smooth sailing this week as the federal government started the process of accepting claims for massive amounts of tariff refunds.

@@ -1,0 +1,30 @@
+# [167] 글로벌 해운 지형 변화
+
+profile: Infrastructure
+label: primary
+score: 32 (metadata=21, nodes=9, repeat=2)
+category: trade
+updated_at: 2026-04-21T18:50:26.946689
+nodes: 1 total / 1 matched
+keywords: 해운산업, 글로벌 공급망, 물류 허브, 항만 경쟁력, 컨테이너 운송
+
+## Description
+글로벌 공급망 재편과 지정학적 불안정성 증대로 인해 해상 운송 경로 및 물류 거점의 중요성이 부각되고 있습니다. 주요 항만의 경쟁 심화와 신규 항로 개설은 세계 무역 흐름에 중대한 변화를 가져올 수 있습니다.
+
+## Matched Tags
+- transport: 30
+
+## Matched Terms
+  transport:항만 x4
+  transport:물류 허브 x1
+
+## Matched News Nodes
+
+### (1) 광양항에 아시아∼북미 원양항로 취항
+- score: 9
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 17:56:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260421159100054
+- matched_terms: transport:항만 x2
+- significance: 광양항에 북미 원양항로가 취항한 것은 동북아시아와 북미 간 해상 운송 네트워크의 확장과 국내 항만의 경쟁력 강화를 알리는 중요한 신호입니다.
+- summary: (광양=연합뉴스) 손상원 기자 = 여수광양항만공사는 21일 전남 광양항 컨테이너부두에서 프랑스 선사 'CMA CGM' 미주 서비스 취항 기념식을...

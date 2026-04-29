@@ -1,0 +1,38 @@
+# [62] 디지털 금융 사기 확산
+
+profile: AI & Semiconductors
+label: secondary
+score: 24 (metadata=5, nodes=15, repeat=4)
+category: finance
+updated_at: 2026-04-15T21:32:12.905307
+nodes: 5 total / 2 matched
+keywords: SNS 사기, 온라인 투자 사기, 금융 사기, 디지털 금융, 사기 피해, 규제 강화
+
+## Description
+SNS와 온라인 플랫폼을 활용한 투자 사기가 전 세계적으로 증가하며 개인 투자자의 피해가 심각해지고 있습니다. 이는 금융 시장의 신뢰도 하락과 규제 강화 압력으로 이어질 수 있으며, 디지털 금융 환경의 안정성 확보가 주요 과제로 부상할 것입니다.
+
+## Matched Tags
+- platform: 20
+
+## Matched Terms
+  platform:플랫폼 x4
+
+## Matched News Nodes
+
+### (1) 日서도 SNS 투자 사기 기승…피해액 1.5배 급증
+- score: 6
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 11:43:38 +0900
+- url: https://www.yna.co.kr/view/AKR20260415092100073
+- matched_terms: platform:플랫폼 x1
+- significance: 일본에서의 SNS 투자 사기 피해 급증은 디지털 플랫폼을 이용한 금융 범죄가 특정 지역을 넘어 전 세계적인 문제로 확산되고 있음을 보여주는 초기 징후입니다.
+- summary: (도쿄=연합뉴스) 조성미 특파원 = 지난해 일본에서 소셜미디어(SNS)를 통한 거짓 투자 정보 등에 현혹된 사기 피해액이 전년 대비 1.5배로 ...
+
+### (5) EU, 아동 SNS 접근 옥죈다…"연령인증 앱 곧 공개"
+- score: 9
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 20:21:27 +0900
+- url: https://www.yna.co.kr/view/AKR20260415177300098
+- matched_terms: platform:플랫폼 x2
+- significance: EU의 아동 SNS 접근 제한 및 연령인증 앱 공개는 온라인 플랫폼 규제 강화의 일환으로, 디지털 사기 및 유해 정보 확산 방지 시나리오와 연관됩니다.
+- summary: (브뤼셀=연합뉴스) 현윤경 특파원 = 유럽 국가 상당수가 미성년자의 소셜미디어(SNS) 제한을 검토하는 가운데 유럽연합(EU)이 온라인 플랫폼 ...

@@ -1,0 +1,134 @@
+# [7] 한국 지역균형발전 2.0
+
+profile: Infrastructure
+label: primary
+score: 121 (metadata=0, nodes=111, repeat=10)
+category: macro
+updated_at: 2026-04-24T17:42:09.632661
+nodes: 99 total / 11 matched
+keywords: 지역균형발전, 지방소멸, 관광산업, 새마을운동, 지역경제활성화
+
+## Description
+지역 소멸 위기에 대응하고 수도권 집중을 완화하기 위한 정부의 새로운 지역 경제 활성화 정책 드라이브가 시작됩니다. 과거 새마을 운동처럼 지역 특색을 살린 관광, 산업 육성을 통해 지방에 활력을 불어넣으려는 시도가 주요합니다.
+
+## Matched Tags
+- industrial_facility: 79
+- transport: 54
+- urban: 15
+- energy_facility: 9
+
+## Matched Terms
+  industrial_facility:산업단지 x12
+  transport:공항 x4
+  transport:철도 x4
+  industrial_facility:산단 x3
+  energy_facility:원전 x2
+  transport:철도망 x2
+  urban:주택 공급 x2
+  transport:도로 x1
+  urban:도시 인프라 x1
+
+## Matched News Nodes
+
+### (60) 경남도·경남상의협, 철도망 확대 공동 추진…KTX·SRT 증편 등
+- score: 29
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 11:34:17 +0900
+- url: https://www.yna.co.kr/view/AKR20260423088300052
+- matched_terms: transport:철도 x3
+  transport:철도망 x2
+- significance: 경남도와 경남상공회의소협의회의 철도망 확대 공동 추진은 지역 인프라 개선을 통해 수도권 집중 완화 및 지역 경제 활성화를 목표로 하는 '한국 지역균형발전 2.0' 시나리오의 구체적인 정책 실행 사례입니다.
+- summary: (창원=연합뉴스) 이정훈 기자 = 경남도는 경남상공회의소협의회와 함께 철도교통망 확대를 추진한다고 23일 밝혔다.
+
+### (14) 마산자유무역지역, 노후거점산단 경쟁력강화 사업지구 고시
+- score: 25
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 15:05:57 +0900
+- url: https://www.yna.co.kr/view/AKR20260415124600052
+- matched_terms: industrial_facility:산업단지 x4
+  industrial_facility:산단 x1
+- significance: 마산자유무역지역이 노후거점산업단지 경쟁력강화 사업지구로 지정된 것은 정부가 지역 소멸 위기에 대응하고 노후 산업단지의 기능을 현대화하여 지역 경제 활성화를 도모하려는 '한국 지역균형발전 2.0' 시나리오의 구체적인 정책 실행 사례입니다.
+- summary: (창원=연합뉴스) 이정훈 기자 = 경남도는 국토교통부가 마산자유무역지역 국가산업단지를 '2026년도 노후거점산업단지 경쟁력강화 사업지구'로 지정...
+
+### (47) '주차난' 인천 남동국가산단에 379면 공영주차장 조성
+- score: 22
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 08:31:14 +0900
+- url: https://www.yna.co.kr/view/AKR20260422028600065
+- matched_terms: industrial_facility:산업단지 x3
+  industrial_facility:산단 x1
+- significance: 인천 남동국가산업단지 공영주차장 조성은 지역 산업단지의 고질적인 주차난을 해소하고 기업 활동을 지원함으로써 지역 경제 활성화에 기여하는 사례입니다.
+- summary: (인천=연합뉴스) 홍현기 기자 = 인천시는 주차난을 겪고 있는 남동국가산업단지에 379면 규모의 공영주차장을 조성했다고 22일 밝혔다.
+
+### (6) [부산소식] 가덕도신공항 거버넌스, 2026년 제1차 전체 회의
+- score: 19
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 08:10:41 +0900
+- url: https://www.yna.co.kr/view/AKR20260415021300051
+- matched_terms: transport:공항 x4
+- significance: 가덕도신공항 건설 추진은 지방 대형 인프라 투자를 통한 지역 경제 활성화 및 국가 균형 발전을 목표로 하는 '한국 지역균형발전 2.0' 시나리오의 구체적인 이행 사례로 볼 수 있습니다.
+- summary: (부산=연합뉴스) ▲ 가덕도신공항 거버넌스, 2026년 제1차 전체 회의 = 부산시는 15일 부산역 회의실에서 가덕도신공항의 성공적인 추진을 위...
+
+### (68) 밀양시-한국카본, 나노산단·물류단지 1천억 규모 투자 협약
+- score: 16
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 16:16:20 +0900
+- url: https://www.yna.co.kr/view/AKR20260423147300052
+- matched_terms: industrial_facility:산업단지 x2
+  industrial_facility:산단 x1
+- significance: 밀양시와 한국카본의 나노산업단지 투자는 지역 소멸 위기 대응 및 수도권 집중 완화를 위한 지역 경제 활성화 정책의 일환으로 해석될 수 있습니다.
+- summary: (밀양=연합뉴스) 이준영 기자 = 경남 밀양시는 23일 시청 소회의실에서 한국카본, 한국토지주택공사 경남지역본부와 '밀양나노융합국가산업단지 부지...
+
+### (49) 고양 일산테크노밸리 도시첨단산업단지 24일부터 분양
+- score: 16
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 09:18:35 +0900
+- url: https://www.yna.co.kr/view/AKR20260422037200060
+- matched_terms: industrial_facility:산업단지 x3
+- significance: 고양 일산테크노밸리 분양은 수도권 외곽 지역의 산업단지 조성을 통한 지역 경제 활성화 및 자족 기능 강화 노력의 일환으로, '한국 지역균형발전 2.0' 시나리오의 흐름과 맞닿아 있습니다.
+- summary: (고양=연합뉴스) 노승혁 기자 = 경기 고양시는 '고양 일산테크노밸리' 도시첨단산업단지를 오는 24일부터 분양한다고 22일 밝혔다.
+
+### (51) 빈집 줄이고 새집 늘리고…화천군, 5년간 주거환경 개선 착수
+- score: 9
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 11:11:43 +0900
+- url: https://www.yna.co.kr/view/AKR20260422073600062
+- matched_terms: urban:주택 공급 x2
+- significance: 화천군의 빈집 정비와 신규 주택 공급은 지역 소멸 위기에 대응하고 주거 환경을 개선하려는 지방정부의 적극적인 노력으로, '한국 지역균형발전 2.0' 시나리오의 구체적인 정책 사례에 해당합니다.
+- summary: (화천=연합뉴스) 이상학 기자 = 강원 화천군이 빈집 정비와 신규 주택 공급을 병행하며 주거환경 개선에 나선다.
+
+### (13) 경남 주력산업·관광 분야에 기업 17곳·1조237억 신규 투자
+- score: 9
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 15:10:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260415070300052
+- matched_terms: energy_facility:원전 x2
+- significance: 경남 지역에 우주항공, 원전, 관광 등 주력 산업 투자가 이뤄짐으로써 지방 소멸 위기에 대응하고 지역 경제 활성화를 도모하는 정부 정책의 가시적인 성과로 해석될 수 있습니다.
+- summary: (창원=연합뉴스) 이정훈 기자 = 경남에 기업 17곳이 우주항공, 원전, 관광, 물류산업을 중심으로 신규 투자한다.
+
+### (41) 김미애 의원, "생활공원 5년마다 정비 의무화" 법안 발의
+- score: 6
+- source: asiae
+- published_at: Tue, 21 Apr 2026 19:30:59 +0900
+- url: https://www.asiae.co.kr/article/2026042119305927877
+- matched_terms: urban:도시 인프라 x1
+- significance: 생활권 공원 접근성 개선 법안 발의는 지역 주민의 삶의 질 향상과 건강 증진을 목표로 하는 정책으로, 장기적으로 지역균형발전과 도시 인프라 재정비의 일환으로 볼 수 있습니다.
+- summary: 김미애 국민의힘 의원은 생활권 공원의 출입로 부족과 보행 연결 미비 문제를 개선하기 위한 '도시공원 및 녹지 등에 관한 법률' 개정안을 21일 대표 발의했다. 현행 생활권 공원은 국민의 휴식·여가·건강 증진을 위한 핵심 인프라지만, 상당수가 출입로 부족과 단절된 보행 동선으로 접근성이 떨어져 '있어도 못 쓰는 공원'이라는 지적이 지속돼 왔다. 이에 개정안은
+
+### (93) 김영록 전남지사, 정부에 통합특별시 재정 지원 건의
+- score: 3
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 14:32:12 +0900
+- url: https://www.yna.co.kr/view/AKR20260424103300054
+- matched_terms: transport:철도 x1
+- significance: 김영록 전남지사의 통합특별시 재정 지원 건의는 지역균형발전과 지방소멸 위기 대응을 위한 정부 정책 드라이브의 일환으로, 지역 경제 활성화 및 인프라 확충 논의를 가속화하는 중요한 진전입니다.
+- summary: (무안=연합뉴스) 형민우 기자 = 김영록 전남지사는 24일 기획예산처에 전남광주특별시의 안정적 출범과 전라선 고속철도(익산~여수) 추진을 위한 ...
+
+### (19) 소각장 확충 수년째 표류에도 인천시 '뒷짐'…지역 갈등만 커져
+- score: 3
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 07:17:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260415137600065
+- matched_terms: transport:도로 x1
+- significance: 인천 소각장 확충 사업의 표류는 지역 기반 시설 확충의 어려움을 보여주며, 지역 갈등 관리 및 원활한 사업 추진이 지역균형발전의 핵심 과제임을 시사한다.
+- summary: (인천=연합뉴스) 김상연 기자 = 2024년 일선 기초자치단체 주도로 전환된 인천의 자원순환센터(소각장) 확충 사업이 수년째 표류하면서 지역 간...

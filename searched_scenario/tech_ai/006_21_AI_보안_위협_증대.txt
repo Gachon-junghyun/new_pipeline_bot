@@ -1,0 +1,98 @@
+# [21] AI 보안 위협 증대
+
+profile: AI & Semiconductors
+label: primary
+score: 206 (metadata=38, nodes=158, repeat=10)
+category: tech
+updated_at: 2026-04-15T14:32:25.512555
+nodes: 8 total / 8 matched
+keywords: AI, 사이버보안, 취약점, 생산성, 국가안보
+
+## Description
+AI 기술의 급속한 발전은 생산성 향상과 동시에 새로운 유형의 사이버 보안 위협을 야기합니다. AI 시스템 자체의 취약점뿐 아니라 AI를 활용한 정교한 공격 방식이 출현하며, 기업 및 국가 안보에 심각한 도전 과제를 제시하고 있습니다. 이는 AI 도입 가속화와 함께 보안 투자의 중요성을 부각시킬 것입니다.
+
+## Matched Tags
+- ai: 198
+- platform: 16
+
+## Matched Terms
+  ai:AI x34
+  platform:오픈AI x3
+  ai:인공지능 x2
+
+## Matched News Nodes
+
+### (1) Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks
+- score: 12
+- source: cnbc
+- published_at: Tue, 14 Apr 2026 16:46:10 GMT
+- url: https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html
+- matched_terms: ai:AI x2
+- significance: 이 뉴스는 AI 기술이 단순한 생산성 도구를 넘어 기업과 사회에 심각한 보안 위협을 초래할 수 있음을 경고하며, AI 시대의 새로운 보안 이슈의 시작을 알립니다.
+- summary: The remarks show how a technology welcomed by corporations as a productivity boon can also pose serious threats, like uncovering new ways to hack into systems.
+
+### (2) 오픈AI, 보안 전용모델 전문가에 한정 공개…앤트로픽에 맞불
+- score: 56
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 07:01:55 +0900
+- url: https://www.yna.co.kr/view/AKR20260415014400091
+- matched_terms: ai:AI x7
+  platform:오픈AI x3
+  ai:인공지능 x1
+- significance: 오픈AI의 보안 전용 AI 모델 공개는 AI 기술 발전과 함께 증대되는 AI 보안 위협에 대한 업계의 대응 노력과 경쟁 심화를 보여준다.
+- summary: (샌프란시스코=연합뉴스) 권영전 특파원 = 챗GPT 개발사 오픈AI가 보안 전용 인공지능(AI) 모델을 일부 보안 전문가에 한정 공개하며 앤트로...
+
+### (3) 한국첨단소재, '양자보안 블록체인 L2 네트워크' 선점 선언
+- score: 6
+- source: asiae
+- published_at: Wed, 15 Apr 2026 08:26:36 +0900
+- url: https://www.asiae.co.kr/article/2026041508263739912
+- matched_terms: ai:AI x1
+- significance: 양자내성 암호 기술을 적용한 블록체인 네트워크 출시는 양자컴퓨터 시대에 발생할 수 있는 잠재적 보안 위협에 선제적으로 대응하려는 시도로, AI 보안 위협 증대 시나리오의 한 축인 암호화 기술 발전에 영향을 미 미칠 수 있습니다.
+- summary: 코스닥 상장사 한국첨단소재가 양자내성 암호 기술을 적용한 이더리움 호환 레이어2(L2) 네트워크 'QuantumShield L2(퀀텀쉴드 L2)'를 선보인다. 회사는 15일 해당 네트워크 공개를 통해 차세대 블록체인 보안 인프라 경쟁에 본격적으로 뛰어든다고 밝혔다. 최근 이더리움 공동 창립자인 비탈릭 부테린이 양자컴퓨터가 이르면 2028년 전후 기존 암호체
+
+### (4) 현대캐피탈 175만 고객정보 해킹 공범 15년 만에 구속 송치
+- score: 6
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 10:10:58 +0900
+- url: https://www.yna.co.kr/view/AKR20260415054700004
+- matched_terms: ai:AI x1
+- significance: 15년 만에 현대캐피탈 고객 정보 해킹 공범이 구속된 사건은 금융권의 데이터 보안 취약성을 다시 한번 상기시키며, AI 시대 더욱 고도화될 사이버 보안 위협에 대한 경각심을 높이는 사례입니다.
+- summary: (서울=연합뉴스) 조현영 이율립 기자 = 2011년 발생한 현대캐피탈 고객 개인정보 해킹 사건의 공범이 15년 만에 검찰에 넘겨졌다.
+
+### (5) 제재할땐 언제고…美재무부, 앤트로픽 '미토스' 접근권 확보추진
+- score: 24
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 10:06:24 +0900
+- url: https://www.yna.co.kr/view/AKR20260415056100091
+- matched_terms: ai:AI x4
+  ai:인공지능 x1
+- significance: 미국 재무부가 제재 대상 기업의 AI 모델에 접근하려는 시도는 AI 기술이 국가 안보 및 정보력에 미치는 영향이 커지면서 AI 보안의 중요성이 더욱 부각됨을 보여준다.
+- summary: (샌프란시스코=연합뉴스) 권영전 특파원 = 미국 행정부의 제재를 받는 앤트로픽이 높은 보안 취약점 탐지 능력을 갖춘 인공지능(AI) 모델을 내놓...
+
+### (6) 과기정통부, '우수 정보보호 기술' 지정 공모
+- score: 6
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 12:00:08 +0900
+- url: https://www.yna.co.kr/view/AKR20260415051300017
+- matched_terms: ai:AI x1
+- significance: 과기정통부의 우수 정보보호 기술 공모는 AI 기술 발전과 함께 증가하는 사이버 보안 위협에 대한 선제적 대응 및 관련 시장 활성화를 위한 정부의 노력을 보여준다.
+- summary: (서울=연합뉴스) 권하영 기자 = 과학기술정보통신부는 정보보호 분야 경쟁력 확보와 시장 활성화를 위해 우수 기술·제품·서비스 지정 대상을 15일...
+
+### (7) “위험하다더니 전략 자산”…美, 앤트로픽 ‘미토스’ 확보 나선 배경
+- score: 15
+- source: donga
+- published_at: Wed, 15 Apr 2026 12:36:00 +0900
+- url: https://www.donga.com/news/Inter/article/all/20260415/133743165/2
+- matched_terms: ai:AI x3
+- significance: 미국 재무부가 AI 기술을 '공급망 위험'에서 '전략 자산'으로 재평가하고 확보에 나선 것은 AI 기술이 단순한 보안 위협을 넘어 국가 안보 및 기술 패권 경쟁의 핵심 요소로 부상했음을 보여준다.
+- summary: 미국 재무부가 ‘공급망 위험’으로 지정했던 앤트로픽 AI ‘미토스’ 확보에 나섰다. 보안 위협으로 지목된 기술이 중국과의 경쟁 속에서 전략 자산으로 재평
+
+### (8) [AI픽] 파수AI "AX 전환 선언…AI 공격 공동 대응 필요"
+- score: 51
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 14:13:03 +0900
+- url: https://www.yna.co.kr/view/AKR20260415110200017
+- matched_terms: ai:AI x9
+- significance: 파수AI의 사명 변경과 AX 시장 공략 선언은 AI 전환 가속화와 함께 AI 공격 공동 대응의 필요성을 강조하며, AI 기술 발전이 야기하는 새로운 사이버 보안 위협에 대한 경각심을 높이는 사례이다.
+- summary: (서울=연합뉴스) 오지은 기자 = 보안 전문 기업 파수[150900]가 파수AI로 사명을 변경하고 AX(AI 전환) 시장 공략을 본격화한다.

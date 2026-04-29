@@ -1,0 +1,31 @@
+# [136] K-의료 산업 고도화
+
+profile: AI & Semiconductors
+label: secondary
+score: 21 (metadata=0, nodes=19, repeat=2)
+category: tech
+updated_at: 2026-04-21T15:50:35.263472
+nodes: 8 total / 1 matched
+keywords: 의료기기, 바이오산업, 품질관리, K-헬스, 수출경쟁력
+
+## Description
+한국 의료기기 및 바이오 산업의 품질 경쟁력 강화와 글로벌 시장 확대를 목표로 정부 정책 및 기업 투자가 확대되는 시나리오입니다. 인구 고령화와 건강 증진에 대한 관심 증대로 첨단 의료 기술 수요가 증가하며, 국내 산업의 질적 성장이 국가 경쟁력 제고로 이어질 수 있습니다.
+
+## Matched Tags
+- ai: 19
+
+## Matched Terms
+  ai:AI x3
+  ai:인공지능 x1
+
+## Matched News Nodes
+
+### (6) 과기정통부·복지부, 공공 의료 AI 전환 가속화
+- score: 19
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 12:00:07 +0900
+- url: https://www.yna.co.kr/view/AKR20260421064400017
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+- significance: 정부의 공공 의료 AI 전환 가속화 정책은 K-의료 산업 고도화 시나리오에서 디지털 헬스케어 기술 도입과 활용을 촉진하여 의료 서비스 혁신 및 효율성 증대를 이끌 중요한 진전이다.
+- summary: (서울=연합뉴스) 권하영 기자 = 정부가 공공 의료 분야 인공지능 전환(AX)을 위해 공공 병원정보시스템의 AI 기반 소프트웨어 서비스(SaaS...

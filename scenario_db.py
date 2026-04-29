@@ -11,6 +11,7 @@
 import os
 import json
 import sqlite3
+import re
 from datetime import datetime
 from typing import List, Dict, Optional
 
@@ -25,6 +26,108 @@ def _get_conn() -> sqlite3.Connection:
     conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA foreign_keys=ON")
     return conn
+
+
+def _parse_keywords(value: str) -> List[str]:
+    try:
+        parsed = json.loads(value or "[]")
+        return parsed if isinstance(parsed, list) else []
+    except json.JSONDecodeError:
+        return []
+
+
+def _scenario_row_to_dict(row: sqlite3.Row) -> Dict:
+    d = dict(row)
+    d["keywords"] = _parse_keywords(d.get("keywords"))
+    if "relevance" in d and d["relevance"] is None:
+        d["relevance"] = 0
+    return d
+
+
+def _extract_search_terms(text: str, max_terms: int = 8) -> List[str]:
+    """
+    LIKE 검색용 핵심 토큰 추출.
+    긴 자연어 질문/기사 요약이 그대로 들어와도 주요 명사/영문 토큰 중심으로 후보를 찾는다.
+    """
+    text = (text or "").strip()
+    if not text:
+        return []
+
+    terms: List[str] = []
+    compact = re.sub(r"\s+", " ", text)
+    if 2 <= len(compact) <= 80:
+        terms.append(compact)
+
+    stopwords = {
+        "관련", "주요", "이슈", "시나리오", "분석", "전망", "뉴스", "기사",
+        "그리고", "또는", "대한", "대해", "으로", "에서", "에게", "와", "과",
+        "the", "and", "for", "with", "from", "this", "that",
+    }
+    for token in re.findall(r"[0-9A-Za-z가-힣]+", text.lower()):
+        if len(token) < 2 or token in stopwords:
+            continue
+        if token not in terms:
+            terms.append(token)
+        if len(terms) >= max_terms:
+            break
+    return terms
+
+
+def _search_scenario_rows(query: str, category: Optional[str], limit: int) -> List[sqlite3.Row]:
+    terms = _extract_search_terms(query)
+    if not terms:
+        return []
+
+    score_parts = []
+    score_params = []
+    where_parts = []
+    where_params = []
+
+    for term in terms:
+        like = f"%{term}%"
+        score_parts.append(
+            "("
+            "CASE WHEN s.name LIKE ? THEN 10 ELSE 0 END + "
+            "CASE WHEN s.description LIKE ? THEN 5 ELSE 0 END + "
+            "CASE WHEN s.keywords LIKE ? THEN 7 ELSE 0 END + "
+            "CASE WHEN n.title LIKE ? THEN 8 ELSE 0 END + "
+            "CASE WHEN n.summary LIKE ? THEN 4 ELSE 0 END + "
+            "CASE WHEN n.significance LIKE ? THEN 6 ELSE 0 END + "
+            "CASE WHEN n.source LIKE ? THEN 2 ELSE 0 END"
+            ")"
+        )
+        score_params.extend([like] * 7)
+        where_parts.append(
+            "("
+            "s.name LIKE ? OR s.description LIKE ? OR s.keywords LIKE ? OR "
+            "n.title LIKE ? OR n.summary LIKE ? OR n.significance LIKE ? OR n.source LIKE ?"
+            ")"
+        )
+        where_params.extend([like] * 7)
+
+    where_sql = " OR ".join(where_parts)
+    if category:
+        where_sql = f"({where_sql}) AND s.category = ?"
+        where_params.append(category)
+
+    sql = f"""
+        SELECT
+            s.id, s.name, s.description, s.category, s.keywords,
+            s.created_at, s.updated_at,
+            MAX({" + ".join(score_parts)}) AS relevance,
+            COUNT(DISTINCT n.id) AS matched_nodes
+        FROM scenarios s
+        LEFT JOIN nodes n ON n.scenario_id = s.id
+        WHERE {where_sql}
+        GROUP BY s.id
+        ORDER BY relevance DESC, s.updated_at DESC
+        LIMIT ?
+    """
+
+    conn = _get_conn()
+    rows = conn.execute(sql, (*score_params, *where_params, limit)).fetchall()
+    conn.close()
+    return rows
 
 
 # ─────────────────────────────────────────────
@@ -96,9 +199,7 @@ def get_all_scenarios(limit: int = 200) -> List[Dict]:
     conn.close()
     result = []
     for r in rows:
-        d = dict(r)
-        d["keywords"] = json.loads(d["keywords"] or "[]")
-        result.append(d)
+        result.append(_scenario_row_to_dict(r))
     return result
 
 
@@ -113,7 +214,7 @@ def get_scenario_with_nodes(scenario_id: int) -> Optional[Dict]:
         conn.close()
         return None
     scenario = dict(row)
-    scenario["keywords"] = json.loads(scenario["keywords"] or "[]")
+    scenario["keywords"] = _parse_keywords(scenario["keywords"])
 
     nodes = conn.execute(
         "SELECT id, title, summary, significance, url, source, "
@@ -129,32 +230,45 @@ def get_scenario_with_nodes(scenario_id: int) -> Optional[Dict]:
 
 def search_scenarios(query: str, category: Optional[str] = None,
                      limit: int = 10) -> List[Dict]:
-    conn = _get_conn()
-    like = f"%{query}%"
-    if category:
-        rows = conn.execute(
-            "SELECT id, name, description, category, keywords, updated_at "
-            "FROM scenarios "
-            "WHERE (name LIKE ? OR description LIKE ? OR keywords LIKE ?) "
-            "  AND category = ? "
-            "ORDER BY updated_at DESC LIMIT ?",
-            (like, like, like, category, limit),
-        ).fetchall()
-    else:
-        rows = conn.execute(
-            "SELECT id, name, description, category, keywords, updated_at "
-            "FROM scenarios "
-            "WHERE name LIKE ? OR description LIKE ? OR keywords LIKE ? "
-            "ORDER BY updated_at DESC LIMIT ?",
-            (like, like, like, limit),
-        ).fetchall()
-    conn.close()
-    result = []
-    for r in rows:
-        d = dict(r)
-        d["keywords"] = json.loads(d["keywords"] or "[]")
-        result.append(d)
-    return result
+    """
+    시나리오 메타데이터와 노드 본문을 함께 검색한다.
+
+    기업명/사건명이 시나리오 설명에는 없고 개별 노드에만 있어도 RAG 후보로 잡히도록
+    scenarios와 nodes를 함께 훑는다.
+    """
+    rows = _search_scenario_rows(query, category=category, limit=limit)
+    return [_scenario_row_to_dict(r) for r in rows]
+
+
+def find_candidate_scenarios_for_article(article: Dict, limit: int = 50) -> List[Dict]:
+    """
+    새 기사와 관련 가능성이 높은 기존 시나리오 후보를 반환한다.
+
+    최신순 상위 N개만 Gemini에 넘기던 방식 대신, 기사 제목/요약/출처를 기존 노드까지
+    포함해 검색해서 오래된 시나리오도 후보에 다시 올라오게 한다.
+    """
+    query = " ".join(
+        part for part in [
+            article.get("title", ""),
+            article.get("summary", ""),
+            article.get("source", ""),
+        ] if part
+    )
+    rows = _search_scenario_rows(query, category=None, limit=limit)
+    candidates = [_scenario_row_to_dict(r) for r in rows]
+
+    if len(candidates) >= limit:
+        return candidates
+
+    seen = {s["id"] for s in candidates}
+    for scenario in get_all_scenarios(limit=limit):
+        if scenario["id"] in seen:
+            continue
+        candidates.append(scenario)
+        seen.add(scenario["id"])
+        if len(candidates) >= limit:
+            break
+    return candidates
 
 
 def get_scenarios_by_category(category: str, limit: int = 20) -> List[Dict]:
@@ -168,9 +282,7 @@ def get_scenarios_by_category(category: str, limit: int = 20) -> List[Dict]:
     conn.close()
     result = []
     for r in rows:
-        d = dict(r)
-        d["keywords"] = json.loads(d["keywords"] or "[]")
-        result.append(d)
+        result.append(_scenario_row_to_dict(r))
     return result
 
 

@@ -1,0 +1,29 @@
+# [312] 노동시장 갈등 심화
+
+profile: Infrastructure
+label: secondary
+score: 18 (metadata=0, nodes=16, repeat=2)
+category: macro
+updated_at: 2026-04-24T16:42:13.417605
+nodes: 4 total / 1 matched
+keywords: 노동시장, 노사갈등, 임금협상, 고용불안, 경제영향
+
+## Description
+노동계와 경영계 간의 합리적 협의가 무산되거나 난항을 겪으며, 이는 노동 시장의 불확실성을 증대시키고 경제 전반에 영향을 미칠 수 있습니다. 임금, 고용 조건, 노조 활동 등에 대한 갈등이 심화될 가능성이 있습니다.
+
+## Matched Tags
+- transport: 16
+
+## Matched Terms
+  transport:항만 x3
+
+## Matched News Nodes
+
+### (4) 하청 노조에 대한 울산항만공사 사용자성 인정…지역 첫 사례
+- score: 16
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 16:15:10 +0900
+- url: https://www.yna.co.kr/view/AKR20260424123500057
+- matched_terms: transport:항만 x3
+- significance: 이번 울산항만공사 사례는 노란봉투법 시행 이후 원청의 사용자성 인정이라는 지역 첫 사례로, 향후 노동시장 전반의 노사 관계 및 하청 노동자의 권리 보장 논의에 중대한 영향을 미 미칠 수 있습니다.
+- summary: (울산=연합뉴스) 김근주 기자 = 노란봉투법(개정 노동조합 및 노동관계조정법 2·3조) 시행 후 울산항만공사 하청 노동조합에 대한 원청의 사용자...

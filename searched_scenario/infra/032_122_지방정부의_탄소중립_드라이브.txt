@@ -1,0 +1,40 @@
+# [122] 지방정부의 탄소중립 드라이브
+
+profile: Infrastructure
+label: primary
+score: 30 (metadata=0, nodes=26, repeat=4)
+category: energy
+updated_at: 2026-04-21T20:50:18.951079
+nodes: 8 total / 2 matched
+keywords: 탄소중립, 기후변화, 지방정부, 시민참여, 에너지 전환
+
+## Description
+국가 단위의 탄소중립 목표를 넘어, 지방정부와 시민 사회가 주도하는 하향식(Bottom-up) 탄소중립 실천 움직임이 확산되고 있습니다. 이는 중앙 정부 정책의 실효성을 높이고 새로운 산업 및 기술 수요를 창출할 수 있는 중요한 흐름입니다.
+
+## Matched Tags
+- water: 16
+- energy_facility: 10
+
+## Matched Terms
+  water:수자원 x3
+  energy_facility:태양광 x2
+
+## Matched News Nodes
+
+### (7) 태백시, 가뭄 대응 중장기 수자원 관리체계 구축
+- score: 16
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 16:56:40 +0900
+- url: https://www.yna.co.kr/view/AKR20260421148400062
+- matched_terms: water:수자원 x3
+- significance: 강원 태백시의 중장기 수자원 관리체계 구축은 기후변화에 대응하는 지방정부의 적극적인 노력을 보여주는 사례로, '지방정부의 탄소중립 드라이브' 시나리오에 부합한다.
+- summary: (태백=연합뉴스) 이상학 기자 = 강원 태백시가 기후변화로 인한 물 공급 불안에 대응해 중장기 수자원 관리체계를 구축하고 가뭄 대응에 나섰다.
+
+### (2) 히트펌프 보급 '태양광설비 필수' 요건 완화될까…제주도 건의
+- score: 10
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 11:35:14 +0900
+- url: https://www.yna.co.kr/view/AKR20260421086200056
+- matched_terms: energy_facility:태양광 x2
+- significance: 제주도의 히트펌프 보급 요건 완화 건의는 지방정부가 지역 특성을 고려한 에너지 전환 정책을 추진하며 탄소중립 목표 달성 방안을 모색하는 과정의 일환이다.
+- summary: (제주=연합뉴스) 전지혜 기자 = 제주도가 태양광 설비 없이도 '히트펌프' 보급사업에 참여할 수 있도록 해달라고 정부에 건의하기로 했다.

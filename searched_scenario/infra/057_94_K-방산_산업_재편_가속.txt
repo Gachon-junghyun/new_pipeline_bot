@@ -1,0 +1,29 @@
+# [94] K-방산 산업 재편 가속
+
+profile: Infrastructure
+label: secondary
+score: 12 (metadata=0, nodes=10, repeat=2)
+category: corporate
+updated_at: 2026-04-23T20:41:35.555017
+nodes: 26 total / 1 matched
+keywords: 방산, 구조조정, M&A, 기업전략, 지정학
+
+## Description
+글로벌 방산 시장 확대와 지정학적 불안정 심화에 따라 한국 방위산업의 경쟁력 강화를 위한 기업 구조조정 및 투자 확대가 가속화되고 있습니다. 이는 한국 방산 기업들의 몸집을 키우고 효율성을 높여 국제 무대에서의 입지를 강화하려는 전략적 움직임으로 해석됩니다.
+
+## Matched Tags
+- energy_facility: 10
+
+## Matched Terms
+  energy_facility:ESS x2
+
+## Matched News Nodes
+
+### (19) Boeing’s defense business is booming at a time when airplanes are disappointing
+- score: 10
+- source: marketwatch
+- published_at: Wed, 22 Apr 2026 14:00:00 GMT
+- url: https://www.marketwatch.com/story/boeings-defense-business-is-booming-at-a-time-when-airplanes-are-disappointing-1a5ff1ac?mod=mw_rss_topstories
+- matched_terms: energy_facility:ESS x2
+- significance: 보잉의 방산 사업 성장은 글로벌 지정학적 불안정 심화에 따른 방산 시장 확대의 전형적인 사례로, 이는 K-방산 산업 재편 가속 시나리오에서 글로벌 방산 수요 증가가 국내 방산 기업에 미칠 긍정적 영향과 맥을 같이 한다.
+- summary: Boeing’s stock jumped Wednesday, as a partnership with the Trump administration on PAC-3 interceptor missiles provided a boost to the company’s defense business, which saw revenue rise well above expe

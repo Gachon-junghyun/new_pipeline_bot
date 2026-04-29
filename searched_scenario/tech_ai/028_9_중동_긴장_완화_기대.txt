@@ -1,0 +1,146 @@
+# [9] 중동 긴장 완화 기대
+
+profile: AI & Semiconductors
+label: primary
+score: 56 (metadata=0, nodes=46, repeat=10)
+category: geopolitics
+updated_at: 2026-04-23T13:41:56.548482
+nodes: 144 total / 14 matched
+keywords: 미국-이란, 핵협상, 중동정세, 유가안정, 지정학적 리스크
+
+## Description
+미국과 이란 간의 2차 협상 논의는 중동 지역의 지정학적 긴장을 완화하고 에너지 시장의 불확실성을 줄이는 중요한 신호입니다. 이는 국제 유가 안정화와 글로벌 공급망 리스크 감소로 이어질 수 있습니다.
+
+## Matched Tags
+- ai: 76
+
+## Matched Terms
+  ai:AI x20
+
+## Matched News Nodes
+
+### (6) GBP/USD nears 1.3590 as softer US PPI sinks Dollar demand
+- score: 3
+- source: fxstreet
+- published_at: Tue, 14 Apr 2026 15:34:48 Z
+- url: https://www.fxstreet.com/news/gbp-usd-nears-13590-as-softer-us-ppi-sinks-dollar-demand-202604141534
+- matched_terms: ai:AI x1
+- significance: 미국-이란 갈등 해소에 대한 낙관론은 중동 지역의 지정학적 긴장 완화 기대를 강화하며 환율 시장에 영향을 미치고 있습니다.
+- summary: The Pound Sterling advances as traders remain optimistic about a possible resolution to the US-Iran conflict. At the same time, the US Dollar weakens amid a hot US inflation report that missed forecas
+
+### (9) Asia FX: Mixed implications of Strait of Hormuz risk – MUFG
+- score: 10
+- source: fxstreet
+- published_at: Tue, 14 Apr 2026 16:37:33 Z
+- url: https://www.fxstreet.com/news/asia-fx-mixed-implications-of-strait-of-hormuz-risk-mufg-202604141637
+- matched_terms: ai:AI x2
+- significance: 미국의 호르무즈 해협 봉쇄에도 불구하고 미-이란 대화가 지속되면서 중동 긴장 완화 기대와 지정학적 리스크 완화 시나리오에 복합적인 영향을 미치고 있습니다.
+- summary: MUFG’s Senior Currency Analyst Michael Wan highlights that Trump has begun a US naval blockade of the Strait of Hormuz, but risk assets have rebounded as talks between the US and Iran continue.
+
+### (10) USD/CAD pares losses as Oil slides below $90 on US-Iran talks optimism
+- score: 3
+- source: fxstreet
+- published_at: Tue, 14 Apr 2026 16:26:34 Z
+- url: https://www.fxstreet.com/news/usd-cad-pares-losses-as-oil-slides-below-90-on-us-iran-talks-optimism-202604141626
+- matched_terms: ai:AI x1
+- significance: 미국-이란 핵협상 재개 기대감으로 유가가 하락하고 캐나다 달러가 약세를 보이는 것은 중동 긴장 완화 기대 시나리오의 직접적인 흐름을 강화합니다.
+- summary: USD/CAD trims some of its earlier losses on Tuesday as easing Oil prices on renewed US-Iran talks optimism weigh on the commodity-linked Canadian Dollar (CAD), helping the pair recover from intraday l
+
+### (19) Dow Jones Industrial Average climbs as soft PPI, Iran ceasefire hopes lift sentiment
+- score: 3
+- source: fxstreet
+- published_at: Tue, 14 Apr 2026 16:58:33 Z
+- url: https://www.fxstreet.com/news/dow-jones-industrial-average-climbs-as-soft-ppi-iran-ceasefire-hopes-lift-sentiment-202604141658
+- matched_terms: ai:AI x1
+- significance: 이란 휴전 기대감은 중동 지정학적 리스크 완화에 대한 시장의 낙관적인 기대를 보여주며, 이는 글로벌 증시 상승에 긍정적인 영향을 미칩니다.
+- summary: The Dow Jones Industrial Average (DJIA) gained around 300 points, or 0.6%, trading near 48,500. The S&P 500 rose 1.1% while the Nasdaq Composite jumped 1.8%, led by a broad rally in technology nam
+
+### (28) Gold surges as Iran talks hopes dent US Dollar again
+- score: 10
+- source: fxstreet
+- published_at: Tue, 14 Apr 2026 19:38:01 Z
+- url: https://www.fxstreet.com/news/gold-surges-as-iran-talks-hopes-dent-us-dollar-again-202604141938
+- matched_terms: ai:AI x2
+- significance: 미국-이란 핵협상 재개에 대한 기대감으로 국제유가가 안정되고 중동 지정학적 리스크가 완화될 것이라는 시장의 인식이 나타났습니다.
+- summary: Gold (XAU/USD) price surges nearly 2% on Tuesday amid growing optimism linked to the resumption of US-Iran talks, even though the US military seized Iran-linked ships as the blockade of the Strait of
+
+### (66) USD/TRY: Stable path with renewed carry interest – ING
+- score: 6
+- source: fxstreet
+- published_at: Wed, 15 Apr 2026 16:57:16 Z
+- url: https://www.fxstreet.com/news/usd-try-stable-path-with-renewed-carry-interest-ing-202604151657
+- matched_terms: ai:AI x2
+- significance: 미국-이란 간 긴장 완화로 터키 리라화가 안정화되는 현상은 중동 지역의 지정학적 리스크가 완화되는 흐름을 뒷받침합니다.
+- summary: ING analysts Muhammet Mercan, Frantisek Taborsky and James Wilson note that the Turkish Lira (TRY) has stabilised after US-Iran tensions eased, with the Central Bank of Turkey (CBT) maintaining market
+
+### (67) WTI Oil holds steady as US troop buildup, Iran talks keep prices in balance
+- score: 3
+- source: fxstreet
+- published_at: Wed, 15 Apr 2026 16:28:38 Z
+- url: https://www.fxstreet.com/news/wti-oil-holds-steady-as-us-troop-buildup-iran-talks-keep-prices-in-balance-202604151628
+- matched_terms: ai:AI x1
+- significance: 미국의 병력 증강과 이란과의 회담 가능성은 중동 지역의 지정학적 긴장 완화에 대한 기대를 유지하며 유가 변동성을 제한하는 요인으로 작용합니다.
+- summary: West Texas Intermediate (WTI) US Oil trades around $89.10 on Wednesday at the time of writing, remaining broadly stable on the day after earlier falling to a three-week low near $85.
+
+### (68) GBP/USD holds near 1.3570 as Iran talk optimism cools
+- score: 9
+- source: fxstreet
+- published_at: Wed, 15 Apr 2026 16:26:38 Z
+- url: https://www.fxstreet.com/news/gbp-usd-holds-near-13570-as-iran-talk-optimism-cools-202604151626
+- matched_terms: ai:AI x3
+- significance: 미국-이란 핵협상 재개에 대한 낙관론이 식으면서 중동 지역의 지정학적 긴장 완화 기대감이 약화되고, 이는 중동정세의 불확실성을 다시 높이는 신호로 해석될 수 있습니다.
+- summary: The GBP/USD pair halts its advance on Wednesday and remains steady around 1.3570 as optimism about a resumption of US-Iran talks has tempered. At the same time, US equities extended their gains, and t
+
+### (86) Gold slips as markets await clarity on US-Iran talks
+- score: 10
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 12:11:54 Z
+- url: https://www.fxstreet.com/news/gold-slips-as-markets-await-clarity-on-us-iran-talks-202604211211
+- matched_terms: ai:AI x2
+- significance: 미국-이란 평화 회담의 불확실성은 중동 지역의 지정학적 긴장 완화 기대감을 보류시키고, 국제 금 가격의 방향성 부재로 이어진다.
+- summary: Gold (XAU/USD) trades with a mild negative bias on Tuesday but lacks strong directional momentum, as investors hold back from aggressive positioning amid uncertainty over whether US-Iran peace talks w
+
+### (95) Oil: Market optimism underprices supply risks – ING
+- score: 3
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 13:34:13 Z
+- url: https://www.fxstreet.com/news/oil-market-optimism-underprices-supply-risks-ing-202604211334
+- matched_terms: ai:AI x1
+- significance: 미국-이란 평화 협상 진전 기대는 중동의 지정학적 긴장을 완화하여 유가 안정에 긍정적 영향을 미칠 수 있으나, 호르무즈 해협의 공급망 불안정은 유가 상승 압력을 유지시키는 복합적인 상황을 암시합니다.
+- summary: ING analysts Warren Patterson and Ewa Manthey say Oil is trading on hopes of progress in US–Iran peace talks, while ongoing disruptions through the Strait of Hormuz keep supply risks elevated.
+
+### (96) Trump says Iran deal possible but keeps military pressure
+- score: 3
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 13:26:58 Z
+- url: https://www.fxstreet.com/news/trump-says-iran-deal-possible-but-keeps-military-pressure-202604211326
+- matched_terms: ai:AI x1
+- significance: 트럼프의 이란 협상 가능성 언급은 중동 지역의 지정학적 긴장을 완화하고 에너지 시장의 불확실성을 줄일 수 있는 긍정적인 신호로 해석될 수 있습니다.
+- summary: Geopolitical tensions remain in focus for markets following the latest remarks by US President Donald Trump during an interview with CNBC.
+
+### (102) WTI Crude Oil holds firm on US-Iran diplomacy hopes amid Strait of Hormuz supply threats
+- score: 7
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 15:22:56 Z
+- url: https://www.fxstreet.com/news/wti-crude-oil-holds-firm-on-us-iran-diplomacy-hopes-amid-strait-of-hormuz-supply-threats-202604211522
+- matched_terms: ai:AI x1
+- significance: 미국-이란 외교 협상에 대한 기대감으로 WTI 유가가 안정세를 보이는 것은 중동 긴장 완화 기대 시나리오의 긍정적인 신호로 해석될 수 있습니다.
+- summary: West Texas Intermediate (WTI) US Oil trades around $98.25 at the time of writing on Tuesday, up 0.21% on the day.
+
+### (104) Gold tumbles over 2% as stalled Iran talks lift US Dollar and yields
+- score: 3
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 18:54:35 Z
+- url: https://www.fxstreet.com/news/gold-tumbles-over-2-as-stalled-iran-talks-lift-us-dollar-and-yields-202604211854
+- matched_terms: ai:AI x1
+- significance: 미국과 이란 간 2차 회담 불발 소식은 중동 지역의 지정학적 긴장 완화 기대감을 낮추고, 유가 및 금융 시장의 불확실성을 다시 키우는 신호입니다.
+- summary: Gold (XAU/USD) price tumbles by more than 2% on Tuesday amid a lack of confirmation of a second round of talks between the US and Iran in Pakistan. Conversely, Crude Oil prices edged higher, a tailwin
+
+### (134) GBP/USD steadies as Iran deadlock keeps Dollar bid in check
+- score: 3
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 15:04:52 Z
+- url: https://www.fxstreet.com/news/gbp-usd-steadies-as-iran-deadlock-keeps-dollar-bid-in-check-202604221504
+- matched_terms: ai:AI x1
+- significance: 미국과 이란 간 협상 교착 상태가 지속되면서 중동 긴장 완화 기대감이 약화되고 글로벌 금융 시장의 불확실성이 유지될 수 있습니다.
+- summary: GBP/USD holds steady on Wednesday as geopolitical tensions remain high amid the lack of progress toward resuming negotiations between the US and Iran. An absent economic schedule in the US, keeps trad

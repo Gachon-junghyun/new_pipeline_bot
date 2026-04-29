@@ -1,0 +1,63 @@
+# [93] AI 보안 위협 증대와 대응
+
+profile: AI & Semiconductors
+label: primary
+score: 164 (metadata=59, nodes=97, repeat=8)
+category: tech
+updated_at: 2026-04-21T12:50:35.749675
+nodes: 4 total / 4 matched
+keywords: AI 보안, 사이버 위협, 초거대 AI, 보안 모델, 인공지능 윤리
+
+## Description
+생성형 AI 기술 발전과 함께 AI를 이용한 사이버 공격 및 보안 위협이 급증하고 있습니다. 이에 대응하여 AI 보안 모델 개발 경쟁이 심화되며, 국가 및 기업 차원의 AI 보안 전략 수립이 중요해지고 있습니다.
+
+## Matched Tags
+- ai: 146
+- platform: 10
+
+## Matched Terms
+  ai:AI x23
+  ai:인공지능 x3
+  platform:오픈AI x2
+  ai:생성형 AI x1
+
+## Matched News Nodes
+
+### (1) 앤스로픽 이어 오픈AI도 ‘보안모델’ 공개… 해킹 역이용 우려 커져
+- score: 38
+- source: donga
+- published_at: Thu, 16 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260415/133747552/2
+- matched_terms: ai:AI x6
+  platform:오픈AI x2
+  ai:인공지능 x1
+- significance: 이 뉴스는 AI 기술 경쟁이 단순히 성능을 넘어 보안 위협 방어라는 새로운 차원으로 확장되고 있음을 보여주는 초기 신호입니다.
+- summary: 앤스로픽의 초거대 최신 인공지능(AI) 모델 ‘미토스(Mythos)’에 맞서 오픈AI가 보안 특화 AI 모델을 선보였다. 보안 특화 AI 모델이 속속 등
+
+### (2) 해커 된 AI '미토스 쇼크'…보안 골든타임 임박
+- score: 25
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 06:45:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260415167300017
+- matched_terms: ai:AI x4
+  ai:인공지능 x1
+- significance: 이 뉴스는 앤트로픽의 '미토스'와 같은 차세대 AI 모델이 보안 취약점 발견 및 시스템 침투 능력으로 급부상하며 AI 기반 사이버 공격의 현실화와 그에 대한 대응책 마련의 시급성을 극명하게 보여줍니다.
+- summary: (서울=연합뉴스) 권하영 기자 = 앤트로픽이 개발한 차세대 인공지능(AI) 모델 '미토스'가 유례없는 성능과 속도로 보안 취약점을 찾아내고 시스...
+
+### (3) [테크스냅] S2W, 'AI 시대 보안 전략 세미나' 성료
+- score: 28
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 09:10:47 +0900
+- url: https://www.yna.co.kr/view/AKR20260416036700017
+- matched_terms: ai:AI x5
+- significance: S2W가 'AI 시대 보안 전략 세미나'를 성료한 것은 AI 기술 발전과 함께 급증하는 사이버 위협에 대한 대응책 마련 및 AI 보안 모델 개발 경쟁이 심화되고 있음을 보여주는 중요한 흐름이다.
+- summary: ▲ (서울=연합뉴스) 권하영 기자 = 에스투더블유[488280](S2W)는 경기 성남 판교 본사에서 'AI 시대의 새로운 보안 전략: 실사례로 ...
+
+### (4) KISA, 중소기업 암호모듈 개발 지원 설명회 개최
+- score: 6
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 12:00:08 +0900
+- url: https://www.yna.co.kr/view/AKR20260421059400017
+- matched_terms: ai:AI x1
+- significance: KISA가 중소기업의 암호모듈 개발을 지원하는 것은 사이버 보안 위협 증대 속에서 정보 보호 역량을 강화하려는 노력의 일환으로, 특히 중소기업의 디지털 보안 취약점을 보완하여 국가 전반의 AI 보안 대응 능력을 향상시키는 데 기여할 수 있다.
+- summary: (서울=연합뉴스) 권하영 기자 = 한국인터넷진흥원(KISA)은 영세·중소기업의 암호모듈 개발 역량을 강화하기 위해 오는 28일 '암호모듈 제출물...

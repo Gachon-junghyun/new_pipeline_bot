@@ -1,0 +1,49 @@
+# [195] 성장주 시대의 종말
+
+profile: AI & Semiconductors
+label: primary
+score: 33 (metadata=0, nodes=27, repeat=6)
+category: finance
+updated_at: 2026-04-22T02:50:22.512090
+nodes: 4 total / 3 matched
+keywords: 성장주, 가치주, 팩터투자, S&P 500, 시장패러다임
+
+## Description
+과거 시장을 지배했던 대형 기술 성장주 중심의 지수 추종 전략이 한계를 드러내고 있습니다. 인플레이션, 고금리 환경의 장기화와 함께 개별 기업의 펀더멘탈과 가치에 기반한 투자 전략이 부상하며 시장의 패러다임이 변화할 수 있습니다. 이는 자금 흐름과 투자 전략의 대규모 재편을 야기할 것입니다.
+
+## Matched Tags
+- ai: 20
+- platform: 7
+
+## Matched Terms
+  ai:AI x3
+  platform:애플 x1
+
+## Matched News Nodes
+
+### (2) JP모건 뉴욕증시 목표치 상향조정…"AI 낙관론 강화"
+- score: 13
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 00:22:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260422000200072
+- matched_terms: ai:AI x2
+- significance: AI 낙관론 강화에 따른 증시 목표치 상향 조정은 성장주 중심의 시장 패러다임이 지속될 수 있음을 시사하며, 기존 성장주 시대의 종말 시나리오에 대한 반론의 근거를 제공합니다.
+- summary: (뉴욕=연합뉴스) 이지헌 특파원 = 미국 뉴욕증시 주요지수가 사상 최고치를 경신하고 있는 가운데 월가 주요 은행도 주가지수 목표치를 상향 조정하...
+
+### (3) JP모건 "에센피 7600 간다"...애플 새 리더 평가는 [빈난새의 개장전요것만]
+- score: 7
+- source: hankyung
+- published_at: Tue, 21 Apr 2026 23:55:05 +0900
+- url: https://www.hankyung.com/article/202604217181i
+- matched_terms: platform:애플 x1
+- significance: JP모건의 S&P 500 지수 목표 상향 조정은 시장의 낙관론을 반영하지만, 이는 과거 대형 성장주 중심의 패러다임이 지속될 수 있다는 기대와 함께 인플레이션 및 고금리 환경에서 개별 기업의 펀더멘털을 더 중요하게 보는 '성장주 시대의 종말' 시나리오와 대비되는 시장의 복잡한 심리를 보여준다.
+- summary: 
+
+### (4) From Allbirds to AI, the meme-stock frenzy is warning you to own this quality ‘antimeme’ portfolio instead
+- score: 7
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 16:58:00 GMT
+- url: https://www.marketwatch.com/story/from-allbirds-to-ai-the-meme-stock-frenzy-is-warning-you-to-own-this-quality-antimeme-portfolio-instead-6714bb16?mod=mw_rss_topstories
+- matched_terms: ai:AI x1
+- significance: 밈 주식 열풍과 안정적 배당주 선호 현상은 과거 성장주 중심의 시장 패러다임이 변화하고 있음을 보여주는 강력한 신호입니다.
+- summary: These dividend-paying stable winners are likely to outperform a meme-themed ETF.

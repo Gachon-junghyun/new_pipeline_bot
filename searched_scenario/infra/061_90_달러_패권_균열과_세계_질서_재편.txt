@@ -1,0 +1,29 @@
+# [90] 달러 패권 균열과 세계 질서 재편
+
+profile: Infrastructure
+label: secondary
+score: 12 (metadata=0, nodes=10, repeat=2)
+category: finance
+updated_at: 2026-04-15T22:32:39.532917
+nodes: 1 total / 1 matched
+keywords: 달러 패권, 기축통화, 글로벌 불균형, IMF, 시스템 리스크, 환율 변동성, 탈달러화
+
+## Description
+미국 달러의 기축통화 지위 약화 가능성이 제기되며 글로벌 금융 시스템과 국제 무역 질서에 근본적인 변화가 초래될 수 있습니다. 이는 각국의 통화 전략, 무역 결제 방식, 그리고 자본 흐름에 지대한 영향을 미칠 것입니다.
+
+## Matched Tags
+- urban: 10
+
+## Matched Terms
+  urban:SOC x2
+
+## Matched News Nodes
+
+### (1) USD: Dominance questioned as rivals stay weak – Societe Generale
+- score: 10
+- source: fxstreet
+- published_at: Wed, 15 Apr 2026 12:16:23 Z
+- url: https://www.fxstreet.com/news/usd-dominance-questioned-as-rivals-stay-weak-societe-generale-202604151216
+- matched_terms: urban:SOC x2
+- significance: 이 뉴스는 달러의 지배력 약화 가능성에 대한 금융기관의 공식적인 우려를 표명하며, 미래 세계 경제 질서 변화의 주요 징후 중 하나로 작용합니다.
+- summary: Societe Generale’s Kit Juckes discusses whether the US Dollar’s global dominance is under threat as global imbalances widen and IMF meetings highlight systemic risks.

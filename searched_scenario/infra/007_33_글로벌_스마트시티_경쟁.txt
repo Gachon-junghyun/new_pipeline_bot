@@ -1,0 +1,61 @@
+# [33] 글로벌 스마트시티 경쟁
+
+profile: Infrastructure
+label: primary
+score: 81 (metadata=18, nodes=55, repeat=8)
+category: tech
+updated_at: 2026-04-15T08:31:57.879401
+nodes: 4 total / 4 matched
+keywords: 스마트시티, 디지털 전환, 도시 문제 해결, 글로벌 협력, 기술 표준
+
+## Description
+전 세계 도시들이 인구 밀집, 환경 문제 해결을 위해 스마트 기술 도입을 가속화하며 글로벌 시장 선점을 위한 경쟁이 심화되고 있습니다. 기술 표준, 데이터 주권, 플랫폼 경쟁이 주요 쟁점이 될 것입니다.
+
+## Matched Tags
+- urban: 54
+- industrial_facility: 19
+
+## Matched Terms
+  urban:스마트시티 x8
+  industrial_facility:산업단지 x3
+  industrial_facility:산단 x1
+
+## Matched News Nodes
+
+### (3) 부산 노후 산업단지에 화재·산사태 감지 통합관제센터 구축
+- score: 31
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 08:10:25 +0900
+- url: https://www.yna.co.kr/view/AKR20260415021200051
+- matched_terms: industrial_facility:산업단지 x3
+  urban:스마트시티 x2
+  industrial_facility:산단 x1
+- significance: 부산의 노후 산업단지에 첨단 ICT 기반 통합관제센터를 구축하는 것은 스마트시티 기술이 산업 시설 안전 관리 및 도시 재활성화에 어떻게 적용될 수 있는지를 보여주는 사례로, 글로벌 스마트시티 경쟁 시나리오의 중요한 국내 적용 양상입니다.
+- summary: (부산=연합뉴스) 김선호 기자 = 부산시는 부산 최초 산업단지인 서부산스마트밸리(신평·장림 산단)를 첨단 정보통신기술(ICT) 인프라 기반의 스...
+
+### (2) 서울시 '새벽동행 자율주행버스' 세번째 A148 내일 운행 시작
+- score: 12
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 06:00:03 +0900
+- url: https://www.yna.co.kr/view/AKR20260414166500004
+- matched_terms: urban:스마트시티 x2
+- significance: 서울시의 자율주행버스 운행 확대는 도시 교통 문제 해결을 위한 스마트시티 기술 도입의 구체적인 사례로, 글로벌 스마트시티 경쟁에서 한국의 위상을 높이는 중요한 진전입니다.
+- summary: (서울=연합뉴스) 황재하 기자 = 서울시는 '새벽동행 자율주행버스' 세 번째 노선인 A148 운행을 이달 16일 오전 3시 30분 시작한다고 1...
+
+### (4) 상계~고속터미널 '새벽 자율주행버스' 운행 시작
+- score: 6
+- source: asiae
+- published_at: Wed, 15 Apr 2026 08:28:14 +0900
+- url: https://www.asiae.co.kr/article/2026041508281462684
+- matched_terms: urban:스마트시티 x1
+- significance: 서울시의 새벽 자율주행버스 운행은 스마트 기술을 활용하여 도시 문제를 해결하고 시민 편의를 증진하려는 스마트시티 정책의 구체적인 구현 사례로, 자율주행 기술의 상용화 단계를 보여줍니다.
+- summary: 서울시의 '새벽동행 자율주행버스' A148이 16일 오전 3시 30분부터 운행에 나선다. 신설 노선 A148은 일반 148번 버스 노선과 마찬가지로 상계역을 출발해 미아사거리·경동시장·압구정역을 거쳐 고속터미널까지 22.1㎞ 구간을 왕복하며 하루 한 차례 운행한다. 일반 버스 첫차보다 30분 이른 시간에 운행하며 첫차 이용 빈도가 높은 주요 정류소 41곳에
+
+### (1) 서울시, '스마트라이프위크' 참가 기업 9월 말까지 모집
+- score: 6
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 06:00:03 +0900
+- url: https://www.yna.co.kr/view/AKR20260414167500004
+- matched_terms: urban:스마트시티 x1
+- significance: 서울시의 '스마트라이프위크' 참가 기업 모집은 스마트시티 기술 및 서비스의 글로벌 확산과 도시 간 협력 경쟁의 시작점을 보여줍니다.
+- summary: (서울=연합뉴스) 황재하 기자 = 서울시는 글로벌 스마트도시 시장 진출을 위한 전략 플랫폼 '스마트라이프위크'(Smart Life Week·SL...

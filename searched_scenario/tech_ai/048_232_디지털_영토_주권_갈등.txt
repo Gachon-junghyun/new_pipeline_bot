@@ -1,0 +1,32 @@
+# [232] 디지털 영토 주권 갈등
+
+profile: AI & Semiconductors
+label: primary
+score: 31 (metadata=13, nodes=16, repeat=2)
+category: geopolitics
+updated_at: 2026-04-22T14:50:29.999036
+nodes: 1 total / 1 matched
+keywords: 디지털 주권, 영토 분쟁, 글로벌 플랫폼, 지도 서비스, 지정학적 민감성
+
+## Description
+국가 간 물리적 영토 개념이 디지털 공간으로 확장되며, 글로벌 플랫폼의 지도 표기 등 서비스가 국가 주권 및 지정학적 민감성을 침해할 가능성이 높아지고 있습니다. 이는 기업의 사회적 책임과 국가 이익 충돌로 이어질 수 있습니다.
+
+## Matched Tags
+- platform: 29
+
+## Matched Terms
+  platform:구글 x2
+  platform:플랫폼 x2
+  platform:빅테크 x1
+
+## Matched News Nodes
+
+### (1) 구글, 격렬비열도 표기 오류 수정…문제 제기 5일만
+- score: 16
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 14:15:23 +0900
+- url: https://www.yna.co.kr/view/AKR20260422101300063
+- matched_terms: platform:구글 x2
+  platform:빅테크 x1
+- significance: 글로벌 빅테크 기업의 디지털 지도 서비스가 현실 영토 주권에 영향을 미칠 수 있음을 보여주는 사례로, 향후 유사한 디지털 영토 관련 분쟁 발생 가능성을 시사합니다.
+- summary: (태안=연합뉴스) 정윤덕 기자 = 대한민국 서해 영해기점 중 한 곳인 충남 태안 격렬비열도를 '공녈비-열도'로 잘못 표기했던 구글이 오류를 바로...

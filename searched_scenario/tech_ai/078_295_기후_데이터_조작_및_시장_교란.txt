@@ -1,0 +1,29 @@
+# [295] 기후 데이터 조작 및 시장 교란
+
+profile: AI & Semiconductors
+label: secondary
+score: 12 (metadata=0, nodes=10, repeat=2)
+category: other
+updated_at: 2026-04-23T21:42:11.765156
+nodes: 1 total / 1 matched
+keywords: 기후 데이터 조작, 폴리마켓, 예측 시장 신뢰, 기후 금융, 사기, 디지털 교란
+
+## Description
+기후 관련 데이터의 조작 가능성이 현실화되며 예측 시장의 신뢰를 흔들고, 더 나아가 기후변화 대응 정책 수립 및 금융 시장 전반에 혼란을 초래할 수 있습니다. 이는 미래 기후 관련 투자 및 보험 상품의 리스크를 재평가하게 만들 것입니다.
+
+## Matched Tags
+- ai: 10
+
+## Matched Terms
+  ai:AI x2
+
+## Matched News Nodes
+
+### (1) French weather forecasting office files police complaint following suspicious Polymarket bets
+- score: 10
+- source: marketwatch
+- published_at: Thu, 23 Apr 2026 12:07:00 GMT
+- url: https://www.marketwatch.com/story/french-weather-forecasting-office-files-police-complaint-following-suspicious-surge-in-polymarket-bets-fb72729d?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+- significance: 이번 프랑스 기상청 사건은 기후 관련 데이터 조작이 실제 시장 교란으로 이어질 수 있음을 보여주는 첫 번째 경고 신호로, 데이터 보안 및 예측 시장 규제의 필요성을 부각시킵니다.
+- summary: Temperature readings at Charles de Gaulle International Airport rose by a few degrees in a matter of minutes .

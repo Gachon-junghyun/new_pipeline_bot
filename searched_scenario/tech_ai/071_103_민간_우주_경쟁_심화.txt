@@ -1,0 +1,29 @@
+# [103] 민간 우주 경쟁 심화
+
+profile: AI & Semiconductors
+label: secondary
+score: 15 (metadata=0, nodes=13, repeat=2)
+category: tech
+updated_at: 2026-04-16T02:32:11.325766
+nodes: 1 total / 1 matched
+keywords: 민간 우주 산업, 위성 인터넷, 아마존, 우주 경제, 뉴 스페이스
+
+## Description
+아마존의 Globalstar 인수 움직임은 민간 기업들의 우주 산업 진출 및 투자가 가속화되고 있음을 보여줍니다. 이는 기존 국가 주도 우주 개발에서 벗어나 상업적 목적의 우주 활용이 보편화되는 새로운 경쟁 구도를 형성할 것입니다.
+
+## Matched Tags
+- platform: 13
+
+## Matched Terms
+  platform:Amazon x3
+
+## Matched News Nodes
+
+### (1) How the Globalstar purchase could turn Amazon’s Leo into a satellite powerhouse
+- score: 13
+- source: marketwatch
+- published_at: Wed, 15 Apr 2026 16:34:00 GMT
+- url: https://www.marketwatch.com/story/how-the-globalstar-purchase-could-turn-amazons-leo-into-a-satellite-powerhouse-4b27cdf5?mod=mw_rss_topstories
+- matched_terms: platform:Amazon x3
+- significance: 아마존의 Globalstar 인수는 단순한 기업 확장을 넘어, 거대 IT 기업의 본격적인 우주 산업 진출을 알리는 중요한 신호탄입니다.
+- summary: The Globalstar deal may seem trivial relative to Amazon’s size, but it represents an “important signal” that Amazon is committed to space.

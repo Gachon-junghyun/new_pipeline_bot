@@ -1,0 +1,61 @@
+# [184] 전기차 전환 가속화 경쟁
+
+profile: AI & Semiconductors
+label: primary
+score: 47 (metadata=0, nodes=39, repeat=8)
+category: corporate
+updated_at: 2026-04-23T09:42:21.262343
+nodes: 23 total / 4 matched
+keywords: 전기차, 가격경쟁, 브랜드전략, 모빌리티, 신차출시
+
+## Description
+글로벌 자동차 시장에서 전통 완성차 업체와 신생 전기차 업체 간의 경쟁이 심화되며, 가격 경쟁력 확보와 기술 혁신이 핵심 변수로 작용합니다. 각 기업의 전략 변화가 시장 판도를 재편할 수 있습니다.
+
+## Matched Tags
+- semiconductor: 19
+- regulation: 13
+- ai: 7
+
+## Matched Terms
+  semiconductor:삼성전자 x3
+  regulation:보조금 x2
+  ai:AI x1
+  semiconductor:엔비디아 x1
+
+## Matched News Nodes
+
+### (7) '이재용 결단' 하만 인수 10주년…매출 2배 '초일류 전장' 도약
+- score: 12
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 13:00:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260422075400003
+- matched_terms: semiconductor:삼성전자 x3
+- significance: 삼성전자의 하만 인수는 전장 사업 육성을 통한 미래 모빌리티 시장 선점 전략을 보여주며, 전기차 전환 가속화 경쟁 시나리오에서 기업의 핵심 전략 변화를 나타낸다.
+- summary: (서울=연합뉴스) 조성흠 기자 = 이재용 삼성전자 회장이 차세대 성장 동력으로 꼽은 전장 사업 육성을 위해 삼성전자가 하만을 인수한 지 올해로 ...
+
+### (8) 전기차 등록 100만대 돌파…'보조금 딜레마' 빠진 정부 - 한국경제
+- score: 13
+- source: google_kr
+- published_at: Tue, 21 Apr 2026 10:00:04 GMT
+- url: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHSUxCSG8zMjFzMFFBa2FtX1BKcElEOGo0SGJQZDdPMm5MS1VreGdURWdJWTNnMGMzbWZSZ2FRN1RxU1lvN2lPVnFDQ0h5RnJaS0ZtZEhFS0MtZ9IBVEFVX3lxTE1hWTVVbmx0V2VwdUhqQWJ4UFlST0xIZnhOQmswM0NCZG1ONi1JOExOY1dJek9vVzNYQXZHRXNFOEU5Mi1qQmNDRzJ3TmVOWXNpM2N0eQ?oc=5
+- matched_terms: regulation:보조금 x2
+- significance: 전기차 등록 100만대 돌파 소식은 전기차 전환이 가속화되고 있음을 보여주나, 정부의 보조금 딜레마는 시장 성장 동력 및 정책 방향에 대한 새로운 논의를 촉발할 수 있습니다.
+- summary: <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHSUxCSG8zMjFzMFFBa2FtX1BKcElEOGo0SGJQZDdPMm5MS1VreGdURWdJWTNnMGMzbWZSZ2FRN1RxU1lvN2lPVnFDQ0h5RnJaS0ZtZEhFS0MtZ9IBVEFVX3lxTE1hWTVVbmx0V2VwdU
+
+### (10) Tesla Profit Rises but Remains Below Earlier Highs
+- score: 7
+- source: nyt
+- published_at: Wed, 22 Apr 2026 20:06:47 +0000
+- url: https://www.nytimes.com/2026/04/22/business/tesla-earnings-report.html
+- matched_terms: ai:AI x1
+- significance: 테슬라가 수익성 하락에도 불구하고 로봇 및 자율주행 택시 등 신기술 투자에 집중하는 것은 전기차 시장의 미래 경쟁력을 확보하려는 전략 변화를 시사한다.
+- summary: The company is investing in robots and self-driving taxis that are not yet generating significant sales.
+
+### (19) Today's Pick : 솔루스첨단소재의 질주…"상반기 엔비디아, 하반기 테슬라" [마켓PRO]
+- score: 7
+- source: hankyung
+- published_at: Thu, 23 Apr 2026 08:24:43 +0900
+- url: https://www.hankyung.com/article/202604230383i
+- matched_terms: semiconductor:엔비디아 x1
+- significance: 솔루스첨단소재의 전지박 사업이 테슬라 관련 매출 기대로 주목받는 것은 전기차 전환 가속화 경쟁 속에서 핵심 소재 기업의 성장 가능성을 보여주는 사례입니다.
+- summary:

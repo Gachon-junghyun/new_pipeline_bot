@@ -1,0 +1,40 @@
+# [95] K-테크, 글로벌 리더십 강화
+
+profile: AI & Semiconductors
+label: primary
+score: 26 (metadata=0, nodes=22, repeat=4)
+category: tech
+updated_at: 2026-04-16T08:32:41.245495
+nodes: 4 total / 2 matched
+keywords: 한국 기술, 글로벌 경쟁력, 프리미엄 제품, 브랜드 가치, 혁신 리더십
+
+## Description
+한국 기업들이 핵심 기술 및 제품 분야에서 글로벌 시장 선두를 공고히 하며, 브랜드 가치와 혁신 역량을 바탕으로 산업 생태계 전반에 영향력을 확대하는 시나리오입니다. 이는 글로벌 기술 경쟁 심화 속 한국의 산업 위상을 결정할 중요한 흐름입니다.
+
+## Matched Tags
+- semiconductor: 16
+- ai: 6
+
+## Matched Terms
+  semiconductor:삼성전자 x3
+  ai:AI x2
+
+## Matched News Nodes
+
+### (1) 삼성전자 ‘갤럭시 S26 울트라’… 美컨슈머리포트 평가 3년째 1위
+- score: 16
+- source: donga
+- published_at: Thu, 16 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260415/133747542/2
+- matched_terms: semiconductor:삼성전자 x3
+- significance: 삼성전자 갤럭시 S26 울트라의 미국 컨슈머리포트 1위 소식은 한국 기업의 프리미엄 제품이 글로벌 시장에서 기술력과 소비자 인정을 받으며 선두 입지를 굳히는 시나리오의 중요한 출발점입니다.
+- summary: 삼성전자가 올해 새롭게 출시한 프리미엄 스마트폰 갤럭시 S26 울트라가 미국 소비자 전문지 ‘컨슈머리포트’가 발표한 최신 스마트폰 평가에서 1위를 차지했
+
+### (4) 코스포, 신규 이사·운영위원 5인 선임…AX 강화 박차
+- score: 6
+- source: asiae
+- published_at: Thu, 16 Apr 2026 08:21:38 +0900
+- url: https://www.asiae.co.kr/article/2026041608213997125
+- matched_terms: ai:AI x2
+- significance: 코스포의 딥테크 및 글로벌 수익화 분야 스타트업 대표 선임은 K-테크 기업들의 기술 혁신과 글로벌 시장 진출 역량 강화를 통해 한국 기술의 글로벌 리더십을 확고히 하려는 움직임을 보여준다.
+- summary: 코리아스타트업포럼이 AX(AI 전환) 시대를 맞아 스타트업 생태계의 변화를 주도할 신규 이사진을 대거 보강했다.코스포는 지난 9일 이사회를 개최하고 딥테크 및 글로벌 수익화 분야에서 두각을 나타내고 있는 주요 스타트업 대표 5인을 신규 이사 및 운영위원으로 선임했다고 16일 밝혔다. 특히 피지컬 AI, 자율주행, 디펜스테크(Defense Tech) 등 국가

@@ -1,0 +1,86 @@
+# [99] 중동 확전 리스크 고조
+
+profile: Infrastructure
+label: primary
+score: 45 (metadata=0, nodes=35, repeat=10)
+category: geopolitics
+updated_at: 2026-04-24T16:41:40.977376
+nodes: 135 total / 7 matched
+keywords: 이스라엘-하마스, 팔레스타인, 중동 분쟁, 확전, 인도주의 위기
+
+## Description
+이스라엘-하마스 분쟁이 장기화되고 역내 갈등이 격화되면서 중동 전체의 불안정성이 증대되고 있습니다. 팔레스타인 수감자 처우 문제는 분쟁의 인도적 측면을 부각시키며 국제사회의 개입 압력을 높이고, 이는 기존 역내 질서와 강대국들의 이해관계에 중대한 영향을 미칠 수 있습니다.
+
+## Matched Tags
+- transport: 28
+- energy_facility: 13
+
+## Matched Terms
+  energy_facility:ESS x3
+  transport:도로 x3
+  transport:공항 x2
+
+## Matched News Nodes
+
+### (134) 중동 갈등 속 '대체 허브' 노리는 홍콩…공항 매출 10%↑ 전망
+- score: 10
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 12:55:43 +0900
+- url: https://www.yna.co.kr/view/AKR20260424083800083
+- matched_terms: transport:공항 x2
+- significance: 중동 분쟁으로 인한 항공 노선 불확실성이 커지면서 홍콩이 대체 허브로 부상하려는 움직임은 중동 지역의 지정학적 리스크가 글로벌 경제 및 인프라에 미치는 파급 효과를 보여주는 사례이다.
+- summary: (베이징=연합뉴스) 김현정 특파원 = 중동 분쟁 여파로 글로벌 항공 노선 운영의 불확실성이 커지는 가운데 홍콩국제공항이 '대체 허브'로 부상하겠...
+
+### (6) Three paramedics killed in successive Israeli strikes in Lebanon, officials say
+- score: 7
+- source: bbc
+- published_at: Wed, 15 Apr 2026 18:48:34 GMT
+- url: https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss
+- matched_terms: energy_facility:ESS x1
+- significance: 이스라엘군의 구급대원 살해는 중동 분쟁이 민간인에게 미치는 인도적 피해를 가중시키고, 레바논 정부의 강력한 비난을 불러와 역내 확전 리스크를 더욱 고조시키는 사건입니다.
+- summary: Lebanon's government condemns as a "flagrant crime" the killing of the paramedics, one of whom featured in a BBC report.
+
+### (109) 트럼프 "호르무즈 기뢰 부설하는 모든 선박에 발포·격침" 명령
+- score: 6
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 22:08:57 +0900
+- url: https://www.yna.co.kr/view/AKR20260423186200071
+- matched_terms: transport:도로 x1
+- significance: 트럼프의 호르무즈 해협 기뢰 부설 선박 격침 명령은 중동 지역의 군사적 긴장을 극도로 고조시키며 확전 리스크를 증폭시키는 심각한 위협 요인입니다.
+- summary: (워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 23일(현지시간) 호르무즈 해협에 기뢰를 설치하는 모든 선박을 대상으로 발포해...
+
+### (108) [속보] 트럼프 "호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령"
+- score: 6
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 21:50:45 +0900
+- url: https://www.yna.co.kr/view/AKR20260423185600071
+- matched_terms: transport:도로 x1
+- significance: 트럼프의 호르무즈 해협 관련 강경 발언은 중동 지역의 군사적 긴장을 극도로 끌어올릴 수 있는 잠재적 확전 리스크를 부각시킵니다.
+- summary: (
+
+### (73) 美재무장관 "걸프·아시아 동맹국들이 통화스와프 요청"
+- score: 6
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 01:13:51 +0900
+- url: https://www.yna.co.kr/view/AKR20260423001900071
+- matched_terms: transport:도로 x1
+- significance: 미국 재무장관의 발언은 이란 전쟁 가능성에 대한 우려가 현실화될 경우, 중동 지역 동맹국들이 미국의 금융 지원을 요청할 정도로 상황이 심각해질 수 있음을 시사하며 중동 확전 리스크를 더욱 고조시킨다.
+- summary: (워싱턴=연합뉴스) 박성민 특파원 = 스콧 베선트 미국 재무장관은 22일(현지시간) 이란 전쟁과 관련해 걸프 및 아시아 지역 국가들이 미국에 통...
+
+### (82) WTI rallies back into $92 as extended ceasefire fails to calm supply fears
+- score: 3
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 17:37:53 Z
+- url: https://www.fxstreet.com/news/wti-rallies-back-into-92-as-extended-ceasefire-fails-to-calm-supply-fears-202604221737
+- matched_terms: energy_facility:ESS x1
+- significance: 휴전 실패로 인한 유가 상승은 중동 지역 분쟁이 에너지 시장 불안정성을 증폭시키는 핵심 지표로서, 시나리오 '중동 확전 리스크 고조'의 주요한 경제적 파급 효과를 보여줍니다.
+- summary: West Texas Intermediary (WTI) Crude Oil advanced more than 3% on Wednesday, trading back above $92 after testing $93 earlier in the session. The move extends a sharp two-day recovery from Monday's low
+
+### (1) Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says
+- score: 3
+- source: bbc
+- published_at: Wed, 15 Apr 2026 15:59:24 GMT
+- url: https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&at_campaign=rss
+- matched_terms: energy_facility:ESS x1
+- significance: 팔레스타인 주요 인사 처우 논란은 이스라엘-하마스 분쟁의 인도적 차원과 잠재적 갈등 확산 요인으로 작용하며, 중동 불안정성 심화 시나리오의 중요한 촉발점 중 하나입니다.
+- summary: The Israeli Prison Service says the allegation that Barghouti was subjected to physical violence by prison guards are "false and baseless".

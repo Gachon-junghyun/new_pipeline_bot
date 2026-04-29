@@ -1,0 +1,29 @@
+# [205] 트럼프 2기 경제팀 구상
+
+profile: AI & Semiconductors
+label: secondary
+score: 19 (metadata=0, nodes=17, repeat=2)
+category: macro
+updated_at: 2026-04-22T05:50:29.643029
+nodes: 8 total / 1 matched
+keywords: 트럼프 재집권, 미국 경제 정책, 백악관 경제자문위원회, 보호무역주의, 고위직 인선
+
+## Description
+트럼프 전 대통령의 재집권 가능성이 높아지면서, 그의 경제 정책 기조를 구현할 핵심 인물들의 인선이 중요해지고 있습니다. 이는 향후 미국의 거시 경제 정책 방향과 글로벌 무역 질서에 큰 영향을 미칠 것입니다.
+
+## Matched Tags
+- ai: 17
+
+## Matched Terms
+  ai:AI x3
+
+## Matched News Nodes
+
+### (4) Kevin Warsh, Trump’s Fed Chair Pick, Faces Skepticism Over Claim of Independence
+- score: 17
+- source: nyt
+- published_at: Tue, 21 Apr 2026 19:36:03 +0000
+- url: https://www.nytimes.com/2026/04/21/business/kevin-warsh-fed-chair-hearing-trump-independence.html
+- matched_terms: ai:AI x3
+- significance: 케빈 워시의 연준 의장 지명 가능성과 사법부 조사 문제는 트럼프 2기 행정부의 주요 경제정책 결정 과정과 인선에 대한 불확실성을 높입니다.
+- summary: Kevin Warsh’s nomination to lead the Federal Reserve could still be delayed by a Justice Department investigation into the current chair, Jerome H. Powell.

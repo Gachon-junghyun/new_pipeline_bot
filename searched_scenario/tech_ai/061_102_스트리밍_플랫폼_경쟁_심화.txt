@@ -1,0 +1,20 @@
+# [102] 스트리밍 플랫폼 경쟁 심화
+
+profile: AI & Semiconductors
+label: secondary
+score: 23 (metadata=23, nodes=0, repeat=0)
+category: tech
+updated_at: 2026-04-16T02:32:08.096117
+nodes: 1 total / 0 matched
+keywords: 스트리밍, OTT, 콘텐츠, 구독자, 광고사업, 수익성, 플랫폼 경쟁, 넷플릭스, 워너브라더스
+
+## Description
+글로벌 스트리밍 시장에서 콘텐츠 확보, 구독자 유치, 수익성 개선을 위한 플랫폼 간 경쟁이 격화되고 있습니다. 콘텐츠 투자 및 광고 사업 확장이 핵심 전략으로 부상하며 시장 재편 가능성도 존재합니다.
+
+## Matched Tags
+- platform: 23
+
+## Matched Terms
+  platform:플랫폼 x3
+
+## Matched News Nodes

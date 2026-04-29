@@ -1,0 +1,45 @@
+# [210] 한국 기후변화 대응 인프라
+
+profile: Infrastructure
+label: primary
+score: 72 (metadata=8, nodes=60, repeat=4)
+category: energy
+updated_at: 2026-04-22T23:41:37.906123
+nodes: 6 total / 2 matched
+keywords: 기후변화, 물관리, 수자원, 인프라투자, 기후에너지환경부
+
+## Description
+기후변화와 물 부족 현상 심화에 따라 한국 정부가 물 관리 인프라 구축에 박차를 가하고 있습니다. 이는 단순한 지역 사업을 넘어 국가 차원의 기후 위기 대응 및 자원 안보 확보를 위한 장기적인 전략으로 전개될 것입니다.
+
+## Matched Tags
+- water: 30
+- energy_facility: 22
+- urban: 16
+
+## Matched Terms
+  water:수자원 x5
+  urban:스마트시티 x3
+  energy_facility:발전소 x2
+  energy_facility:재생에너지 x2
+
+## Matched News Nodes
+
+### (3) 한국수자원공사. 필리핀 정부·기업과 스마트시티 MOU
+- score: 47
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 11:33:45 +0900
+- url: https://www.yna.co.kr/view/AKR20260422077000063
+- matched_terms: water:수자원 x4
+  urban:스마트시티 x3
+  energy_facility:재생에너지 x2
+- significance: 한국수자원공사가 필리핀과 스마트시티 및 재생에너지 분야 MOU를 체결한 것은 국내 공공기관의 해외 수자원 및 스마트 인프라 기술 수출을 통한 기후변화 대응 노력 확장의 중요한 사례이다.
+- summary: (대전=연합뉴스) 이주형 기자 = 한국수자원공사는 필리핀 정부·기업과 스마트시티와 재생에너지 분야 업무협약(MOU) 2건을 체결했다고 22일 밝...
+
+### (2) 4년 지연된 백령발전소 증설사업 재개…내년 상반기 준공목표
+- score: 13
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 07:17:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260421111900065
+- matched_terms: energy_facility:발전소 x2
+- significance: 백령도 발전소 증설 사업은 에너지 인프라 확충 및 지역 전력난 해소라는 측면에서 한국의 지속 가능한 에너지 공급망 구축 및 기후변화 대응 인프라 강화 흐름에 부합한다.
+- summary: (인천=연합뉴스) 황정환 기자 = 서해 최북단 백령도의 전력난이 내년에는 어느 정도 해소될 것으로 전망된다.

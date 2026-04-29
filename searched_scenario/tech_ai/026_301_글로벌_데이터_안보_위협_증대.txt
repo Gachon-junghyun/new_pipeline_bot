@@ -1,0 +1,53 @@
+# [301] 글로벌 데이터 안보 위협 증대
+
+profile: AI & Semiconductors
+label: primary
+score: 60 (metadata=0, nodes=54, repeat=6)
+category: geopolitics
+updated_at: 2026-04-24T14:41:44.069910
+nodes: 9 total / 3 matched
+keywords: 데이터 유출, 사이버 안보, 개인 정보 보호, 지정학적 리스크, 기술 패권
+
+## Description
+국가 안보와 개인 프라이버시에 직결되는 민감 정보 유출 사건이 빈번해지며, 사이버 안보의 중요성이 부각되고 있습니다. 이는 각국의 정보 보호 규제 강화와 지정학적 기술 경쟁으로 이어질 수 있습니다.
+
+## Matched Tags
+- data_center: 32
+- platform: 22
+
+## Matched Terms
+  data_center:데이터센터 x3
+  data_center:클라우드 x3
+  platform:구글 x3
+  platform:애플 x2
+
+## Matched News Nodes
+
+### (3) 구글클라우드 CEO, 중동 데이터센터 공격에 "데이터 문제없어"
+- score: 48
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 02:47:55 +0900
+- url: https://www.yna.co.kr/view/AKR20260424003200091
+- matched_terms: data_center:데이터센터 x3
+  data_center:클라우드 x3
+  platform:구글 x3
+- significance: 구글 클라우드 CEO의 발언은 중동 지역 데이터센터에 대한 물리적 위협이 고조되는 상황에서 데이터 안보의 중요성을 강조하고 기업들이 이에 대한 대비책을 마련하고 있음을 보여준다.
+- summary: (라스베이거스=연합뉴스) 권영전 특파원 = 토머스 쿠리안 구글 클라우드 최고경영자(CEO)는 데이터센터에 물리적인 위협이 발생하더라도 데이터가 ...
+
+### (8) ‘음란물 방조’ 체포, 이번엔 러 법원 소환…자랑스럽단 텔레그램 창업자
+- score: 3
+- source: mk
+- published_at: Fri, 24 Apr 2026 13:29:52 +09:00
+- url: https://www.mk.co.kr/news/world/12026437
+- matched_terms: platform:애플 x1
+- significance: 이번 텔레그램 창업자 소환은 '표현의 자유'와 '범죄 방조' 논란 속에서 암호화된 메시징 앱이 국가 안보 및 데이터 통제와 어떻게 충돌하는지 보여주며, 글로벌 데이터 안보 규제 강화의 필요성을 부각합니다.
+- summary: 암호화 메신저 애플리케이션 텔레그램의 창업자가 러시아 사법부로부터 소환장을 받았다. 러시아가 소환장을 발부한 원인은 밝혀지지 않았지만, ‘표현 자유’와 ‘범죄 방조’ 사이의 오랜 ..
+
+### (9) 대만, 공공부문·군에 중국산 지도앱 사용 전면 금지
+- score: 3
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 14:17:33 +0900
+- url: https://www.yna.co.kr/view/AKR20260424094200009
+- matched_terms: platform:애플 x1
+- significance: 대만 공공부문 및 군의 중국산 지도앱 사용 금지는 국가 안보 차원에서 민감 정보 유출을 방지하려는 움직임으로, 글로벌 데이터 안보 위협 증대 시나리오에서 국가 주권적 데이터 보호 강화 사례로 볼 수 있습니다.
+- summary: (타이베이=연합뉴스) 김철문 통신원 = 대만 당국이 공공부문과 군의 중국산 지도 애플리케이션(앱)의 사용을 전면 금지했다.

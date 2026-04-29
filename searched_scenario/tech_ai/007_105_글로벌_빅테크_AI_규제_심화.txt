@@ -1,0 +1,61 @@
+# [105] 글로벌 빅테크 AI 규제 심화
+
+profile: AI & Semiconductors
+label: primary
+score: 185 (metadata=87, nodes=92, repeat=6)
+category: tech
+updated_at: 2026-04-16T06:32:08.063082
+nodes: 3 total / 3 matched
+keywords: AI 규제, 빅테크 독점, 데이터 주권, AI 거버넌스, 반독점
+
+## Description
+생성형 AI 기술 발전과 함께 빅테크 기업들의 시장 지배력 확대에 대한 우려가 커지면서, 각국 정부와 규제 당국이 AI 기술 및 데이터 활용에 대한 규제 수위를 높이는 시나리오입니다. 이는 AI 혁신의 방향과 속도, 그리고 산업 경쟁 구도에 중대한 영향을 미칠 것입니다.
+
+## Matched Tags
+- ai: 108
+- platform: 41
+- regulation: 30
+
+## Matched Terms
+  ai:AI x16
+  platform:빅테크 x6
+  regulation:AI 규제 x4
+  ai:인공지능 x2
+  ai:생성형 AI x1
+  platform:플랫폼 x1
+
+## Matched News Nodes
+
+### (1) EU "왓츠앱 접근 타사 AI챗봇에 비용 부과, 반독점 위반"
+- score: 43
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 02:29:19 +0900
+- url: https://www.yna.co.kr/view/AKR20260416003400098
+- matched_terms: ai:AI x4
+  platform:빅테크 x2
+  ai:인공지능 x1
+  platform:플랫폼 x1
+  regulation:AI 규제 x1
+- significance: 이 뉴스는 EU가 빅테크의 AI 서비스 접근 방식에 대한 반독점 이슈를 제기하며 글로벌 AI 규제 논의의 불씨를 당기는 중요한 첫 신호로 해석될 수 있습니다.
+- summary: (브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU)이 미국 빅테크 메타 플랫폼(이하 메타)이 자사 메신저 왓츠앱에 경쟁사 인공지능(AI) 챗봇...
+
+### (2) Live Nation and Ticketmaster Illegally Monopolized Ticketing Market, Jury Finds
+- score: 12
+- source: nyt
+- published_at: Wed, 15 Apr 2026 19:27:40 +0000
+- url: https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html
+- matched_terms: ai:AI x1
+  platform:빅테크 x1
+- significance: 이번 판결은 라이브 음악 시장에서 빅테크 기업의 독점적 지위를 규제하려는 움직임이 AI 분야를 넘어 전 산업으로 확산될 수 있음을 시사한다.
+- summary: In a verdict that could have far-reaching consequences in the music industry, the live colossus that includes Ticketmaster was found to have violated antitrust laws.
+
+### (3) 앤트로픽 AI '클로드' 한때 먹통…사용량 폭증에 과금체계 개편
+- score: 37
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 05:40:28 +0900
+- url: https://www.yna.co.kr/view/AKR20260416009300091
+- matched_terms: ai:AI x5
+  ai:인공지능 x1
+  regulation:AI 규제 x1
+- significance: 클로드 AI의 접속 장애 및 과금 체계 개편은 AI 서비스의 안정성, 지속 가능성, 그리고 잠재적 독점 이슈에 대한 우려를 증폭시켜 향후 AI 규제 논의를 가속화할 수 있는 중요한 사건입니다.
+- summary: (샌프란시스코=연합뉴스) 권영전 특파원 = 앤트로픽의 인공지능(AI) 모델 '클로드'가 접속 장애를 겪었다.

@@ -1,0 +1,61 @@
+# [281] 서울 주택시장 재편
+
+profile: Infrastructure
+label: primary
+score: 84 (metadata=31, nodes=45, repeat=8)
+category: macro
+updated_at: 2026-04-24T00:41:41.805567
+nodes: 4 total / 4 matched
+keywords: 재개발, 재건축, 주택공급, 부동산시장, 도시재생
+
+## Description
+서울의 주요 재개발·재건축 사업들이 속도를 내면서 주택 공급과 시장 구조에 큰 변화를 가져올 시나리오입니다. 이는 주택 가격, 전세 시장, 그리고 도심 인프라 및 인구 이동에도 영향을 미칠 수 있습니다.
+
+## Matched Tags
+- urban: 76
+
+## Matched Terms
+  urban:재건축 x5
+  urban:재개발 x4
+  urban:주택 공급 x4
+
+## Matched News Nodes
+
+### (4) 성북 84㎡ 17억 전망… 뛰는 집값, 더 뛰는 분양가
+- score: 18
+- source: donga
+- published_at: Fri, 24 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260423/133802047/2
+- matched_terms: urban:재개발 x1
+  urban:재건축 x1
+  urban:주택 공급 x1
+- significance: 서울 성북구 장위뉴타운의 대규모 아파트 분양 소식은 서울 내 재개발·재건축을 통한 주택 공급 증가와 분양가 상승 압력을 보여주며, '서울 주택시장 재편' 시나리오의 흐름을 강화합니다.
+- summary: 다음 달 청약이 예고돼 있는 서울 성북구 장위뉴타운 ‘장위 푸르지오 마크원’. 총 1931채 규모의 대단지 아파트로 수요자들의 관심이 많다. 현재 예상되
+
+### (2) 압구정5구역 본격 수주전…현대건설·DL이앤씨 사업조건 공개(종합)
+- score: 15
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 16:47:34 +0900
+- url: https://www.yna.co.kr/view/AKR20260423129351003
+- matched_terms: urban:재건축 x2
+  urban:주택 공급 x1
+- significance: 압구정5구역 재건축 사업의 수주전은 서울 강남권 주택시장의 재편을 가속화하고, 향후 강남권 주택 공급 및 가격 변동에 중요한 영향을 미 미칠 신호입니다.
+- summary: (서울=연합뉴스) 임기창 기자 = 서울 강남구 압구정5구역 재건축에 응찰한 현대건설과 DL이앤씨가 조합에 제안한 사업 조건을 각자 공개하며 본격...
+
+### (3) [광주소식] 주택건설협회-HUG, 임대보증료 개선 논의
+- score: 6
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 16:46:38 +0900
+- url: https://www.yna.co.kr/view/AKR20260423155800054
+- matched_terms: urban:주택 공급 x1
+- significance: 주택시장 침체로 인한 임대보증료 개선 논의는 전반적인 주택시장의 어려움을 반영하며, 주택 공급 및 시장 구조에 영향을 미칠 수 있는 규제·정책 변화의 가능성을 시사합니다.
+- summary: (광주=연합뉴스) 대한주택건설협회 광주·전남도회는 주택도시보증공사(HUG)와 간담회를 열고 장기간 지속된 주택시장 침체 등으로 어려움을 겪고 있...
+
+### (1) 북아현2구역 관리처분계획인가…"최고 29층 2천320세대로"
+- score: 6
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 17:28:54 +0900
+- url: https://www.yna.co.kr/view/AKR20260423164100004
+- matched_terms: urban:재개발 x1
+- significance: 북아현2구역 관리처분계획인가 소식은 서울 주요 재개발 사업이 본격적인 궤도에 올랐음을 알리는 신호탄입니다.
+- summary: (서울=연합뉴스) 정준영 기자 = 서대문구(구청장 이성헌)는 23일 자로 북아현2재정비촉진구역에 대한 관리처분계획인가 결정을 내렸다고 밝혔다.

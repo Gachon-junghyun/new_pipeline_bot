@@ -1,0 +1,128 @@
+# [252] 글로벌 원전 시장 경쟁 심화
+
+profile: Infrastructure
+label: primary
+score: 208 (metadata=46, nodes=152, repeat=10)
+category: energy
+updated_at: 2026-04-24T17:42:06.424654
+nodes: 10 total / 10 matched
+keywords: 원자력, 에너지 안보, 탈탄소, 원전 수출, 체코
+
+## Description
+기후변화 대응과 에너지 안보 강화로 원자력 발전의 중요성이 부각되며, 주요 국가들이 신규 원전 건설 및 노후 원전 수명 연장에 적극 나서고 있습니다. 이는 글로벌 원전 시장의 경쟁을 심화시키고, 각국 기업들의 기술력과 경제성을 중심으로 한 수주 경쟁을 촉발할 것입니다.
+
+## Matched Tags
+- energy_facility: 246
+- transport: 9
+- water: 6
+
+## Matched Terms
+  energy_facility:원전 x35
+  energy_facility:원자력 x7
+  energy_facility:발전소 x2
+  transport:고속도로 x1
+  transport:도로 x1
+  transport:철도 x1
+  water:폐기물 처리 x1
+
+## Matched News Nodes
+
+### (9) 영덕군, 신규 원전 지원계획서 제출…유치신청 후속 절차
+- score: 34
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 16:17:19 +0900
+- url: https://www.yna.co.kr/view/AKR20260424128500053
+- matched_terms: energy_facility:원전 x4
+  energy_facility:원자력 x2
+  energy_facility:발전소 x1
+- significance: 영덕군의 신규 원전 지원계획서 제출은 기후변화 대응과 에너지 안보 강화를 위한 국내 원전 확대 의지를 보여주는 중요한 사례이며, 글로벌 원전 시장 경쟁 심화 시나리오의 국내 동향에 해당합니다.
+- summary: (영덕=연합뉴스) 이승형 기자 = 경북 영덕군은 신규 원자력발전소 건설 후보 부지 공모와 관련해 한국수력원자력이 요구한 지자체 지원계획서를 24...
+
+### (2) 李대통령, 베트남 총리 만나 "원전·교통·에너지 협력으로 '새로운 홍강의 기적' 만들자"
+- score: 34
+- source: asiae
+- published_at: Thu, 23 Apr 2026 13:36:23 +0900
+- url: https://www.asiae.co.kr/article/2026042313362378171
+- matched_terms: energy_facility:원전 x5
+  transport:고속도로 x1
+  transport:도로 x1
+  transport:철도 x1
+- significance: 한국 대통령의 베트남 국빈 방문 중 원전 협력 강화 제안은 글로벌 에너지 안보와 탈탄소 목표 달성을 위한 국가 간 협력 확대의 일환으로, 한국의 원전 수출 경쟁력 강화 및 동남아 시장 진출 가능성을 시사한다.
+- summary: 베트남을 국빈 방문 중인 이재명 대통령은 23일(현지시간) 레 민 흥 베트남 총리와 만나 원전·교통 인프라·에너지 분야 전략 협력을 강화해 "새로운 홍강의 기적을 함께 만들어가자"고 말했다. 베트남 국빈 방문 사흘째인 이 대통령은 이날 총리실에서 레 민 흥 총리를 만나 과거 한국은 원전을 통한 에너지 자립, 고속도로와 철도를 통한 물류 혁신, 투명한 금융결
+
+### (8) 후쿠시마 원자로 내부 첫 조사…"핵연료 잔해 상당한 듯"
+- score: 30
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 15:02:12 +0900
+- url: https://www.yna.co.kr/view/AKR20260424108200073
+- matched_terms: energy_facility:원전 x3
+  energy_facility:발전소 x1
+  energy_facility:원자력 x1
+  water:폐기물 처리 x1
+- significance: 후쿠시마 원전 내부 조사를 통해 핵연료 잔해의 심각성이 확인된 것은 원전 안전성 및 폐기물 처리의 중요성을 다시 부각시키며, 신규 원전 건설 및 운영에 대한 국제사회의 안전 기준 강화 논의에 영향을 미칠 수 있습니다.
+- summary: (도쿄=연합뉴스) 조성미 특파원 = 일본 도쿄전력이 2011년 동일본 대지진 당시 폭발 사고가 난 후쿠시마 제1원자력발전소 원자로 압력용기 내부...
+
+### (4) 두산에너빌, 베트남 원전 협력 확대…"원전 사업 참여기반 확보"
+- score: 29
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 21:07:39 +0900
+- url: https://www.yna.co.kr/view/AKR20260423182900003
+- matched_terms: energy_facility:원전 x5
+- significance: 두산에너빌리티의 베트남 원전 사업 참여 기반 확보 노력은 글로벌 원전 시장에서 한국 기업의 경쟁력 강화와 시장 확대 가능성을 보여주는 중요한 움직임입니다.
+- summary: (서울=연합뉴스) 윤민혁 기자 = 두산에너빌리티는 박지원 회장을 비롯한 주요 경영진이 베트남 신규원전 참여를 위한 협력 기반 강화에 나섰다고 2...
+
+### (5) 박지원 두산에너빌 회장 “팀코리아, UAE·체코 원전으로 경쟁력 입증 ”
+- score: 25
+- source: sedaily
+- published_at: Thu, 23 Apr 2026 23:00:05 +0900
+- url: https://www.sedaily.com/article/20036231
+- matched_terms: energy_facility:원전 x4
+- significance: 두산에너빌리티 회장의 발언은 한국이 UAE 및 체코 원전 사업을 통해 글로벌 원전 시장에서의 경쟁력을 입증하고 있음을 보여주며, 이는 원전 수출 경쟁 심화 시나리오에서 한국의 주요 성과로 해석될 수 있습니다.
+- summary: 
+
+### (3) [연합뉴스 이 시각 헤드라인] - 14:30
+- score: 21
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 14:30:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260423116400011
+- matched_terms: energy_facility:원전 x4
+- significance: 윤 대통령의 '원전 도약' 발언은 에너지 안보 및 경제 활성화 차원에서 원전 산업 육성 의지를 천명하며 글로벌 원전 시장에서의 한국의 역할 확대를 시사합니다.
+- summary: ■ 李대통령 "韓, 원전·물류·금융으로 도약…홍강 기적도 함께"
+
+### (10) 고준위방폐물 관리시설 조성 위한 기본조사 후보지 연말 공개
+- score: 12
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 17:25:05 +0900
+- url: https://www.yna.co.kr/view/AKR20260424148500530
+- matched_terms: energy_facility:원자력 x1
+  energy_facility:원전 x1
+- significance: 고준위 방사성 폐기물 관리시설 부지 선정 절차는 원자력 발전의 지속 가능성과 안전성 확보에 필수적인 요소로, 글로벌 원전 시장의 확장과 함께 해결해야 할 중요한 과제를 제시한다.
+- summary: (서울=연합뉴스) 이재영 기자 = 고준위 방사성폐기물 관리시설 부지를 선정하기 위한 절차가 본격적으로 시작했다.
+
+### (6) "두산에너빌리티, 가스터빈 수주 호조…목표가↑"-KB
+- score: 12
+- source: hankyung
+- published_at: Fri, 24 Apr 2026 07:51:52 +0900
+- url: https://www.hankyung.com/article/2026042433306
+- matched_terms: energy_facility:원자력 x1
+  energy_facility:원전 x1
+- significance: 두산에너빌리티의 가스터빈 수주 호조는 탈탄소 및 에너지 안보 강화 트렌드 속에서 원자력 발전과 연계된 발전 설비 시장의 성장 가능성을 보여주며, 이는 글로벌 원전 시장 경쟁 심화 시나리오의 한 축을 이룬다.
+- summary: 
+
+### (1) 체코 산업부 실장 “테믈린 3·4호기도 필요…한수원으로부터 경쟁력 있는 제안 받았다”[Pick코노미]
+- score: 12
+- source: sedaily
+- published_at: Thu, 23 Apr 2026 05:30:05 +0900
+- url: https://www.sedaily.com/article/20035947
+- matched_terms: energy_facility:원전 x2
+- significance: 체코의 추가 원전 건설 필요성 언급과 한국의 경쟁력 있는 제안 소식은 글로벌 원전 시장에서의 수주 경쟁이 본격화되고 있음을 보여주는 중요한 지점입니다.
+- summary: 
+
+### (7) '아마존 투자' SMR업체 엑스에너지, 상장으로 1조5천억원 조달
+- score: 6
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 11:42:18 +0900
+- url: https://www.yna.co.kr/view/AKR20260424064800009
+- matched_terms: energy_facility:원전 x1
+- significance: 엑스에너지의 IPO와 아마존의 투자는 SMR 기술의 상업화 및 시장 확대 가능성을 보여주며, 글로벌 원전 시장의 경쟁 심화를 가속화하는 중요한 지표가 됩니다.
+- summary: (서울=연합뉴스) 김동현 기자 = 아마존이 투자한 소형모듈원자로(SMR) 회사 엑스에너지(X-Energy)가 23일(현지시간) 미국에서 기업공개...

@@ -1,0 +1,77 @@
+# [176] 인플레이션 압력 지속
+
+profile: Infrastructure
+label: primary
+score: 45 (metadata=0, nodes=35, repeat=10)
+category: macro
+updated_at: 2026-04-24T17:41:38.580160
+nodes: 51 total / 6 matched
+keywords: 인플레이션, 물가상승, 소비위축, 공급망, 식료품가격
+
+## Description
+글로벌 공급망 불안정 및 에너지 비용 상승 등으로 인한 생산 원가 압박이 지속되며 소비재 가격 상승으로 이어지는 시나리오입니다. 이는 가계 구매력 감소와 경기 둔화를 야기할 수 있습니다.
+
+## Matched Tags
+- energy_facility: 26
+- transport: 12
+
+## Matched Terms
+  energy_facility:ESS x3
+  energy_facility:원자력 x3
+  transport:도로 x2
+
+## Matched News Nodes
+
+### (35) 새울원자력, 울산 농가에 6억원 규모 영농자재 지원
+- score: 13
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 15:26:19 +0900
+- url: https://www.yna.co.kr/view/AKR20260423131600057
+- matched_terms: energy_facility:원자력 x3
+- significance: 농자재 가격 급등으로 인한 농업인들의 어려움은 글로벌 공급망 불안정 및 에너지 비용 상승으로 인한 생산 원가 압박이 소비자 물가로 전가되는 인플레이션 압력 지속 시나리오의 한 단면을 보여줍니다.
+- summary: (울산=연합뉴스) 장영은 기자 = 한국수력원자력 새울원자력본부는 23일 최근 급등하는 농자재 가격으로 어려움을 겪는 울산 울주군 지역 농업인들을...
+
+### (4) New Zealand: Sticky inflation and cautious business mood – BNY
+- score: 7
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 19:26:28 Z
+- url: https://www.fxstreet.com/news/new-zealand-sticky-inflation-and-cautious-business-mood-bny-202604211926
+- matched_terms: energy_facility:ESS x1
+- significance: 뉴질랜드의 CPI 상승 및 비무역재 부문의 강세는 전 세계적으로 인플레이션 압력이 지속되고 있음을 보여주는 사례로, 중앙은행의 통화 정책 결정에 영향을 미칠 것입니다.
+- summary: BNY’s Bob Savage notes that New Zealand’s Consumer Price Index (CPI) accelerated to 0.9% q/q, keeping annual inflation at 3.1%, with strong non-tradeable components such as electricity and local autho
+
+### (36) 4차 석유 최고가격 또 동결…'사실상 인상'으로 소비 억제
+- score: 6
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 19:00:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260423160200003
+- matched_terms: transport:도로 x1
+- significance: 정부의 석유 가격 동결 정책은 인플레이션 압력 속에서 물가 상승을 억제하려는 시도로, 이는 장기적인 인플레이션 흐름에 영향을 미칠 수 있습니다.
+- summary: (서울=연합뉴스) 신창용 기자 = 정부가 내일(24일) 0시부터 적용되는 4차 석유 최고가격을 또다시 동결했다.
+
+### (16) 농협, 312억원 투입해 할인 행사…"장바구니 부담 낮춘다"
+- score: 6
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 13:00:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260422033900030
+- matched_terms: transport:도로 x1
+- significance: 농협의 대규모 할인 행사는 소비자의 장바구니 부담을 낮춰 인플레이션 압력에 대응하려는 시도로, 물가 상승이 지속되고 있음을 시사합니다.
+- summary: (서울=연합뉴스) 김윤구 기자 = 농협은 오는 23일부터 다음 달 20일까지 전국 농협하나로마트와 자재 판매장에서 '농심!효심!동심!'(農心!孝...
+
+### (45) I’m New York City’s new health commissioner. Here’s how I’ll help deliver on Zohran Mamdani’s affordability agenda.
+- score: 3
+- source: marketwatch
+- published_at: Thu, 23 Apr 2026 19:16:00 GMT
+- url: https://www.marketwatch.com/story/im-new-york-citys-new-health-commissioner-heres-how-ill-help-deliver-on-zohran-mamdanis-affordability-agenda-e5a8c47b?mod=mw_rss_topstories
+- matched_terms: energy_facility:ESS x1
+- significance: 뉴욕시의 새로운 보건 국장이 주택, 의료, 기본 필수품 비용 상승으로 인한 시민들의 어려움을 해소하겠다고 밝힌 것은, 광범위한 인플레이션 압력이 지속되며 가계 구매력과 복지에 부정적인 영향을 미치고 있음을 시사한다.
+- summary: Across the U.S., rising costs for housing, healthcare and basic necessities are taking a toll on people’s well-being.
+
+### (19) EUR/GBP weakens as UK CPI lifts GBP; technicals signal downside below 200-day SMA
+- score: 3
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 14:54:40 Z
+- url: https://www.fxstreet.com/news/eur-gbp-weakens-as-uk-cpi-lifts-gbp-technicals-signal-downside-below-200-day-sma-202604221454
+- matched_terms: energy_facility:ESS x1
+- significance: 영국 CPI 데이터 상승은 인플레이션 압력이 여전히 지속되고 있음을 보여주며, 이는 영국 파운드의 강세와 유로화 약세로 이어져 환율 변동성을 증폭시키는 요인으로 작용합니다.
+- summary: EUR/GBP trades on the back foot on Wednesday as UK inflation data lifts the British Pound (GBP), pressuring the Euro (EUR), with the cross extending losses for the second consecutive day. At the time

@@ -1,0 +1,42 @@
+# [332] 공공부문 탄소중립 전환
+
+profile: Infrastructure
+label: primary
+score: 47 (metadata=8, nodes=35, repeat=4)
+category: energy
+updated_at: 2026-04-24T16:42:15.995073
+nodes: 2 total / 2 matched
+keywords: 탄소중립, 공공부문, 재생에너지, 친환경 인프라, 정부 정책
+
+## Description
+정부와 공공기관이 탄소중립 목표 달성을 위해 적극적으로 친환경 정책을 도입하고 인프라를 전환하는 시나리오입니다. 이는 민간 부문으로의 확산을 촉진하며 국가 전체의 탄소 감축 노력에 중요한 전환점이 됩니다.
+
+## Matched Tags
+- energy_facility: 24
+- industrial_facility: 19
+
+## Matched Terms
+  industrial_facility:산업단지 x4
+  energy_facility:재생에너지 x2
+  energy_facility:태양광 x2
+
+## Matched News Nodes
+
+### (2) 제주도, 용암해수산업단지 RE100 단지 전환 기본계획 추진
+- score: 22
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 16:05:22 +0900
+- url: https://www.yna.co.kr/view/AKR20260424126500056
+- matched_terms: industrial_facility:산업단지 x4
+  energy_facility:재생에너지 x1
+- significance: 제주 용암해수산업단지의 RE100 전환 계획은 지자체가 주도하는 공공부문 탄소중립 전환 노력의 구체적인 사례로, 향후 다른 지역 및 산업 단지로의 확산 가능성을 보여줍니다.
+- summary: (제주=연합뉴스) 고성식 기자 = 제주도는 용암해수산업단지를 재생에너지 100%(RE100) 산업단지로 전환하기 위한 기본계획 수립에 착수했다.
+
+### (1) '태양광으로 순찰차를'…경찰청장 대행, 탄소중립 우수관서 방문
+- score: 13
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 16:26:42 +0900
+- url: https://www.yna.co.kr/view/AKR20260424132100004
+- matched_terms: energy_facility:태양광 x2
+- significance: 이 뉴스는 정부 기관인 경찰청이 태양광 에너지 도입을 통해 탄소중립을 실천하려는 움직임을 보여주며, 공공부문의 친환경 전환 시작을 알리는 중요한 사례입니다.
+- summary: (서울=연합뉴스) 이동환 기자 = 유재성 경찰청장 직무대행은 24일 정부의 '탄소중립' 정책을 적극 실천하고 있는 인천남동경찰서와 숭의지구대를 ...

@@ -1,0 +1,29 @@
+# [173] 글로벌 AI 로봇 경쟁 심화
+
+profile: AI & Semiconductors
+label: primary
+score: 31 (metadata=23, nodes=6, repeat=2)
+category: tech
+updated_at: 2026-04-21T19:50:08.704756
+nodes: 1 total / 1 matched
+keywords: AI, 로봇, 휴머노이드, 기술패권, 중국
+
+## Description
+각국이 AI와 로봇 기술 선점을 위해 경쟁적으로 투자하고 인프라를 구축하면서 기술 패권 경쟁이 심화되는 시나리오입니다. 이는 미래 산업 지형과 노동 시장에 큰 변화를 가져올 수 있습니다.
+
+## Matched Tags
+- ai: 29
+
+## Matched Terms
+  ai:AI x4
+
+## Matched News Nodes
+
+### (1) 中, 8월 휴머노이드 로봇 체육대회 개최…역도·투호 등 32개 종목
+- score: 6
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 18:45:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260421164600083
+- matched_terms: ai:AI x1
+- significance: 중국의 휴머노이드 로봇 체육대회 개최는 AI 로봇 기술 개발 및 대중화에 대한 중국 정부의 적극적인 의지를 보여주는 사건입니다.
+- summary: (베이징=연합뉴스) 한종구 특파원 = 중국이 휴머노이드 로봇 마라톤 대회에 이어 오는 8월 휴머노이드 로봇 체육대회를 연다.

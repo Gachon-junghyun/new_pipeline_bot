@@ -1,0 +1,67 @@
+# [251] 글로벌 증시 낙관론 확산
+
+profile: AI & Semiconductors
+label: primary
+score: 53 (metadata=0, nodes=43, repeat=10)
+category: finance
+updated_at: 2026-04-24T15:41:29.323006
+nodes: 24 total / 5 matched
+keywords: 글로벌 증시, 나스닥, 기술주 강세, 투자 심리, 금리 인하 기대
+
+## Description
+미국 증시의 강세, 특히 기술주 중심의 상승은 글로벌 투자 심리에 긍정적인 영향을 미치며 위험자산 선호 현상을 심화시킬 수 있습니다. 이는 금리 인하 기대감과 기업 실적 개선이 맞물려 전개될 가능성이 높습니다.
+
+## Matched Tags
+- ai: 31
+- semiconductor: 12
+
+## Matched Terms
+  ai:AI x6
+  semiconductor:반도체 x2
+
+## Matched News Nodes
+
+### (4) NYSE 부회장 "올하반기 IPO 시장 기록적 활황…AI·방산이 주도"
+- score: 13
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 12:31:37 +0900
+- url: https://www.yna.co.kr/view/AKR20260423097100072
+- matched_terms: ai:AI x2
+- significance: NYSE 고위 임원의 발언은 AI, 방산 관련 IPO 활황이 글로벌 증시 낙관론을 더욱 확산시키고, 지정학적 위험과 인플레이션 우려에도 자본시장이 견조함을 보여주는 강력한 신호입니다.
+- summary: (뉴욕=연합뉴스) 김연숙 특파원 = 미국 뉴욕증권거래소(NYSE) 고위 임원은 이란 전쟁 등 지정학적 위험과 인플레이션 우려에도 자본시장이 견조...
+
+### (12) Why it’s the luckiest U.S. stock market in history, according to one strategist
+- score: 9
+- source: marketwatch
+- published_at: Thu, 23 Apr 2026 12:23:00 GMT
+- url: https://www.marketwatch.com/story/why-its-the-luckiest-u-s-stock-market-in-history-according-to-one-strategist-4a351ca7?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+- significance: AI 붐과 쉬운 금융 환경이 전쟁과 관세 등 여러 역풍에도 불구하고 미국 주식 시장을 역사상 가장 운 좋은 시기로 이끌고 있다는 진단은 글로벌 증시 낙관론을 강화하는 요인으로 작용합니다.
+- summary: Financial conditions are easy and the AI boom is driving the economy forward, despite war, tariffs and other headwinds, says this strategist
+
+### (15) ServiceNow’s stock sinks toward worst day ever, taking the software sector down with it
+- score: 9
+- source: marketwatch
+- published_at: Thu, 23 Apr 2026 15:22:00 GMT
+- url: https://www.marketwatch.com/story/servicenows-stock-sinks-toward-worst-day-ever-taking-the-software-sector-down-with-it-77fd240d?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+- significance: 주요 소프트웨어 기업의 주가 급락은 AI 기술주 중심의 글로벌 증시 낙관론에 찬물을 끼얹을 수 있는 부정적 신호로 작용합니다.
+- summary: A prominent software ETF is seeing its biggest daily decline in a year. There’s “no room for nuance” in the sector, an analyst says.
+
+### (18) Dow Jones Industrial Average treads water as semiconductors extend record streak
+- score: 6
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 16:23:07 Z
+- url: https://www.fxstreet.com/news/dow-jones-industrial-average-treads-water-as-semiconductors-extend-record-streak-202604231623
+- matched_terms: semiconductor:반도체 x1
+- significance: 다우존스 산업평균지수가 반도체주의 강세에 힘입어 높은 수준을 유지하며, 글로벌 증시의 낙관적인 투자 심리가 지속될 수 있음을 시사합니다.
+- summary: Dow Jones Industrial Average (DJIA) futures are drifting near 49,400 on Thursday, trading just below the flatline after swinging between 49,100 and 49,600 over the past two sessions.
+
+### (19) Traders are betting on big moves in Intel on earnings
+- score: 6
+- source: cnbc
+- published_at: Thu, 23 Apr 2026 17:59:29 GMT
+- url: https://www.cnbc.com/2026/04/23/traders-are-betting-on-big-moves-in-intel-on-earnings.html
+- matched_terms: semiconductor:반도체 x1
+- significance: 반도체 주식의 강세가 미국 증시의 기록적인 상승을 이끌고 있으며, 이는 투자자들의 낙관적인 심리와 기술주 중심의 성장 기대감을 반영한다.
+- summary: Semiconductor stocks are powering the U.S. equity market to records and traders are predicting that means a big swing in shares of Intel after earnings tonight.

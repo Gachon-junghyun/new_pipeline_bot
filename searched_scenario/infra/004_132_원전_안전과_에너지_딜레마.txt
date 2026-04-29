@@ -1,0 +1,44 @@
+# [132] 원전 안전과 에너지 딜레마
+
+profile: Infrastructure
+label: primary
+score: 98 (metadata=54, nodes=40, repeat=4)
+category: energy
+updated_at: 2026-04-21T14:50:12.960368
+nodes: 2 total / 2 matched
+keywords: 원전 안전, 에너지 정책, 탈원전, 재생에너지, 기후변화
+
+## Description
+원전 사고의 책임 소재와 기록 보존 요구는 원자력 에너지의 안전성 논란을 다시 점화하며, 각국의 에너지 정책 결정에 중대한 영향을 미칠 것입니다. 이는 재생에너지 전환 가속화 또는 원전 기술 강화 논쟁으로 이어질 수 있습니다.
+
+## Matched Tags
+- energy_facility: 94
+
+## Matched Terms
+  energy_facility:원전 x9
+  energy_facility:원자력 x4
+  energy_facility:재생에너지 x2
+  energy_facility:발전소 x1
+
+## Matched News Nodes
+
+### (2) 카자흐스탄, 2050년까지 최소 원전 3곳 건설 계획 발표
+- score: 22
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 14:39:06 +0900
+- url: https://www.yna.co.kr/view/AKR20260421112800009
+- matched_terms: energy_facility:원전 x3
+  energy_facility:원자력 x1
+- significance: 카자흐스탄의 대규모 원전 건설 계획은 중앙아시아 지역의 에너지 믹스 변화를 예고하며, 원자력 에너지의 확대가 지정학적 중요성과 함께 에너지 안보 딜레마를 심화시킬 수 있음을 보여줍니다.
+- summary: (서울=연합뉴스) 유창엽 기자 = 중앙아시아 카자흐스탄이 오는 2050년까지 최소 3곳의 원전을 건설하기로 했다.
+
+### (1) 日시민단체 "후쿠시마 사고 재판기록 영구 보존해야"
+- score: 18
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 09:41:22 +0900
+- url: https://www.yna.co.kr/view/AKR20260416044400073
+- matched_terms: energy_facility:원자력 x2
+  energy_facility:발전소 x1
+  energy_facility:원전 x1
+- significance: 이 뉴스는 과거 대규모 원전 사고의 교훈과 책임 소재를 다시 상기시키며, 원자력 에너지의 미래와 안전 기준에 대한 지속적인 사회적 논의를 촉발하는 시발점입니다.
+- summary: (도쿄=연합뉴스) 조성미 특파원 = 후쿠시마 제1원자력발전소 사고를 제대로 대비하지 못해 인명피해를 부른 혐의로 기소됐던 당시 도쿄전력 경영진이...

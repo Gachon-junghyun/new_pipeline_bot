@@ -1,0 +1,40 @@
+# [8] AI, 노동시장 대전환
+
+profile: Infrastructure
+label: primary
+score: 29 (metadata=0, nodes=25, repeat=4)
+category: tech
+updated_at: 2026-04-16T09:50:11.533328
+nodes: 21 total / 2 matched
+keywords: AI, 노동시장, 일자리, 생산성, 인력재편
+
+## Description
+인공지능 기술이 단순 반복 업무를 넘어 고숙련 업무 영역까지 진출하며 노동 시장의 구조적 변화를 촉발합니다. AI가 일자리를 대체할 것이라는 우려와 함께 인간의 생산성을 증강시키는 도구로 활용될 가능성, 그리고 이에 따른 새로운 일자리 창출과 교육 시스템 변화 등이 주요 쟁점으로 부상합니다.
+
+## Matched Tags
+- transport: 22
+- urban: 3
+
+## Matched Terms
+  transport:항만 x5
+  urban:SOC x1
+
+## Matched News Nodes
+
+### (20) 평택항만공사, 일자리 정책 추진 공로 '행안부장관' 표창
+- score: 22
+- source: asiae
+- published_at: Thu, 16 Apr 2026 07:10:27 +0900
+- url: https://www.asiae.co.kr/article/2026041607102848271
+- matched_terms: transport:항만 x5
+- significance: 평택항만공사가 지역사회 일자리 창출과 공정한 채용 문화 확산에 기여한 공로로 장관 표창을 받은 것은, 정부 및 공공기관이 사회적 가치를 중시하고 노동시장 안정화에 기여하려는 노력을 보여주는 사례이다.
+- summary: 경기평택항만공사가 지난해 일자리 정책 추진 공로로 행정안전부 장관 표창을 받았다. 평택항만공사는 지역사회 일자리 창출과 공정한 채용 문화 확산에 기여한 공로를 인정받아 '2025년 일자리 정책 추진 유공' 행정안전부 장관 표창을 받았다고 16일 밝혔다. 평택항만공사는 앞서 지난해 경기도 주관 '공공기관 채용실태 특정감사'에서 단 한 건의 지적 사항도 없는
+
+### (16) Snap Is Laying Off 16% of Full-Time Staff as It Embraces A.I.
+- score: 3
+- source: nyt
+- published_at: Wed, 15 Apr 2026 17:17:01 +0000
+- url: https://www.nytimes.com/2026/04/15/business/snap-layoffs-snapchat.html
+- matched_terms: urban:SOC x1
+- significance: Snapchat이 AI 의존도를 높이며 대규모 감원을 단행한 것은 AI 기술 발전이 노동 시장의 구조적 변화와 일자리 대체로 이어지는 시나리오 'AI, 노동시장 대전환'을 가속화하는 중요한 사례입니다.
+- summary: The company, which owns the social media app Snapchat, said it was laying off about 1,000 employees as it increases its reliance on artificial intelligence.

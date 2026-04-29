@@ -1,0 +1,29 @@
+# [123] 플랫폼 기업 성장통
+
+profile: AI & Semiconductors
+label: primary
+score: 37 (metadata=23, nodes=12, repeat=2)
+category: tech
+updated_at: 2026-04-16T08:31:58.797913
+nodes: 1 total / 1 matched
+keywords: 플랫폼, 신사업, 커머스, 성장률 둔화, 규제 리스크
+
+## Description
+글로벌 플랫폼 기업들이 핵심 사업 성장은 지속하나, 신사업 확장 및 규제 리스크로 인해 성장 동력 확보에 난항을 겪는 시나리오입니다. 이는 기업 가치 평가에 지속적인 영향을 미치며 산업 재편을 촉발할 수 있습니다.
+
+## Matched Tags
+- platform: 35
+
+## Matched Terms
+  platform:플랫폼 x5
+
+## Matched News Nodes
+
+### (1) 삼성증권 "네이버, 커머스 고성장·신사업 지연 우려…목표가↓"
+- score: 12
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 08:20:37 +0900
+- url: https://www.yna.co.kr/view/AKR20260416026400008
+- matched_terms: platform:플랫폼 x2
+- significance: 이 뉴스는 국내 대표 플랫폼 기업의 핵심 사업 성과와 신사업 지연 우려를 동시에 보여주며, 플랫폼 기업들이 직면한 성장통의 한 단면을 제시합니다.
+- summary: (서울=연합뉴스) 김태종 기자 = 삼성증권[016360]은 16일 네이버에 대해 커머스(전자상거래)는 고성장하고 있지만 신사업 지연이 우려된다며...

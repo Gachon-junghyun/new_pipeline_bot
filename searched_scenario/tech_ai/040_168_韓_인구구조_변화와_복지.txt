@@ -1,0 +1,40 @@
+# [168] 韓 인구구조 변화와 복지
+
+profile: AI & Semiconductors
+label: primary
+score: 37 (metadata=0, nodes=33, repeat=4)
+category: macro
+updated_at: 2026-04-24T17:41:36.996768
+nodes: 31 total / 2 matched
+keywords: 인구구조변화, 사회복지, 아동복지, 정부정책, 예산확대
+
+## Description
+한국 사회는 급격한 인구구조 변화에 직면해 있으며, 이는 아동 복지, 노인 복지 등 사회 전반의 복지 시스템 재편을 요구합니다. 이번 학대피해아동쉼터 증설은 이러한 복지 수요 증가에 대한 정부의 대응 중 하나로, 향후 인구 변화가 사회 복지 예산 및 정책 방향에 미치는 영향이 커질 것입니다.
+
+## Matched Tags
+- ai: 33
+
+## Matched Terms
+  ai:AI x7
+  ai:인공지능 x1
+
+## Matched News Nodes
+
+### (3) 일레븐랩스, 케어링에 음성 AI 솔루션 제공…AI 돌봄 강화
+- score: 32
+- source: asiae
+- published_at: Tue, 21 Apr 2026 20:40:37 +0900
+- url: https://www.asiae.co.kr/article/2026042120403708815
+- matched_terms: ai:AI x6
+  ai:인공지능 x1
+- significance: AI를 활용한 시니어케어 서비스 확대는 고령화로 인한 사회적 돌봄 부담을 경감하고, 인구구조 변화에 따른 복지 시스템 재편의 한 축으로 작용할 수 있음을 보여줍니다.
+- summary: 인공지능(AI) 오디오 업체 일레븐랩스는 케어링과 협업해 'AI 마음 돌봄' 서비스를 확대하고 있다고 21일 밝혔다. 케어링은 국내 시니어케어 전문기업으로, AI가 혼자 있는 노인들에게 정기적으로 전화를 걸어 대화하는 서비스를 제공한다. 방문 요양과 주간보호센터를 통해 약 1만2000명의 어르신을 돌보고 있다. 전국 60개 센터를 직영으로 운영하며 약
+
+### (5) [단독] “저출생 바닥 찍었나”...출생아수 30만명 회복 눈앞 [Pick코노미]
+- score: 1
+- source: sedaily
+- published_at: Wed, 22 Apr 2026 05:30:05 +0900
+- url: https://www.sedaily.com/article/20035357
+- matched_terms: ai:AI x1
+- significance: 출생아수 30만명 회복 가능성에 대한 기대는 한국의 장기적인 인구구조 변화와 그에 따른 사회복지 시스템 재편 논의에 긍정적인 영향을 미칠 수 있는 중요한 지표로 작용합니다.
+- summary:

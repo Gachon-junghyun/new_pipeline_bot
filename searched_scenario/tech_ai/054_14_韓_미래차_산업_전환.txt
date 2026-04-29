@@ -1,0 +1,42 @@
+# [14] 韓 미래차 산업 전환
+
+profile: AI & Semiconductors
+label: primary
+score: 26 (metadata=0, nodes=22, repeat=4)
+category: corporate
+updated_at: 2026-04-15T19:32:36.489412
+nodes: 10 total / 2 matched
+keywords: 전기차 전환, 자동차 산업, 생산 기지, 고용 변화, 수출 경쟁력
+
+## Description
+글로벌 완성차 기업들이 한국 생산 기지를 미래차(전기차, 자율주행차) 중심으로 재편하며, 한국 자동차 산업의 구조적 변화와 경쟁력 강화가 가속화되는 시나리오입니다. 이는 국내 고용, 투자, 수출 구조에 큰 영향을 미칠 것입니다.
+
+## Matched Tags
+- regulation: 16
+- ai: 6
+
+## Matched Terms
+  regulation:보조금 x3
+  ai:AI x1
+  ai:인공지능 x1
+
+## Matched News Nodes
+
+### (2) 車산업협동조합 "전기차 보조금과 세제 지원 병행해야"
+- score: 16
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 07:30:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260414147100003
+- matched_terms: regulation:보조금 x3
+- significance: 자동차 산업협동조합의 전기차 보조금 및 세제 지원 요구는 국내 생산 기지를 미래차 중심으로 재편하고 경쟁력을 강화하려는 한국 미래차 산업 전환 시나리오의 중요한 정책적 움직임입니다.
+- summary: (서울=연합뉴스) 윤민혁 기자 = 전기차 정책이 보조금 지원을 넘어 국내생산촉진세제 도입 등 세제 지원을 병행해야 한다는 요구가 자동차 업계에서...
+
+### (4) 현대차 무뇨스 "아이오닉 자율주행차 美 전역 달릴 것…로봇 인력감축 수단 아냐"
+- score: 6
+- source: asiae
+- published_at: Wed, 15 Apr 2026 13:24:53 +0900
+- url: https://www.asiae.co.kr/article/2026041513245381911
+- matched_terms: ai:AI x1
+  ai:인공지능 x1
+- significance: 현대차의 자율주행 및 로봇 기술 비전 발표는 한국 완성차 기업이 미래차 중심으로 사업을 재편하고 글로벌 경쟁력을 강화하려는 움직임을 보여주는 중요한 사례입니다.
+- summary: 호세 무뇨스 현대자동차 사장이 자율주행과 인공지능(AI) 로보틱스 등 미래 첨단 기술에 대한 비전을 제시했다. 미국 전역에 '아이오닉 5' 자율주행차가 달리고, 인간이 하기 힘든 일을 돕는 휴머노이드를 볼 수 있을 것이라고 강조했다. 또 로봇을 인력 감축의 수단으로 보지 않는다고 덧붙였다. 무뇨스 사장은 14일(현지시간) 열린 '2026 세마포 월드 이코

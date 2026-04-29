@@ -1,0 +1,59 @@
+# [175] 전기차 전환의 역설
+
+profile: AI & Semiconductors
+label: primary
+score: 59 (metadata=18, nodes=33, repeat=8)
+category: energy
+updated_at: 2026-04-22T00:50:15.080546
+nodes: 4 total / 4 matched
+keywords: 전기차, 보조금, 재정부담, 친환경전환, 모빌리티
+
+## Description
+전기차 보급이 빠르게 늘면서 정부의 보조금 재정 부담이 커지고 있습니다. 이는 친환경 전환과 재정 건전성 유지 사이의 딜레마를 심화시키며, 미래 모빌리티 산업의 지속가능한 성장에 대한 재검토를 촉발할 수 있습니다. 보조금 정책 변화는 소비 트렌드, 산업 경쟁력, 그리고 글로벌 탄소중립 목표 달성에도 영향을 미칠 것입니다.
+
+## Matched Tags
+- regulation: 50
+- ai: 1
+
+## Matched Terms
+  regulation:보조금 x8
+  ai:AI x1
+
+## Matched News Nodes
+
+### (1) 신차 5대 중 1대는 전기차…'보조금 딜레마' 빠진 정부
+- score: 7
+- source: hankyung
+- published_at: Tue, 21 Apr 2026 19:00:04 +0900
+- url: https://www.hankyung.com/article/2026042168061
+- matched_terms: regulation:보조금 x1
+- significance: 이 뉴스는 전기차 시장의 빠른 성장과 그로 인한 정부 재정의 압박이라는 중요한 시나리오의 첫 조짐을 보여줍니다.
+- summary: 
+
+### (2) 고유가에 '전기차 100만 시대'
+- score: 6
+- source: hankyung
+- published_at: Tue, 21 Apr 2026 19:00:02 +0900
+- url: https://www.hankyung.com/article/2026042168521
+- matched_terms: regulation:보조금 x1
+- significance: 고유가로 인한 전기차 수요 증가는 '전기차 100만 시대'를 열며, 이는 전기차 전환 가속화와 함께 정부 보조금 재정 부담 증가라는 기존 시나리오의 흐름을 강화합니다.
+- summary: 
+
+### (3) 지원금으로 기름 넣으러 갔는데...주유소 앞에서 멈춰 선 이유가
+- score: 7
+- source: sedaily
+- published_at: Tue, 21 Apr 2026 23:09:15 +0900
+- url: https://www.sedaily.com/article/20035411
+- matched_terms: ai:AI x1
+  regulation:보조금 x1
+- significance: 이 뉴스는 전기차 보조금 정책의 재정적 부담과 실효성 문제를 보여주며, 전기차 전환의 역설 시나리오를 심화시키는 사례입니다.
+- summary: 
+
+### (4) 전기차 등록 100만대 돌파…'보조금 딜레마' 빠진 정부
+- score: 13
+- source: hankyung
+- published_at: Wed, 22 Apr 2026 00:15:54 +0900
+- url: https://www.hankyung.com/article/2026042171481
+- matched_terms: regulation:보조금 x2
+- significance: 전기차 등록 대수가 100만대를 돌파하며 정부의 전기차 보조금 재정 부담이 현실화되고 있어, 시나리오 '전기차 전환의 역설'이 강조하는 친환경 전환과 재정 건전성 딜레마가 심화되고 있음을 보여줍니다.
+- summary:

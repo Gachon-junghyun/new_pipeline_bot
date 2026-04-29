@@ -1,0 +1,40 @@
+# [25] 재정 건전성 강화 논의
+
+profile: Infrastructure
+label: secondary
+score: 17 (metadata=0, nodes=13, repeat=4)
+category: macro
+updated_at: 2026-04-22T11:49:57.619245
+nodes: 32 total / 2 matched
+keywords: 재정건전성, 세수부족, 세입확충, 재정정책, 정부예산
+
+## Description
+정부가 세수 부족과 지출 증가에 직면하면서 재정 건전성 확보를 위한 정책 변화를 모색하는 시나리오입니다. 벌금과 과태료 조정 논의는 이러한 재정 확충 노력의 일환으로 볼 수 있으며, 향후 세금 인상, 지출 구조조정 등 더 큰 변화로 이어질 수 있습니다.
+
+## Matched Tags
+- urban: 10
+- transport: 3
+
+## Matched Terms
+  urban:SOC x2
+  transport:철도 x1
+
+## Matched News Nodes
+
+### (30) Why Social Security faces a financial reckoning just a few years from now
+- score: 10
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 15:54:00 GMT
+- url: https://www.marketwatch.com/story/why-social-security-faces-a-financial-reckoning-just-a-few-years-from-now-167fcd5e?mod=mw_rss_topstories
+- matched_terms: urban:SOC x2
+- significance: 미국 사회보장제도의 재정적 위기 가능성은 고령화로 인한 정부의 재정 부담 증가와 재정 건전성 확보의 필요성을 부각시키는 중요한 사례입니다.
+- summary: Did policymakers in 1983 do a good job fixing Social Security?
+
+### (5) 서울교통공사 "지하철 무임수송 손실, 코레일만큼 보전해달라"
+- score: 3
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 09:21:19 +0900
+- url: https://www.yna.co.kr/view/AKR20260415038800004
+- matched_terms: transport:철도 x1
+- significance: 지하철 무임수송 손실 보전 요구는 지방 공기업의 재정 악화가 중앙 정부의 재정 부담으로 전이되는 사례로, 재정 건전성 강화 논의에 중요한 시사점을 제공한다.
+- summary: (서울=연합뉴스) 황재하 기자 = 서울교통공사가 무임 수송 손실 부담을 감당하기 어렵다며 정부 관계 부처들에 한국철도공사(코레일)와 같은 수준의...

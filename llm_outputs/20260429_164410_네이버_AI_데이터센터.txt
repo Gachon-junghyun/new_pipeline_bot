@@ -1,0 +1,34 @@
+# LLM News Search Report
+
+- query: 네이버 AI 데이터센터
+- generated_at: 2026-04-29T16:44:10
+- source_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/news_alert.db
+- date_filter: 최근 14일 (2026-04-15 이후)
+- local_results: 3
+- scenario_txt_results: 0
+- naver_results: 0
+
+## Local DB
+
+### 1. 국민성장펀드, 네이버 AI데이터센터에 4000억 저리 대출
+- date: 2026-04-16T00:31:53.365913
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260415/133747528/2
+
+### 2. 국민성장펀드, 네이버 AI 데이터센터에 4천억 저리대출
+- date: 2026-04-15T22:00:34.355896
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260415151000002
+
+### 3. 국민성장펀드, 네이버 AI 데이터센터에 4000억 3%대 저리대출
+- date: 2026-04-15T18:31:57.212590
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260415/133746868/1
+
+## Scenario TXT
+
+(no results)
+
+## Naver News
+
+(no results)

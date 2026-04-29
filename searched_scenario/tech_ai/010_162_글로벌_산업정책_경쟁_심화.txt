@@ -1,0 +1,131 @@
+# [162] 글로벌 산업정책 경쟁 심화
+
+profile: AI & Semiconductors
+label: primary
+score: 155 (metadata=0, nodes=145, repeat=10)
+category: macro
+updated_at: 2026-04-23T13:41:33.240400
+nodes: 22 total / 11 matched
+keywords: 산업정책, 정부개입, 기업지원, 국가경쟁력, 보호무역
+
+## Description
+각국 정부가 특정 산업의 패권을 확보하고 자국 기업을 보호하기 위해 직접 시장 개입과 지원을 강화하는 추세가 심화되고 있습니다. 이는 자유 시장 경제 원칙에 변화를 가져오며, 산업 경쟁 구도와 국제 무역 질서에 큰 영향을 미칠 것입니다.
+
+## Matched Tags
+- ai: 144
+- semiconductor: 66
+- regulation: 13
+
+## Matched Terms
+  ai:AI x26
+  semiconductor:반도체 x9
+  ai:인공지능 x3
+  semiconductor:TSMC x3
+  regulation:보조금 x2
+  semiconductor:파운드리 x1
+
+## Matched News Nodes
+
+### (2) 정부 보조금 등에 업은 中기업, 한국 맹추격
+- score: 13
+- source: hankyung
+- published_at: Tue, 21 Apr 2026 18:12:18 +0900
+- url: https://www.hankyung.com/article/2026042167971
+- matched_terms: regulation:보조금 x2
+- significance: 중국 정부의 보조금을 등에 업은 중국 기업의 한국 시장 맹추격은 각국 정부가 자국 기업 보호를 위해 산업 정책적 개입을 강화하는 글로벌 트렌드의 한 사례로 볼 수 있다.
+- summary: 
+
+### (4) Trump Dismisses a Merger While Seeking Suitors for Spirit Airlines
+- score: 16
+- source: nyt
+- published_at: Tue, 21 Apr 2026 14:28:36 +0000
+- url: https://www.nytimes.com/2026/04/21/business/trump-spirit-airlines-united-american.html
+- matched_terms: ai:AI x4
+- significance: 트럼프의 항공사 합병 반대와 스피릿 항공 인수 제안은 특정 산업의 기업 활동에 대한 정부 개입 의지를 보여주며, 글로벌 산업 정책 경쟁 심화 시나리오와 부합한다.
+- summary: As he rejected the idea of a merger of United Airlines and American Airlines, President Trump said someone, including possibly the federal government, should buy or help Spirit.
+
+### (8) 중기부, 'K-스타트업' AI 리그 출범…유망 AI 창업기업 모집
+- score: 38
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 12:00:04 +0900
+- url: https://www.yna.co.kr/view/AKR20260422063300030
+- matched_terms: ai:AI x6
+  ai:인공지능 x1
+- significance: 중기부가 'K-스타트업' AI 리그를 출범하여 유망 AI 창업기업을 모집하는 것은, 한국 정부가 AI 산업 육성을 통해 국가 경쟁력을 강화하려는 산업 정책의 일환으로 해석될 수 있다.
+- summary: (서울=연합뉴스) 구정모 기자 = 중소벤처기업부는 범부처 창업경진대회인 '올해의 K-스타트업'의 인공지능(AI) 리그에 참가할 기업을 모집한다고...
+
+### (10) 과기정통부, 국가 AI·ICT R&D 성과 알린다
+- score: 19
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 13:00:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260422044500017
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+- significance: 정부의 AI·ICT R&D 성과 사업화 및 인재 양성 지원은 핵심 기술 분야에서 국가 경쟁력을 확보하려는 산업 정책의 일환으로 볼 수 있습니다.
+- summary: (서울=연합뉴스) 권하영 기자 = 국가 인공지능(AI)과 정보통신기술(ICT) 분야의 연구개발(R&amp;D) 우수 성과를 사업화하고 석·박사급...
+
+### (12) 日자민당 "5년간 AI 개발에 1조엔 투자…국방 등에 활용"
+- score: 25
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 21:15:12 +0900
+- url: https://www.yna.co.kr/view/AKR20260422164400073
+- matched_terms: ai:AI x4
+  ai:인공지능 x1
+- significance: 일본의 AI 개발에 대한 대규모 국가 투자는 AI 기술 패권 경쟁이 심화되는 가운데 자국 산업 보호 및 육성을 위한 정부의 적극적인 산업정책 개입 사례를 보여줍니다.
+- summary: (도쿄=연합뉴스) 조성미 특파원 = 일본 집권 자민당이 과학기술 발전에 활용할 인공지능(AI) 개발에 향후 5년간 1조엔(약 9조3천억원) 규모...
+
+### (14) U.S. Nears Loan to Rescue Spirit Airlines
+- score: 7
+- source: nyt
+- published_at: Wed, 22 Apr 2026 17:07:27 +0000
+- url: https://www.nytimes.com/2026/04/22/business/trump-spirit-airlines-loan.html
+- matched_terms: ai:AI x1
+- significance: 미국 정부가 파산 위기에 처한 항공사에 구제금융을 제공하는 것은 자국 기업 보호와 산업 안정화를 위한 정부 개입이 강화되는 추세를 보여줍니다.
+- summary: The Trump administration is negotiating a deal that would provide as much as $500 million to the struggling company, which is in its second bankruptcy in two years.
+
+### (15) Spirit Airlines may get a bailout. What’s in it for U.S. taxpayers?
+- score: 26
+- source: marketwatch
+- published_at: Wed, 22 Apr 2026 18:32:00 GMT
+- url: https://www.marketwatch.com/story/spirit-airlines-may-get-a-bailout-whats-in-it-for-u-s-taxpayers-39099d91?mod=mw_rss_topstories
+- matched_terms: ai:AI x5
+- significance: 미국 정부가 파산 위기에 처한 Spirit Airlines에 구제금융을 제공할 가능성은 국가 안보와 경제 안정이라는 명분하에 정부가 특정 산업이나 기업에 직접 개입하고 지원을 강화하는 산업정책 경쟁 심화 시나리오의 한 예시로 볼 수 있습니다.
+- summary: Ailing Spirit Airlines was hoping to emerge from bankruptcy in the next few months. The government may lend it a helping hand sooner.
+
+### (16) Businesses trying to claim tariff refunds run into problems, as government officials briefly pause access to portal
+- score: 13
+- source: marketwatch
+- published_at: Wed, 22 Apr 2026 18:27:00 GMT
+- url: https://www.marketwatch.com/story/businesses-trying-to-claim-tariff-refunds-are-already-running-into-problems-74637ecf?mod=mw_rss_topstories
+- matched_terms: ai:AI x3
+- significance: 관세 환급 포털의 일시적 운영 중단은 정부의 재정 정책 및 산업 보호 정책 실행에 있어 예상치 못한 문제와 불확실성이 발생할 수 있음을 시사하며, 이는 글로벌 산업정책 경쟁 심화 시나리오에서 정부 개입의 한계점을 보여주는 사례가 될 수 있습니다.
+- summary: It wasn’t all smooth sailing this week as the federal government started the process of accepting claims for massive amounts of tariff refunds.
+
+### (17) 반도체 핵심기술 중국에 빼돌린 삼전 前연구원, 1심 징역 7년 - 조선일보
+- score: 13
+- source: google_kr
+- published_at: Wed, 22 Apr 2026 07:45:37 GMT
+- url: https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnJPS0VCNjd1cktJcGtNU1l3NDJ4RWhKdzBwUTRvMVdZSDJUemtNWnJTZjhXVGVhNjQ0NG5mWTdoRlhRTnFCVnk3Vkp1Zk1nOTZXTkE2ak8tOHFUR2xjRVhaNDlpdTUzS2o0M1RGTUhoVG1CdlhTVEEwNC1PcWV3UjFocjN2aXc?oc=5
+- matched_terms: semiconductor:반도체 x2
+- significance: 반도체 핵심 기술 유출은 자국 기술 보호 및 산업 패권 경쟁이 심화되는 글로벌 산업정책 경쟁 시나리오에 직접적인 영향을 미치며, 기술 안보의 중요성을 부각시킨다.
+- summary: <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnJPS0VCNjd1cktJcGtNU1l3NDJ4RWhKdzBwUTRvMVdZSDJUemtNWnJTZjhXVGVhNjQ0NG5mWTdoRlhRTnFCVnk3Vkp1Zk1nOTZXTkE2ak8tOHFUR2xjRVhaNDlpdTUzS2o0M1RGTU
+
+### (20) TSMC "2029년 이전 美애리조나에 패키징 공정 능력 구축"
+- score: 37
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 10:36:53 +0900
+- url: https://www.yna.co.kr/view/AKR20260423067700009
+- matched_terms: semiconductor:반도체 x4
+  semiconductor:TSMC x3
+  semiconductor:파운드리 x1
+- significance: TSMC의 미국 내 패키징 공정 구축은 미국 정부의 반도체 공급망 자국화 정책과 인센티브에 따른 글로벌 반도체 산업의 재편 움직임을 보여주는 중요한 사례입니다.
+- summary: (서울=연합뉴스) 차병섭 기자 = 세계 최대 파운드리(반도체 수탁생산) 업체인 대만 TSMC 측이 2029년 이전에 미국 애리조나주에 반도체 패...
+
+### (22) 中방첩기관, 반도체·희토류 정보 유출 경고…"경각심 높여야"
+- score: 16
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 12:40:07 +0900
+- url: https://www.yna.co.kr/view/AKR20260423098300083
+- matched_terms: semiconductor:반도체 x3
+- significance: 중국 방첩기관의 반도체 및 핵심 광물 정보 유출 경고는 자국 산업 보호를 위한 정부의 개입과 통제 강화 움직임으로, 글로벌 산업정책 경쟁 심화 시나리오의 중요한 사례가 된다.
+- summary: (베이징=연합뉴스) 정성조 특파원 = 중국 방첩기관이 반도체 기술 기밀과 데이터 자원, 핵심 광물 유출 적발 사례를 공유하며 '안보 위협' 대응...

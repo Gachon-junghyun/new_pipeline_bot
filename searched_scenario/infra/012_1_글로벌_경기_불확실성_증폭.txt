@@ -1,0 +1,204 @@
+# [1] 글로벌 경기 불확실성 증폭
+
+profile: Infrastructure
+label: primary
+score: 63 (metadata=0, nodes=53, repeat=10)
+category: macro
+updated_at: 2026-04-24T15:41:30.817554
+nodes: 264 total / 20 matched
+keywords: 글로벌 경기 침체, 고금리, 인플레이션, 지정학적 리스크, 경제 불확실성
+
+## Description
+지정학적 리스크, 고금리 지속, 인플레이션 압력 등 복합적인 요인으로 글로벌 경제의 불확실성이 가중되고 있습니다. 이는 각국 중앙은행의 통화 정책, 기업 투자 심리, 그리고 소비자 지출에 중대한 영향을 미치며 경기 침체 가능성을 높일 수 있습니다.
+
+## Matched Tags
+- energy_facility: 77
+- urban: 27
+- transport: 12
+
+## Matched Terms
+  energy_facility:ESS x19
+  urban:SOC x5
+  transport:도로 x2
+
+## Matched News Nodes
+
+### (33) Bessent says Fed should wait for Warsh before cutting rates now
+- score: 13
+- source: fxstreet
+- published_at: Tue, 14 Apr 2026 16:11:41 Z
+- url: https://www.fxstreet.com/news/bessent-says-fed-should-wait-for-warsh-before-cutting-rates-now-202604141611
+- matched_terms: energy_facility:ESS x3
+- significance: 미국 재무장관의 발언은 이란 전쟁에도 불구하고 인플레이션 하락을 낙관하며 금리 인하를 지지하는 입장으로, 중동 지정학적 리스크가 글로벌 경제에 미치는 영향과 통화정책 방향에 대한 불확실성을 가중시키는 요인으로 작용합니다.
+- summary: The US Treasury Secretary Scott Bessent crossed the wires earlier, stating that he’s “quite confident” that core prices would continue to edge lower in the US despite the Iran war, and that he’s press
+
+### (231) Gold Price Forecast: XAU/USD remains pressured below $4,700 amid firm USD
+- score: 10
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 10:12:42 Z
+- url: https://www.fxstreet.com/news/gold-price-forecast-xau-usd-remains-pressured-below-4-700-amid-firm-usd-202604231012
+- matched_terms: energy_facility:ESS x2
+- significance: 달러 강세에도 불구하고 금값이 하락 압력 속에서 회복력을 보이는 것은 글로벌 경기 불확실성 증폭 시나리오에서 안전자산 선호 심리가 여전히 존재함을 시사하지만, 미국 금리 인하 기대감 후퇴 등 다른 거시경제 변수의 영향력 또한 무시할 수 없음을 보여준다.
+- summary: Gold (XAU/USD) remains under pressure on Thursday but holds near $4,700 at the time of writing, showing some resilience despite an unfavorable backdrop.
+
+### (193) ECB: Growth risks temper hike urgency – Societe Generale
+- score: 10
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 15:01:37 Z
+- url: https://www.fxstreet.com/news/ecb-growth-risks-temper-hike-urgency-societe-generale-202604221501
+- matched_terms: urban:SOC x2
+- significance: ECB가 금리 인상 속도를 조절하려는 움직임은 유로존의 성장 둔화 위험을 반영하며, 이는 글로벌 경기 불확실성 시나리오를 강화한다.
+- summary: Societe Generale’s Anatoli Annenkov expects the European Central Bank (ECB) to keep rates unchanged next week as focus shifts toward Euro Area growth and medium-term core inflation.
+
+### (102) Iran war is a major source of uncertainty for U.S. businesses, Fed’s ‘beige book’ says
+- score: 10
+- source: marketwatch
+- published_at: Wed, 15 Apr 2026 18:28:00 GMT
+- url: https://www.marketwatch.com/story/iran-war-is-a-major-source-of-uncertainty-for-u-s-businesses-feds-beige-book-says-52d45d7b?mod=mw_rss_topstories
+- matched_terms: energy_facility:ESS x2
+- significance: 이란과의 전쟁 불확실성으로 미국 기업들이 주요 의사결정을 유보하는 것은 지정학적 리스크가 글로벌 경제 불확실성을 가중시키는 흐름과 일치합니다.
+- summary: U.S. businesses are pulling back from making major decisions due to uncertainty stemming from the war with Iran, according to the Federal Reserve’s latest report on regional economies, known as the “b
+
+### (50) CNY: Safe-haven role grows with stronger yuan – Societe Generale
+- score: 10
+- source: fxstreet
+- published_at: Tue, 14 Apr 2026 19:17:00 Z
+- url: https://www.fxstreet.com/news/cny-safe-haven-role-grows-with-stronger-yuan-societe-generale-202604141917
+- matched_terms: urban:SOC x2
+- significance: 위안화 강세와 중국 관련 해상 운송 증가는 글로벌 교역 환경의 변화와 미중 경제 관계의 역학 관계를 보여주며, 이는 전반적인 글로벌 경기 불확실성을 가중시키는 요인으로 작용할 수 있습니다.
+- summary: Societe Generale analysts highlight that CNY strength has resumed, with USD/CNY nearing 6.80 for the first time in three years as China-linked tankers transit the Strait of Hormuz.
+
+### (197) Citi says the US economy could be 'overheating'. Here's the investing playbook to not get burned. - Business Insider
+- score: 7
+- source: google_en
+- published_at: Wed, 22 Apr 2026 17:26:37 GMT
+- url: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZE1fazNSdDd2WVFzSzFhZ0tWNUFDVm5YR2VDMFFHUnpvaUNWRlVyUVpBYndYbXIxc1A5ODU3UG9yREV0cXR1cEd4Y0R1dU9UR0x0NUFtTmtPa1hzVkJBRUJnb0Q1ckhBUFFHR1FPTDdGdU1xVG0wUThCZDR0NTkzNmhFYmVWVEFRNlp2NWZ6cG1pRlVjcnhqZjhFbWlGSDhNNjJiTHhLRUM0UQ?oc=5
+- matched_terms: energy_facility:ESS x1
+- significance: 미국 경제의 '과열' 가능성 제기는 글로벌 경기 둔화 우려 속에서도 인플레이션 압력과 중앙은행의 긴축 정책 지속 가능성을 높여 글로벌 경제의 불확실성을 가중시키는 요인으로 작용합니다.
+- summary: <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZE1fazNSdDd2WVFzSzFhZ0tWNUFDVm5YR2VDMFFHUnpvaUNWRlVyUVpBYndYbXIxc1A5ODU3UG9yREV0cXR1cEd4Y0R1dU9UR0x0NUFtTmtPa1hzVkJBRUJnb0Q1ckhBUFFHR1FPTD
+
+### (163) From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing
+- score: 7
+- source: bbc
+- published_at: Tue, 21 Apr 2026 18:07:06 GMT
+- url: https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss
+- matched_terms: urban:SOC x1
+- significance: 케빈 워시의 연준(Fed) 체제 변화 주장과 금리 관련 발언은 중앙은행의 통화정책 방향에 대한 불확실성을 증폭시켜 글로벌 경기 불확실성 시나리오에 영향을 미친다.
+- summary: Kevin Warsh denied making a deal with Donald Trump on interest rates and said he wanted regime change at the central bank.
+
+### (150) EUR/GBP under pressure as Eurozone sentiment deteriorates sharply in April
+- score: 7
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 13:28:53 Z
+- url: https://www.fxstreet.com/news/eur-gbp-under-pressure-as-eurozone-sentiment-deteriorates-sharply-in-april-202604211328
+- matched_terms: energy_facility:ESS x1
+- significance: 유로존 경제 심리 악화와 영국 노동 시장의 견고함은 유럽 내 경제 상황의 차이를 보여주며, 글로벌 경기 불확실성이 지역별로 다르게 나타날 수 있음을 시사합니다.
+- summary: EUR/GBP trades on the back foot on Tuesday, with the British Pound (GBP) outperforming the Euro (EUR) following broadly resilient UK labor market data, while softer economic sentiment from the Eurozon
+
+### (164) White House discussing currency swap line with United Arab Emirates
+- score: 6
+- source: cnbc
+- published_at: Tue, 21 Apr 2026 18:21:54 GMT
+- url: https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html
+- matched_terms: transport:도로 x1
+- significance: 미국과 UAE 간 통화 스왑 라인 논의는 유가 안정 및 달러 유동성 확보를 통해 지정학적 리스크와 글로벌 경제 불확실성에 대응하려는 시도로, 기존 시나리오의 중요한 변수로 작용할 수 있습니다.
+- summary: Such a move would provide liquidity in dollars to the oil-rich UAE, but could be politically tenuous for the administration amid higher prices at home.
+
+### (67) 헤지펀드 거물 "호르무즈 6~12개월 봉쇄시 세계 경기침체"
+- score: 6
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 08:46:13 +0900
+- url: https://www.yna.co.kr/view/AKR20260415030100009
+- matched_terms: transport:도로 x1
+- significance: 호르무즈 해협 봉쇄 가능성 경고는 원유 공급망 불안을 통해 글로벌 경기 불확실성과 인플레이션 압력을 극도로 증폭시킬 수 있는 핵심 지정학적 리스크 요인으로 작용합니다.
+- summary: (서울=연합뉴스) 황정우 기자 = 미국 헤지펀드 업계 거물인 시타델의 켄 그리핀 최고경영자(CEO)는 "호르무즈 해협이 향후 6개월에서 12개월...
+
+### (239) NZD/USD: RBNZ hawkish tone supports pair – Rabobank
+- score: 3
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 14:10:13 Z
+- url: https://www.fxstreet.com/news/nzd-usd-rbnz-hawkish-tone-supports-pair-rabobank-202604231410
+- matched_terms: energy_facility:ESS x1
+- significance: 뉴질랜드의 CPI 상승과 중앙은행의 매파적 스탠스는 고금리 장기화와 인플레이션 압력이 지속될 수 있음을 시사하며 글로벌 경기 불확실성을 가중시키는 요인으로 작용합니다.
+- summary: Rabobank Senior FX Strategist Jane Foley highlights that stronger-than-expected New Zealand Consumer Price Index (CPI) and a hawkish Reserve Bank of New Zealand (RBNZ) stance have driven aggressive ma
+
+### (232) Amex cardholders are loading up on luxury goods and premium airfares, as spending growth picks up
+- score: 3
+- source: marketwatch
+- published_at: Thu, 23 Apr 2026 12:06:00 GMT
+- url: https://www.marketwatch.com/story/amex-cardholders-are-loading-up-on-luxury-goods-and-premium-airfares-as-spending-growth-picks-up-dc67f38e?mod=mw_rss_topstories
+- matched_terms: energy_facility:ESS x1
+- significance: Amex의 고급 소비재 및 항공권 지출 증가는 글로벌 경기 둔화 우려 속에서도 특정 계층의 소비 여력이 유지되거나 증가하고 있음을 시사하며, 이는 경기 불확실성 시나리오 내 소비 양극화 현상의 일부로 해석될 수 있습니다.
+- summary: American Express books 10% spending growth in the first quarter.
+
+### (201) USD/CAD Price Forecast: Hovers near 1.3650 as RSI remains bearish
+- score: 3
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 17:51:38 Z
+- url: https://www.fxstreet.com/news/usd-cad-price-forecast-hovers-near-13650-as-rsi-remains-bearish-202604221751
+- matched_terms: energy_facility:ESS x1
+- significance: USD/CAD 환율의 횡보세는 캐나다 달러의 상대적 강세(월요일 0.34% 상승)에도 불구하고 글로벌 경제 불확실성이 지속되고 있음을 보여주며, 이는 중앙은행의 통화 정책 결정에 영향을 미칠 수 있습니다.
+- summary: USD/CAD continues to trade laterally on Wednesday during the North American session, flattish at around 1.3658, as the pair seems capped by Monday's price action, in which the Loonie appreciated 0.34%
+
+### (167) USD/CAD: Bear trend stays in control – Scotiabank
+- score: 3
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 17:37:32 Z
+- url: https://www.fxstreet.com/news/usd-cad-bear-trend-stays-in-control-scotiabank-202604211737
+- matched_terms: energy_facility:ESS x1
+- significance: 이 뉴스는 USD/CAD 환율의 약세 추세가 유지됨에도 불구하고 USD가 안정화되는 미묘한 움직임을 보여주며, 글로벌 경기 불확실성 속에서 각국 통화의 상대적 강세와 약세가 복합적으로 작용할 수 있음을 시사합니다.
+- summary: Scotiabank strategists Shaun Osborne and Eric Theoret observes the Canadian Dollar (CAD) is modestly softer as USD stabilizes, but stresses the broader USD/CAD bear trend remains intact.
+
+### (165) USD/CAD steadies as firmer US Dollar supports gains, but technicals signal downside risk
+- score: 3
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 18:14:38 Z
+- url: https://www.fxstreet.com/news/usd-cad-steadies-as-firmer-us-dollar-supports-gains-but-technicals-signal-downside-risk-202604211814
+- matched_terms: energy_facility:ESS x1
+- significance: 미국 달러의 강세와 유가 상승이 복합적으로 작용하며 USD/CAD 환율에 변동성을 주어 글로벌 경제의 불확실성을 더하고 있다.
+- summary: USD/CAD holds firm on Tuesday as the US Dollar (USD) steadies after recent weakness, although the pair lacks strong upside momentum as elevated Oil prices provide underlying support to the commodity-l
+
+### (158) Dow Jones Industrial Average futures slip on Oil surge, hot US Retail Sales
+- score: 3
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 16:16:25 Z
+- url: https://www.fxstreet.com/news/dow-jones-industrial-average-futures-slip-on-oil-surge-hot-us-retail-sales-202604211616
+- matched_terms: energy_facility:ESS x1
+- significance: 국제 유가 상승과 미국 소매판매 호조는 인플레이션 압력과 통화 정책 불확실성을 가중시켜 글로벌 경기 불확실성 시나리오를 심화시키는 요인으로 작용합니다.
+- summary: Dow Jones Industrial Average (DJIA) futures eased in Tuesday's session, with the contract printing a fresh overnight high near 49,800 before reversing sharply as traders digested a trio of hotter-than
+
+### (97) AUD/USD surges ahead of Australian jobs data as US Dollar loses footing
+- score: 3
+- source: fxstreet
+- published_at: Wed, 15 Apr 2026 16:47:09 Z
+- url: https://www.fxstreet.com/news/aud-usd-surges-ahead-of-australian-jobs-data-as-us-dollar-loses-footing-202604151647
+- matched_terms: energy_facility:ESS x1
+- significance: 호주 노동시장 지표와 미국 달러의 동향은 글로벌 환율 변동성과 각국 중앙은행의 통화 정책 결정에 영향을 미쳐 글로벌 경제 불확실성을 가중시키는 요인으로 작용할 수 있습니다.
+- summary: The AUD/USD surged near the 0.7160 price region on Wednesday, as investors positioned ahead of key Australian labor market data and continued to assess the broader US Dollar (USD) backdrop amid mixed
+
+### (93) Debt Alarms Ring as Countries Rack Up More Emergency Spending
+- score: 3
+- source: nyt
+- published_at: Wed, 15 Apr 2026 16:25:33 +0000
+- url: https://www.nytimes.com/2026/04/15/business/iran-war-fiscal-debt-impact.html
+- matched_terms: energy_facility:ESS x1
+- significance: 각국 정부의 비상 지출 확대는 장기화된 고에너지 비용 상황에서 재정 건전성 악화를 초래하여 글로벌 경기 불확실성을 더욱 증폭시킬 수 있습니다.
+- summary: Amid signs of a prolonged period of high energy costs, policymakers are urging restraint as governments open up the public till to protect households and businesses.
+
+### (45) USD/KRW: Two-way trade with geopolitical risk – OCBC
+- score: 3
+- source: fxstreet
+- published_at: Tue, 14 Apr 2026 17:39:00 Z
+- url: https://www.fxstreet.com/news/usd-krw-two-way-trade-with-geopolitical-risk-ocbc-202604141739
+- matched_terms: energy_facility:ESS x1
+- significance: 중동 긴장 고조와 유가 상승으로 인한 원화 약세는 글로벌 지정학적 리스크가 금융 시장에 미치는 영향과 한국 경제의 취약성을 보여주며 글로벌 경기 불확실성 시나리오를 강화합니다.
+- summary: OCBC strategists Sim Moh Siong and Christopher Wong note USD/KRW traded higher on heightened Middle East tensions and Oil gains, with Korean Won pressured as a higher-beta, net Oil importer currency.
+
+### (44) Singapore: Imported energy shock drives MAS stance – UOB
+- score: 3
+- source: fxstreet
+- published_at: Tue, 14 Apr 2026 18:25:27 Z
+- url: https://www.fxstreet.com/news/singapore-imported-energy-shock-drives-mas-stance-uob-202604141825
+- matched_terms: energy_facility:ESS x1
+- significance: 싱가포르의 에너지 수입 비용 상승으로 인한 인플레이션 전망 상향은 글로벌 에너지 가격 불안정과 그에 따른 경제 불확실성이 지속되고 있음을 보여준다.
+- summary: UOB’s Jester Koh highlights that MAS raised its 2026 core and headline inflation forecast ranges to 1.5–2.5% as imported energy costs surge. He stresses that higher Oil and gas prices will pass throug

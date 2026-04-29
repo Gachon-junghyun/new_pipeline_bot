@@ -1,0 +1,29 @@
+# [20] 연준 리더십 교체와 통화정책
+
+profile: AI & Semiconductors
+label: secondary
+score: 15 (metadata=0, nodes=13, repeat=2)
+category: finance
+updated_at: 2026-04-15T05:26:55.915945
+nodes: 3 total / 1 matched
+keywords: 연준 의장, 통화정책, 금리, 인플레이션, 금융시장
+
+## Description
+차기 연준 의장 인선은 미국은 물론 글로벌 통화정책의 방향성을 결정하는 핵심 변수입니다. 후보들의 성향과 정책 기조에 따라 긴축 또는 완화적 통화정책 전환 여부가 결정될 수 있으며, 이는 금융시장과 실물경제에 중대한 영향을 미칠 것입니다.
+
+## Matched Tags
+- ai: 13
+
+## Matched Terms
+  ai:AI x3
+
+## Matched News Nodes
+
+### (2) Kevin Warsh’s Senate hearing to be Fed chair is next week. What to watch as Trump’s pick faces the spotlight.
+- score: 13
+- source: marketwatch
+- published_at: Tue, 14 Apr 2026 18:45:00 GMT
+- url: https://www.marketwatch.com/story/kevin-warshs-hearing-is-set-for-next-week-what-to-watch-as-trumps-pick-for-fed-chair-faces-senate-spotlight-4fe3dcab?mod=mw_rss_topstories
+- matched_terms: ai:AI x3
+- significance: 케빈 워시의 연준 의장 지명 및 청문회는 트럼프 행정부의 통화 정책 방향을 가늠하고, 기존 시나리오 '연준 리더십 교체와 통화정책'에서 언급된 리더십 교체에 따른 통화정책 변화 가능성을 구체화하는 중요한 단계입니다.
+- summary: Senate Banking Committee Chair Tim Scott said Tuesday that his panel will hold a hearing next week to consider President Donald Trump’s nominee for Federal Reserve chief, Kevin Warsh, and predicted th

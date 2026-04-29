@@ -1,0 +1,29 @@
+# [64] 한국, 글로벌 통상 재편
+
+profile: Infrastructure
+label: secondary
+score: 12 (metadata=0, nodes=10, repeat=2)
+category: trade
+updated_at: 2026-04-15T15:32:18.291648
+nodes: 4 total / 1 matched
+keywords: 통상국가, 규제개혁, 네거티브규제, 국제경쟁력, 글로벌공급망
+
+## Description
+글로벌 공급망 재편과 보호무역주의 심화 속에서 한국이 통상 정책을 재정비하고 국내 규제 시스템을 국제 경쟁력 확보에 유리한 방향으로 전환하려는 움직임입니다. 이는 경제 성장을 위한 대외 지향적 전략 변화를 시사합니다.
+
+## Matched Tags
+- energy_facility: 10
+
+## Matched Terms
+  energy_facility:재생에너지 x2
+
+## Matched News Nodes
+
+### (2) 규제 풀고 투자 몰아준다…로봇·재생에너지·바이오·자율주행 '메가특구' 추진
+- score: 10
+- source: asiae
+- published_at: Wed, 15 Apr 2026 13:13:22 +0900
+- url: https://www.asiae.co.kr/article/2026041509114332050
+- matched_terms: energy_facility:재생에너지 x2
+- significance: 정부의 '메가특구' 추진은 규제 완화와 대규모 투자를 통해 4대 전략 산업의 경쟁력을 강화하고 글로벌 통상 환경 변화에 대응하는 한국의 전략적 움직임을 보여줍니다.
+- summary: 정부가 로봇, 재생에너지, 바이오, 자율주행차 등 4대 전략 산업을 중심으로 '메가특구'를 조성하는 방안을 본격 추진한다. 산업별로 맞춤형 규제 완화와 대규모 실증을 허용해 기업 투자와 인재를 끌어들이는 '초대형 산업거점'을 만들겠다는 구상이다. 15일 이재명 대통령 주재로 열린 제1차 규제합리화위원회에서 '메가특구 추진방안'이 핵심 안건으로 논의됐다. 메

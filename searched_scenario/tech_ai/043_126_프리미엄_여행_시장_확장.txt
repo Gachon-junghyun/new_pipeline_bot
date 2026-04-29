@@ -1,0 +1,41 @@
+# [126] 프리미엄 여행 시장 확장
+
+profile: AI & Semiconductors
+label: primary
+score: 34 (metadata=0, nodes=30, repeat=4)
+category: corporate
+updated_at: 2026-04-22T13:50:34.864256
+nodes: 11 total / 2 matched
+keywords: 프리미엄 서비스, 럭셔리 여행, 항공 산업, 소비 양극화, 고부가가치
+
+## Description
+글로벌 경기 둔화 속에서도 고가치 서비스에 대한 수요가 견고하게 유지되며, 항공 및 관광 산업에서 '럭셔리 경험'을 강조하는 프리미엄 전략이 확산되고 있습니다. 이는 소비 양극화와 차별화된 경험 추구 트렌드를 반영하며, 새로운 비즈니스 모델 창출을 이끌 것입니다.
+
+## Matched Tags
+- ai: 27
+- semiconductor: 3
+
+## Matched Terms
+  ai:AI x5
+  semiconductor:ASIC x1
+
+## Matched News Nodes
+
+### (5) Did JetBlue just admit to surveillance pricing? Airline now says viral post about $230 fare hike was an error.
+- score: 7
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 14:11:00 GMT
+- url: https://www.marketwatch.com/story/did-jetblue-just-admit-to-surveillance-pricing-airline-now-says-viral-post-about-230-fare-hike-was-an-error-70c8322e?mod=mw_rss_topstories
+- matched_terms: ai:AI x1
+- significance: 젯블루의 가격 정책 논란은 항공사의 수익성 관리 전략이 강화되는 흐름 속에서 소비자의 반발을 촉발하며 프리미엄 서비스 시장의 투명성 요구가 커질 수 있음을 보여줍니다.
+- summary: JetBlue is now walking back advice given to a customer via social media to search for fares in incognito mode.
+
+### (6) Is this a new Gilded Age in American commercial air travel? Airlines hope so.
+- score: 23
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 18:24:00 GMT
+- url: https://www.marketwatch.com/story/is-this-a-new-gilded-age-in-american-commercial-air-travel-airlines-hope-so-48a8a42c?mod=mw_rss_topstories
+- matched_terms: ai:AI x4
+  semiconductor:ASIC x1
+- significance: 항공사들이 프리미엄 클래스 업그레이드에 집중 투자하는 것은 경기 둔화 속에서도 고가치 서비스에 대한 수요가 견고함을 보여주며, 프리미엄 여행 시장의 확장을 뒷받침하는 구체적인 사례입니다.
+- summary: Airlines are pouring money into flashy premium-class upgrades to keep attracting big spenders while the average traveler struggles to afford basic airfare.

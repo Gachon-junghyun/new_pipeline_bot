@@ -1,0 +1,32 @@
+# [59] K-스타트업 글로벌 확장
+
+profile: AI & Semiconductors
+label: primary
+score: 40 (metadata=0, nodes=38, repeat=2)
+category: corporate
+updated_at: 2026-04-15T22:01:39.544292
+nodes: 4 total / 1 matched
+keywords: 스타트업, 글로벌 진출, K-스타트업, 중소벤처기업, 해외 시장
+
+## Description
+글로벌 시장의 경쟁 심화와 기술 패권 경쟁 속에서 한국 스타트업의 해외 진출 및 성장을 국가가 지원하는 시나리오입니다. 이는 한국 경제의 새로운 성장 동력 확보와 글로벌 시장 내 기술 경쟁력 강화를 목표로 합니다.
+
+## Matched Tags
+- ai: 22
+- data_center: 16
+
+## Matched Terms
+  ai:AI x5
+  data_center:AI 인프라 x3
+
+## Matched News Nodes
+
+### (3) PFCT, 금융 특화 AI 인프라 '에어팩'으로 해외 진출 확대
+- score: 38
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 16:06:22 +0900
+- url: https://www.yna.co.kr/view/AKR20260415141300017
+- matched_terms: ai:AI x5
+  data_center:AI 인프라 x3
+- significance: 금융 특화 AI 인프라를 개발한 PFCT의 해외 진출 확대는 K-스타트업의 글로벌 경쟁력 강화와 기술 기반 해외 시장 개척 성공 사례가 될 수 있습니다.
+- summary: (서울=연합뉴스) 한상용 기자 = AI 금융기술 기업 PFCT가 금융 특화 버티컬 AI 인프라 '에어팩'(AIRPACK)을 앞세워 글로벌 시장 ...

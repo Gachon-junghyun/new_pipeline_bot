@@ -1,0 +1,96 @@
+# [176] 인플레이션 압력 지속
+
+profile: AI & Semiconductors
+label: primary
+score: 56 (metadata=0, nodes=46, repeat=10)
+category: macro
+updated_at: 2026-04-24T17:41:38.580160
+nodes: 51 total / 8 matched
+keywords: 인플레이션, 물가상승, 소비위축, 공급망, 식료품가격
+
+## Description
+글로벌 공급망 불안정 및 에너지 비용 상승 등으로 인한 생산 원가 압박이 지속되며 소비재 가격 상승으로 이어지는 시나리오입니다. 이는 가계 구매력 감소와 경기 둔화를 야기할 수 있습니다.
+
+## Matched Tags
+- ai: 37
+- regulation: 13
+- semiconductor: 3
+
+## Matched Terms
+  ai:AI x9
+  regulation:보조금 x2
+  semiconductor:ASIC x1
+
+## Matched News Nodes
+
+### (2) Retail sales jump to 3-year high, but mostly because drivers are paying more for gas
+- score: 13
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 12:35:00 GMT
+- url: https://www.marketwatch.com/story/retail-sales-jump-to-3-year-high-but-its-due-to-high-gas-prices-0dbfc66b?mod=mw_rss_topstories
+- matched_terms: ai:AI x3
+- significance: 소매 판매 증가가 주로 유가 상승과 인플레이션에 기인한다는 점은 소비 위축 우려를 심화시키며 인플레이션 압력이 지속될 가능성을 보여준다.
+- summary: Sales at U.S. retailers posted the biggest gain in March in three years, but the increase was driven by higher gasoline prices and rising inflation, both of which could sap the economy if they don’t e
+
+### (3) Prices for World Cup public transportation range from free to $150. Here’s what’s going on.
+- score: 3
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 18:40:00 GMT
+- url: https://www.marketwatch.com/story/prices-for-world-cup-public-transportation-range-from-free-to-150-heres-whats-going-on-4e379437?mod=mw_rss_topstories
+- matched_terms: ai:AI x1
+- significance: 월드컵과 같은 대규모 국제 행사를 앞두고 대중교통 요금이 급등하는 현상은 인플레이션 압력이 특정 시기와 장소에서 소비자 가격에 미치는 직접적인 영향을 보여줍니다.
+- summary: In one instance, train fares are being inflated from $26 to $150.
+
+### (17) 농협, 312억 투입해 할인 행사…“소비자 물가 안정 총력”
+- score: 1
+- source: sedaily
+- published_at: Wed, 22 Apr 2026 13:44:51 +0900
+- url: https://www.sedaily.com/article/20035665
+- matched_terms: ai:AI x1
+- significance: 농협의 대규모 할인 행사는 소비자들이 체감하는 물가 상승 압력이 지속되고 있음을 보여주며, 정부 및 기업이 물가 안정 노력을 지속할 필요성을 강조한다.
+- summary: 
+
+### (42) Which airlines are cancelling flights to the UK - and what can you do?
+- score: 10
+- source: bbc
+- published_at: Thu, 23 Apr 2026 16:47:41 GMT
+- url: https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x2
+- significance: 항공권 가격 인상과 운항 취소는 제트 연료 가격 상승으로 인한 항공사 비용 부담 증가를 보여주며, 이는 전반적인 인플레이션 압력이 지속되고 있음을 나타낸다.
+- summary: Airlines are putting up prices and cancelling flights in response to higher jet fuel prices.
+
+### (43) Brazil: Gradual easing path intact – Standard Chartered
+- score: 3
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 18:11:39 Z
+- url: https://www.fxstreet.com/news/brazil-gradual-easing-path-intact-standard-chartered-202604231811
+- matched_terms: ai:AI x1
+- significance: 브라질 중앙은행의 금리 인하 정책이 인플레이션 위험으로 인해 점진적으로 진행될 것이라는 전망은 글로벌 인플레이션 압력이 여전히 지속되고 있음을 시사한다.
+- summary: Standard Chartered’s Dan Pan expects Banco Central do Brasil (BCB) to continue its cautious easing cycle, projecting a 25bps cut at the 29 April meeting as inflation risks remain elevated.
+
+### (45) I’m New York City’s new health commissioner. Here’s how I’ll help deliver on Zohran Mamdani’s affordability agenda.
+- score: 3
+- source: marketwatch
+- published_at: Thu, 23 Apr 2026 19:16:00 GMT
+- url: https://www.marketwatch.com/story/im-new-york-citys-new-health-commissioner-heres-how-ill-help-deliver-on-zohran-mamdanis-affordability-agenda-e5a8c47b?mod=mw_rss_topstories
+- matched_terms: semiconductor:ASIC x1
+- significance: 뉴욕시의 새로운 보건 국장이 주택, 의료, 기본 필수품 비용 상승으로 인한 시민들의 어려움을 해소하겠다고 밝힌 것은, 광범위한 인플레이션 압력이 지속되며 가계 구매력과 복지에 부정적인 영향을 미치고 있음을 시사한다.
+- summary: Across the U.S., rising costs for housing, healthcare and basic necessities are taking a toll on people’s well-being.
+
+### (46) The Fed quietly altered its March inflation forecast — and it points to more pain for Americans. How to fight back - AOL.com
+- score: 7
+- source: google_en
+- published_at: Thu, 23 Apr 2026 19:32:43 GMT
+- url: https://news.google.com/rss/articles/CBMiekFVX3lxTFBPdzZtTWZ5SGVOMWFxQUZvNGlrYzkxemxQSGtmTUFNTFlTWW96ak9WUmRlU0lNVXdRSXlFaXhwX3FzWlY5aWdaSVhxLUdLd3JoUzJBdzJtWXJNN2dvNkdEYmFKdWdYNzY2TFl2czdRaWZoZmRycjByeklR?oc=5
+- matched_terms: ai:AI x1
+- significance: 미국 연준이 3월 인플레이션 전망을 조용히 상향 조정한 것은 인플레이션 압력이 예상보다 오래 지속될 가능성을 시사하며, 이는 소비자와 경제 전반에 추가적인 부담을 줄 수 있습니다.
+- summary: <a href="https://news.google.com/rss/articles/CBMiekFVX3lxTFBPdzZtTWZ5SGVOMWFxQUZvNGlrYzkxemxQSGtmTUFNTFlTWW96ak9WUmRlU0lNVXdRSXlFaXhwX3FzWlY5aWdaSVhxLUdLd3JoUzJBdzJtWXJNN2dvNkdEYmFKdWdYNzY2TFl2czdRaW
+
+### (50) 보조금 푼 日, 3월 에너지가격 5.7%↓…휘발유·경유는 10%대↑(종합)
+- score: 13
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 12:34:33 +0900
+- url: https://www.yna.co.kr/view/AKR20260424058051073
+- matched_terms: regulation:보조금 x2
+- significance: 일본 정부의 보조금 정책에도 불구하고 휘발유와 경유 가격이 급등한 것은 글로벌 원유 수급난과 지정학적 리스크가 인플레이션 압력을 지속시키는 주요 요인임을 보여줍니다.
+- summary: (도쿄=연합뉴스) 조성미 특파원 = 미국·이란 전쟁 발발 직후 원유 수급난이 심화했던 지난달 일본의 소비자 에너지 가격이 전쟁 이전부터 시행했던...

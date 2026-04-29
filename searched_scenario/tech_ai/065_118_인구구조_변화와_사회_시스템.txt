@@ -1,0 +1,29 @@
+# [118] 인구구조 변화와 사회 시스템
+
+profile: AI & Semiconductors
+label: secondary
+score: 18 (metadata=0, nodes=16, repeat=2)
+category: macro
+updated_at: 2026-04-21T14:50:43.661389
+nodes: 5 total / 1 matched
+keywords: 고령화, 인구감소, 생명윤리, 안락사, 사회복지
+
+## Description
+고령화 및 인구 감소 심화는 안락사 합법화 논의와 같은 생명윤리, 의료, 복지 시스템 전반의 변화를 촉진합니다. 이는 장기적으로 사회적 가치관과 정부 정책, 산업 구조에 광범위한 영향을 미칠 것입니다.
+
+## Matched Tags
+- ai: 16
+
+## Matched Terms
+  ai:AI x3
+
+## Matched News Nodes
+
+### (3) 태안군, 고립가구에 AI 돌봄 로봇 보급…스마트 돌봄 강화
+- score: 16
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 09:14:34 +0900
+- url: https://www.yna.co.kr/view/AKR20260416037100063
+- matched_terms: ai:AI x3
+- significance: 태안군의 AI 돌봄 로봇 보급은 고령화로 인한 돌봄 공백 문제를 기술로 해결하려는 지방정부의 움직임을 보여주며, 이는 인구구조 변화에 따른 사회 시스템 재편의 한 양상으로 볼 수 있습니다.
+- summary: (홍성=연합뉴스) 김준범 기자 = 충남 태안군은 '2026년 AI 돌봄 로봇 지원사업' 공모에 선정돼 총 4천312만원의 사업비를 확보했다고 1...

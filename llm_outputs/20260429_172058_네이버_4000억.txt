@@ -1,0 +1,46 @@
+# LLM News Search Report
+
+- query: 네이버 4000억
+- generated_at: 2026-04-29T17:20:58
+- source_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/news_alert.db
+- scenario_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/scenario.db
+- date_filter: 최근 30일 (2026-03-30 이후)
+- local_results: 3
+- scenario_results: 1
+- naver_results: 0
+
+## Local DB
+
+### 1. 국민성장펀드, 네이버 AI데이터센터에 4000억 저리 대출
+- date: 2026-04-16T00:31:53.365913
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260415/133747528/2
+
+### 2. 국민성장펀드, 네이버 AI 데이터센터에 4000억 3%대 저리대출
+- date: 2026-04-15T18:31:57.212590
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260415/133746868/1
+
+### 3. 국민성장펀드, 네이버 AIDC에 4000억 저리 대출
+- date: 2026-04-15T17:31:54.430013
+- source: sedaily
+- url: https://www.sedaily.com/article/20032892
+
+## Scenario DB / TXT
+
+### 1. (3) 국민성장펀드, 네이버 AI데이터센터에 4000억 저리 대출
+- scenario: # [82] 한국 신성장 동력 확보
+- file: scenario.db
+- score: db
+- category: macro
+- keywords: ["정책펀드", "국민성장펀드", "미래산업투자", "경제성장률", "벤처투자"]
+- node_id: 554
+- source: donga
+- published_at: Thu, 16 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260415/133747528/2
+- significance: 국민성장펀드의 네이버 AI 데이터센터 저리 대출은 정부 주도의 정책 펀드를 통한 미래 유망 산업(AI) 투자 확대를 명확히 보여주는 사례로, 한국 경제의 신성장 동력 확보 시나리오를 가속화할 것입니다.
+- summary: 국민성장펀드가 네이버 인공지능(AI) 데이터센터 증설과 그래픽처리장치(GPU) 도입 사업에 4000억 원을 연 3%대 저리 대출로 공급한다. 금융위원회는
+
+## Naver News
+
+(no results)

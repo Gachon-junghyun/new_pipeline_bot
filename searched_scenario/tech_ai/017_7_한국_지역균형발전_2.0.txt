@@ -1,0 +1,79 @@
+# [7] 한국 지역균형발전 2.0
+
+profile: AI & Semiconductors
+label: primary
+score: 87 (metadata=0, nodes=77, repeat=10)
+category: macro
+updated_at: 2026-04-24T17:42:09.632661
+nodes: 99 total / 6 matched
+keywords: 지역균형발전, 지방소멸, 관광산업, 새마을운동, 지역경제활성화
+
+## Description
+지역 소멸 위기에 대응하고 수도권 집중을 완화하기 위한 정부의 새로운 지역 경제 활성화 정책 드라이브가 시작됩니다. 과거 새마을 운동처럼 지역 특색을 살린 관광, 산업 육성을 통해 지방에 활력을 불어넣으려는 시도가 주요합니다.
+
+## Matched Tags
+- ai: 77
+- semiconductor: 13
+
+## Matched Terms
+  ai:AI x12
+  ai:인공지능 x2
+  semiconductor:TSMC x2
+
+## Matched News Nodes
+
+### (39) [카드뉴스] AI 시대, K-로컬의 내일을 만나다…와이팜 엑스포 2026
+- score: 13
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 17:58:49 +0900
+- url: https://www.yna.co.kr/view/AKR20260421148900371
+- matched_terms: ai:AI x2
+- significance: AI 기술을 접목한 농촌 엑스포 개최는 지방 소멸 위기에 대응하고 지역 경제 활성화를 위한 신기술 기반 지역균형발전 전략의 일환으로 해석될 수 있습니다.
+- summary: "왜 지금 농촌인가?"
+
+### (55) "AI농업·귀농정보 한눈에"…연합뉴스 'Y-팜 엑스포' 내일 개막
+- score: 19
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 06:00:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260422154600030
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+- significance: AI 농업 기술 및 귀농·귀촌 정보 박람회 개최는 지역 소멸 위기에 대응하고 지방 경제 활성화를 목표로 하는 한국 지역균형발전 정책의 일환으로 해석될 수 있습니다.
+- summary: (서울=연합뉴스) 김세린 기자 = 인공지능(AI) 기반 스마트농업 기술과 귀농·귀촌 정보를 한자리에서 접할 수 있는 '귀농귀촌·지역활성화 박람회...
+
+### (76) 연합뉴스 'Y-팜 엑스포' 개막…AI농업이 여는 K로컬의 미래 알려
+- score: 13
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 06:00:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260423149300030
+- matched_terms: ai:AI x2
+- significance: 연합뉴스 'Y-팜 엑스포' 개막은 AI 농업을 통해 K-로컬의 미래를 제시하며, '한국 지역균형발전 2.0' 시나리오에서 지역 활성화와 귀농귀촌을 통한 새로운 지역 경제 모델 구축의 중요한 사례가 됩니다.
+- summary: (서울=연합뉴스) 김세린 기자 = 국가기간뉴스통신사 연합뉴스가 주최하는 귀농귀촌·지역활성화 박람회 '와이(Y)-팜 엑스포'가 24일 경기 수원시...
+
+### (86) 송미령 장관 "AI 스마트농업 확산할 것…농촌 기회의 터전으로"
+- score: 19
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 11:20:55 +0900
+- url: https://www.yna.co.kr/view/AKR20260424039500030
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+- significance: 농림축산식품부 장관의 AI 스마트농업 확산 및 청년농 육성 발언은 농촌 지역의 경제 활성화와 인구 유입을 목표로 하는 '한국 지역균형발전 2.0' 시나리오의 중요한 정책적 실천 방안입니다.
+- summary: (서울=연합뉴스) 김세린 기자 = 송미령 농림축산식품부 장관은 24일 "인공지능(AI) 기반의 스마트농업을 확산하고 청년농 육성에 속도를 내 농...
+
+### (88) "AI농업이 여는 K로컬 미래"…연합뉴스 'Y-팜 엑스포' 개막(종합)
+- score: 13
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 12:06:31 +0900
+- url: https://www.yna.co.kr/view/AKR20260424078600030
+- matched_terms: ai:AI x2
+- significance: 연합뉴스 'Y-팜 엑스포' 개막은 AI 농업을 통한 지역 활성화 및 귀농귀촌 유도라는 점에서 지역균형발전 정책의 실질적 사례이자 새로운 동력을 제시합니다.
+- summary: (수원=연합뉴스) 김세린 기자 = 국가기간뉴스통신사 연합뉴스가 주최하는 귀농귀촌·지역 활성화 박람회 '와이(Y)-팜 엑스포'가 24일 경기 수원...
+
+### (94) 日 지방세수 증가 1위는 구마모토현…TSMC 공장 유치 효과
+- score: 13
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 15:36:43 +0900
+- url: https://www.yna.co.kr/view/AKR20260424118600073
+- matched_terms: semiconductor:TSMC x2
+- significance: TSMC 공장 유치로 인한 구마모토현의 세수 증가는 첨단 산업 유치를 통한 지역 경제 활성화 및 지방 재정 강화가 지역균형발전의 핵심 전략이 될 수 있음을 보여주는 사례입니다.
+- summary: (도쿄=연합뉴스) 조성미 특파원 = 일본 광역 자치단체 10곳 중 6곳이 올해 지방세 수입에서 역대 최대를 기록할 것으로 보인다고 니혼게이자이신...

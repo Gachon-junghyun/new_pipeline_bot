@@ -1,0 +1,931 @@
+# [139] 빅테크 AI 전환 경쟁
+
+profile: AI & Semiconductors
+label: primary
+score: 497 (metadata=62, nodes=425, repeat=10)
+category: tech
+updated_at: 2026-04-24T17:42:00.968295
+nodes: 81 total / 81 matched
+keywords: AI 전환, 빅테크 전략, 애플, 리더십 교체, 하드웨어 AI
+
+## Description
+글로벌 빅테크 기업들이 AI 시대를 맞아 리더십 교체 및 대규모 투자를 통해 핵심 사업 모델을 재편하고 있습니다. 이는 미래 기술 패권과 산업 지형을 결정할 중요한 전환점이 될 것입니다.
+
+## Matched Tags
+- ai: 2318
+- platform: 766
+- semiconductor: 128
+- data_center: 114
+
+## Matched Terms
+  ai:AI x365
+  platform:빅테크 x73
+  ai:인공지능 x38
+  platform:구글 x25
+  ai:에이전트 x23
+  platform:애플 x20
+  semiconductor:엔비디아 x20
+  data_center:클라우드 x16
+  platform:오픈AI x7
+  ai:생성형 AI x4
+  platform:플랫폼 x4
+  data_center:AI 인프라 x3
+  platform:마이크로소프트 x3
+  ai:추론 x2
+  data_center:데이터센터 x2
+  platform:Meta x2
+  semiconductor:SK하이닉스 x2
+  ai:artificial intelligence x1
+  data_center:hyperscaler x1
+  semiconductor:반도체 x1
+
+## Matched News Nodes
+
+### (1) 팀쿡 이어 50세 하드웨어통 선택한 애플…AI 전환도 성공할까(종합)
+- score: 35
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 11:36:32 +0900
+- url: https://www.yna.co.kr/view/AKR20260421040851091
+- matched_terms: platform:애플 x3
+  ai:AI x2
+  platform:빅테크 x1
+- significance: 애플의 CEO 교체는 하드웨어 강점을 가진 빅테크가 AI 시대를 맞아 어떤 리더십과 전략으로 변화를 모색할지 보여주는 중요한 지표입니다.
+- summary: (샌프란시스코=연합뉴스) 권영전 특파원 = 애플의 '팀 쿡 시대'가 15년 만에 막을 내리면서 차기 수장으로 낙점된 존 터너스(50) 수석부사장...
+
+### (2) UNIST 한승열 교수팀, 국제 AI학회에 논문 3편 이례적 동시 채택
+- score: 34
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 11:31:58 +0900
+- url: https://www.yna.co.kr/view/AKR20260421084400057
+- matched_terms: ai:AI x4
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: UNIST 한승열 교수팀의 AI 연구 논문 3편 동시 채택은 한국의 AI 연구 역량이 글로벌 수준임을 보여주며, 이는 '빅테크 AI 전환 경쟁' 시나리오에서 한국의 기술 선도 가능성을 시사한다.
+- summary: (울산=연합뉴스) 김용태 기자 = 울산과학기술원(UNIST)은 인공지능대학원 한승열 교수팀의 연구 논문 3편이 23일 브라질 리우데자네이루에서 ...
+
+### (3) "피지컬 대전환 조명" 월드IT쇼 22일 개최…이통3사 총출동(종합)
+- score: 30
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 12:00:05 +0900
+- url: https://www.yna.co.kr/view/AKR20260421060651017
+- matched_terms: ai:AI x4
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 월드IT쇼에서 피지컬 AI를 중심으로 최신 기술 동향을 공유하는 것은 글로벌 빅테크 기업들이 AI 시대를 맞아 하드웨어와 결합된 AI 기술 개발 및 투자를 확대하는 시나리오의 흐름을 강화합니다.
+- summary: (서울=연합뉴스) 권하영 박형빈 기자 = 오는 22일 피지컬 인공지능(AI)을 중심으로 최신 기술 동향을 공유하는 혁신의 장이 열린다.
+
+### (4) [AI픽] 엔비디아 '네모트론 데이' 개막…풀스택 AI 공개
+- score: 48
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 13:35:32 +0900
+- url: https://www.yna.co.kr/view/AKR20260421096500017
+- matched_terms: ai:AI x4
+  semiconductor:엔비디아 x3
+  platform:빅테크 x1
+- significance: 엔비디아가 '네모트론 개발자 데이'를 통해 풀스택 AI를 공개하는 것은 글로벌 빅테크 기업들의 AI 전환 경쟁이 하드웨어뿐 아니라 소프트웨어 및 솔루션 전반으로 확장되고 있음을 보여주는 사례입니다.
+- summary: (서울=연합뉴스) 오지은 기자 = 엔비디아가 정보통신산업진흥원과 함께 21∼24일 '네모트론 개발자 데이'를 연다.
+
+### (5) "진짜 엔지니어" 애플 차기 CEO 존 터너스
+- score: 43
+- source: asiae
+- published_at: Tue, 21 Apr 2026 13:43:13 +0900
+- url: https://www.asiae.co.kr/article/2026042109260042506
+- matched_terms: platform:애플 x7
+  ai:AI x1
+  platform:빅테크 x1
+- significance: 애플의 차기 CEO 존 터너스의 선임은 하드웨어 엔지니어링 역량을 중시하며 AI 시대에 맞춰 제품 하드웨어 완성도를 통해 빅테크 경쟁에서 우위를 점하려는 애플의 전략 변화를 시사한다.
+- summary: '디테일에 강한 엔지니어이자, 신중한 경영자' 팀 쿡 애플 최고경영자(CEO)의 후임 존 터너스(사진)에 대한 애플 전·현직 임원들의 평가다. 그동안 팀 쿡 체제에서 애플의 하드웨어 엔지니어링 담당 수석 부사장을 맡았던 그는 제품 하드웨어의 완성도를 끌어올린 일등공신으로 꼽힌다. 본인 인생의 절반가량인 25년을 애플에서 보낸 차기 CEO인 터너스 수석 부사
+
+### (6) 어도비 "AI, 창의·마케팅 변곡점…에이전트 준비태세 갖춰야"(종합)
+- score: 53
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 14:07:38 +0900
+- url: https://www.yna.co.kr/view/AKR20260420086251091
+- matched_terms: ai:AI x5
+  ai:에이전트 x3
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 어도비가 AI를 적극적으로 수용하고 '에이전트 준비 태세'를 강조하는 것은 소프트웨어 산업의 AI 전환과 빅테크 기업들의 AI 리더십 경쟁이 심화되고 있음을 보여주는 사례입니다.
+- summary: (라스베이거스=연합뉴스) 권영전 특파원 = 소프트웨어(SW) 기업 어도비가 인공지능(AI)을 더욱 적극적으로 끌어안으며 '에이전트 준비 태세'의...
+
+### (7) 엔비디아·어도비 CEO "AI에이전트가 소프트웨어 미래 재정의"
+- score: 63
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 13:47:33 +0900
+- url: https://www.yna.co.kr/view/AKR20260421099600091
+- matched_terms: ai:AI x5
+  semiconductor:엔비디아 x3
+  ai:에이전트 x2
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 엔비디아와 어도비 CEO가 AI 에이전트가 소프트웨어의 미래를 재정의할 것이라고 언급한 것은 빅테크 기업들의 AI 전환 경쟁이 소프트웨어 산업 전반의 패러다임 변화를 가속화하고 있음을 보여주는 중요한 신호이다.
+- summary: (라스베이거스=연합뉴스) 권영전 특파원 = 소프트웨어(SW) 기업 어도비와 인공지능(AI) 칩 기업 엔비디아의 최고경영자(CEO)는 AI 에이전...
+
+### (8) "베이조스의 AI 랩, 15조원 투자 유치 임박"
+- score: 31
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 14:51:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260421118900009
+- matched_terms: ai:AI x4
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 제프 베이조스의 AI 스타트업에 대한 15조원 규모의 대규모 투자는 빅테크 기업들이 AI 기술 패권 경쟁을 위해 막대한 자본을 투입하며 사업 모델을 재편하고 있음을 보여주는 중요한 신호이다.
+- summary: (서울=연합뉴스) 황정우 기자 = 아마존의 창업자 제프 베이조스가 이끄는 인공지능(AI) 스타트업 '프로젝트 프로메테우스'가 100억달러(약 1...
+
+### (9) 과학기술·AI로 여는 대한민국 대도약…과학·정보통신의 날
+- score: 25
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 15:30:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260421092100017
+- matched_terms: ai:AI x4
+- significance: 과학기술정보통신부가 '과학·정보통신의 날'을 기념하며 AI 기반의 대도약을 강조하는 것은 국가 차원에서 AI 기술 개발과 인프라 확충에 집중하겠다는 의지를 보여주며, 이는 한국을 글로벌 AI 경쟁의 주요 플레이어로 만들려는 움직임과 연결됩니다.
+- summary: (서울=연합뉴스) 조승한 기자 = 과학기술정보통신부와 방송통신위원회는 21일 서울 강남구 한국과학기술회관에서 2026년 과학·정보통신의 날 기념...
+
+### (10) 정재헌 SKT CEO "핵심은 고객·AI"…사업 전환 본격화
+- score: 31
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 16:41:18 +0900
+- url: https://www.yna.co.kr/view/AKR20260421143600017
+- matched_terms: ai:AI x4
+  platform:빅테크 x1
+- significance: SK텔레콤 CEO의 '고객·AI' 중심 사업 전환 선언은 통신 기업이 AI를 핵심 동력으로 삼아 미래 성장 전략을 재편하는 글로벌 빅테크의 AI 전환 경쟁 흐름과 일치합니다.
+- summary: (서울=연합뉴스) 박형빈 기자 = 정재헌 SK텔레콤[017670] CEO는 21일 서울 을지로 본사에서 취임 6개월 기념 타운홀 미팅을 열고 고...
+
+### (11) 화웨이, '와이드 폴더블폰' 출시…애플과 경쟁에 대비
+- score: 31
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 17:21:42 +0900
+- url: https://www.yna.co.kr/view/AKR20260421150000009
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+  platform:빅테크 x1
+  platform:애플 x1
+- significance: 화웨이의 와이드 폴더블폰 및 초경량 AI 안경 출시는 글로벌 빅테크 기업들의 하드웨어와 AI 기술 융합을 통한 시장 선점 경쟁이 심화되고 있음을 보여줍니다.
+- summary: (서울=연합뉴스) 차병섭 기자 = 중국 통신장비 제조업체 화웨이가 기존 제품보다 가로 길이가 긴 폴더블폰과 초경량 인공지능(AI) 안경 등 신제...
+
+### (12) "애플 새 수장,AI 경쟁력 회복과 히트 하드웨어 집중"전망
+- score: 38
+- source: hankyung
+- published_at: Tue, 21 Apr 2026 19:38:38 +0900
+- url: https://www.hankyung.com/article/202604216975i
+- matched_terms: ai:AI x3
+  platform:애플 x2
+  platform:빅테크 x1
+- significance: 애플의 새 수장이 AI 경쟁력 회복과 하드웨어 집중을 강조하는 것은 빅테크 기업들이 AI 시대를 맞아 리더십 교체와 핵심 사업 모델 재편을 통해 기술 패권을 확보하려는 흐름과 일치합니다.
+- summary: 
+
+### (13) [뉴스&분석] 15년 팀쿡 체제 '끝' 애플, AI추격 '시작'
+- score: 47
+- source: mk
+- published_at: Tue, 21 Apr 2026 18:05:34 +09:00
+- url: https://www.mk.co.kr/news/world/12023233
+- matched_terms: ai:AI x4
+  platform:애플 x3
+  platform:빅테크 x1
+- significance: 애플의 CEO 교체는 AI 기술 추격 및 하드웨어 AI 역량 강화를 위한 전사적 전략 변화를 의미하며, 이는 글로벌 빅테크 기업들의 AI 전환 경쟁을 심화시킬 것입니다.
+- summary: 세계 최대 스마트폰 업체인 미국 애플이 15년 만에 최고경영자(CEO)를 바꾼다. 팀 쿡 CEO의 후임으로는 하드웨어 엔지니어 출신인 존 터너스 수석부사장(51·사진)이 낙점됐다...
+
+### (14) [단독] K부품사, AI 병목 뚫어주는 해결사로…해외 빅테크 줄선다
+- score: 38
+- source: hankyung
+- published_at: Tue, 21 Apr 2026 20:00:04 +0900
+- url: https://www.hankyung.com/article/2026042168011
+- matched_terms: ai:AI x3
+  platform:빅테크 x3
+- significance: K부품사가 AI 병목 현상 해결사로 부상하며 해외 빅테크 기업들의 러브콜을 받는 것은 빅테크 기업들이 AI 전환을 위해 핵심 부품 및 기술 확보에 적극적으로 나서고 있음을 보여준다.
+- summary: 
+
+### (15) “암 치료 설계 하루 만에 완성”… LG, 엑사원 기반 ‘암 에이전틱 AI’ 연구 성과 발표
+- score: 34
+- source: donga
+- published_at: Tue, 21 Apr 2026 20:30:42 +0900
+- url: https://www.donga.com/news/K-TECH Global Leaders/article/all/20260421/133785914/1
+- matched_terms: ai:AI x5
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: LG가 바이오 융합 분야에서 엑사원 기반의 '암 에이전틱 AI' 연구 성과를 발표함으로써 글로벌 빅테크 기업들의 AI 기술을 활용한 신사업 진출 및 리더십 경쟁이 바이오 분야로 확장되고 있음을 보여준다.
+- summary: 사람들의 삶을 변화시킬 인공지능(AI) 개발에 매진하고 있는 LG가 미국에서 바이오 융합 분야 성과를 발표한다. LG그룹은 LG AI연구원이 미국 샌디에
+
+### (16) The chatbot era is over — these 3 sectors are the real AI gold mines for 2026
+- score: 40
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 11:57:00 GMT
+- url: https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories
+- matched_terms: ai:AI x6
+  ai:에이전트 x1
+- significance: 이 뉴스는 챗봇 중심의 AI 투자에서 방위, 헬스케어, 에이전트 AI와 같은 실질적인 산업 적용 분야로 AI 투자의 초점이 이동하고 있음을 보여주며, 이는 미래 AI 기술 패권과 산업 지형 재편 경쟁에 중요한 전환점이 될 수 있습니다.
+- summary: Capital is flooding into AI. Defense, healthcare and agentics are the big winners, writes Mark Minevich.
+
+### (17) 엔비디아 '네모트론 데이' 개막…"AI 에이전트 생태계 구축"(종합)
+- score: 54
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 15:45:23 +0900
+- url: https://www.yna.co.kr/view/AKR20260421096551017
+- matched_terms: ai:AI x3
+  semiconductor:엔비디아 x3
+  ai:에이전트 x2
+  platform:빅테크 x1
+- significance: 엔비디아가 '네모트론 개발자 데이'를 개최하며 AI 에이전트 생태계 구축을 선언한 것은 빅테크 기업들의 AI 기술 패권 경쟁이 단순한 하드웨어 개발을 넘어 소프트웨어 생태계 조성으로 확장되고 있음을 보여주는 중요한 움직임입니다.
+- summary: (서울=연합뉴스) 오지은 기자 = 엔비디아가 정보통신산업진흥원과 함께 21∼24일 '네모트론 개발자 데이'를 연다.
+
+### (18) JP모건,"AI관심 재점화, S&P500목표치 7,600p"로 상향
+- score: 25
+- source: hankyung
+- published_at: Tue, 21 Apr 2026 22:37:10 +0900
+- url: https://www.hankyung.com/article/202604217106i
+- matched_terms: ai:AI x3
+  platform:빅테크 x1
+- significance: JP모건의 S&P500 목표치 상향 조정은 AI 기술에 대한 재점화된 관심이 기업 실적 및 증시 전반에 긍정적인 영향을 미칠 것이라는 시장의 기대를 반영하며, 이는 빅테크 기업들의 AI 전환 경쟁이 심화되는 흐름을 뒷받침합니다.
+- summary: 
+
+### (19) JP모건,"AI관심 재점화, S&P500목표치 7,600p"로 상향 - v.daum.net
+- score: 28
+- source: google_kr
+- published_at: Tue, 21 Apr 2026 13:39:33 GMT
+- url: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MMFR3WXloLTE2bDNzLTh5RloxR0FJeXZVeFJVaUk2WlJPNGVtMXVfdndYdmlvUVFKTTRFZUJkZlFtdUV6QlFSLTNYWEtUbDg?oc=5
+- matched_terms: ai:AI x4
+  platform:빅테크 x1
+- significance: JP모건이 S&P500 목표치를 상향 조정한 것은 AI 기술에 대한 재점화된 관심이 글로벌 증시의 주요 동력임을 보여주며, 이는 빅테크 기업들의 AI 전환 경쟁이 시장 전반에 긍정적인 영향을 미치고 있음을 시사합니다.
+- summary: JP모건,"AI관심 재점화, S&am
+
+### (20) AI 투자와 기업 호실적에 중동 불안감 상쇄…뉴욕증시 상승
+- score: 25
+- source: hankyung
+- published_at: Tue, 21 Apr 2026 23:35:50 +0900
+- url: https://www.hankyung.com/article/202604217180i
+- matched_terms: ai:AI x3
+  platform:빅테크 x1
+- significance: AI 투자 확대와 기업 호실적은 빅테크 기업들이 AI를 핵심 성장 동력으로 삼아 경쟁을 가속화하고 있음을 보여주는 강력한 신호입니다.
+- summary: 
+
+### (21) ‘AI 품은 크롬’ 상륙… 검색 넘어 실행까지
+- score: 58
+- source: donga
+- published_at: Wed, 22 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260421/133784783/2
+- matched_terms: ai:AI x7
+  platform:구글 x3
+  platform:빅테크 x2
+  ai:인공지능 x1
+- significance: 구글이 자사 AI 제미나이를 크롬에 탑재하며 AI 검색 시장에 본격적으로 뛰어든 것은 빅테크 기업들의 AI 기반 핵심 사업 모델 재편 및 기술 패권 경쟁이 심화되고 있음을 보여주는 중요한 사례입니다.
+- summary: 글로벌 빅테크 구글이 인공지능(AI) ‘제미나이(Gemini)’를 앞세워 AI 검색 시장에 본격적으로 뛰어들었다. 구글은 자사 AI 제미나이를 탑재한 크
+
+### (22) “찾아서 결제해 줘” 한마디면 끝… 인터넷쇼핑 바꾸는 AI
+- score: 52
+- source: donga
+- published_at: Wed, 22 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260421/133784798/2
+- matched_terms: ai:AI x7
+  ai:에이전트 x3
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 이 뉴스는 AI 에이전트를 활용한 '에이전틱 커머스'의 부상과 주도권 경쟁이 빅테크 기업들의 AI 전환 경쟁의 핵심적인 양상 중 하나임을 보여준다.
+- summary: “무선 이어폰 10만 원 이하로 찾아서 결제해 줘.” 인공지능(AI) 브라우저가 쇼핑 문법을 바꾸고 있다. 검색부터 결제까지 모든 것을 해결해 주는 개인비서 같은 ‘쇼핑 AI 에이전트(에이전틱 커머스)’ 주도권 경쟁이 본격화하면서다. 몇 차례 이동을 거쳐야 했던 쇼핑 여정이 AI와 대화 한 번으로 압축되자, 이제 AI 에이전트를 손에 쥐는 쪽이 ‘이커머스(
+
+### (23) This is what Apple investors need to know about what’s next for the company and its new CEO
+- score: 27
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 18:14:00 GMT
+- url: https://www.marketwatch.com/story/this-is-what-apple-investors-need-to-know-about-whats-next-for-the-company-and-its-new-ceo-9997df15?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+  ai:인공지능 x1
+  platform:빅테크 x1
+  platform:애플 x1
+- significance: 애플의 신임 CEO가 인공지능 분야의 격차 해소를 최우선 과제로 삼는다는 소식은 빅테크 기업들이 AI 전환 경쟁에 사활을 걸고 있음을 보여주는 중요한 사례입니다.
+- summary: Tim Cook built a $4 trillion powerhouse. Now John Ternus must fix Apple’s glaring AI gap.
+
+### (24) P&G CEO "매일 광고 수백 개씩 제작…AI는 선택 아닌 필수"
+- score: 28
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 04:31:32 +0900
+- url: https://www.yna.co.kr/view/AKR20260422006100091
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 세계 최대 소비재 기업 P&G의 AI를 활용한 마케팅 전략 강화는 빅테크를 넘어 전 산업으로 확산되는 AI 기술 도입 및 디지털 전환 경쟁의 한 단면을 보여줍니다.
+- summary: (라스베이거스=연합뉴스) 권영전 특파원 = 세계 최대 소비재 기업인 프록터앤드갬블(P&amp;G) 최고경영자(CEO)가 마케팅 부문에서 인공지능...
+
+### (25) 베일 벗은 '덕테이프'…오픈AI, '챗GPT 이미지 2.0' 공개
+- score: 50
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 04:00:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260421141700091
+- matched_terms: ai:AI x5
+  platform:오픈AI x2
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 오픈AI의 챗GPT 이미지 2.0 공개는 빅테크 기업들의 AI 기술 경쟁이 이미지 생성 및 멀티모달 AI 분야로 확대되고 있음을 보여줍니다.
+- summary: (샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 업계와 이용자들 사이에서 '덕테이프'(Duct Tape·덕트 테이프)라는 코드명으로 ...
+
+### (26) This is what critics of Apple and Tim Cook get dead wrong
+- score: 21
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 19:37:00 GMT
+- url: https://www.marketwatch.com/story/this-is-what-critics-of-apple-and-tim-cook-get-dead-wrong-48fc56dc?mod=mw_rss_topstories
+- matched_terms: ai:AI x3
+  platform:빅테크 x1
+- significance: Apple이 하드웨어 기반 AI 혁신에 집중하는 전략은 빅테크 기업들의 AI 시대 리더십 확보를 위한 경쟁에서 하드웨어와 소프트웨어 통합의 중요성을 강조하는 사례로 작용합니다.
+- summary: Apple’s true innovation is betting on hardware as the clearest path to profit from the AI revolution.
+
+### (27) [경제 단신] LG전자, AI 데이터센터 HVAC 확대 외 - v.daum.net
+- score: 35
+- source: google_kr
+- published_at: Tue, 21 Apr 2026 20:03:37 GMT
+- url: https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2SzR2U1owektwNjYxaDA1aTQ1U2xLSVhEVGhkR09MQkNPUWp1T2dGMVc4OC0tb3lRbmh4WWVfSjk1RnRKSFhrTjlyR0FBOU0?oc=5
+- matched_terms: ai:AI x4
+  data_center:데이터센터 x2
+- significance: LG전자의 AI 데이터센터 HVAC 사업 확대는 AI 시대에 발맞춰 기업들이 핵심 사업 모델을 재편하고 새로운 시장 기회를 포착하려는 전략적 움직임의 일환으로 볼 수 있습니다.
+- summary: [경제 단신] LG전자, AI 데이터
+
+### (28) 美유명로펌, AI 생성 가짜 법조문·판례 인용했다가 사과문
+- score: 31
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 05:45:15 +0900
+- url: https://www.yna.co.kr/view/AKR20260422010000072
+- matched_terms: ai:AI x5
+  ai:인공지능 x1
+- significance: 이 뉴스는 AI 기술의 빠른 확산과 함께 AI 활용 윤리 및 책임 문제가 실제 법률 분야에서 발생했음을 보여주며, AI 기술의 신뢰성 확보와 규제의 필요성이 증대되고 있음을 시사합니다.
+- summary: (뉴욕=연합뉴스) 이지헌 특파원 = 미국의 유명 로펌이 캄보디아 스캠(온라인 사기) 범죄 의혹 기업 관련 소송을 대리하던 중 인공지능(AI)이 ...
+
+### (29) [실제 써보니] 크롬 속 제미나이…검색·여행 '한 번에'
+- score: 27
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 06:33:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260421151000017
+- matched_terms: ai:AI x3
+  platform:구글 x1
+  platform:빅테크 x1
+- significance: 크롬 브라우저에 제미나이 AI 비서가 탑재되는 것은 구글의 핵심 서비스에 AI를 통합하려는 빅테크 기업의 전략적 전환을 명확히 보여주는 사례입니다.
+- summary: (서울=연합뉴스) 한상용 기자 = 크롬 브라우저 우측 상단의 '제미나이(Gemini)에게 물어보기' 버튼을 누르자 'AI 비서'가 곧바로 모습을...
+
+### (30) "팀 쿡 15년, 성공한 비즈니스, 그러나 실패한 서사" [여기는 논설실]
+- score: 24
+- source: hankyung
+- published_at: Wed, 22 Apr 2026 06:30:26 +0900
+- url: https://www.hankyung.com/article/202604217128i
+- matched_terms: ai:AI x2
+  platform:빅테크 x1
+  platform:애플 x1
+- significance: 팀 쿡 CEO의 15년 재임 기간에 대한 평가는 애플의 혁신 정체와 AI 시대의 새로운 리더십 요구에 대한 논의를 촉발하며, 빅테크 기업들의 AI 전환 경쟁 속 리더십과 전략 변화의 중요성을 부각한다.
+- summary: 
+
+### (31) 스페이스X, AI코딩에 집중…신생社 '커서' 89조원 인수옵션 확보
+- score: 37
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 09:37:12 +0900
+- url: https://www.yna.co.kr/view/AKR20260422043000075
+- matched_terms: ai:AI x5
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 스페이스X가 AI 코딩 역량을 강화하기 위해 신생 AI 기업 인수를 추진하는 것은 민간 우주 기업을 포함한 빅테크 전반의 AI 기술 내재화 및 경쟁 심화를 보여주는 사례입니다.
+- summary: (로스앤젤레스=연합뉴스) 김경윤 특파원 = 일론 머스크의 항공우주 기업 스페이스X가 인공지능(AI) 코딩 역량을 강화할 발판을 마련했다.
+
+### (32) "美소비자 40%가 구매 과정서 AI 활용…AI 유입자 매출 더 높아"
+- score: 53
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 08:47:20 +0900
+- url: https://www.yna.co.kr/view/AKR20260422026100091
+- matched_terms: ai:AI x8
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 미국 소비자의 AI 활용 증가와 AI 유입자의 높은 매출은 AI가 단순한 기술 혁신을 넘어 실제 소비자 행동과 상업적 성과에 직접적인 영향을 미치며 빅테크 기업들의 AI 전환 경쟁이 더욱 가속화될 것임을 시사한다.
+- summary: (라스베이거스=연합뉴스) 권영전 특파원 = 인공지능(AI) 시대를 맞아 이용자들이 AI 답변만 보고 개별 웹사이트에는 방문하지 않는다는 우려는 ...
+
+### (33) SKT, 엔비디아와 협력 강화…독파모 협업 사례 공개
+- score: 37
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 09:41:07 +0900
+- url: https://www.yna.co.kr/view/AKR20260422045500017
+- matched_terms: ai:AI x3
+  semiconductor:엔비디아 x3
+  platform:빅테크 x1
+- significance: SKT가 엔비디아와 AI 모델 개발 협력을 강화하는 것은 글로벌 빅테크 기업들이 AI 시대의 리더십을 확보하기 위해 핵심 사업 모델을 재편하고 대규모 투자를 진행하는 흐름의 연장선상에 있습니다.
+- summary: (서울=연합뉴스) 오지은 기자 = SK텔레콤[017670]이 엔비디아와 AI 모델 개발 협력 사례를 공개했다고 22일 밝혔다.
+
+### (34) 희림·메가존클라우드, AI 기반 건축 법규 검토 시스템 개발
+- score: 47
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 10:39:30 +0900
+- url: https://www.yna.co.kr/view/AKR20260422064200003
+- matched_terms: ai:AI x5
+  data_center:클라우드 x2
+  ai:생성형 AI x1
+  ai:인공지능 x1
+- significance: 건축 설계 분야에서 생성형 AI 기반 법규 검토 시스템 개발은 AI가 전통 산업의 효율성을 혁신하고, 산업 전반의 AI 전환 경쟁이 심화되고 있음을 보여줍니다.
+- summary: (서울=연합뉴스) 홍국기 기자 = 희림종합건축사사무소는 메가존클라우드와 생성형 인공지능(AI)을 활용한 건축 법규 검토 시스템을 개발했다고 22...
+
+### (35) [AI픽] LGU+, 몽고DB 협력…AI 전사 확산 시동
+- score: 56
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 10:38:10 +0900
+- url: https://www.yna.co.kr/view/AKR20260422062200017
+- matched_terms: ai:AI x7
+  platform:플랫폼 x2
+  platform:빅테크 x1
+- significance: LG유플러스가 몽고DB와의 협력을 통해 AI 전사 확산을 추진하는 것은 통신 기업이 AI 시대를 맞아 데이터 플랫폼 역량을 강화하고 핵심 사업 모델을 AI 기반으로 재편하려는 전략적 움직임으로, '빅테크 AI 전환 경쟁' 시나리오의 확산 양상을 보여줍니다.
+- summary: (서울=연합뉴스) 박형빈 기자 = LG유플러스[032640]는 글로벌 데이터 플랫폼 기업 몽고DB와 'AI 서비스 관련 데이터 관리 협력을 위한...
+
+### (36) '피지컬AI 시대' 투자전략은…"병목 해소하고 AI 잘쓰는 기업"
+- score: 50
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 11:33:43 +0900
+- url: https://www.yna.co.kr/view/AKR20260422073700008
+- matched_terms: ai:AI x8
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: AI가 현실 세계에 구현되는 '피지컬 AI' 시대는 빅테크 기업들의 AI 기술 투자 및 적용 전략에 큰 변화를 가져올 것이며, 이는 새로운 산업 생태계와 경쟁 구도를 형성할 것입니다.
+- summary: (서울=연합뉴스) 김지연 기자 = 인공지능(AI)이 현실 세계에 구현되는 '피지컬 AI' 시대가 본격화되는 상황에서 AI 병목현상을 해소하고 잘...
+
+### (37) 월드IT쇼 개막…AI·로봇 융합 경쟁 본격화
+- score: 31
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 12:00:06 +0900
+- url: https://www.yna.co.kr/view/AKR20260422052900017
+- matched_terms: ai:AI x4
+  platform:빅테크 x1
+- significance: 월드IT쇼에서 AI와 로봇 융합 기술이 집중적으로 선보여지는 것은 글로벌 빅테크 기업들이 AI 시대를 맞아 핵심 사업 모델을 재편하고 기술 패권을 확보하려는 흐름과 일치하며, AI 전환 경쟁의 가속화를 시사한다.
+- summary: (서울=연합뉴스) 박형빈 기자 = 과학기술정보통신부는 22일부터 사흘간 서울 코엑스에서 최신 정보통신기술(ICT) 제품과 서비스를 선보이는 '2...
+
+### (38) NC AI, NHN클라우드와 AI 인프라 구축 협약
+- score: 94
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 18:48:10 +0900
+- url: https://www.yna.co.kr/view/AKR20260422156100017
+- matched_terms: ai:AI x9
+  data_center:클라우드 x4
+  data_center:AI 인프라 x3
+  platform:빅테크 x1
+- significance: NC AI와 NHN클라우드의 AI 인프라 구축 협약은 국내 기업들이 AI 기술 경쟁력을 강화하고 클라우드 기반의 AI 생태계를 확장하려는 '빅테크 AI 전환 경쟁' 시나리오의 중요한 국내 사례로 볼 수 있습니다.
+- summary: (서울=연합뉴스) 김주환 기자 = NC[036570] AI는 NHN클라우드와 AI 인프라 기반의 공동 사업 추진을 위한 전략적 업무협약(MOU)...
+
+### (39) 구글, 기업용 AI에이전트 플랫폼 출시…"아르테미스 2호도 사용"
+- score: 79
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 21:00:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260422141400091
+- matched_terms: ai:AI x5
+  ai:에이전트 x3
+  platform:구글 x3
+  platform:플랫폼 x2
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 구글의 기업용 AI 에이전트 플랫폼 출시는 빅테크 기업들이 AI 기술을 통해 기업 시장에서의 주도권을 확보하려는 경쟁을 심화시키는 중요한 움직임입니다.
+- summary: (라스베이거스=연합뉴스) 권영전 특파원 = 구글이 기업용 인공지능(AI) 모델에 AI 에이전트 통합 관리 도구를 추가했다.
+
+### (40) 구글, 8세대 AI칩 'TPU 8t·8i' 공개…훈련용·추론용으로 분리
+- score: 72
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 21:00:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260422125700091
+- matched_terms: ai:AI x6
+  platform:구글 x3
+  ai:추론 x2
+  ai:에이전트 x1
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 구글의 훈련용·추론용 AI칩 분리 및 공개는 빅테크 기업들이 AI 시대의 핵심 인프라 경쟁에서 기술적 리더십을 확보하려는 전략을 보여주며, AI 전환 경쟁을 가속화하는 중요한 진전이다.
+- summary: (라스베이거스=연합뉴스) 권영전 특파원 = 구글이 인공지능(AI) 에이전트 시대 준비를 위한 8세대 AI칩 두 종류를 한꺼번에 공개했다.
+
+### (41) 휴전도 봉쇄도 무기한 연장, 믿을 건 AI뿐…기술주·유가 동반 상승 [빈난새의 개장전요것만]
+- score: 25
+- source: hankyung
+- published_at: Wed, 22 Apr 2026 23:57:54 +0900
+- url: https://www.hankyung.com/article/202604220150i
+- matched_terms: ai:AI x3
+  platform:빅테크 x1
+- significance: 이 뉴스는 지정학적 불확실성 속에서 AI가 글로벌 시장의 핵심 동력으로 부상하며 기술주 강세를 이끄는 현상을 보여주며, 빅테크 기업들의 AI 전환 경쟁이 더욱 가속화될 것임을 시사합니다.
+- summary: 
+
+### (42) “보험금 신속 지급해야 신뢰도 올라”… 업계, AI활용 속도 경쟁
+- score: 28
+- source: donga
+- published_at: Thu, 23 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260422/133793760/2
+- matched_terms: ai:AI x4
+  platform:애플 x1
+- significance: 보험업계가 AI를 활용한 보험금 신속 지급 경쟁에 나선 것은 산업 전반의 디지털 전환 및 AI 도입 가속화 흐름 속에서 AI가 실제 서비스 효율성을 높이고 고객 경험을 개선하는 핵심 기술로 자리 잡고 있음을 보여준다.
+- summary: 직장인 박우현(가명·31) 씨는 1년 반 전 치질 수술을 받은 뒤 생명보험사에 보험금을 청구했다. 증빙 서류를 꼼꼼히 갖춰 비대면 애플리케이션(앱)으로
+
+### (43) [단독]LG전자 ‘류재철號 뉴엔진’ 본격화… CEO가 기술회의 직접 챙긴다
+- score: 6
+- source: donga
+- published_at: Thu, 23 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260422/133793570/2
+- matched_terms: ai:AI x1
+- significance: LG전자의 CEO 주도 미래기술 회의 신설 및 로봇 등 미래 먹거리 사업 강화는 AI 시대를 맞아 기업의 핵심 사업 모델을 재편하고 미래 기술 패권을 확보하려는 움직임을 보여주는 중요한 사례입니다.
+- summary: LG전자가 창사 이후 처음으로 최고경영자(CEO)가 직접 주관하는 정기 미래기술 회의를 신설했다. 사업 조직 측면에서도 로봇 등 ‘미래 먹거리’를 담당하
+
+### (44) ‘데이터 수집’ 시연하는 피지컬 AI
+- score: 46
+- source: donga
+- published_at: Thu, 23 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260422/133793565/2
+- matched_terms: ai:AI x6
+  platform:빅테크 x2
+- significance: 이 뉴스는 피지컬 AI의 시연을 통해 AI 기술이 단순 소프트웨어를 넘어 물리적 세계의 업무 자동화로 확장되며, 이는 빅테크 기업들이 하드웨어와 AI를 결합한 새로운 비즈니스 모델을 추구하는 '빅테크 AI 전환 경쟁' 시나리오의 중요한 진전을 보여줍니다.
+- summary: 22일 서울 강남구 삼성동 코엑스에서 열린 정보통신기술(ICT) 박람회 ‘2026 월드IT쇼(WIS)’에서 관람객들이 피지컬 AI가 업무 자동화를 위해
+
+### (45) POET Technologies’ stock is rocketing. What’s behind the company’s controversial AI-powered rise.
+- score: 22
+- source: marketwatch
+- published_at: Wed, 22 Apr 2026 17:34:00 GMT
+- url: https://www.marketwatch.com/story/poet-technologies-stock-is-rocketing-whats-behind-the-companys-controversial-ai-powered-rise-154613a9?mod=mw_rss_topstories
+- matched_terms: ai:AI x3
+  data_center:hyperscaler x1
+- significance: 포토닉스 기술 기업의 AI 관련 주가 급등은 AI 기술 패권 경쟁이 단순히 소프트웨어에 그치지 않고 하드웨어 인프라 및 핵심 부품 기업으로 확산되고 있음을 보여준다.
+- summary: The photonics company’s stock has run up more than 70% this week on speculation of a major hyperscaler partner, even as short sellers warn of a “tax nightmare.”
+
+### (46) 에이전트·칩 양면전술 펼치는 구글…오픈AI·엔비디아 동시조준
+- score: 104
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 03:30:41 +0900
+- url: https://www.yna.co.kr/view/AKR20260423004300091
+- matched_terms: ai:AI x7
+  ai:에이전트 x3
+  platform:구글 x3
+  platform:오픈AI x2
+  semiconductor:엔비디아 x2
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 구글이 AI 에이전트와 칩 개발이라는 양면전략을 통해 오픈AI와 엔비디아를 동시에 견제하며 AI 시대의 패권을 차지하려는 것은 빅테크 기업들의 AI 전환 경쟁이 심화되고 있음을 보여줍니다.
+- summary: (라스베이거스=연합뉴스) 권영전 특파원 = 인공지능(AI) 시대 패권을 차지하기 위해 구글이 선택한 것은 AI 에이전트와 칩 모두를 공략하는 양...
+
+### (47) LG 이어 네이버도 '엔비디아 회동'…K-AI 존재감 커졌다
+- score: 50
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 06:55:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260422156800017
+- matched_terms: ai:AI x5
+  semiconductor:엔비디아 x3
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 엔비디아가 네이버, LG 등 국내 AI 선도 기업들과의 협력을 모색하는 것은 글로벌 빅테크 기업들이 AI 생태계 확장을 위해 적극적인 기술 동맹을 추진하며 산업 패권을 다투는 흐름의 일환입니다.
+- summary: (서울=연합뉴스) 권하영 기자 = 엔비디아가 개방형 인공지능(AI) 생태계 확장을 위해 네이버·LG 등 국내 주요 AI 기업들과의 기술 동맹을 ...
+
+### (48) 이재용의 '1호 대형 M&A'…하만, 반전 스토리 썼다
+- score: 12
+- source: hankyung
+- published_at: Thu, 23 Apr 2026 07:00:01 +0900
+- url: https://www.hankyung.com/article/2026042296491
+- matched_terms: ai:AI x2
+- significance: 하만 인수는 삼성의 AI 시대 전장 사업 확대를 위한 핵심 전략적 M&A였으며, 이를 통해 삼성은 단순한 하드웨어 제조사를 넘어 소프트웨어 및 AI 기반 솔루션 기업으로의 전환을 가속화하고 있음을 시사한다.
+- summary: 
+
+### (49) 삼성SDS, 구글과 손잡고 AI·클라우드 판 키운다
+- score: 69
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 08:33:11 +0900
+- url: https://www.yna.co.kr/view/AKR20260422140600017
+- matched_terms: data_center:클라우드 x5
+  ai:AI x4
+  platform:구글 x3
+  platform:빅테크 x1
+- significance: 삼성SDS가 구글 클라우드와의 협력을 통해 AI·클라우드 시장 공략을 강화하는 것은 글로벌 빅테크 기업들의 AI 전환 경쟁이 더욱 심화되고 있음을 보여주는 사례입니다.
+- summary: (서울=연합뉴스) 한상용 기자 = 삼성SDS가 구글 클라우드와 손잡고 AI·클라우드 관련 분야 협력을 강화해 글로벌 공공·금융 시장 공략에 나선...
+
+### (50) SK AX, 7년간 대신증권 IT운영 통합관리…에이전틱 AI 도입
+- score: 40
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 08:30:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260422150100017
+- matched_terms: ai:AI x6
+  platform:빅테크 x1
+- significance: SK AX가 대신증권의 IT운영에 에이전틱 AI를 도입하는 것은 금융권의 AI 전환 가속화 및 빅테크 기업들의 AI 서비스 확장의 한 사례로, AI 기술이 실제 산업 현장에 적용되는 흐름을 보여줍니다.
+- summary: (서울=연합뉴스) 한상용 기자 = SK AX가 대신증권[003540]과 손잡고 에이전틱 AI 운영 체계를 적용해 금융 인프라 운영 혁신에 나선다...
+
+### (51) [컨콜] SK하이닉스 "AI 업계 메모리 효율화 기술, D램 수요 확대 이끌 것"
+- score: 38
+- source: hankyung
+- published_at: Thu, 23 Apr 2026 09:20:10 +0900
+- url: https://www.hankyung.com/article/202604230771i
+- matched_terms: ai:AI x3
+  semiconductor:SK하이닉스 x2
+  platform:빅테크 x1
+- significance: SK하이닉스의 발언은 AI 산업 성장에 따른 메모리 수요 확대를 예고하며, 빅테크 기업들의 AI 전환 가속화 시나리오에 핵심적인 부품 공급 측면의 동력을 제공합니다.
+- summary: 
+
+### (52) 구글 "한국 국가대표 AI도 구글 클라우드서 사용 가능"
+- score: 76
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 10:16:08 +0900
+- url: https://www.yna.co.kr/view/AKR20260423058600091
+- matched_terms: ai:AI x6
+  platform:구글 x4
+  data_center:클라우드 x3
+  platform:빅테크 x1
+- significance: 구글 클라우드의 소버린 AI 지원은 한국 시장의 규제 환경에 맞춰 AI 기술을 적용하려는 빅테크 기업들의 전략적 움직임을 보여주며, 글로벌 AI 전환 경쟁의 지역적 확대를 시사한다.
+- summary: (라스베이거스=연합뉴스) 권영전 특파원 = 루스 선 구글 클라우드 코리아 사장은 소버린 AI(주권 AI) 관련 요구사항 등 한국 시장의 규제를 ...
+
+### (53) 롯데이노베이트, 월드IT쇼서 '로이' 공개
+- score: 18
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 10:35:58 +0900
+- url: https://www.yna.co.kr/view/AKR20260423070900017
+- matched_terms: ai:AI x2
+  platform:빅테크 x1
+- significance: 롯데이노베이트가 휴머노이드 로봇 '로이'를 공개한 것은 AI 기술을 활용한 신사업 진출 및 기업 전략 변화의 일환으로, 빅테크 기업들이 AI 시대를 맞아 로봇 분야로 사업을 확장하는 경쟁의 신호탄으로 볼 수 있습니다.
+- summary: (서울=연합뉴스) 오지은 기자 = 롯데이노베이트[286940]는 국내 최대 ICT 전시회 월드IT쇼에서 휴머노이드 로봇 '로이'를 전시했다고 2...
+
+### (54) [AI픽] AI가 바꾸는 글로벌 게임산업…"32조 절감 전망"
+- score: 35
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 11:38:32 +0900
+- url: https://www.yna.co.kr/view/AKR20260423090500017
+- matched_terms: ai:AI x5
+  platform:빅테크 x1
+- significance: AI 기술이 게임 산업의 비용 절감 및 생산성 향상에 기여하며, 빅테크 기업들의 AI 전환 경쟁이 게임 산업 전반에 미치는 영향이 구체적으로 드러나는 사례입니다.
+- summary: (서울=연합뉴스) 김주환 기자 = 글로벌 게임업계가 AI 기반 비용 절감으로 32조 원에 달하는 추가 수익을 창출할 수 있다는 글로벌 투자은행(...
+
+### (55) 日소니, 탁구 AI로봇 개발…"전국대회 출전 선수 이기기도"
+- score: 55
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 10:58:44 +0900
+- url: https://www.yna.co.kr/view/AKR20260423075800073
+- matched_terms: ai:AI x9
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 소니AI의 탁구 AI 로봇 개발은 빅테크 기업들이 단순히 소프트웨어 AI를 넘어 하드웨어와 결합된 AI 기술 개발에 박차를 가하고 있음을 보여주며, 이는 미래 AI 시장의 주도권 경쟁을 심화시킬 것입니다.
+- summary: (도쿄=연합뉴스) 경수현 특파원 = 소니그룹의 인공지능(AI) 연구개발 조직인 소니AI가 전국대회 출전 선수 수준의 탁구 실력을 갖춘 AI 로봇...
+
+### (56) [AI픽] 스탠포드대 'AI 인덱스' 수정…한국 모델 8개로 재평가
+- score: 44
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 11:27:38 +0900
+- url: https://www.yna.co.kr/view/AKR20260423087100017
+- matched_terms: ai:AI x7
+  platform:빅테크 x1
+- significance: 한국 AI 모델 수의 증가는 글로벌 AI 기술 경쟁에서 한국의 위상이 높아지고 있음을 보여주며, 이는 빅테크 기업들의 AI 전환 경쟁에 한국 기업들의 참여가 확대될 수 있음을 시사합니다.
+- summary: (서울=연합뉴스) 권하영 기자 = 미국 스탠포드대가 발표한 'AI 인덱스 2026' 보고서에서 한국의 주목할 만한 AI 모델 수가 기존 5개에서...
+
+### (57) 종합소득세·장려금까지…국세청, 생성형 AI챗봇 확대
+- score: 50
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 12:00:14 +0900
+- url: https://www.yna.co.kr/view/AKR20260423080700002
+- matched_terms: ai:AI x6
+  ai:생성형 AI x2
+  ai:인공지능 x1
+- significance: 국세청의 생성형 AI 챗봇 확대는 공공 부문에서의 AI 도입 가속화를 보여주며, 이는 정부 및 공공기관의 디지털 전환과 AI 기술 활용 확대를 통해 새로운 서비스 모델이 등장하고 산업 전반의 AI 전환 경쟁이 심화될 수 있음을 시사한다.
+- summary: (세종=연합뉴스) 이대희 기자 = 국세청이 납세자가 세무 전문가와 대화하듯 답변하는 생성형 인공지능(AI) 챗봇 운영을 종합소득세와 장려금 분야...
+
+### (58) [쇼츠] 순식간에 30마리 '치직'…AI 레이저 모기 사냥꾼 등장
+- score: 37
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 11:55:46 +0900
+- url: https://www.yna.co.kr/view/AKR20260423095300704
+- matched_terms: ai:AI x5
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: AI 레이저 모기 퇴치기는 AI 기술이 특정 환경 문제 해결에 적용되는 구체적인 사례로, 빅테크 기업을 넘어 다양한 산업 분야에서 AI 기술 상용화 경쟁이 심화되고 있음을 보여줍니다.
+- summary: (서울=연합뉴스) 중국에서 개발된 인공지능(AI) 레이저 모기 퇴치기가 1초에 모기 30마리를 퇴치하는 성능으로 해외 크라우드펀딩 시장에서 주목...
+
+### (59) 머스크 "테슬라 부지에 연구용 팹 건설…인텔 14A 사용"
+- score: 24
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 11:50:29 +0900
+- url: https://www.yna.co.kr/view/AKR20260423094600009
+- matched_terms: ai:AI x2
+  platform:빅테크 x1
+  semiconductor:반도체 x1
+- significance: 테슬라의 연구용 팹 건설은 일론 머스크가 이끄는 빅테크 기업이 AI 시대를 맞아 자체 반도체 역량을 강화하려는 전략적 움직임의 일환으로, AI 기술 패권 경쟁이 하드웨어 영역으로 확장되고 있음을 보여줍니다.
+- summary: (서울=연합뉴스) 황정우 기자 = 일론 머스크는 테슬라가 30억달러를 투입해 테슬라의 '기가 텍사스' 캠퍼스 부지에 연구용 팹을 지을 계획이라고...
+
+### (60) [영상] 1초에 30마리 '치직!'…中 AI 레이저 모기 퇴치기 해외서 인기
+- score: 31
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 11:48:10 +0900
+- url: https://www.yna.co.kr/view/AKR20260423093100704
+- matched_terms: ai:AI x5
+  ai:인공지능 x1
+- significance: 중국 AI 레이저 모기 퇴치기의 해외 크라우드펀딩 성공은 AI 기술이 일상생활 속 다양한 문제 해결에 적용되며 상업적 성공 가능성을 보여주는 사례로, AI 기술 확산 및 상용화 경쟁을 가속화하는 흐름을 강화합니다.
+- summary: (서울=연합뉴스) 중국에서 개발된 인공지능(AI) 레이저 모기 퇴치기가 1초에 모기 30마리를 퇴치하는 성능으로 해외 크라우드펀딩 시장에서 주목...
+
+### (61) 배우부터 장면과 편집까지…中서 '100% AI 생성' 첫 영화 개봉
+- score: 37
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 14:49:29 +0900
+- url: https://www.yna.co.kr/view/AKR20260423122700083
+- matched_terms: ai:AI x5
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: AI로 영화 제작의 모든 과정이 구현된 사례는 빅테크 기업을 넘어 다양한 산업에서 AI 기술이 핵심 동력으로 자리 잡는 'AI 전환 경쟁'의 심화를 보여줍니다.
+- summary: (베이징=연합뉴스) 한종구 특파원 = 배우·장면·편집 등 영화 제작의 모든 과정이 인공지능(AI)으로 구현된 영화가 올여름 중국에서 개봉된다.
+
+### (62) 국가AI전략위, AI 전환기 인재·교육체계 대전환 논의
+- score: 38
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 17:25:40 +0900
+- url: https://www.yna.co.kr/view/AKR20260423163300017
+- matched_terms: ai:AI x6
+  ai:인공지능 x2
+- significance: AI 확산에 따른 인재 양성 및 교육 체계 개편 논의는 AI 전환 시대를 준비하는 국가적 차원의 핵심 전략 변화를 보여준다.
+- summary: (서울=연합뉴스) 권하영 기자 = 국가인공지능전략위원회는 인공지능(AI) 확산에 대응한 인재 양성과 교육체계 개편 방향을 논의하는 'AI 전환기...
+
+### (63) 빅웨이브로보틱스, 코스닥시장 상장예비심사 통과
+- score: 6
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 18:28:11 +0900
+- url: https://www.yna.co.kr/view/AKR20260423173200008
+- matched_terms: ai:AI x1
+- significance: 빅웨이브로보틱스의 코스닥 상장예비심사 통과는 로봇 기술을 통한 AI 전환 경쟁이 심화되는 가운데, 국내 기술 기업의 시장 확대 및 투자 유치 가능성을 보여주는 중요한 사례입니다.
+- summary: (서울=연합뉴스) 김유향 기자 = 한국거래소 코스닥시장본부는 빅웨이브로보틱스의 상장예비심사를 승인했다고 23일 밝혔다.
+
+### (64) [AI픽] "AI가 공장 돌린다"…SAP, 제조 오케스트레이션 선언
+- score: 32
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 17:10:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260423157800017
+- matched_terms: ai:AI x4
+  platform:빅테크 x1
+- significance: SAP의 '제조 오케스트레이션' 선언은 AI가 단일 요소 최적화를 넘어 공급망 전반의 유기적 조율이라는 새로운 가치를 제공하며 빅테크 기업들의 AI 전환 경쟁이 산업 전반으로 확산되고 있음을 보여준다.
+- summary: (서울=연합뉴스) 오지은 기자 = "제조업의 성공은 이제 단일 요소의 최적화가 아니라 공급망 전반을 어떻게 유기적으로 조율하느냐에 달려 있습니다...
+
+### (65) 테슬라, AI 하드웨어 기업 비밀 인수…소프트웨어 또 초토화 [빈난새의 개장전요것만]
+- score: 25
+- source: hankyung
+- published_at: Fri, 24 Apr 2026 00:14:58 +0900
+- url: https://www.hankyung.com/article/202604233100i
+- matched_terms: ai:AI x3
+  platform:빅테크 x1
+- significance: 테슬라의 AI 하드웨어 기업 인수는 자율주행, 로봇 등 미래 핵심 사업에서 소프트웨어 역량 강화를 통해 빅테크 AI 전환 경쟁을 주도하려는 전략적 움직임을 보여줍니다.
+- summary: 
+
+### (66) “기업용 AI 공략 속도” 삼성SDS-LG CNS, 구글과 협력 확대
+- score: 62
+- source: donga
+- published_at: Fri, 24 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260423/133802024/2
+- matched_terms: ai:AI x5
+  platform:구글 x3
+  data_center:클라우드 x2
+  ai:생성형 AI x1
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 삼성SDS와 LG CNS가 구글 클라우드와 협력하여 기업용 AI 시장에 진출하는 것은 글로벌 빅테크 기업들의 AI 전환 경쟁이 국내 기업 서비스 시장으로 확대되고 있음을 보여줍니다.
+- summary: 삼성SDS와 LG CNS가 각각 구글 클라우드와의 협력을 확대하며 기업용 인공지능(AI) 시장 공략에 속도를 내고 있다. 생성형 AI를 실제 업무에 적용
+
+### (67) 'AI 투자 비용때문에'…메타, 5월 중 인력 10% 감원 공식화
+- score: 31
+- source: asiae
+- published_at: Fri, 24 Apr 2026 03:14:49 +0900
+- url: https://www.asiae.co.kr/article/2026042403145063872
+- matched_terms: ai:AI x4
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 메타가 AI 투자 비용을 충당하기 위해 대규모 인력 감원을 단행하는 것은 빅테크 기업들이 AI 시대를 맞아 사업 구조를 재편하고 투자 효율성을 극대화하려는 전략적 변화를 보여줍니다.
+- summary: 페이스북, 인스타그램을 운영 중인 메타가 인공지능(AI) 관련 막대한 투자 비용을 상쇄하기 위해 내달 전체 직원의 약 10%를 감원한다는 사실을 공식화했다. 23일(현지시간) 블룸버그에 따르면 메타는 메모를 통해 직원들에게 5월 20일 해고를 진행한다고 밝혔다. 감원 규모는 약 8000명에 달하며, 당초 채용 예정이었던 6000개의 신규 채용 규모를 취소
+
+### (68) Meta says it will cut 8,000 jobs as AI spending grows
+- score: 35
+- source: bbc
+- published_at: Thu, 23 Apr 2026 19:12:22 GMT
+- url: https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x3
+  platform:Meta x2
+  platform:빅테크 x1
+- significance: 메타의 대규모 감원은 AI 전환을 위한 비용 효율화 및 핵심 역량 집중 전략을 보여주며, 빅테크 기업들의 AI 투자 경쟁이 더욱 치열해지고 있음을 시사한다.
+- summary: The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.
+
+### (69) New ETF Targets Old-Economy Stocks AI Won't Replace - BeInCrypto
+- score: 37
+- source: google_en
+- published_at: Thu, 23 Apr 2026 19:11:00 GMT
+- url: https://news.google.com/rss/articles/CBMibkFVX3lxTE00dmZkWmJTWnI2dE15YVd2emdOSFBXV29BQzU3Y295YVNzVGUwcXM3TG5falFnQV9TQzIzYllIR1dJVUp6Nks0YXNiemR3d1NoSm5RUDIwNHVOX093X0RxeERRdWNmSmNBQkhEX0x3?oc=5
+- matched_terms: ai:AI x5
+  platform:빅테크 x1
+- significance: 이 뉴스는 AI 기술 발전에도 불구하고 AI가 대체하기 어려운 구경제 산업의 중요성을 역설하며, AI 기술의 한계와 기존 산업의 가치 재평가라는 측면에서 빅테크 AI 전환 경쟁 시나리오의 상호보완적 관점을 제시합니다.
+- summary: <a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE00dmZkWmJTWnI2dE15YVd2emdOSFBXV29BQzU3Y295YVNzVGUwcXM3TG5falFnQV9TQzIzYllIR1dJVUp6Nks0YXNiemR3d1NoSm5RUDIwNHVOX093X0RxeERRdWNmSmNBQkhEX0x3?o
+
+### (70) 오픈AI, 자율성 높인 GPT-5.5 출시…"앤트로픽과 비교해보라"
+- score: 56
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 04:56:56 +0900
+- url: https://www.yna.co.kr/view/AKR20260424006700091
+- matched_terms: ai:AI x6
+  platform:오픈AI x3
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 오픈AI의 GPT-5.5 출시는 AI 기술 경쟁이 심화되고 있음을 보여주며, 빅테크 기업들의 AI 리더십 확보를 위한 경쟁 가속화를 의미합니다.
+- summary: (샌프란시스코=연합뉴스) 권영전 특파원 = 연내 기업공개(IPO)를 노리는 오픈AI가 두 달만에 새 인공지능(AI) 모델을 선보이며 앤트로픽의 ...
+
+### (71) 빗썸, 전사 AI 에이전트 도입...업무혁신 나선다
+- score: 39
+- source: sedaily
+- published_at: Fri, 24 Apr 2026 05:30:05 +0900
+- url: https://www.sedaily.com/article/20036402
+- matched_terms: ai:AI x5
+  ai:에이전트 x2
+- significance: 빗썸이 전사 AI 에이전트를 도입하여 업무 혁신에 나서는 것은 기업들이 AI 기술을 활용해 효율성을 높이고 경쟁력을 확보하려는 AI 전환 경쟁의 흐름을 보여줍니다.
+- summary: 
+
+### (72) Microsoft Targets About 7% of Its U.S. Workers With Buyout Offer
+- score: 27
+- source: nyt
+- published_at: Thu, 23 Apr 2026 20:28:37 +0000
+- url: https://www.nytimes.com/2026/04/23/business/microsoft-layoffs-artificial-intelligence.html
+- matched_terms: ai:AI x2
+  ai:artificial intelligence x1
+  platform:마이크로소프트 x1
+  platform:빅테크 x1
+- significance: 마이크로소프트의 대규모 구조조정은 AI 투자 가속화를 위한 비용 효율화 및 인력 재배치의 일환으로, 빅테크 기업들의 AI 전환 경쟁이 심화되는 흐름을 보여준다.
+- summary: The tech giant is offering long-serving employees early retirements as it continues to invest aggressively in artificial intelligence.
+
+### (73) '이란 오보'에 놀랐다…되살아난 SW 악몽, 인텔까지 되살린 AI [김현석의 월스트리트나우]
+- score: 25
+- source: hankyung
+- published_at: Fri, 24 Apr 2026 08:08:44 +0900
+- url: https://www.hankyung.com/article/202604243138i
+- matched_terms: ai:AI x3
+  platform:빅테크 x1
+- significance: 이번 '이란 오보' 사건으로 인한 소프트웨어 취약점 부각과 인텔의 AI 전략 강화는 전반적인 빅테크 기업들의 AI 전환 경쟁 속에서 보안과 기술 혁신의 중요성이 더욱 커지고 있음을 시사한다.
+- summary: 
+
+### (74) 인텔, AI 에이전트 붐 전망에 주가 20% ↑
+- score: 47
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 10:27:19 +0900
+- url: https://www.yna.co.kr/view/AKR20260424044600009
+- matched_terms: ai:AI x4
+  ai:에이전트 x3
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 인텔의 AI 에이전트 붐 전망은 빅테크 기업들이 AI 시대를 맞아 하드웨어 및 소프트웨어 전반에 걸쳐 핵심 사업 모델을 재편하고 있음을 보여주는 사례입니다.
+- summary: (서울=연합뉴스) 김태균 기자 = 장기간 부진을 겪은 인텔이 인공지능(AI) 에이전트 붐에 힘입어 성장세를 회복할 것이라는 관측이 나오며 주가가...
+
+### (75) [테크스냅] 노타, 엔비디아 네모트론 해커톤 우승…양자화 데이터셋 구축
+- score: 28
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 10:37:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260424054100017
+- matched_terms: semiconductor:엔비디아 x3
+  ai:AI x1
+  platform:빅테크 x1
+- significance: 노타가 엔비디아 해커톤에서 MoE 양자화 기술로 우승하며 AI 기술 패권을 위한 빅테크 기업들의 경쟁 속에서 특정 기술 우위의 중요성을 부각시키고 있습니다.
+- summary: (서울=연합뉴스) 오지은 기자 = ▲ 노타[486990]가 엔비디아 네모트론 해커톤에서 MoE(전문가용 구조) 양자화에 특화된 합성 데이터 생성...
+
+### (76) [쇼츠] "감정 없고 예측 불가능하다"…AI 로봇, 프로선수도 꺾었다
+- score: 49
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 11:29:29 +0900
+- url: https://www.yna.co.kr/view/AKR20260424076400704
+- matched_terms: ai:AI x8
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 소니AI의 탁구 AI 로봇 개발은 AI 기술이 물리적 세계의 복잡한 작업에서도 인간을 뛰어넘는 수준으로 발전하고 있음을 보여주며, 이는 빅테크 기업들의 AI 하드웨어 및 소프트웨어 통합 경쟁을 가속화할 주요 신호입니다.
+- summary: (서울=연합뉴스) 소니그룹의 인공지능(AI) 연구개발 조직인 소니AI가 전국대회 출전 선수 수준의 탁구 실력을 갖춘 AI 로봇을 개발했다고 일본...
+
+### (77) [영상] 프로 선수도 꺾었다… 日 소니가 만든 '탁구 AI 로봇' 등장
+- score: 49
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 11:05:11 +0900
+- url: https://www.yna.co.kr/view/AKR20260424069200704
+- matched_terms: ai:AI x8
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 소니AI의 탁구 AI 로봇 개발은 AI 기술이 실제 물리적 환경에서 인간의 능력을 넘어서는 수준으로 발전하고 있음을 보여주며, 이는 빅테크 기업들의 AI 기술 경쟁이 단순 소프트웨어에서 하드웨어 및 로봇 분야로 확장되고 있음을 시사한다.
+- summary: (서울=연합뉴스) 소니그룹의 인공지능(AI) 연구개발 조직인 소니AI가 전국대회 출전 선수 수준의 탁구 실력을 갖춘 AI 로봇을 개발했다고 일본...
+
+### (78) "MS, AI 투자 부담 커지자 창사 첫 대규모 명퇴"
+- score: 40
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 11:42:56 +0900
+- url: https://www.yna.co.kr/view/AKR20260424074900009
+- matched_terms: ai:AI x4
+  platform:마이크로소프트 x2
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 마이크로소프트의 대규모 명예퇴직은 AI 투자 부담과 성과에 대한 우려가 커지면서, 빅테크 기업들의 AI 전환 경쟁이 단순히 투자를 넘어 구조조정과 효율성 추구로 진화하고 있음을 시사한다.
+- summary: (서울=연합뉴스) 김태균 기자 = 마이크로소프트(MS)가 인공지능(AI) 투자에 대한 성과 우려가 커지는 가운데 창사 이래 최초로 수천명대의 대...
+
+### (79) 李대통령, 27일 '알파고 아버지' 허사비스 면담…AI 협력 논의
+- score: 40
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 14:30:09 +0900
+- url: https://www.yna.co.kr/view/AKR20260424100300001
+- matched_terms: ai:AI x5
+  platform:구글 x2
+  ai:인공지능 x1
+- significance: 이재명 대통령이 구글 딥마인드 CEO와 AI 협력을 논의하는 것은 한국 정부가 글로벌 AI 기술 패권 경쟁에 적극적으로 참여하고 국가적 AI 역량을 강화하려는 의지를 보여주는 사건이다.
+- summary: (서울=연합뉴스) 고동욱 기자 = 이재명 대통령이 데미스 허사비스 구글 딥마인드 최고경영자(CEO)와 만나 인공지능(AI) 관련 협력 방안을 논...
+
+### (80) "검색에서 질문으로"…유통학회, 'AI 쇼핑' 시대 생존 전략 모색
+- score: 43
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 16:42:34 +0900
+- url: https://www.yna.co.kr/view/AKR20260424130300030
+- matched_terms: ai:AI x6
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: AI 시대의 도래에 따라 유통업계가 'AI 쇼핑'이라는 새로운 패러다임으로 전환하려는 움직임은 빅테크 기업들이 AI를 통해 핵심 사업 모델을 재편하는 흐름과 일치하며, AI 기술이 특정 산업을 넘어 전반적인 산업 구조 변화를 주도하고 있음을 보여줍니다.
+- summary: (서울=연합뉴스) 김채린 기자 = 한국유통학회는 24일 서울 중구 대한상공회의소에서 '2026년 춘계학술대회'를 열고 인공지능(AI) 시대에서의...
+
+### (81) 딥시크, '가성비 충격' 1년여만에 AI 신모델 V4 선보여
+- score: 46
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 17:01:47 +0900
+- url: https://www.yna.co.kr/view/AKR20260424141300009
+- matched_terms: ai:AI x7
+  ai:인공지능 x1
+  platform:빅테크 x1
+- significance: 딥시크의 가성비 AI 신모델 출시는 AI 시장의 경쟁을 심화시키고, 오픈소스 AI 모델의 영향력을 확대하여 빅테크 기업들의 AI 전략에 변화를 가져올 수 있습니다.
+- summary: (서울=연합뉴스) 차병섭 기자 = 중국 스타트업 딥시크가 '가성비' 오픈소스 인공지능(AI) 모델로 시장에 충격을 준 지 1년여 만에 AI 신모...

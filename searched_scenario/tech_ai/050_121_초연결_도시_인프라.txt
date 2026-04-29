@@ -1,0 +1,41 @@
+# [121] 초연결 도시 인프라
+
+profile: AI & Semiconductors
+label: primary
+score: 29 (metadata=0, nodes=25, repeat=4)
+category: tech
+updated_at: 2026-04-21T16:50:42.262278
+nodes: 6 total / 2 matched
+keywords: 스마트시티, 디지털격차 해소, 공공 와이파이, 생활밀착형 인프라, 지자체 디지털 전략
+
+## Description
+도시 인프라가 단순한 물리적 구조물을 넘어, 데이터와 통신 기술로 연결된 '스마트 도시'로 진화하고 있습니다. 이는 시민 생활 편의성 증대, 공공 서비스 효율화, 그리고 미래 산업의 기반을 제공하며 국가 경쟁력의 핵심 요소로 부상하고 있습니다.
+
+## Matched Tags
+- platform: 19
+- semiconductor: 6
+
+## Matched Terms
+  platform:플랫폼 x4
+  semiconductor:삼성전자 x2
+
+## Matched News Nodes
+
+### (2) "부모님 안부, 스마트폰이 먼저 알려준다"…삼성 스마트싱스, '가족 돌봄' 기능 강화
+- score: 9
+- source: asiae
+- published_at: Thu, 16 Apr 2026 08:22:02 +0900
+- url: https://www.asiae.co.kr/article/2026041608220308824
+- matched_terms: semiconductor:삼성전자 x2
+  platform:플랫폼 x1
+- significance: 삼성 스마트싱스의 '가족 돌봄' 기능 강화는 스마트홈 기술이 단순히 편의성을 넘어 고령화 사회의 돌봄 부담을 줄이고 삶의 질을 향상시키는 초연결 도시 인프라의 핵심 요소로 진화하고 있음을 보여준다.
+- summary: 삼성전자가 자사의 스마트홈 플랫폼 '스마트싱스(SmartThings)' 업데이트를 통해 떨어져 사는 부모님 등 가족의 일상을 실시간으로 돌보는 기능을 대폭 강화했다. 삼성전자는 이번 업데이트로 '패밀리 케어' 서비스에 신규 기능을 추가했다고 16일 밝혔다. '패밀리 케어'는 스마트싱스로 집 안의 다양한 가전 및 모바일 기기를 연동해 따로 사는 가족의 활동
+
+### (5) 성북구 정릉공영차고지, 체육시설 갖춘 복합 플랫폼으로(종합)
+- score: 16
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 15:35:58 +0900
+- url: https://www.yna.co.kr/view/AKR20260421075651004
+- matched_terms: platform:플랫폼 x3
+- significance: 정릉공영차고지의 복합 플랫폼 개발은 단순한 교통 인프라를 넘어, 생활 편의시설과 연계된 다기능 스마트 도시 인프라 구축의 일환으로 볼 수 있습니다.
+- summary: (서울=연합뉴스) 황재하 기자 = 서울 성북구 정릉공영차고지가 수영장과 다목적체육관, 헬스장 등 시설과 버스 운수 시설을 갖춘 복합 플랫폼으로 ...

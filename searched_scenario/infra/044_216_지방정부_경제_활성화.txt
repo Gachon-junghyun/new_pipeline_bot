@@ -1,0 +1,31 @@
+# [216] 지방정부 경제 활성화
+
+profile: Infrastructure
+label: secondary
+score: 18 (metadata=0, nodes=16, repeat=2)
+category: macro
+updated_at: 2026-04-22T11:49:54.589014
+nodes: 4 total / 1 matched
+keywords: 지역화폐, 소상공인 지원, 지방재정, 내수 진작, 지역 경제
+
+## Description
+중앙정부 정책만으로는 한계가 있는 지역 경제 활성화를 위해 지방정부의 독자적인 재정 및 소비 진작 정책이 확대되는 추세입니다. 이는 지역별 맞춤형 경제 부양책 경쟁으로 이어질 수 있으며, 중앙과 지방 정부 간 재정 분권 논의를 가속화할 수 있습니다.
+
+## Matched Tags
+- industrial_facility: 16
+
+## Matched Terms
+  industrial_facility:산업단지 x2
+  industrial_facility:산단 x1
+
+## Matched News Nodes
+
+### (4) 인천 남동산단 활성화 맞손…남동구-5개 기관 업무협약
+- score: 16
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 11:33:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260422079800065
+- matched_terms: industrial_facility:산업단지 x2
+  industrial_facility:산단 x1
+- significance: 인천 남동구가 산업단지 활성화와 일자리 창출을 위해 관계 기관과 업무협약을 체결한 것은 지방정부가 지역 경제 활성화를 위해 적극적으로 나서는 대표적인 사례이며, 지역 맞춤형 정책 추진의 중요성을 보여준다.
+- summary: (인천=연합뉴스) 최은지 기자 = 인천시 남동구는 남동국가산업단지 활성화와 일자리 창출을 위해 관계 기관과 업무협약을 체결했다고 22일 밝혔다.

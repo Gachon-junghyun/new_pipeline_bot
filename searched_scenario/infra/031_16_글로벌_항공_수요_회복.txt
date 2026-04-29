@@ -1,0 +1,49 @@
+# [16] 글로벌 항공 수요 회복
+
+profile: Infrastructure
+label: primary
+score: 30 (metadata=0, nodes=24, repeat=6)
+category: macro
+updated_at: 2026-04-15T13:32:29.795373
+nodes: 8 total / 3 matched
+keywords: 항공산업, 국제선 재개, 여행 수요, 관광 활성화, 글로벌 이동성
+
+## Description
+코로나19 팬데믹 이후 억눌렸던 국제 여객 수요가 점진적으로 회복되며 항공 산업 전반의 활성화와 여행 및 관광 산업 성장을 견인하고 있습니다. 이는 글로벌 경제 활동 재개와 맞물려 중요한 거시경제적 테마로 부상하고 있습니다.
+
+## Matched Tags
+- transport: 21
+- energy_facility: 3
+
+## Matched Terms
+  transport:공항 x5
+  energy_facility:ESS x1
+
+## Matched News Nodes
+
+### (4) 짐 없는 환승 디트로이트·미니애폴리스로 확대…환승 20분 단축
+- score: 18
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 06:00:13 +0900
+- url: https://www.yna.co.kr/view/AKR20260414134800003
+- matched_terms: transport:공항 x4
+- significance: 인천공항의 짐 없는 환승 서비스 확대는 환승 편의성을 높여 글로벌 항공 수요 회복을 가속화하고 인천공항의 경쟁력을 강화할 것입니다.
+- summary: (서울=연합뉴스) 윤민혁 기자 = 인천국제공항에서 출발해 미국 애틀랜타 공항에서 환승할 때만 가능하던 짐 없는 환승이 미국 디트로이트와 미니애폴...
+
+### (2) 5 things to know about a potential merger of United and American airlines
+- score: 3
+- source: marketwatch
+- published_at: Tue, 14 Apr 2026 18:12:00 GMT
+- url: https://www.marketwatch.com/story/5-things-to-know-about-a-potential-merger-of-airlines-united-and-american-b140c0ed?mod=mw_rss_topstories
+- matched_terms: energy_facility:ESS x1
+- significance: 미국 항공사들의 대형 M&A 논의는 글로벌 항공 수요 회복기에 나타날 수 있는 산업 재편 움직임 중 하나로, 규제 당국의 입장과 시장 경쟁 환경에 중대한 영향을 미칠 수 있습니다.
+- summary: Even in a White House viewed as business friendly, a United and American combo would be bound to raise some serious concerns.
+
+### (1) 英 버진애틀랜틱 항공, 인천 재취항
+- score: 3
+- source: donga
+- published_at: Wed, 15 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260414/133738447/2
+- matched_terms: transport:공항 x1
+- significance: 영국 주요 항공사의 인천 재취항은 팬데믹 이후 침체되었던 장거리 노선 항공 운항의 본격적인 재개를 알리는 중요한 신호탄입니다.
+- summary: 14일 인천국제공항 제2여객터미널 주기장에서 영국 버진애틀랜틱 항공 관계자들이 회사 항공기를 배경으로 인천∼런던 노선 취항 기념사진을 찍고 있다. 6년

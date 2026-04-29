@@ -1,0 +1,62 @@
+# [257] 한국, 과학기술 혁신 가속
+
+profile: AI & Semiconductors
+label: primary
+score: 100 (metadata=0, nodes=92, repeat=8)
+category: tech
+updated_at: 2026-04-23T15:41:39.067392
+nodes: 11 total / 4 matched
+keywords: 과학기술, 연구개발, 기술혁신, 국가경쟁력, 미래성장동력
+
+## Description
+한국이 과학기술 연구개발 및 성과 확산에 집중하며 국가 경쟁력 강화와 미래 성장 동력 확보를 추진하는 시나리오입니다. 이는 첨단 산업 육성, 글로벌 기술 패권 경쟁 대응과 직결됩니다.
+
+## Matched Tags
+- ai: 79
+- semiconductor: 13
+
+## Matched Terms
+  ai:AI x13
+  ai:인공지능 x2
+  semiconductor:엔비디아 x2
+
+## Matched News Nodes
+
+### (2) KAIST 교수 창업기업, 엔비디아 벤처투자 등에서 1천억↑ 유치
+- score: 29
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 09:21:56 +0900
+- url: https://www.yna.co.kr/view/AKR20260423038000063
+- matched_terms: ai:AI x3
+  semiconductor:엔비디아 x2
+- significance: KAIST 교수 창업기업이 엔비디아 등으로부터 대규모 투자를 유치한 것은 한국의 과학기술 연구 역량이 상업화로 이어지고 글로벌 경쟁력을 확보하는 중요한 사례가 될 수 있습니다.
+- summary: (대전=연합뉴스) 김준호 기자 = 한국과학기술원(KAIST)은 창업원장인 전기 및 전자공학부 배현민 교수와 졸업생들이 공동 창업한 포인투테크놀로...
+
+### (6) 교육부·대교협, 대학 AI 기본교육과정 개발 사업 20개교 선정
+- score: 19
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 12:00:12 +0900
+- url: https://www.yna.co.kr/view/AKR20260423086600530
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+- significance: 교육부가 대학 AI 기본교육과정 개발 사업을 지원하는 것은 한국의 과학기술 혁신 가속화를 위한 인프라 구축 및 인재 양성이라는 점에서 시나리오의 핵심 동력으로 작용할 것이다.
+- summary: (서울=연합뉴스) 노재현 기자 = 교육부와 한국대학교육협의회(대교협)는 23일 '2026년 대학 인공지능(AI) 기본교육과정 개발 지원 사업'의...
+
+### (9) 서울창경, ‘올해의 K-스타트업 2026’ 참가기업 모집 …AI리그 신설
+- score: 25
+- source: donga
+- published_at: Thu, 23 Apr 2026 13:00:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260422/133794343/1
+- matched_terms: ai:AI x4
+- significance: 서울창조경제혁신센터가 'K-스타트업 2026'에 AI 리그를 신설하여 AI 분야 스타트업 발굴 및 육성을 강화하는 것은 한국의 과학기술 혁신 가속화 시나리오에서 AI 기술 경쟁력 강화를 위한 중요한 정부 지원 정책으로 볼 수 있습니다.
+- summary: 서울창조경제혁신센터(대표 이영근, 이하 서울창경)는 국내 최대 범부처 창업경진대회인 ‘올해의 K-스타트업 2026’의 예선리그 참가기업을 오는 5월 20
+
+### (11) "양자·AI 글로벌 허브 조성"…인천시, 국내외 기업들과 맞손
+- score: 19
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 15:00:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260423082400065
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+- significance: 인천시가 양자-AI 글로벌 허브 조성을 추진하는 것은 한국의 과학기술 혁신을 가속화하고 미래 성장 동력을 확보하려는 노력의 일환으로 해석됩니다.
+- summary: (인천=연합뉴스) 홍현기 기자 = 인천시는 국내외 기업들과 양자-인공지능(AI) 글로벌 허브 조성을 위한 업무협약을 맺었다고 23일 밝혔다.

@@ -1,0 +1,33 @@
+# [15] 한국, 녹색산업 투자 확대
+
+profile: Infrastructure
+label: secondary
+score: 24 (metadata=13, nodes=9, repeat=2)
+category: energy
+updated_at: 2026-04-15T01:26:40.869908
+nodes: 1 total / 1 matched
+keywords: 재생에너지, 바이오, 녹색산업, 국민성장펀드, 에너지 안보
+
+## Description
+정부가 '국민성장펀드'를 통해 새만금-바이오, 재생에너지 등 첨단 녹색 산업에 대규모 투자를 단행하며, 국가 성장 동력을 확보하고 글로벌 기후변화 및 에너지 전환에 대응하는 시나리오입니다. 이는 한국 경제의 산업 구조 재편과 미래 경쟁력 강화에 중대한 영향을 미칠 것입니다.
+
+## Matched Tags
+- energy_facility: 22
+
+## Matched Terms
+  energy_facility:재생에너지 x3
+  energy_facility:태양광 x1
+  energy_facility:풍력 x1
+
+## Matched News Nodes
+
+### (1) 국민성장펀드, 새만금-바이오 등 6개 분야에 10조 투입
+- score: 9
+- source: donga
+- published_at: Wed, 15 Apr 2026 00:30:00 +0900
+- url: https://www.donga.com/news/Economy/article/all/20260414/133738448/2
+- matched_terms: energy_facility:재생에너지 x1
+  energy_facility:태양광 x1
+  energy_facility:풍력 x1
+- significance: 이 뉴스는 정부 주도의 대규모 펀드 조성을 통한 녹색 산업 육성 정책의 구체적인 시작을 알리는 중요한 신호탄입니다.
+- summary: 정부가 주도하고 기업과 국민이 함께 150조 원 규모로 조성하는 국민성장펀드의 2차 투자 후보군이 에너지 안보를 지킬 풍력·태양광 등 재생에너지, 한국의

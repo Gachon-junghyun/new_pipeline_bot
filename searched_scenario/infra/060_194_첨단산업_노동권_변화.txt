@@ -1,0 +1,29 @@
+# [194] 첨단산업 노동권 변화
+
+profile: Infrastructure
+label: secondary
+score: 12 (metadata=0, nodes=10, repeat=2)
+category: corporate
+updated_at: 2026-04-21T22:01:20.131894
+nodes: 1 total / 1 matched
+keywords: 반도체, 산업재해, 노동권, ESG경영, 기업규제
+
+## Description
+반도체 등 첨단 산업의 유해 환경으로부터 노동자를 보호하고, 산업재해 인정 범위를 확대하는 움직임은 기업의 생산성 및 비용 구조에 영향을 미치며, ESG 경영의 중요성을 부각시키고 노동 환경 규제 강화로 이어질 수 있습니다.
+
+## Matched Tags
+- industrial_facility: 10
+
+## Matched Terms
+  industrial_facility:반도체 공장 x2
+
+## Matched News Nodes
+
+### (1) 반도체 공장서 일하다 유방암 걸린 40대 1심서 산재 인정
+- score: 10
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 15:46:13 +0900
+- url: https://www.yna.co.kr/view/AKR20260421131400004
+- matched_terms: industrial_facility:반도체 공장 x2
+- significance: 이 뉴스는 첨단 산업 분야에서의 노동 환경 위험성에 대한 인식을 높이고, 향후 유사 사례의 산업재해 인정 확대 및 기업의 책임 강화 논의를 촉발하는 중요한 시작점입니다.
+- summary: (서울=연합뉴스) 홍준석 기자 = 반도체 공장에서 14년 동안 일하다 유방암에 걸린 여성 노동자가 1심에서 산업재해를 인정받았다.

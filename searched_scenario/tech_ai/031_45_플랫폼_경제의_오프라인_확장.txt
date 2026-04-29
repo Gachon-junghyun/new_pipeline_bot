@@ -1,0 +1,43 @@
+# [45] 플랫폼 경제의 오프라인 확장
+
+profile: AI & Semiconductors
+label: primary
+score: 51 (metadata=23, nodes=24, repeat=4)
+category: tech
+updated_at: 2026-04-15T09:32:06.471711
+nodes: 2 total / 2 matched
+keywords: 플랫폼 경제, 핀테크, 오프라인 결제, 생체인식, 디지털 전환
+
+## Description
+온라인 플랫폼 기업들이 오프라인 서비스 및 결제 시장으로 영역을 확대하며, 디지털 전환을 가속화하고 기존 상거래 방식에 변화를 가져오는 시나리오입니다. 이는 소비자의 편의성 증대와 함께 데이터 기반의 맞춤형 서비스 경쟁을 심화시킬 것입니다.
+
+## Matched Tags
+- platform: 38
+- ai: 9
+
+## Matched Terms
+  platform:플랫폼 x5
+  ai:AI x2
+  platform:오픈AI x1
+
+## Matched News Nodes
+
+### (1) 토스, 얼굴 인식 '페이스페이' 확산 추진한다
+- score: 6
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 09:18:24 +0900
+- url: https://www.yna.co.kr/view/AKR20260415041600017
+- matched_terms: platform:플랫폼 x1
+- significance: 토스의 얼굴 인식 결제 시스템 '페이스페이' 확산 추진은 온라인 플랫폼 기업이 오프라인 시장으로 진출하여 결제 방식의 혁신을 주도하는 중요한 시작점입니다.
+- summary: (서울=연합뉴스) 오지은 기자 = 토스가 한국프랜차이즈산업협회와 업무협약(MOU)을 체결했다고 15일 밝혔다.
+
+### (2) 롯데웰푸드 "챗GPT 내 '자사몰 서비스' 전용 앱 선보여"
+- score: 18
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 09:12:36 +0900
+- url: https://www.yna.co.kr/view/AKR20260415039900030
+- matched_terms: ai:AI x2
+  platform:오픈AI x1
+  platform:플랫폼 x1
+- significance: 롯데웰푸드의 챗GPT 기반 자사몰 서비스 앱 출시는 기존 온라인 플랫폼이 AI 기술을 활용하여 사용자 경험을 강화하고 오프라인 접점과의 연결성을 높이는 새로운 디지털 전환 사례를 보여줍니다.
+- summary: (서울=연합뉴스) 김세린 기자 = 롯데웰푸드[280360]는 국내 종합식품기업 중 처음으로 오픈AI의 챗지피티(ChatGPT) 내에 자사몰 서비...

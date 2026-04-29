@@ -1,0 +1,160 @@
+# [215] 글로벌 지정학적 불안정 심화
+
+profile: AI & Semiconductors
+label: primary
+score: 73 (metadata=0, nodes=63, repeat=10)
+category: geopolitics
+updated_at: 2026-04-24T08:41:43.522562
+nodes: 102 total / 15 matched
+keywords: 지정학적 리스크, 분쟁, 갈등, 글로벌 안보, 공급망 불안
+
+## Description
+세계 각지의 분쟁과 갈등이 고조되며 글로벌 공급망, 에너지 시장, 금융 시장 전반에 불확실성이 증대하는 시나리오입니다. 이는 국가 간의 경제적, 군사적 대립을 심화시키고 새로운 안보 동맹 형성에 영향을 미칠 수 있습니다.
+
+## Matched Tags
+- ai: 86
+- data_center: 7
+- platform: 3
+
+## Matched Terms
+  ai:AI x22
+  data_center:cloud x1
+  platform:애플 x1
+
+## Matched News Nodes
+
+### (13) US Dollar Index holds firm as US naval blockade undermines Iran ceasefire extension
+- score: 3
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 13:41:38 Z
+- url: https://www.fxstreet.com/news/us-dollar-index-holds-firm-as-us-naval-blockade-undermines-iran-ceasefire-extension-202604221341
+- matched_terms: ai:AI x1
+- significance: 미국의 이란 해상 봉쇄 조치로 인한 휴전 협상 무산은 중동 지역의 지정학적 긴장을 고조시키고 글로벌 안보 불확실성을 심화시키는 중요한 사건입니다.
+- summary: The US Dollar Index (DXY), which tracks the Greenback’s value against a basket of six major currencies, holds steady on Wednesday, hovering near one-week highs as the extension of the US-Iran ceasefir
+
+### (18) US and Iran in blockade standoff as Pakistan pushes for talks
+- score: 6
+- source: bbc
+- published_at: Wed, 22 Apr 2026 16:19:36 GMT
+- url: https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x2
+- significance: 호르무즈 해협의 긴장 지속은 글로벌 에너지 시장과 무역 공급망의 불확실성을 가중시키며 지정학적 불안정 심화 시나리오를 강화한다.
+- summary: The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.
+
+### (22) Silver Price Forecast: XAG/USD rebounds as geopolitical tensions keep markets cautious
+- score: 3
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 17:09:25 Z
+- url: https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rebounds-as-geopolitical-tensions-keep-markets-cautious-202604221709
+- matched_terms: ai:AI x1
+- significance: 지정학적 긴장이 지속되면서 안전자산인 은 가격이 상승하는 현상은 글로벌 지정학적 불안정 심화 시나리오의 직접적인 경제적 파급효과를 보여줍니다.
+- summary: Silver (XAG/USD) advances on Wednesday and trades around $77.70 at the time of writing, up 1.33% on the day. Silver is recovering after recent weakness as investors remain cautious amid persistent geo
+
+### (23) GBP/JPY Price Forecast: Holds above 215.00 as momentum fades
+- score: 6
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 18:45:43 Z
+- url: https://www.fxstreet.com/news/gbp-jpy-price-forecast-holds-above-21500-as-momentum-fades-202604221845
+- matched_terms: ai:AI x2
+- significance: 중동 지역의 높은 긴장감이 GBP/JPY 환율의 횡보에 영향을 미치며 글로벌 지정학적 불안정 심화 시나리오의 지속적인 영향을 보여준다.
+- summary: GBP/JPY trades sideways, clinging to three days of consecutive gains, as market mood remains neutral, though slightly tilted toward optimism, amid high tensions in the Middle East.
+
+### (25) Forex Today: US Dollar stays resilient as Hormuz tensions keep markets on edge
+- score: 3
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 19:02:28 Z
+- url: https://www.fxstreet.com/news/forex-today-us-dollar-stays-resilient-as-hormuz-tensions-keep-markets-on-edge-202604221902
+- matched_terms: ai:AI x1
+- significance: 호르무즈 해협의 긴장 고조로 인한 미 달러 강세는 중동 지역의 지정학적 리스크가 글로벌 금융 시장의 불확실성을 증폭시키는 중요한 사례가 됩니다.
+- summary: The US Dollar Index (DXY) held firm near the 98.60 area as investors continued to favor the Greenback amid lingering uncertainty around the US-Iran conflict.
+
+### (26) Iran Again Tightens Its Grip on Shipping in the Strait of Hormuz
+- score: 20
+- source: nyt
+- published_at: Wed, 22 Apr 2026 20:31:43 +0000
+- url: https://www.nytimes.com/2026/04/22/business/strait-of-hormuz-traffic-iran.html
+- matched_terms: ai:AI x4
+- significance: 호르무즈 해협에서 이란의 선박 공격 재개는 중동 지역의 긴장을 고조시키고 글로벌 해상 물류 및 에너지 공급망의 불안정성을 심화시키는 중요한 사건입니다.
+- summary: Traffic in the strait has all but halted as Iran renews its attacks, striking two vessels on Wednesday. More than 300 ships linked to Iran have passed through the strait since the war began.
+
+### (62) "유죄라 자랑스럽네"…러시아에 소환장 받은 텔레그램 창업자
+- score: 3
+- source: asiae
+- published_at: Thu, 23 Apr 2026 20:41:15 +0900
+- url: https://www.asiae.co.kr/article/2026042320362473712
+- matched_terms: platform:애플 x1
+- significance: 러시아 사법 당국이 텔레그램 창업자 파벨 두로프에게 소환장을 발부한 사건은 러시아의 내부 통제 강화 및 정보 통제 의지를 보여주며, 글로벌 지정학적 불안정성 심화 시나리오에서 국가 간 사이버 안보 및 정보 통제 갈등의 한 양상으로 해석될 수 있습니다.
+- summary: 폐쇄형 메신저 애플리케이션(앱) '텔레그램' 창업자 파벨 두로프(42)가 러시아 사법 당국으로부터 형사사건 용의자로 지목돼 소환장을 받았다. 22일(현지시간) 외신 보도를 종합하면 두로프는 이날 자신의 텔레그램을 통해 러시아 우체국으로부터 발송된 소환장 사진을 게재했다. 두로프는 "내가 20년 전 살았던 러시아의 아파트에 '피의자' 두로프에 대한 소환장이
+
+### (75) AUD/USD edges lower as US-Iran tensions outweigh support from stronger Australian PMI
+- score: 3
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 13:02:31 Z
+- url: https://www.fxstreet.com/news/aud-usd-edges-lower-as-us-iran-tensions-outweigh-support-from-stronger-australian-pmi-202604231302
+- matched_terms: ai:AI x1
+- significance: 미국과 이란 간의 긴장 고조는 글로벌 지정학적 불안정을 심화시키며 환율 변동성 등 금융 시장에 직접적인 영향을 미치는 사례입니다.
+- summary: AUD/USD trades around 0.7140 on Thursday, down 0.27% on the day, moving within a tight range as market sentiment remains pressured by geopolitical tensions.
+
+### (82) US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say
+- score: 14
+- source: bbc
+- published_at: Thu, 23 Apr 2026 15:11:03 GMT
+- url: https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x2
+- significance: 쿠웨이트에서 이란 전쟁 관련 게시물을 재공유한 기자가 체포되었다는 소식은 중동 지역의 민감한 지정학적 상황과 언론 및 표현의 자유에 대한 통제가 강화되고 있음을 보여주며, 이는 역내 불안정을 심화시킬 수 있는 요인으로 작용한다.
+- summary: Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.
+
+### (84) USD/CHF Price Forecast: Rallies capped below 100 and 200-day SMAs
+- score: 3
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 16:30:27 Z
+- url: https://www.fxstreet.com/news/usd-chf-price-forecast-rallies-capped-below-100-and-200-day-smas-202604231630
+- matched_terms: ai:AI x1
+- significance: 미국과 이란 간의 지속되는 긴장으로 인해 USD/CHF 환율이 불확실한 움직임을 보이는 것은 글로벌 지정학적 불안정 심화 시나리오의 직접적인 경제적 영향을 보여줍니다.
+- summary: USD/CHF trades flat on Thursday, with choppy price action and two-way swings as traders refrain from aggressive directional bets amid cautious market sentiment driven by ongoing US-Iran tensions. At t
+
+### (85) GBP/USD steadies near 1.3500 as Hormuz tensions curb upside
+- score: 3
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 16:06:45 Z
+- url: https://www.fxstreet.com/news/gbp-usd-steadies-near-13500-as-hormuz-tensions-curb-upside-today-202604231606
+- matched_terms: ai:AI x1
+- significance: 호르무즈 해협 인근에서 미국과 이란의 선박/유조선 나포 행위는 중동 지역의 지정학적 긴장을 고조시키고 글로벌 에너지 공급망에 심각한 불확실성을 가중시키는 사건입니다.
+- summary: GBP/USD steadies at around 1.3500 on Thursday as tensions in the Middle East rise, with the US and Iran escalating the conflict as both began to seize ships or Oil vessels near the Strait of Hormuz. M
+
+### (90) WTI climbs as Hormuz tensions escalate, Ghalibaf exit clouds US-Iran talks
+- score: 16
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 18:23:48 Z
+- url: https://www.fxstreet.com/news/wti-climbs-as-hormuz-tensions-escalate-ghalibaf-exit-clouds-us-iran-talks-202604231823
+- matched_terms: ai:AI x3
+  data_center:cloud x1
+- significance: 호르무즈 해협의 긴장 고조와 이란 정치 불안은 중동 지역의 지정학적 리스크를 심화시키고, 이는 국제 유가 상승을 통해 글로벌 경제 불안정성을 가중시키는 중요한 사건입니다.
+- summary: West Texas Intermediate (WTI) Crude Oil trades higher on Thursday, extending gains for a fourth straight day as escalating tensions in the Strait of Hormuz continue to fuel concerns about global suppl
+
+### (91) Canada: USMCA tensions raise trade risk – Rabobank
+- score: 7
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 17:38:04 Z
+- url: https://www.fxstreet.com/news/canada-usmca-tensions-raise-trade-risk-rabobank-202604231738
+- matched_terms: ai:AI x1
+- significance: 미국과 캐나다 간 USMCA 무역 마찰 심화는 북미 지역의 경제적 불확실성을 증대시키고, 이는 글로벌 지정학적 불안정 심화 시나리오의 한 축을 이룬다.
+- summary: Rabobank’s Global Strategist Michael Every flags growing trade frictions between the United States (US) and Canada ahead of USMCA (United States–Mexico–Canada Agreement) talks.
+
+### (92) Gold struggles around $4,700 as yields jump and war fears persist
+- score: 3
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 18:38:42 Z
+- url: https://www.fxstreet.com/news/gold-struggles-around-4-700-as-yields-jump-and-war-fears-persist-202604231838
+- matched_terms: ai:AI x1
+- significance: 미국-이란 간 긴장과 이스라엘-레바논 회담 준비 소식은 중동 지역의 지속적인 지정학적 불안정성을 반영하며, 이는 글로벌 시장의 불확실성을 가중시키는 요인으로 작용합니다.
+- summary: Gold (XAU/USD) price eases on Thursday as tensions between the US and Iran remain high, while Israel and Lebanon prepare for talks, with both ambassadors in the US set to meet at the White House with
+
+### (97) GBP/JPY Price Forecast: Rejected at 216.00, risks deepen below 215.00
+- score: 3
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 19:37:37 Z
+- url: https://www.fxstreet.com/news/gbp-jpy-price-forecast-rejected-at-21600-risks-deepen-below-21500-202604231937
+- matched_terms: ai:AI x1
+- significance: 중동 발 헤드라인으로 인한 GBP/JPY 환율 하락은 중동 지역의 지정학적 불안정 심화가 글로벌 금융 시장의 위험 회피 심리를 자극하고 있음을 보여준다.
+- summary: GBP/JPY advance stalls around 215.70, then retreats to 215.00 as risk appetite deteriorates amid Middle East headlines, leaving traders uncertain about the conflict's outcome. The cross trades at 215.

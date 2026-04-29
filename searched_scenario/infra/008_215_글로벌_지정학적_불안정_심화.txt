@@ -1,0 +1,152 @@
+# [215] 글로벌 지정학적 불안정 심화
+
+profile: Infrastructure
+label: primary
+score: 72 (metadata=0, nodes=62, repeat=10)
+category: geopolitics
+updated_at: 2026-04-24T08:41:43.522562
+nodes: 102 total / 14 matched
+keywords: 지정학적 리스크, 분쟁, 갈등, 글로벌 안보, 공급망 불안
+
+## Description
+세계 각지의 분쟁과 갈등이 고조되며 글로벌 공급망, 에너지 시장, 금융 시장 전반에 불확실성이 증대하는 시나리오입니다. 이는 국가 간의 경제적, 군사적 대립을 심화시키고 새로운 안보 동맹 형성에 영향을 미칠 수 있습니다.
+
+## Matched Tags
+- energy_facility: 63
+- transport: 18
+- urban: 17
+
+## Matched Terms
+  energy_facility:ESS x6
+  energy_facility:LNG x6
+  transport:도로 x3
+  urban:SOC x3
+  energy_facility:태양광 x2
+
+## Matched News Nodes
+
+### (45) 한국, '호르무즈 해협 대안' 오만과 LNG 공급망 협력 논의
+- score: 16
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 14:04:12 +0900
+- url: https://www.yna.co.kr/view/AKR20260423113300003
+- matched_terms: energy_facility:LNG x3
+- significance: 호르무즈 해협의 지정학적 중요성과 불안정성을 고려할 때, 한국과 오만 간의 LNG 공급망 협력 논의는 글로벌 지정학적 불안정 심화 시나리오에서 에너지 안보 확보를 위한 다각적인 노력의 일환으로 해석될 수 있습니다.
+- summary: (서울=연합뉴스) 김동규 기자 = 정부가 호르무즈 해협 인접 국가인 오만과 액화천연가스(LNG) 등 에너지 공급망 협력을 강화한다.
+
+### (43) 중동전쟁에 LNG·헬륨 부족, 숨통 트이나…한국이 눈돌린 이 나라
+- score: 16
+- source: mk
+- published_at: Thu, 23 Apr 2026 13:27:05 +09:00
+- url: https://www.mk.co.kr/news/world/12025181
+- matched_terms: energy_facility:LNG x3
+- significance: 중동 전쟁으로 인한 LNG와 헬륨 등 핵심 자원의 공급망 불안이 한국의 오만과의 수급 협력으로 이어지는 것은 글로벌 지정학적 불안정 심화 시나리오에서 국가들이 자원 확보를 위해 외교적 노력을 강화하는 흐름을 보여줍니다.
+- summary: 문신학 산업통상부 차관이 오만 측과 만나 액화천연가스(LNG)·헬륨 수급 협력에 대해 논의했다. 문 차관은 23일 웨스턴조선 서울 호텔에서 오만가스공사 대표단 방한을 계기로 하마드..
+
+### (99) 미국, 3개국 태양광 수입품에 반덤핑 관세 부과 - Investing.com 한국어
+- score: 13
+- source: google_kr
+- published_at: Thu, 23 Apr 2026 19:52:00 GMT
+- url: https://news.google.com/rss/articles/CBMicEFVX3lxTFBxUTNCZmY0blVTNU84Ylo2bUcxQXlCbUZQeDVyR0ZyRUQtWk5QcXBmU1VYcVN2Q2RYTlRmYUhPLXN3RjJsUXdDeEF3ZTdXWU4wWnExU1BYUjVKdElfbG1hSUFSWjhvMkNSTkRLT2pSbXA?oc=5
+- matched_terms: energy_facility:태양광 x2
+- significance: 미국이 특정 국가 태양광 수입품에 반덤핑 관세를 부과하는 것은 글로벌 무역 갈등을 심화시키고 공급망 재편을 가속화할 수 있는 지정학적 불안정 요인입니다.
+- summary: <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBxUTNCZmY0blVTNU84Ylo2bUcxQXlCbUZQeDVyR0ZyRUQtWk5QcXBmU1VYcVN2Q2RYTlRmYUhPLXN3RjJsUXdDeEF3ZTdXWU4wWnExU1BYUjVKdElfbG1hSUFSWjhvMkNSTkRLT2pSbX
+
+### (63) AUD: War risks challenge recent strength – Societe Generale
+- score: 10
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 11:51:26 Z
+- url: https://www.fxstreet.com/news/aud-war-risks-challenge-recent-strength-societe-generale-202604231151
+- matched_terms: urban:SOC x2
+- significance: 걸프 지역 봉쇄로 인한 호주 달러의 취약성 증가는 중동 지정학적 리스크가 글로벌 에너지 시장과 환율 변동성을 심화시키며 전 세계 경제에 불확실성을 가중시키는 사례이다.
+- summary: Societe Generale analysts argue that the Australian Dollar’s (AUD) strong year-to-date performance leaves it vulnerable to concerns over imported petroleum dependence during the Gulf blockade.
+
+### (82) US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say
+- score: 7
+- source: bbc
+- published_at: Thu, 23 Apr 2026 15:11:03 GMT
+- url: https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss
+- matched_terms: urban:SOC x1
+- significance: 쿠웨이트에서 이란 전쟁 관련 게시물을 재공유한 기자가 체포되었다는 소식은 중동 지역의 민감한 지정학적 상황과 언론 및 표현의 자유에 대한 통제가 강화되고 있음을 보여주며, 이는 역내 불안정을 심화시킬 수 있는 요인으로 작용한다.
+- summary: Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.
+
+### (77) 트럼프 "기뢰부설선박 격침 명령…합의때까지 호르무즈 철통봉쇄"(종합)
+- score: 6
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 23:07:19 +0900
+- url: https://www.yna.co.kr/view/AKR20260423186251071
+- matched_terms: transport:도로 x1
+- significance: 트럼프의 호르무즈 해협 봉쇄 명령은 중동 지역의 군사적 긴장을 극도로 끌어올려 글로벌 지정학적 불안정 심화 시나리오의 핵심적인 발화점이 될 수 있습니다.
+- summary: (워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 23일(현지시간) 호르무즈 해협에 기뢰를 설치하는 모든 선박을 대상으로 발포해...
+
+### (74) 트럼프 "이란, 미친 상황…호르무즈 기뢰 부설 선박에 발포 명령"
+- score: 6
+- source: asiae
+- published_at: Thu, 23 Apr 2026 22:34:23 +0900
+- url: https://www.asiae.co.kr/article/2026042322342317639
+- matched_terms: transport:도로 x1
+- significance: 트럼프의 호르무즈 해협 기뢰 부설 선박에 대한 발포 명령은 이란과의 군사적 긴장을 극도로 고조시키며 글로벌 지정학적 불안정 심화 시나리오의 확전 가능성을 높인다.
+- summary: 도널드 트럼프 미국 대통령은 23일(현지시간) 호르무즈 해협에 기뢰를 설치하는 모든 선박을 대상으로 발포해 격침하라고 미 해군에 지시했다. 기뢰를 부설하고 선박을 나포하는 이란을 겨냥한 발언으로 해석된다. 트럼프 대통령은 이날 트루스소셜에 "나는 미 해군에 호르무즈 해협 수역에 기뢰를 설치하는 모든 선박에 대해, 그것이 아무리 소형 선박이라 할지라도 사격
+
+### (68) EU, 아이슬란드에 '어업 예외' 카드 검토…회원가입 유인책 부상
+- score: 6
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 16:42:30 +0900
+- url: https://www.yna.co.kr/view/AKR20260423142600009
+- matched_terms: transport:도로 x1
+- significance: EU의 어업 정책 예외 검토는 아이슬란드 가입 유도를 통한 북극 및 대서양 지정학적 영향력 확대 시도로 해석될 수 있으며, 이는 글로벌 지정학적 불안정 심화 시나리오에서 EU의 세력 확장 및 새로운 경제/안보 블록 형성 가능성을 시사한다.
+- summary: (서울=연합뉴스) 김승욱 기자 = 유럽연합(EU)이 아이슬란드의 EU 가입을 유도하기 위해 핵심 쟁점인 어업 정책에 예외를 인정하는 방안을 검토...
+
+### (86) EUR/USD rebounds as USD eases despite strong PMIs, Hormuz tensions in focus
+- score: 3
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 15:32:13 Z
+- url: https://www.fxstreet.com/news/eur-usd-rebounds-as-usd-eases-despite-strong-pmis-hormuz-tensions-in-focus-202604231532
+- matched_terms: energy_facility:ESS x1
+- significance: 호르무즈 해협의 지정학적 긴장 고조는 국제유가와 환율 변동성으로 이어져 글로벌 지정학적 불안정 심화 시나리오의 중요한 변수로 작용합니다.
+- summary: EUR/USD rebounds on Thursday after trading under pressure earlier in the day, as the US Dollar (USD) loses momentum, allowing the Euro (EUR) to recover from intraday lows despite upbeat US Purchasing
+
+### (85) GBP/USD steadies near 1.3500 as Hormuz tensions curb upside
+- score: 3
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 16:06:45 Z
+- url: https://www.fxstreet.com/news/gbp-usd-steadies-near-13500-as-hormuz-tensions-curb-upside-today-202604231606
+- matched_terms: energy_facility:ESS x1
+- significance: 호르무즈 해협 인근에서 미국과 이란의 선박/유조선 나포 행위는 중동 지역의 지정학적 긴장을 고조시키고 글로벌 에너지 공급망에 심각한 불확실성을 가중시키는 사건입니다.
+- summary: GBP/USD steadies at around 1.3500 on Thursday as tensions in the Middle East rise, with the US and Iran escalating the conflict as both began to seize ships or Oil vessels near the Strait of Hormuz. M
+
+### (84) USD/CHF Price Forecast: Rallies capped below 100 and 200-day SMAs
+- score: 3
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 16:30:27 Z
+- url: https://www.fxstreet.com/news/usd-chf-price-forecast-rallies-capped-below-100-and-200-day-smas-202604231630
+- matched_terms: energy_facility:ESS x1
+- significance: 미국과 이란 간의 지속되는 긴장으로 인해 USD/CHF 환율이 불확실한 움직임을 보이는 것은 글로벌 지정학적 불안정 심화 시나리오의 직접적인 경제적 영향을 보여줍니다.
+- summary: USD/CHF trades flat on Thursday, with choppy price action and two-way swings as traders refrain from aggressive directional bets amid cautious market sentiment driven by ongoing US-Iran tensions. At t
+
+### (75) AUD/USD edges lower as US-Iran tensions outweigh support from stronger Australian PMI
+- score: 3
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 13:02:31 Z
+- url: https://www.fxstreet.com/news/aud-usd-edges-lower-as-us-iran-tensions-outweigh-support-from-stronger-australian-pmi-202604231302
+- matched_terms: energy_facility:ESS x1
+- significance: 미국과 이란 간의 긴장 고조는 글로벌 지정학적 불안정을 심화시키며 환율 변동성 등 금융 시장에 직접적인 영향을 미치는 사례입니다.
+- summary: AUD/USD trades around 0.7140 on Thursday, down 0.27% on the day, moving within a tight range as market sentiment remains pressured by geopolitical tensions.
+
+### (26) Iran Again Tightens Its Grip on Shipping in the Strait of Hormuz
+- score: 3
+- source: nyt
+- published_at: Wed, 22 Apr 2026 20:31:43 +0000
+- url: https://www.nytimes.com/2026/04/22/business/strait-of-hormuz-traffic-iran.html
+- matched_terms: energy_facility:ESS x1
+- significance: 호르무즈 해협에서 이란의 선박 공격 재개는 중동 지역의 긴장을 고조시키고 글로벌 해상 물류 및 에너지 공급망의 불안정성을 심화시키는 중요한 사건입니다.
+- summary: Traffic in the strait has all but halted as Iran renews its attacks, striking two vessels on Wednesday. More than 300 ships linked to Iran have passed through the strait since the war began.
+
+### (22) Silver Price Forecast: XAG/USD rebounds as geopolitical tensions keep markets cautious
+- score: 3
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 17:09:25 Z
+- url: https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rebounds-as-geopolitical-tensions-keep-markets-cautious-202604221709
+- matched_terms: energy_facility:ESS x1
+- significance: 지정학적 긴장이 지속되면서 안전자산인 은 가격이 상승하는 현상은 글로벌 지정학적 불안정 심화 시나리오의 직접적인 경제적 파급효과를 보여줍니다.
+- summary: Silver (XAG/USD) advances on Wednesday and trades around $77.70 at the time of writing, up 1.33% on the day. Silver is recovering after recent weakness as investors remain cautious amid persistent geo

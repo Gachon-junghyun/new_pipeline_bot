@@ -1,0 +1,31 @@
+# [199] 韓 금융산업 미래 인재 확보
+
+profile: AI & Semiconductors
+label: primary
+score: 33 (metadata=0, nodes=31, repeat=2)
+category: corporate
+updated_at: 2026-04-22T10:49:57.925670
+nodes: 2 total / 1 matched
+keywords: 금융인재양성, 디지털금융, 미래금융, 하나금융, 산업경쟁력
+
+## Description
+급변하는 금융 환경과 디지털 전환에 대응하여 국내 금융사들이 미래 경쟁력 확보를 위한 인재 양성에 집중하는 시나리오입니다. 이는 금융 기술 발전과 글로벌 경쟁 심화에 따른 전략적 움직임으로, 금융 산업의 구조적 변화를 촉진할 수 있습니다.
+
+## Matched Tags
+- ai: 31
+
+## Matched Terms
+  ai:AI x4
+  ai:생성형 AI x2
+
+## Matched News Nodes
+
+### (2) 삼성SDS, 금융사에 AI 혁신 청사진 제시
+- score: 31
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 10:36:11 +0900
+- url: https://www.yna.co.kr/view/AKR20260422057500017
+- matched_terms: ai:AI x4
+  ai:생성형 AI x2
+- significance: 삼성SDS의 금융권 대상 생성형 AI 세미나는 금융산업의 디지털 전환 가속화와 미래 인재 확보의 중요성을 보여주는 사례로, AI 기술이 금융 산업의 핵심 경쟁력으로 부상하고 있음을 시사한다.
+- summary: (서울=연합뉴스) 오지은 기자 = 삼성SDS는 22일 금융사를 대상으로 '삼성SDS 인더스트리 데이' 세미나를 열고 생성형 AI를 기반으로 한 ...

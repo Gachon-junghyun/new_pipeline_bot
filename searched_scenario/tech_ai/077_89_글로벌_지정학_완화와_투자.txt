@@ -1,0 +1,40 @@
+# [89] 글로벌 지정학 완화와 투자
+
+profile: AI & Semiconductors
+label: secondary
+score: 12 (metadata=0, nodes=8, repeat=4)
+category: geopolitics
+updated_at: 2026-04-21T17:50:02.257318
+nodes: 17 total / 2 matched
+keywords: 지정학적 완화, 종전 기대감, 투자 심리, 미국 증시, 자금 흐름
+
+## Description
+글로벌 지정학적 긴장이 완화될 것이라는 기대감이 형성되며, 이는 금융 시장의 투자 심리 회복과 자금 흐름 변화로 이어질 수 있습니다. 특히 전쟁 종식 기대감은 불확실성을 줄여 투자 회복을 촉진할 수 있습니다.
+
+## Matched Tags
+- semiconductor: 7
+- ai: 1
+
+## Matched Terms
+  ai:AI x1
+  semiconductor:SK하이닉스 x1
+
+## Matched News Nodes
+
+### (1) “다시 서학개미 웃을 차례?”…종전 기대감에 월가 큰손들 줄줄이 美증시 ‘상향 조정’
+- score: 1
+- source: sedaily
+- published_at: Wed, 15 Apr 2026 22:12:29 +0900
+- url: https://www.sedaily.com/article/20033067
+- matched_terms: ai:AI x1
+- significance: 이 뉴스는 특정 지역의 전쟁 종식 기대감이 글로벌 투자 시장에 긍정적인 신호로 작용하기 시작했음을 보여주는 첫 번째 사례입니다.
+- summary: 
+
+### (14) 코스피 6,388선 터치, 역대최고…SK하이닉스 '120만 닉스' 돌파(종합)
+- score: 7
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 16:15:50 +0900
+- url: https://www.yna.co.kr/view/AKR20260421137400008
+- matched_terms: semiconductor:SK하이닉스 x1
+- significance: 미국과 이란의 종전 협상 불확실성에도 코스피가 사상 최고치를 경신하며 국내 증시의 낙관적인 투자 심리를 보여주는 것은 글로벌 지정학적 완화 기대감이 일부 반영되었음을 시사합니다.
+- summary: (서울=연합뉴스) 이민영 기자 = 코스피가 21일 미국과 이란의 종전 협상을 둘러싼 불확실성에도 2% 넘게 올라 사상 최고치를 경신했다.

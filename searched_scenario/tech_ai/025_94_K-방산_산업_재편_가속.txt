@@ -1,0 +1,67 @@
+# [94] K-방산 산업 재편 가속
+
+profile: AI & Semiconductors
+label: primary
+score: 61 (metadata=0, nodes=51, repeat=10)
+category: corporate
+updated_at: 2026-04-23T20:41:35.555017
+nodes: 26 total / 5 matched
+keywords: 방산, 구조조정, M&A, 기업전략, 지정학
+
+## Description
+글로벌 방산 시장 확대와 지정학적 불안정 심화에 따라 한국 방위산업의 경쟁력 강화를 위한 기업 구조조정 및 투자 확대가 가속화되고 있습니다. 이는 한국 방산 기업들의 몸집을 키우고 효율성을 높여 국제 무대에서의 입지를 강화하려는 전략적 움직임으로 해석됩니다.
+
+## Matched Tags
+- ai: 38
+- platform: 13
+
+## Matched Terms
+  ai:AI x8
+  platform:플랫폼 x2
+
+## Matched News Nodes
+
+### (6) KAI, 상생업체 지원 강화…협력기금·공동근로복지기금 확대
+- score: 16
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 13:15:38 +0900
+- url: https://www.yna.co.kr/view/AKR20260421092200003
+- matched_terms: ai:AI x3
+- significance: KAI의 상생업체 지원 강화는 K-방산 산업의 경쟁력 강화 및 생태계 발전을 위한 기업 전략의 일환으로 해석될 수 있습니다.
+- summary: (서울=연합뉴스) 임성호 기자 = 한국항공우주산업(KAI)은 지난 20일 경남 사천 본사에서 상생업체 경영설명회를 열고 업체 지원 확대 전략을 ...
+
+### (15) LIG D&A, 남아공 밀코르와 무인항공체계 플랫폼 통합 맞손
+- score: 13
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 10:07:17 +0900
+- url: https://www.yna.co.kr/view/AKR20260422049300003
+- matched_terms: platform:플랫폼 x2
+- significance: LIG D&A가 남아공 밀코르와 무인항공체계 플랫폼 통합을 추진하는 것은 K-방산 기업의 글로벌 협력 및 기술 고도화를 통한 경쟁력 강화의 일환으로, 시나리오의 흐름을 가속화하는 사례입니다.
+- summary: (서울=연합뉴스) 김보경 기자 = LIG 디펜스&amp;에어로스페이스(LIG D&amp;A)는 남아프리카공화국 방위산업체 밀코르와 손잡고 무인항...
+
+### (17) KAI, 헬기 동력전달장치 국내 조립·시운전 성공
+- score: 14
+- source: sedaily
+- published_at: Wed, 22 Apr 2026 13:46:43 +0900
+- url: https://www.sedaily.com/article/20035666
+- matched_terms: ai:AI x3
+- significance: KAI의 헬기 동력전달장치 국내 조립·시운전 성공은 K-방산 기업의 핵심 부품 국산화 및 기술 자립도를 높여, 글로벌 방산 시장에서의 경쟁력 강화와 산업 재편 가속화에 기여할 것으로 예상된다.
+- summary: 
+
+### (19) Boeing’s defense business is booming at a time when airplanes are disappointing
+- score: 7
+- source: marketwatch
+- published_at: Wed, 22 Apr 2026 14:00:00 GMT
+- url: https://www.marketwatch.com/story/boeings-defense-business-is-booming-at-a-time-when-airplanes-are-disappointing-1a5ff1ac?mod=mw_rss_topstories
+- matched_terms: ai:AI x1
+- significance: 보잉의 방산 사업 성장은 글로벌 지정학적 불안정 심화에 따른 방산 시장 확대의 전형적인 사례로, 이는 K-방산 산업 재편 가속 시나리오에서 글로벌 방산 수요 증가가 국내 방산 기업에 미칠 긍정적 영향과 맥을 같이 한다.
+- summary: Boeing’s stock jumped Wednesday, as a partnership with the Trump administration on PAC-3 interceptor missiles provided a boost to the company’s defense business, which saw revenue rise well above expe
+
+### (20) 한화, 美 최대 방산전시회 출전…노스롭그루먼·레이도스 깁스앤콕스와 협력[biz-플러스]
+- score: 1
+- source: sedaily
+- published_at: Thu, 23 Apr 2026 05:30:05 +0900
+- url: https://www.sedaily.com/article/20035948
+- matched_terms: ai:AI x1
+- significance: 한화가 미국 최대 방산 전시회에 참가하고 노스롭그루먼 등 주요 기업과 협력하는 것은 글로벌 방산 시장 확대를 위한 한국 방위산업의 전략적 움직임을 보여주는 중요한 사례입니다.
+- summary:

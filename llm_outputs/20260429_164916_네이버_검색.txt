@@ -1,0 +1,56 @@
+# LLM News Search Report
+
+- query: 네이버 검색
+- generated_at: 2026-04-29T16:49:16
+- source_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/news_alert.db
+- scenario_db: /Users/hanjeonghyeon/Desktop/telegram_bot/new_pipeline_bot/scenario.db
+- date_filter: 최근 30일 (2026-03-30 이후)
+- local_results: 5
+- scenario_results: 1
+- naver_results: 0
+
+## Local DB
+
+### 1. 네이버 검색 70% 찍었다…AI에도 점유율 '반등'
+- date: 2026-04-16T07:31:53.494102
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260415165600017
+
+### 2. 네이버 AI 검색 '클로바X' 2년8개월만에 종료…"AI탭 중심 재편"
+- date: 2026-04-09T18:11:17.019302
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260409161000017
+
+### 3. 네이버 ‘연관 검색어’ 사라진다, 19년만에 종료… “AI 검색 강화”
+- date: 2026-04-08T05:11:15.105703
+- source: donga
+- url: https://www.donga.com/news/Society/article/all/20260408/133694769/2
+
+### 4. 네이버, ‘가이드라인’ 역할 연관검색어 서비스 이달말 종료
+- date: 2026-04-07T22:00:24.512600
+- source: donga
+- url: https://www.donga.com/news/Economy/article/all/20260407/133692088/1
+
+### 5. 네이버 '연관 검색어' 서비스 20여년만에 종료
+- date: 2026-04-07T18:11:15.454049
+- source: yonhap
+- url: https://www.yna.co.kr/view/AKR20260407142400017
+
+## Scenario DB / TXT
+
+### 1. (27) 네이버 검색 70% 찍었다…AI에도 점유율 '반등'
+- scenario: # [3] 글로벌 AI 반도체 경쟁 심화
+- file: scenario.db
+- score: db
+- category: tech
+- keywords: ["AI", "반도체", "메모리반도체", "HBM", "AI반도체 투자"]
+- node_id: 706
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 06:33:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260415165600017
+- significance: 네이버의 국내 검색 시장 점유율 반등은 AI 기술 활용을 통한 서비스 경쟁력 강화의 결과로 해석될 수 있으며, 이는 AI 기술 투자가 기업의 시장 지배력에 미치는 영향력을 보여준다.
+- summary: (서울=연합뉴스) 한상용 기자 = 네이버 검색 점유율이 올해 들어서 60%를 계속 넘어서며 국내 검색 시장에서 강세를 이어가고 있다.
+
+## Naver News
+
+(no results)

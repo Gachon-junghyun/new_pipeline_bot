@@ -1,0 +1,112 @@
+# [109] 노동시장 유연성 논쟁
+
+profile: AI & Semiconductors
+label: primary
+score: 89 (metadata=0, nodes=79, repeat=10)
+category: macro
+updated_at: 2026-04-24T07:41:28.414069
+nodes: 41 total / 10 matched
+keywords: 노동시장, 유연성, 노동절, 대체휴일, 노동자 권익
+
+## Description
+글로벌 경기 둔화와 인플레이션 압력 속에서 각국 정부는 노동 시장의 유연성 확보와 노동자 권익 보호 사이에서 균형점을 찾으려 한다. 이는 기업의 생산성, 투자 유치, 그리고 사회적 갈등에 중대한 영향을 미치며, 향후 정책 방향에 따라 경제 전반의 활력이 결정될 수 있다.
+
+## Matched Tags
+- semiconductor: 88
+- platform: 27
+
+## Matched Terms
+  semiconductor:삼성전자 x18
+  platform:플랫폼 x5
+
+## Matched News Nodes
+
+### (3) 대리기사·학습지교사 "근로기준법 사각지대"…법 개정 촉구
+- score: 9
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 12:04:52 +0900
+- url: https://www.yna.co.kr/view/AKR20260421093300004
+- matched_terms: platform:플랫폼 x2
+- significance: 특수고용·플랫폼 노동자들의 근로기준법 적용 요구는 노동 시장의 유연성 확보와 노동자 권익 보호 사이에서 균형점을 찾으려는 현재의 노동시장 유연성 논쟁을 심화시키는 핵심적인 사례입니다.
+- summary: (서울=연합뉴스) 박수현 기자 = 대리기사, 학습지 교사, 보험설계사 등 특수고용·플랫폼 노동자들이 근로기준법의 사각지대에 놓여있다며 법 개정을...
+
+### (15) 배달-택배기사 최저임금 적용될까… 논의 시작
+- score: 6
+- source: donga
+- published_at: Wed, 22 Apr 2026 04:30:00 +0900
+- url: https://www.donga.com/news/Society/article/all/20260422/133786039/2
+- matched_terms: platform:플랫폼 x1
+- significance: 최저임금위원회의 파행은 노동시장의 유연성 확보와 노동자 권익 보호 사이의 갈등이 심화되고 있음을 보여주며, 특히 플랫폼 노동자 최저임금 적용 논의는 노동시장 유연성 논쟁의 새로운 쟁점으로 부상할 가능성이 있습니다.
+- summary: 내년도 최저임금을 결정하는 최저임금위원회가 첫 회의부터 파행했다. 전국민주노동조합총연맹(민노총)이 신임 위원장 선출에 반발하며 중도 퇴장했기 때문이다.
+
+### (18) 강은미 정의당 예비후보, CU 사망사고 규탄…직접교섭 촉구
+- score: 6
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 11:36:07 +0900
+- url: https://www.yna.co.kr/view/AKR20260422081100054
+- matched_terms: platform:플랫폼 x1
+- significance: CU 물류센터 노동자 사망사고는 플랫폼 노동자의 안전 문제와 원청의 책임 범위를 둘러싼 사회적 논쟁을 촉발하며, 노동시장 유연성 속에서 노동자 권익 보호의 중요성을 부각시킨다.
+- summary: (광주=연합뉴스) 박철홍 기자 = 강은미 정의당 전남광주통합특별시장 예비후보는 22일 CU 물류센터 노동자 사망 사고와 관련해 고용노동부와 원청...
+
+### (26) 삼성전자 노조, 평택사업장서 투쟁결의대회…3만여명 참여
+- score: 19
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 13:00:00 +0900
+- url: https://www.yna.co.kr/view/AKR20260423098200061
+- matched_terms: semiconductor:삼성전자 x4
+- significance: 삼성전자 노조의 대규모 투쟁결의대회는 국내 최대 기업 중 하나의 노동 이슈가 부상하며 한국 노동시장의 유연성 및 노사 관계 변화의 흐름을 보여주는 중요한 사례이다.
+- summary: (평택=연합뉴스) 김광호 기자 = 삼성전자 첫 과반노조 지위를 확보한 '삼성전자 초기업노조'는 23일 오후 성과급 상한제 폐지 등을 요구하며 삼...
+
+### (27) 삼성전자 노조 4만명 집회…"영업이익 15% 성과급 달라"(종합)
+- score: 19
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 15:24:51 +0900
+- url: https://www.yna.co.kr/view/AKR20260423098251061
+- matched_terms: semiconductor:삼성전자 x4
+- significance: 삼성전자 노조의 성과급 상한제 폐지 요구는 글로벌 경기 둔화와 인플레이션 압력 속에서 기업의 인건비 부담과 노동자 권익 보호 사이의 균형점을 찾는 노동시장 유연성 논쟁을 심화시키는 사례입니다.
+- summary: (평택=연합뉴스) 김광호 기자 = 삼성전자 첫 과반노조 지위를 확보한 '삼성전자 초기업노조'는 23일 오후 성과급 상한제 폐지 등을 요구하며 삼...
+
+### (29) "현대판 노예제"…프랑스서 배달앱 상대 형사 고발
+- score: 6
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 18:13:45 +0900
+- url: https://www.yna.co.kr/view/AKR20260423171100081
+- matched_terms: platform:플랫폼 x1
+- significance: 이번 배달앱에 대한 형사 고발은 플랫폼 노동자의 권익 보호와 노동 시장의 유연성 확보 사이에서 발생하는 사회적, 법적 갈등을 심화시키는 사례로, 해당 시나리오의 중요성을 부각합니다.
+- summary: (파리=연합뉴스) 송진원 특파원 = 배달 노동자 착취 논란과 관련해 프랑스에서 우버이츠와 딜리버루를 상대로 한 형사 고발이 제기됐다.
+
+### (31) [영상] '총파업 카드' 꺼내든 삼성전자 노조…투쟁 결의대회 4만명 운집
+- score: 16
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 18:10:32 +0900
+- url: https://www.yna.co.kr/view/AKR20260423171300704
+- matched_terms: semiconductor:삼성전자 x3
+- significance: 삼성전자 노조의 총파업 예고는 글로벌 경기 둔화와 인플레이션 압력 속에서 노동자 권익 보호와 노동 시장 유연성 확보라는 거시경제적 논쟁이 국내 핵심 산업까지 확산되고 있음을 보여줍니다.
+- summary: (서울=연합뉴스) 삼성전자 노조가 다음 달 총파업을 예고하고 4만명에 가까운 조합원이 세를 과시하면서 창사 이후 2번째 총파업이 현실화할 수 있...
+
+### (34) [포토] 삼성전자 노조, 결의대회…"성과급 상한제 폐지하라"
+- score: 13
+- source: hankyung
+- published_at: Thu, 23 Apr 2026 18:44:08 +0900
+- url: https://www.hankyung.com/article/202604232857i
+- matched_terms: semiconductor:삼성전자 x2
+- significance: 삼성전자 노조의 성과급 상한제 폐지 요구는 기업의 보상 체계와 노동자의 권익 사이의 갈등을 보여주며, 이는 전반적인 노동시장 유연성 및 보상 정책 논쟁의 흐름에 부합한다.
+- summary: 
+
+### (36) 김용범 "'삼성 파업 가능성'에 슬기롭게 대화 통해 해결되길"
+- score: 9
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 22:14:14 +0900
+- url: https://www.yna.co.kr/view/AKR20260423185400001
+- matched_terms: semiconductor:삼성전자 x2
+- significance: 삼성전자 노조의 파업 가능성은 한국의 대표적인 대기업에서 발생할 수 있는 주요 노동 쟁의 사례로서, 노동 시장의 유연성과 노동자 권익 보호 사이의 균형점을 모색하는 '노동시장 유연성 논쟁' 시나리오에 직접적인 영향을 미칩니다.
+- summary: (하노이=연합뉴스) 임형섭 황윤기 기자 = 김용범 청와대 정책실장은 23일(현지시간) 삼성전자 노동조합의 파업 가능성에 대해 "슬기롭게 대화를 ...
+
+### (39) '삼성 파업 가능성'에 김용범 "슬기롭게 대화 통해 해결되길"
+- score: 12
+- source: asiae
+- published_at: Thu, 23 Apr 2026 23:09:42 +0900
+- url: https://www.asiae.co.kr/article/2026042323094158100
+- matched_terms: semiconductor:삼성전자 x3
+- significance: 삼성전자 노조의 파업 가능성은 한국의 대표 기업에서 노동자 권익과 기업 생산성 사이의 균형점을 모색하는 노동시장 유연성 논쟁 시나리오의 중요한 사례가 될 것입니다.
+- summary: 김용범 청와대 정책실장이 23일(현지시간) 삼성전자 노동조합의 파업 가능성과 관련해 "슬기롭게 대화를 통해 잘 해결되기를 바란다"고 밝혔다. 김 실장은 베트남 하노이 프레스센터에서 이 대통령 국빈 방문 관련 브리핑에서 '삼성전자 파업 시 정부가 중재에 나설 수 있느냐'는 질문에 이같이 답변했다. 그러면서 김 실장은 "아직은 특별히 문제로 인식하고 있지 않다

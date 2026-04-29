@@ -1,0 +1,29 @@
+# [276] 글로벌 공중보건 규제 강화
+
+profile: Infrastructure
+label: secondary
+score: 12 (metadata=0, nodes=10, repeat=2)
+category: other
+updated_at: 2026-04-24T11:41:54.235536
+nodes: 7 total / 1 matched
+keywords: 전자담배 규제, 금연 정책, 공중보건, 담배 산업, 웰빙 트렌드
+
+## Description
+흡연, 음주 등 공중보건 위협 요인에 대한 각국 정부의 규제 및 통제가 강화되는 추세입니다. 이는 관련 산업의 성장 제약과 새로운 시장 기회 창출로 이어지며, 전 세계인의 건강 증진과 라이프스타일 변화에 영향을 미칠 것입니다.
+
+## Matched Tags
+- energy_facility: 10
+
+## Matched Terms
+  energy_facility:ESS x2
+
+## Matched News Nodes
+
+### (4) Trump administration reclassifies cannabis as less dangerous
+- score: 10
+- source: bbc
+- published_at: Thu, 23 Apr 2026 13:32:04 GMT
+- url: https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss
+- matched_terms: energy_facility:ESS x2
+- significance: 트럼프 행정부의 의료용 대마초 재분류는 공중 보건 규제 완화 및 관련 산업 성장을 촉진할 수 있는 중요한 정책 변화를 의미한다.
+- summary: Medical marijuana was moved into a lower category of drugs in order to increase research and access.

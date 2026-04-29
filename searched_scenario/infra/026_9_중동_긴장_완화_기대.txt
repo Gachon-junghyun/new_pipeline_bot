@@ -1,0 +1,76 @@
+# [9] 중동 긴장 완화 기대
+
+profile: Infrastructure
+label: primary
+score: 32 (metadata=0, nodes=22, repeat=10)
+category: geopolitics
+updated_at: 2026-04-23T13:41:56.548482
+nodes: 144 total / 6 matched
+keywords: 미국-이란, 핵협상, 중동정세, 유가안정, 지정학적 리스크
+
+## Description
+미국과 이란 간의 2차 협상 논의는 중동 지역의 지정학적 긴장을 완화하고 에너지 시장의 불확실성을 줄이는 중요한 신호입니다. 이는 국제 유가 안정화와 글로벌 공급망 리스크 감소로 이어질 수 있습니다.
+
+## Matched Tags
+- energy_facility: 19
+- transport: 6
+
+## Matched Terms
+  energy_facility:ESS x5
+  transport:도로 x1
+
+## Matched News Nodes
+
+### (96) Trump says Iran deal possible but keeps military pressure
+- score: 7
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 13:26:58 Z
+- url: https://www.fxstreet.com/news/trump-says-iran-deal-possible-but-keeps-military-pressure-202604211326
+- matched_terms: energy_facility:ESS x1
+- significance: 트럼프의 이란 협상 가능성 언급은 중동 지역의 지정학적 긴장을 완화하고 에너지 시장의 불확실성을 줄일 수 있는 긍정적인 신호로 해석될 수 있습니다.
+- summary: Geopolitical tensions remain in focus for markets following the latest remarks by US President Donald Trump during an interview with CNBC.
+
+### (97) 트럼프 "결국 훌륭한 합의 할 것"이라면서 "이란이 휴전 다수 위반" 압박
+- score: 6
+- source: hankyung
+- published_at: Wed, 22 Apr 2026 00:35:56 +0900
+- url: https://www.hankyung.com/article/202604227213i
+- matched_terms: transport:도로 x1
+- significance: 트럼프 전 대통령의 이란과의 '훌륭한 합의' 언급은 중동 긴장 완화를 위한 외교적 제스처의 가능성을 열면서도, 동시에 이란의 휴전 위반을 지적하며 협상의 주도권을 잡으려는 시도로 해석될 수 있다.
+- summary: 
+
+### (136) Dow Jones Industrial Average futures rebound from Hormuz selloff amid ceasefire
+- score: 3
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 16:02:57 Z
+- url: https://www.fxstreet.com/news/dow-jones-industrial-average-futures-rebound-from-hormuz-selloff-amid-ceasefire-202604221602
+- matched_terms: energy_facility:ESS x1
+- significance: 호르무즈 해협 관련 셀오프에서 DJIA 선물 지수가 회복된 것은 중동 지역의 지정학적 긴장 완화 기대감이 시장에 반영되고 있음을 보여줍니다.
+- summary: DJIA futures turned higher during the Wednesday US session, with the contract recovering from an overnight low below 49,100 to trade back near 49,500 as risk appetite rebuilt.
+
+### (134) GBP/USD steadies as Iran deadlock keeps Dollar bid in check
+- score: 3
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 15:04:52 Z
+- url: https://www.fxstreet.com/news/gbp-usd-steadies-as-iran-deadlock-keeps-dollar-bid-in-check-202604221504
+- matched_terms: energy_facility:ESS x1
+- significance: 미국과 이란 간 협상 교착 상태가 지속되면서 중동 긴장 완화 기대감이 약화되고 글로벌 금융 시장의 불확실성이 유지될 수 있습니다.
+- summary: GBP/USD holds steady on Wednesday as geopolitical tensions remain high amid the lack of progress toward resuming negotiations between the US and Iran. An absent economic schedule in the US, keeps trad
+
+### (95) Oil: Market optimism underprices supply risks – ING
+- score: 3
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 13:34:13 Z
+- url: https://www.fxstreet.com/news/oil-market-optimism-underprices-supply-risks-ing-202604211334
+- matched_terms: energy_facility:ESS x1
+- significance: 미국-이란 평화 협상 진전 기대는 중동의 지정학적 긴장을 완화하여 유가 안정에 긍정적 영향을 미칠 수 있으나, 호르무즈 해협의 공급망 불안정은 유가 상승 압력을 유지시키는 복합적인 상황을 암시합니다.
+- summary: ING analysts Warren Patterson and Ewa Manthey say Oil is trading on hopes of progress in US–Iran peace talks, while ongoing disruptions through the Strait of Hormuz keep supply risks elevated.
+
+### (86) Gold slips as markets await clarity on US-Iran talks
+- score: 3
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 12:11:54 Z
+- url: https://www.fxstreet.com/news/gold-slips-as-markets-await-clarity-on-us-iran-talks-202604211211
+- matched_terms: energy_facility:ESS x1
+- significance: 미국-이란 평화 회담의 불확실성은 중동 지역의 지정학적 긴장 완화 기대감을 보류시키고, 국제 금 가격의 방향성 부재로 이어진다.
+- summary: Gold (XAU/USD) trades with a mild negative bias on Tuesday but lacks strong directional momentum, as investors hold back from aggressive positioning amid uncertainty over whether US-Iran peace talks w

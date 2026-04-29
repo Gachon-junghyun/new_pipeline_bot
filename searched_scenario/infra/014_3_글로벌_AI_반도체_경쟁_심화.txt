@@ -1,0 +1,52 @@
+# [3] 글로벌 AI 반도체 경쟁 심화
+
+profile: Infrastructure
+label: primary
+score: 56 (metadata=0, nodes=50, repeat=6)
+category: tech
+updated_at: 2026-04-21T13:50:22.427486
+nodes: 29 total / 3 matched
+keywords: AI, 반도체, 메모리반도체, HBM, AI반도체 투자
+
+## Description
+AI 기술 발전이 가속화되면서 이를 뒷받침하는 고성능 메모리 반도체 수요가 폭증하고 있습니다. 이는 전 세계 반도체 기업들의 투자 경쟁을 촉발하고, 글로벌 공급망 재편 및 기술 주도권 확보를 위한 각축전으로 이어질 수 있습니다.
+
+## Matched Tags
+- digital: 35
+- urban: 9
+- transport: 6
+
+## Matched Terms
+  digital:데이터센터 x6
+  urban:SOC x2
+  transport:도로 x1
+
+## Matched News Nodes
+
+### (10) 엘리스그룹, '이동형 데이터센터'로 AI GPU 수요 공략
+- score: 25
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 12:05:18 +0900
+- url: https://www.yna.co.kr/view/AKR20260415094800017
+- matched_terms: digital:데이터센터 x3
+  transport:도로 x1
+- significance: 엘리스그룹의 이동형 데이터센터 개발은 AI GPU 수요 폭증에 대응하여 데이터센터 인프라의 유연성과 확장성을 확보하려는 시도로, 글로벌 AI 반도체 시장의 새로운 경쟁 양상을 보여줍니다.
+- summary: (서울=연합뉴스) 권하영 기자 = 엘리스그룹이 인공지능(AI) 핵심 자원인 그래픽처리장치(GPU) 수요 확대 흐름을 겨냥해 '이동형 모듈러 데이...
+
+### (20) 오픈AI, 노르웨이 '스타게이트' 데이터센터도 포기…MS가 접수
+- score: 16
+- source: yonhap
+- published_at: Thu, 16 Apr 2026 02:25:52 +0900
+- url: https://www.yna.co.kr/view/AKR20260416003200091
+- matched_terms: digital:데이터센터 x3
+- significance: 오픈AI의 데이터센터 사업 철수는 AI 인프라 구축의 난이도와 불확실성을 보여주며, AI 반도체 및 관련 인프라 경쟁의 복잡성을 가중시키는 요인으로 작용합니다.
+- summary: (샌프란시스코=연합뉴스) 권영전 특파원 = 오픈AI가 미국 텍사스·영국에 이어 노르웨이에서 추진하던 '스타게이트' 데이터센터 사업에서도 발을 뺐...
+
+### (14) 아이티센피엔에스 "코아솔 주식 80억원어치 취득…지분율 21%"
+- score: 9
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 20:01:22 +0900
+- url: https://www.yna.co.kr/view/AKR20260415173800008
+- matched_terms: urban:SOC x2
+- significance: 아이티센피엔에스의 SoC 메모리 IP 설계업체 코아솔 지분 취득은 AI 반도체 시장 성장에 발맞춰 시스템 반도체 설계 역량을 강화하려는 전략적 움직임으로, 국내 기업들의 AI 반도체 관련 투자 및 경쟁 심화 흐름을 보여줍니다.
+- summary: (서울=연합뉴스) 코스닥 상장사 아이티센피엔에스[232830]는 SoC(SYSTEM on CHIP)용 MEMORY IP 설계 및 판매업 업체 코...

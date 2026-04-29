@@ -1,0 +1,20 @@
+# [13] 민간 우주 경쟁 심화
+
+profile: Infrastructure
+label: secondary
+score: 13 (metadata=13, nodes=0, repeat=0)
+category: tech
+updated_at: 2026-04-15T12:32:41.607005
+nodes: 5 total / 0 matched
+keywords: 저궤도 위성 통신, 우주 상업화, 스타링크, 아마존 카이퍼, 글로벌 통신망
+
+## Description
+스페이스X의 스타링크 성공 이후 민간 기업들의 저궤도 위성 통신 시장 진출이 가속화되며, 우주 인프라 구축 및 상업화 경쟁이 심화되는 시나리오입니다. 이는 글로벌 통신망, 국방, 그리고 미래 산업 전반에 막대한 영향을 미칠 것입니다.
+
+## Matched Tags
+- digital: 13
+
+## Matched Terms
+  digital:통신망 x2
+
+## Matched News Nodes

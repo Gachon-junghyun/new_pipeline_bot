@@ -1,0 +1,29 @@
+# [231] 해상물류 디지털 전환 가속
+
+profile: Infrastructure
+label: primary
+score: 40 (metadata=13, nodes=25, repeat=2)
+category: trade
+updated_at: 2026-04-22T14:50:23.932194
+nodes: 1 total / 1 matched
+keywords: 해상물류, 스마트 항만, 디지털 전환, 공급망 효율화, 탄소 중립
+
+## Description
+글로벌 해상 물류는 팬데믹 이후 공급망 불안정과 탄소 규제 강화로 효율성 및 지속가능성 압박을 받고 있습니다. AI, IoT 등 디지털 기술 도입을 통해 항만 운영 효율성을 극대화하고, 새로운 국제 표준 및 경쟁 구도를 형성하며 전개될 것입니다.
+
+## Matched Tags
+- transport: 38
+
+## Matched Terms
+  transport:항만 x7
+
+## Matched News Nodes
+
+### (1) 부산항만공사, 24일까지 한·영 공동연구 성과 워크숍
+- score: 25
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 14:27:10 +0900
+- url: https://www.yna.co.kr/view/AKR20260422106400051
+- matched_terms: transport:항만 x5
+- significance: 이 뉴스는 한국과 영국 간의 항만 운영 효율화 공동 연구를 통해 글로벌 해상 물류의 디지털 전환 및 스마트 항만 기술 표준화 경쟁의 서막을 알리는 사건입니다.
+- summary: (부산=연합뉴스) 김상현 기자 = 부산항만공사(BPA)는 오는 24일까지 부산항 등 주요 현장에서 선박과 항만의 운영 효율 향상을 위한 한국·영...

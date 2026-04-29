@@ -1,0 +1,29 @@
+# [16] 글로벌 항공 수요 회복
+
+profile: AI & Semiconductors
+label: secondary
+score: 12 (metadata=0, nodes=10, repeat=2)
+category: macro
+updated_at: 2026-04-15T13:32:29.795373
+nodes: 8 total / 1 matched
+keywords: 항공산업, 국제선 재개, 여행 수요, 관광 활성화, 글로벌 이동성
+
+## Description
+코로나19 팬데믹 이후 억눌렸던 국제 여객 수요가 점진적으로 회복되며 항공 산업 전반의 활성화와 여행 및 관광 산업 성장을 견인하고 있습니다. 이는 글로벌 경제 활동 재개와 맞물려 중요한 거시경제적 테마로 부상하고 있습니다.
+
+## Matched Tags
+- ai: 10
+
+## Matched Terms
+  ai:AI x2
+
+## Matched News Nodes
+
+### (2) 5 things to know about a potential merger of United and American airlines
+- score: 10
+- source: marketwatch
+- published_at: Tue, 14 Apr 2026 18:12:00 GMT
+- url: https://www.marketwatch.com/story/5-things-to-know-about-a-potential-merger-of-airlines-united-and-american-b140c0ed?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+- significance: 미국 항공사들의 대형 M&A 논의는 글로벌 항공 수요 회복기에 나타날 수 있는 산업 재편 움직임 중 하나로, 규제 당국의 입장과 시장 경쟁 환경에 중대한 영향을 미칠 수 있습니다.
+- summary: Even in a White House viewed as business friendly, a United and American combo would be bound to raise some serious concerns.

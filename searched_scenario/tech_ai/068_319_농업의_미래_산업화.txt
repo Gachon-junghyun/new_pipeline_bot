@@ -1,0 +1,29 @@
+# [319] 농업의 미래 산업화
+
+profile: AI & Semiconductors
+label: secondary
+score: 15 (metadata=0, nodes=13, repeat=2)
+category: macro
+updated_at: 2026-04-24T17:42:19.618302
+nodes: 8 total / 1 matched
+keywords: 스마트팜, 청년농업인, 귀농귀촌, 농업혁신, 식량안보
+
+## Description
+고령화 및 인구 감소로 위기에 처한 농업이 스마트 기술, 친환경 농법, 청년 농업인 유입을 통해 고부가가치 미래 산업으로 변화하는 흐름을 추적합니다. 이는 식량 안보 강화 및 지역 경제 활성화에 기여할 수 있습니다.
+
+## Matched Tags
+- ai: 13
+
+## Matched Terms
+  ai:AI x2
+
+## Matched News Nodes
+
+### (4) 알싸한 쑥 향수에 마음도 차분…AI기술 탑재한 자율트랙터 눈길
+- score: 13
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 14:27:24 +0900
+- url: https://www.yna.co.kr/view/AKR20260424082600371
+- matched_terms: ai:AI x2
+- significance: AI 기술이 탑재된 자율트랙터의 등장은 농업 분야의 스마트 기술 도입 가속화를 보여주며, 농업의 고부가가치 미래 산업 전환 시나리오를 강화합니다.
+- summary: (수원=연합뉴스) 이상서 기자 = 26일 경기 수원시 영통구 수원컨벤션센터에서 열린 'Y-팜 엑스포 2026' 박람회장 입구에는 알싸한 쑥 향수...

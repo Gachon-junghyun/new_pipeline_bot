@@ -1,0 +1,40 @@
+# [139] 빅테크 AI 전환 경쟁
+
+profile: Infrastructure
+label: secondary
+score: 20 (metadata=0, nodes=16, repeat=4)
+category: tech
+updated_at: 2026-04-24T17:42:00.968295
+nodes: 81 total / 2 matched
+keywords: AI 전환, 빅테크 전략, 애플, 리더십 교체, 하드웨어 AI
+
+## Description
+글로벌 빅테크 기업들이 AI 시대를 맞아 리더십 교체 및 대규모 투자를 통해 핵심 사업 모델을 재편하고 있습니다. 이는 미래 기술 패권과 산업 지형을 결정할 중요한 전환점이 될 것입니다.
+
+## Matched Tags
+- digital: 13
+- energy_facility: 3
+
+## Matched Terms
+  digital:데이터센터 x2
+  energy_facility:ESS x1
+
+## Matched News Nodes
+
+### (27) [경제 단신] LG전자, AI 데이터센터 HVAC 확대 외 - v.daum.net
+- score: 13
+- source: google_kr
+- published_at: Tue, 21 Apr 2026 20:03:37 GMT
+- url: https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2SzR2U1owektwNjYxaDA1aTQ1U2xLSVhEVGhkR09MQkNPUWp1T2dGMVc4OC0tb3lRbmh4WWVfSjk1RnRKSFhrTjlyR0FBOU0?oc=5
+- matched_terms: digital:데이터센터 x2
+- significance: LG전자의 AI 데이터센터 HVAC 사업 확대는 AI 시대에 발맞춰 기업들이 핵심 사업 모델을 재편하고 새로운 시장 기회를 포착하려는 전략적 움직임의 일환으로 볼 수 있습니다.
+- summary: [경제 단신] LG전자, AI 데이터
+
+### (72) Microsoft Targets About 7% of Its U.S. Workers With Buyout Offer
+- score: 3
+- source: nyt
+- published_at: Thu, 23 Apr 2026 20:28:37 +0000
+- url: https://www.nytimes.com/2026/04/23/business/microsoft-layoffs-artificial-intelligence.html
+- matched_terms: energy_facility:ESS x1
+- significance: 마이크로소프트의 대규모 구조조정은 AI 투자 가속화를 위한 비용 효율화 및 인력 재배치의 일환으로, 빅테크 기업들의 AI 전환 경쟁이 심화되는 흐름을 보여준다.
+- summary: The tech giant is offering long-serving employees early retirements as it continues to invest aggressively in artificial intelligence.

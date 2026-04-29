@@ -1,0 +1,110 @@
+# [99] 중동 확전 리스크 고조
+
+profile: AI & Semiconductors
+label: primary
+score: 46 (metadata=0, nodes=36, repeat=10)
+category: geopolitics
+updated_at: 2026-04-24T16:41:40.977376
+nodes: 135 total / 10 matched
+keywords: 이스라엘-하마스, 팔레스타인, 중동 분쟁, 확전, 인도주의 위기
+
+## Description
+이스라엘-하마스 분쟁이 장기화되고 역내 갈등이 격화되면서 중동 전체의 불안정성이 증대되고 있습니다. 팔레스타인 수감자 처우 문제는 분쟁의 인도적 측면을 부각시키며 국제사회의 개입 압력을 높이고, 이는 기존 역내 질서와 강대국들의 이해관계에 중대한 영향을 미칠 수 있습니다.
+
+## Matched Tags
+- ai: 52
+
+## Matched Terms
+  ai:AI x14
+
+## Matched News Nodes
+
+### (8) Frank Gardner: What is China's role in the Iran war?
+- score: 3
+- source: bbc
+- published_at: Wed, 15 Apr 2026 18:54:06 GMT
+- url: https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x1
+- significance: 중국의 이란 개입 가능성에 대한 논의는 중동 분쟁의 지정학적 복잡성을 심화시키고 확전 리스크를 가중시키는 중요한 요소입니다.
+- summary: BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.
+
+### (34) Halliburton’s earnings take a hit from the Iran conflict, but they still top forecasts
+- score: 3
+- source: marketwatch
+- published_at: Tue, 21 Apr 2026 12:02:00 GMT
+- url: https://www.marketwatch.com/story/halliburtons-earnings-take-a-hit-from-the-iran-conflict-but-they-still-top-forecasts-acca3198?mod=mw_rss_topstories
+- matched_terms: ai:AI x1
+- significance: Halliburton의 실적에 중동 분쟁이 부정적인 영향을 미쳤다는 것은 중동 지역의 지정학적 불안정이 실제 기업 활동과 글로벌 경제에 미치는 파급 효과를 보여주는 중요한 지표입니다.
+- summary: Halliburton’s stock gains after profit more than doubled and beat expectations, even as the Middle East conflict took a bite out of the oil-services giant’s results.
+
+### (44) Iran sees mass redundancies from war with US and Israel
+- score: 3
+- source: bbc
+- published_at: Tue, 21 Apr 2026 16:05:51 GMT
+- url: https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x1
+- significance: 미국과 이스라엘과의 전쟁 재개 시 이란의 제조업, 유통업, 디지털 부문에서 대량 해고가 발생할 것이라는 경고는 중동 분쟁의 경제적 파급 효과를 보여주며, 확전 리스크가 지역 경제에 미치는 부정적 영향을 심화시키는 사례입니다.
+- summary: The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.
+
+### (60) 정부, 보험사 ‘호르무즈 선박’ 전쟁보험 공동 지원 나선다
+- score: 1
+- source: sedaily
+- published_at: Wed, 22 Apr 2026 05:00:05 +0900
+- url: https://www.sedaily.com/article/20035392
+- matched_terms: ai:AI x1
+- significance: 정부가 호르무즈 해협 선박 전쟁보험 공동 지원에 나서는 것은 중동 지역의 지정학적 리스크가 해상 물류 및 경제에 미치는 영향이 현실화되고 있음을 보여주며, 이는 중동 확전 시나리오의 심각성을 더욱 부각시킨다.
+- summary: 
+
+### (61) Silver Price Analysis: Tanks after a trendline break, eyes on $70
+- score: 6
+- source: fxstreet
+- published_at: Tue, 21 Apr 2026 19:29:52 Z
+- url: https://www.fxstreet.com/news/silver-price-analysis-tanks-after-a-trendline-break-eyes-on-70-202604211929
+- matched_terms: ai:AI x2
+- significance: 미국-이란 협상 불확실성으로 인한 은 가격 하락은 중동 지역의 지정학적 긴장이 금융 시장에 직접적인 영향을 미치고 있음을 보여준다.
+- summary: Silver price tanks nearly 3.50% on Tuesday, clearing a key support trendline after printing a doji on Monday, as markets remained uncertain about the outcome of US-Iran talks. Heightened tensions and
+
+### (79) EUR/USD slips as Hormuz tensions persist despite Iran ceasefire extension
+- score: 6
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 16:04:10 Z
+- url: https://www.fxstreet.com/news/eur-usd-slips-as-hormuz-tensions-persist-despite-iran-ceasefire-extension-202604221604
+- matched_terms: ai:AI x2
+- significance: 호르무즈 해협의 지속적인 긴장은 이란과의 휴전 연장에도 불구하고 중동의 지정학적 불안정성이 여전히 높음을 보여주며, 이는 중동 확전 리스크 시나리오의 지속적인 요인이 된다.
+- summary: The Euro (EUR) weakens against the US Dollar (USD) on Wednesday, as ongoing tensions in the Strait of Hormuz offset the impact of the US-Iran ceasefire extension, keeping the Greenback supported.
+
+### (81) Gold steadies near $4,700 as lower US yields offset Iran risks
+- score: 6
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 17:38:39 Z
+- url: https://www.fxstreet.com/news/gold-steadies-near-4-700-as-lower-us-yields-offset-iran-risks-202604221738
+- matched_terms: ai:AI x2
+- significance: 미국 국채 수익률 하락이 금 가격을 지지하고 있지만, 중동 지역 분쟁 해결의 불확실성이 지속되면서 금 가격 변동성에 중동 확전 리스크가 여전히 중요한 요소로 작용하고 있음을 보여줍니다.
+- summary: Gold (XAU/USD) price holds steady on Wednesday, staging a slight recovery following Tuesday’s over 2% drop, as the resolution of the conflict in the Middle East remains uncertain, while falling US Tre
+
+### (82) WTI rallies back into $92 as extended ceasefire fails to calm supply fears
+- score: 7
+- source: fxstreet
+- published_at: Wed, 22 Apr 2026 17:37:53 Z
+- url: https://www.fxstreet.com/news/wti-rallies-back-into-92-as-extended-ceasefire-fails-to-calm-supply-fears-202604221737
+- matched_terms: ai:AI x1
+- significance: 휴전 실패로 인한 유가 상승은 중동 지역 분쟁이 에너지 시장 불안정성을 증폭시키는 핵심 지표로서, 시나리오 '중동 확전 리스크 고조'의 주요한 경제적 파급 효과를 보여줍니다.
+- summary: West Texas Intermediary (WTI) Crude Oil advanced more than 3% on Wednesday, trading back above $92 after testing $93 earlier in the session. The move extends a sharp two-day recovery from Monday's low
+
+### (112) In Tehran, money is short and a return to war looms over daily life
+- score: 10
+- source: bbc
+- published_at: Thu, 23 Apr 2026 11:26:01 GMT
+- url: https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x2
+- significance: 이란 내부의 경제적 불안정과 전쟁 위협에 대한 언급은 중동 지역의 잠재적 확전 리스크가 실제 주민들의 일상과 삶에 깊은 영향을 미치고 있음을 보여주는 중요한 증거입니다.
+- summary: The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.
+
+### (119) Uncertainty extends as Iran denies Ghalibaf resigned to negotiations team
+- score: 7
+- source: fxstreet
+- published_at: Thu, 23 Apr 2026 18:34:55 Z
+- url: https://www.fxstreet.com/news/uncertainty-extends-as-iran-denies-ghalibaf-resigned-to-negotiations-team-202604231834
+- matched_terms: ai:AI x1
+- significance: 이란 의회 의장의 협상팀 사임 부인 소식은 이란 내부의 불확실성을 시사하며, 중동 분쟁의 확전 및 에너지 시장 변동성 확대 가능성을 높입니다.
+- summary: Headlines indicating that Iranian Parliament speaker Mohammad Bagher Ghalibaf has resigned from the negotiating team, according to Israel N12 News, spurred risk aversion and sent Crude Oil prices shar

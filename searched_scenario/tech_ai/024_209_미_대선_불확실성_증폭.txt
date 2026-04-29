@@ -1,0 +1,68 @@
+# [209] 미 대선 불확실성 증폭
+
+profile: AI & Semiconductors
+label: primary
+score: 68 (metadata=0, nodes=58, repeat=10)
+category: geopolitics
+updated_at: 2026-04-24T17:41:56.181685
+nodes: 52 total / 5 matched
+keywords: 미국 대선, 트럼프 정책, 글로벌 무역, 종전 협상, 시장 변동성
+
+## Description
+미국 대선이 다가오면서 후보들의 정책 발언과 유세 동향이 글로벌 금융 시장의 주요 변수로 부상하고 있습니다. 특히 무역, 외교, 지정학 분야에서의 정책 변화 가능성은 시장 변동성을 키우고 투자 전략에 큰 영향을 미칠 것입니다. 이는 단순한 선거 이슈를 넘어 경제, 산업 전반의 방향을 좌우할 수 있는 중요한 거시 테마입니다.
+
+## Matched Tags
+- ai: 58
+
+## Matched Terms
+  ai:AI x10
+  ai:인공지능 x2
+
+## Matched News Nodes
+
+### (16) Billionaire backer sues Trump family's crypto firm over alleged extortion
+- score: 10
+- source: bbc
+- published_at: Wed, 22 Apr 2026 16:14:20 GMT
+- url: https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x2
+- significance: 트럼프 전 대통령 가족과 연관된 암호화폐 기업에 대한 소송은 다가오는 미국 대선을 앞두고 트럼프 일가 및 관련 사업의 잠재적 리스크를 부각시키며, 대선 불확실성을 증폭시키는 요인으로 작용할 수 있습니다.
+- summary: Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.
+
+### (28) Warner Bros shareholders approve Paramount's $111bn takeover
+- score: 3
+- source: bbc
+- published_at: Thu, 23 Apr 2026 14:55:21 GMT
+- url: https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x1
+- significance: 거대 미디어 기업의 M&A 승인 과정에 도널드 트럼프 전 대통령이 연루된 것은 다가오는 미국 대선이 산업 규제와 기업 지배구조에 미칠 잠재적 영향을 시사한다.
+- summary: The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons.
+
+### (29) Trump tells BBC that King's visit could 'absolutely' help repair relations with UK
+- score: 7
+- source: bbc
+- published_at: Thu, 23 Apr 2026 15:34:15 GMT
+- url: https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x1
+- significance: 트럼프 전 대통령의 외교적 발언은 다가오는 미 대선과 그 이후 영미 관계 재편 가능성에 대한 불확실성을 증폭시키는 중요한 단초가 될 수 있습니다.
+- summary: In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.
+
+### (41) 백악관, 트럼프 방중 앞 "中이 미국 AI기술 훔친 증거 확보"
+- score: 19
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 07:28:57 +0900
+- url: https://www.yna.co.kr/view/AKR20260424017000071
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+- significance: 미국 백악관의 중국 AI 기술 절취 언급은 트럼프 행정부 시기 미중 기술 갈등의 재점화를 예고하며, 대선 결과에 따라 대중국 정책의 강도가 달라질 수 있음을 시사한다.
+- summary: (워싱턴=연합뉴스) 박성민 특파원 = 미국 도널드 트럼프 행정부가 23일(현지시간) 중국의 기업들이 미국의 인공지능(AI) 기술을 훔치고 있다고...
+
+### (49) 美 "中이 AI기술 도둑질"…내달 트럼프·시진핑 회동 쟁점되나
+- score: 19
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 16:33:43 +0900
+- url: https://www.yna.co.kr/view/AKR20260424133000009
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+- significance: 미국 대선을 앞두고 트럼프 행정부의 중국 AI 기술 탈취 문제 제기는 미중 기술 패권 경쟁을 격화시키고 글로벌 지정학적 불확실성을 증폭시키는 중요한 변수로 작용합니다.
+- summary: (서울=연합뉴스) 김동현 기자 = 미국 트럼프 행정부가 다음 달 예정된 중국과의 정상회담을 앞두고 중국의 인공지능(AI) 기술 탈취 문제를 공개...

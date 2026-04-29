@@ -1,0 +1,31 @@
+# [68] 아시아 인프라 디지털화
+
+profile: Infrastructure
+label: secondary
+score: 13 (metadata=8, nodes=3, repeat=2)
+category: tech
+updated_at: 2026-04-15T14:31:59.996676
+nodes: 1 total / 1 matched
+keywords: 아시아, 인프라, 디지털 전환, ADB, 스마트시티
+
+## Description
+아시아 지역의 지속 가능한 발전을 위해 디지털 기술을 활용한 인프라 현대화 및 효율화가 가속화되고 있습니다. 이는 ADB와 같은 국제기구의 역할 증대와 한국 기업의 기술 수출 기회 확대로 이어질 수 있습니다.
+
+## Matched Tags
+- urban: 8
+- water: 3
+
+## Matched Terms
+  urban:스마트시티 x1
+  water:수자원 x1
+
+## Matched News Nodes
+
+### (1) 수공, 아시아개발은행 혁신·디지털 가속화 사업 협력기업 선정
+- score: 3
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 14:11:21 +0900
+- url: https://www.yna.co.kr/view/AKR20260415112900063
+- matched_terms: water:수자원 x1
+- significance: 이 뉴스는 한국 기업이 아시아 인프라 디지털 전환의 핵심 플레이어로 부상하고 있음을 보여주는 첫 신호입니다.
+- summary: (대전=연합뉴스) 김소연 기자 = 한국수자원공사는 아시아개발은행(ADB)이 추진하는 '혁신·디지털 가속화 사업'의 협력기업으로 선정됐다고 15일...

@@ -1,0 +1,29 @@
+# [88] 디지털 신분증 확산 혼란
+
+profile: Infrastructure
+label: secondary
+score: 18 (metadata=0, nodes=16, repeat=2)
+category: tech
+updated_at: 2026-04-15T22:32:00.699946
+nodes: 1 total / 1 matched
+keywords: 디지털 신분증, 생체인식, 국경 관리, 개인정보 보호, 기술 거버넌스
+
+## Description
+국경, 사회 인프라에 도입되는 디지털 신분 확인 시스템이 초기 기술적, 사회적 혼란을 야기하고 있습니다. 개인정보 보호와 편의성 사이의 균형점을 찾기 위한 글로벌 논의와 기술 표준화 경쟁이 가속화될 것입니다.
+
+## Matched Tags
+- transport: 16
+
+## Matched Terms
+  transport:공항 x3
+
+## Matched News Nodes
+
+### (1) 생체등록 새 출입국시스템에 유럽 공항 곳곳 지연·혼란
+- score: 16
+- source: yonhap
+- published_at: Wed, 15 Apr 2026 22:14:31 +0900
+- url: https://www.yna.co.kr/view/AKR20260415182100098
+- matched_terms: transport:공항 x3
+- significance: 새로운 디지털 출입국 시스템 도입으로 인한 유럽 공항의 혼란은 디지털 신원 확인 기술의 광범위한 적용이 가져올 초기 시행착오와 사회적 마찰을 보여주는 첫 신호입니다.
+- summary: (브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU)의 새로운 디지털 출입국시스템(EES)이 전면 시행되면서 유럽 공항 곳곳에서 지연과 혼란이 ...

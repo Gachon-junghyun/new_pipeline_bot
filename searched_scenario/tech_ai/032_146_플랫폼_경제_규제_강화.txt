@@ -1,0 +1,29 @@
+# [146] 플랫폼 경제 규제 강화
+
+profile: AI & Semiconductors
+label: primary
+score: 51 (metadata=33, nodes=16, repeat=2)
+category: tech
+updated_at: 2026-04-21T13:49:52.348577
+nodes: 1 total / 1 matched
+keywords: 플랫폼규제, 수수료, 독과점, 불공정거래, 디지털경제
+
+## Description
+플랫폼 기업의 독과점적 지위와 과도한 수수료 문제가 사회적 이슈로 부상하며, 정부 및 시민사회 주도로 플랫폼 경제 전반에 대한 규제가 강화될 가능성이 높은 시나리오입니다. 이는 플랫폼 산업의 성장 둔화 및 비즈니스 모델 변화를 초래할 수 있습니다.
+
+## Matched Tags
+- platform: 49
+
+## Matched Terms
+  platform:플랫폼 x8
+
+## Matched News Nodes
+
+### (1) "매출 30%가 배달비·수수료"…옴부즈만, 플랫폼 불공정 점검
+- score: 16
+- source: yonhap
+- published_at: Tue, 21 Apr 2026 13:30:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260421059300030
+- matched_terms: platform:플랫폼 x3
+- significance: 이 뉴스는 플랫폼 기업의 불공정 거래 관행에 대한 정부의 첫 공식적인 문제 제기이자 규제 논의의 시작점을 알리는 중요한 사건입니다.
+- summary: (서울=연합뉴스) 구정모 기자 = 중소기업 옴부즈만은 플랫폼 수수료 부담 문제를 점검하기 위해 업종별 협력 단체와 현장 간담회를 열고 개선 방안...

@@ -1,0 +1,23 @@
+# [335] 글로벌 전력 인프라 투자 확대
+
+profile: AI & Semiconductors
+label: secondary
+score: 23 (metadata=23, nodes=0, repeat=0)
+category: energy
+updated_at: 2026-04-24T17:42:16.601873
+nodes: 1 total / 0 matched
+keywords: 전력인프라, 송배전망, 에너지전환, 데이터센터, 탄소중립
+
+## Description
+세계 각국이 에너지 안보 강화, 탄소중립 목표 달성, AI 및 데이터센터 등 전력 수요 급증에 대응하기 위해 송배전망을 포함한 전력 인프라 투자에 박차를 가하고 있습니다. 이는 관련 산업의 성장 기회를 확대하고 있습니다.
+
+## Matched Tags
+- data_center: 18
+- ai: 5
+
+## Matched Terms
+  data_center:데이터센터 x2
+  ai:AI x1
+  data_center:전력 수요 x1
+
+## Matched News Nodes

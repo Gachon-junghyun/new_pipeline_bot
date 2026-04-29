@@ -1,0 +1,39 @@
+# [288] 유럽 에너지 독립 가속
+
+profile: Infrastructure
+label: primary
+score: 47 (metadata=21, nodes=22, repeat=4)
+category: energy
+updated_at: 2026-04-24T03:41:42.308516
+nodes: 2 total / 2 matched
+keywords: 재생에너지, 에너지 전환, 유럽 에너지 안보, 탈탄소, 태양광
+
+## Description
+우크라이나 전쟁 이후 러시아 에너지 의존도를 줄이려는 유럽의 노력이 가속화되며, 재생에너지로의 전환이 더욱 빨라지고 있습니다. 이는 에너지 안보 강화뿐 아니라 탄소 중립 목표 달성에도 기여할 것입니다.
+
+## Matched Tags
+- energy_facility: 43
+
+## Matched Terms
+  energy_facility:태양광 x4
+  energy_facility:재생에너지 x3
+
+## Matched News Nodes
+
+### (1) 이케아, 태양광 패널도 판다…유럽서 유가 급등에 수요↑
+- score: 16
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 19:34:38 +0900
+- url: https://www.yna.co.kr/view/AKR20260423178000098
+- matched_terms: energy_facility:태양광 x3
+- significance: 이케아와 같은 대중적 기업의 태양광 패널 판매는 에너지 전환이 소비자 생활 속으로 확대되며, 대중적 수요를 통해 가속화되는 중요한 신호입니다.
+- summary: (브뤼셀=연합뉴스) 현윤경 특파원 = 스웨덴의 '가구 공룡' 이케아가 유럽에서 태양광 패널 판매를 개시했다.
+
+### (2) '우크라 대출' 해결한 EU 정상들…에너지 위기 고심
+- score: 6
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 02:42:27 +0900
+- url: https://www.yna.co.kr/view/AKR20260424002500109
+- matched_terms: energy_facility:재생에너지 x1
+- significance: 유럽 지도자들이 키프로스에서 에너지 위기를 고심하는 모습은 우크라이나 전쟁 이후 러시아 에너지 의존도를 줄이려는 유럽의 노력이 지속되고 있음을 보여주며, 이는 재생에너지 전환 가속화 시나리오와 긴밀하게 연결된다.
+- summary: (로마=연합뉴스) 민경락 특파원 = 유럽 지도자들이 23일(현지시간) 키프로스에 모여 중동 사태에 따른 에너지 위기와 유럽연합(EU) 상호방위 ...

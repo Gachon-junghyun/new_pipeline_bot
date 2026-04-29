@@ -1,0 +1,62 @@
+# [313] 韓, AI 언어 데이터 주도권 경쟁
+
+profile: AI & Semiconductors
+label: primary
+score: 161 (metadata=41, nodes=112, repeat=8)
+category: tech
+updated_at: 2026-04-24T17:42:04.835387
+nodes: 4 total / 4 matched
+keywords: AI, 언어데이터, 지역혁신, 국가경쟁력, 초거대AI
+
+## Description
+글로벌 AI 경쟁이 심화되면서 각국은 언어 데이터 확보를 위한 전략적 투자를 확대하고 있습니다. 한국 또한 지역 차원에서 AI 언어 데이터 연구 허브를 구축하며 국가 경쟁력을 강화하고, 차세대 AI 기술의 핵심 기반을 마련하는 방향으로 전개될 것입니다.
+
+## Matched Tags
+- ai: 137
+- platform: 16
+
+## Matched Terms
+  ai:AI x22
+  platform:구글 x3
+  ai:인공지능 x2
+
+## Matched News Nodes
+
+### (1) 부산시·부산외대, 언어 데이터 연구센터 조성 업무협약
+- score: 6
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 07:55:06 +0900
+- url: https://www.yna.co.kr/view/AKR20260424020800051
+- matched_terms: ai:AI x1
+- significance: 이 뉴스는 한국이 AI 언어 데이터 경쟁에서 주도권을 확보하기 위한 지역 기반의 첫걸음을 알리는 중요한 신호탄입니다.
+- summary: (부산=연합뉴스) 김선호 기자 = 부산시는 24일 오후 시청 국제의전실에서 부산외국어대학교, 부산테크노파크와 언어 데이터 연구센터 조성 및 다국...
+
+### (2) 국내 첫 과학기술 AI 경진대회 대상에 DIL·에이리스팀
+- score: 34
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 11:30:14 +0900
+- url: https://www.yna.co.kr/view/AKR20260424063100017
+- matched_terms: ai:AI x6
+  ai:인공지능 x1
+- significance: 국내 최초 과학기술 AI 경진대회 개최는 한국이 AI 기술 개발 경쟁에서 주도권을 확보하려는 노력을 보여주며, 특히 과학기술 분야의 AI 데이터 및 솔루션 개발 역량 강화에 기여할 것이다.
+- summary: (서울=연합뉴스) 조승한 기자 = 국내 최초 과학기술 인공지능(AI) 경진대회인 'AI 코사이언티스트 챌린지 코리아' 대상에 부산대 강준희 교수...
+
+### (3) 교육부-과기부 'AI 인재양성 전담팀' 출범…"협업으로 시너지"
+- score: 31
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 14:30:02 +0900
+- url: https://www.yna.co.kr/view/AKR20260424045600530
+- matched_terms: ai:AI x5
+  ai:인공지능 x1
+- significance: 교육부와 과기부의 'AI 인재양성 전담팀' 출범은 AI 시대에 필수적인 인재 기반을 강화하여 한국의 AI 언어 데이터 및 기술 주도권 경쟁력을 높이는 중요한 정부 정책 추진 사례입니다.
+- summary: (세종=연합뉴스) 고상민 기자 = 교육부와 과학기술정보통신부는 24일 국가과학기술자문회의 대회의실에서 인공지능(AI) 인재양성 협력 전담팀(TF...
+
+### (4) 국토차관, 구글 부사장 면담…AI공간정보 등 협력 논의
+- score: 41
+- source: yonhap
+- published_at: Fri, 24 Apr 2026 17:27:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260424148900003
+- matched_terms: ai:AI x4
+  platform:구글 x3
+- significance: 국토교통부가 구글과 AI 공간정보 협력을 논의하는 것은 한국이 AI 기술 주도권을 확보하려는 노력의 일환으로, 특히 공간정보와 AI 융합을 통한 새로운 데이터 가치 창출 가능성을 보여준다.
+- summary: (서울=연합뉴스) 임기창 기자 = 김이탁 국토교통부 1차관은 24일 서울 중구 정동 국토발전전시관에서 크리스 터너 구글 대외협력 부사장을 만나 ...

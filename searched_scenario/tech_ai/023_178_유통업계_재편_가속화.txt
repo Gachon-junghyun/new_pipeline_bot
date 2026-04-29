@@ -1,0 +1,69 @@
+# [178] 유통업계 재편 가속화
+
+profile: AI & Semiconductors
+label: primary
+score: 70 (metadata=8, nodes=52, repeat=10)
+category: corporate
+updated_at: 2026-04-24T10:42:05.989541
+nodes: 31 total / 5 matched
+keywords: 유통, M&A, SSM, 온라인쇼핑, 플랫폼경쟁
+
+## Description
+온라인 소비 증가와 경쟁 심화로 국내 유통업계의 구조조정 및 사업 재편이 가속화되고 있습니다. 이는 기업들의 생존 전략 변화와 소비자 행동 변화에 따른 산업 지형 변화를 의미합니다.
+
+## Matched Tags
+- platform: 42
+- ai: 11
+- semiconductor: 7
+
+## Matched Terms
+  platform:플랫폼 x7
+  ai:AI x3
+  semiconductor:SK하이닉스 x1
+
+## Matched News Nodes
+
+### (7) 한때 SK하이닉스도 제쳤는데...박스권에 갇힌 우울한 쿠팡 [이선아의 킬러콘텐츠]
+- score: 7
+- source: hankyung
+- published_at: Wed, 22 Apr 2026 07:19:12 +0900
+- url: https://www.hankyung.com/article/202604215863i
+- matched_terms: semiconductor:SK하이닉스 x1
+- significance: 쿠팡의 박스권 정체는 급변하는 유통 시장에서 경쟁 심화와 소비자 행동 변화에 대한 기업들의 생존 전략 재고가 필요함을 보여주는 사례입니다.
+- summary: 
+
+### (13) 배민, 지구의날 친환경 행사…일회용품 안 쓰면 쿠폰 이벤트
+- score: 12
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 09:36:37 +0900
+- url: https://www.yna.co.kr/view/AKR20260422041000030
+- matched_terms: platform:플랫폼 x2
+- significance: 배달 플랫폼 배달의민족의 친환경 프로모션은 ESG 경영 확산과 소비자 인식 변화에 따른 유통 플랫폼 기업의 전략 변화를 보여주며, 이는 장기적으로 유통업계 전반의 친환경 정책 도입과 경쟁 구도에 영향을 미칠 수 있습니다.
+- summary: (서울=연합뉴스) 김세린 기자 = 배달의민족 운영사 우아한형제들은 22일 '지구의 날'을 맞아 일회용품 사용을 줄이기 위한 친환경 프로모션을 진...
+
+### (17) Best Buy picks Jason Bonfig as its new CEO — and he’s getting a big raise
+- score: 10
+- source: marketwatch
+- published_at: Wed, 22 Apr 2026 18:30:00 GMT
+- url: https://www.marketwatch.com/story/best-buy-picks-jason-bonfig-as-its-new-ceo-and-hes-getting-a-big-raise-75e5f689?mod=mw_rss_topstories
+- matched_terms: ai:AI x2
+- significance: Best Buy의 신임 CEO가 고객 관련성 상실이라는 중대한 도전에 직면했다는 소식은 오프라인 유통업체의 사업 재편 필요성이 더욱 커지고 있음을 시사한다.
+- summary: Best Buy shares fell as the new CEO faces big challenges, with some believing the retailer has lost some of its relevance with customers.
+
+### (24) [게시판] 공정위, 중고거래 플랫폼 간담회
+- score: 22
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 16:30:01 +0900
+- url: https://www.yna.co.kr/view/AKR20260423096300002
+- matched_terms: platform:플랫폼 x4
+- significance: 공정거래위원회의 중고거래 플랫폼 규율 준수 독려 간담회는 온라인 플랫폼 경쟁 심화 및 소비자 보호 이슈와 맞물려 유통업계 전반의 규제 환경 변화를 촉발할 수 있습니다.
+- summary: ▲ 공정거래위원회는 23일 서울 양재동 엘타워에서 중고거래 플랫폼 업계 관계자들과 간담회를 열어 개인 간 거래와 관련한 규율 준수를 독려했다. ...
+
+### (27) CJ ENM, 왓챠 M&A 본입찰 미참여…1세대 OTT 회생 안갯속으로 [시그널]
+- score: 1
+- source: sedaily
+- published_at: Thu, 23 Apr 2026 21:23:49 +0900
+- url: https://www.sedaily.com/article/20036286
+- matched_terms: ai:AI x1
+- significance: CJ ENM의 왓챠 M&A 본입찰 미참여는 OTT 시장의 경쟁 심화와 초기 플레이어의 생존 위협이 유통업계 재편 가속화 시나리오의 한 부분임을 보여준다.
+- summary:

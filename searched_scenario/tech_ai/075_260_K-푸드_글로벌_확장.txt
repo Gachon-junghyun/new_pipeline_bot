@@ -1,0 +1,31 @@
+# [260] K-푸드 글로벌 확장
+
+profile: AI & Semiconductors
+label: secondary
+score: 14 (metadata=0, nodes=12, repeat=2)
+category: trade
+updated_at: 2026-04-23T18:41:31.779559
+nodes: 5 total / 1 matched
+keywords: K-푸드, 수출, 한류, 글로벌 시장, 식품 산업
+
+## Description
+한류 콘텐츠 인기에 힘입어 한국 식품의 해외 진출이 가속화되고 있습니다. 이는 한국 농식품 수출 증대와 브랜드 가치 향상에 기여하며, 전 세계 식문화 트렌드에 영향을 미칠 잠재력을 가지고 있습니다.
+
+## Matched Tags
+- ai: 12
+
+## Matched Terms
+  ai:AI x2
+  ai:인공지능 x1
+
+## Matched News Nodes
+
+### (3) [게시판] 올데이올가닉, 농식품부 벤처육성 '첨단기술 분야' 선정
+- score: 12
+- source: yonhap
+- published_at: Thu, 23 Apr 2026 10:35:05 +0900
+- url: https://www.yna.co.kr/view/AKR20260423071700030
+- matched_terms: ai:AI x2
+  ai:인공지능 x1
+- significance: AI 기반 펫푸드 스타트업의 농식품 벤처 선정은 K-푸드의 첨단 기술 융합과 다양한 분야로의 확장 가능성을 보여줍니다.
+- summary: ▲ 인공지능(AI) 기반 반려동물 식품(펫푸드) 스타트업 올데이올가닉은 농림축산식품부가 주관하는 '농식품 벤처육성 사업'에서 첨단기술 분야에 최...

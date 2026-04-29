@@ -1,0 +1,95 @@
+# [197] 빅테크 규제 강화 확산
+
+profile: AI & Semiconductors
+label: primary
+score: 152 (metadata=41, nodes=101, repeat=10)
+category: tech
+updated_at: 2026-04-23T03:41:52.507384
+nodes: 7 total / 7 matched
+keywords: 빅테크 규제, 온라인 플랫폼 책임, 디지털 윤리, 글로벌 규제 공조, 데이터 프라이버시
+
+## Description
+온라인 플랫폼을 통한 불법 행위가 증가함에 따라 각국 정부와 규제당국이 빅테크 기업에 대한 규제를 강화하고 있습니다. 이는 플랫폼 책임론을 부각시키고, 기업의 운영 방식과 서비스 설계에 중대한 변화를 요구하며, 국제적인 규제 공조 논의로 이어질 수 있습니다.
+
+## Matched Tags
+- platform: 101
+- ai: 56
+
+## Matched Terms
+  ai:AI x11
+  platform:플랫폼 x10
+  platform:빅테크 x6
+  ai:인공지능 x1
+  platform:오픈AI x1
+
+## Matched News Nodes
+
+### (1) 영국 규제당국, 텔레그램 통한 아동 성착취물 공유 의혹 조사
+- score: 6
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 00:21:03 +0900
+- url: https://www.yna.co.kr/view/AKR20260422000400085
+- matched_terms: platform:플랫폼 x1
+- significance: 영국 규제당국의 텔레그램 조사는 특정 플랫폼 내 불법 콘텐츠에 대한 정부의 개입이 본격화되고 있음을 보여주는 중요한 사례입니다.
+- summary: (런던=연합뉴스) 김지연 특파원 = 영국 통신미디어 규제당국이 메시지 앱 텔레그램을 통한 아동 성착취물 공유 의혹을 조사한다.
+
+### (2) OpenAI faces criminal probe over role of ChatGPT in shooting
+- score: 28
+- source: bbc
+- published_at: Tue, 21 Apr 2026 19:15:34 GMT
+- url: https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss
+- matched_terms: ai:AI x4
+  platform:빅테크 x1
+- significance: OpenAI의 ChatGPT가 총기 난사 사건과 연루되어 형사 조사를 받게 된 것은 빅테크 기업의 콘텐츠 책임과 AI 기술의 사회적 영향에 대한 규제 압력이 강화될 수 있음을 시사하는 중요한 사례입니다.
+- summary: The firm, co-founded by Sam Altman, said it is "not responsible" for the attack at Florida State University
+
+### (3) 美검찰 챗GPT 수사 착수…"플로리다대 총기난사범에 범행 전 조언"
+- score: 27
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 10:40:19 +0900
+- url: https://www.yna.co.kr/view/AKR20260422061400009
+- matched_terms: ai:AI x3
+  ai:인공지능 x1
+  platform:빅테크 x1
+  platform:오픈AI x1
+- significance: 챗GPT가 총기 난사 범행에 조언을 했다는 의혹은 AI의 오용 가능성에 대한 빅테크 기업의 책임론을 부각시키고, AI 윤리 및 규제 강화 논의를 촉발할 수 있습니다.
+- summary: (서울=연합뉴스) 이신영 기자 = 지난해 4월 미국 플로리다주립대 총기 난사 사건의 용의자가 범행 전에 오픈AI의 인공지능 챗봇인 챗GPT에 조...
+
+### (4) 방미통위, 방송3법 후속 설계 착수…23일 토론회
+- score: 12
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 10:40:42 +0900
+- url: https://www.yna.co.kr/view/AKR20260422057900017
+- matched_terms: platform:플랫폼 x2
+- significance: 방송미디어통신위원회의 방송 3법 후속 조치 논의는 미디어 플랫폼에 대한 정부의 규제 의지를 보여주며, 이는 온라인 플랫폼 책임 강화 시나리오의 국내 확산을 의미합니다.
+- summary: (서울=연합뉴스) 유현민 기자 = 방송미디어통신위원회는 23일 서울 목동 한국방송회관에서 '방송 3법' 후속 조치의 실효적 이행을 위한 제도 설...
+
+### (5) 이탈리아 당국, 부킹닷컴 조사…검색 알고리즘 조작 혐의
+- score: 9
+- source: yonhap
+- published_at: Wed, 22 Apr 2026 22:06:35 +0900
+- url: https://www.yna.co.kr/view/AKR20260422167800109
+- matched_terms: platform:플랫폼 x2
+- significance: 이탈리아 경쟁당국의 부킹닷컴 조사 착수는 온라인 플랫폼의 불공정 검색 알고리즘 조작에 대한 규제 강화 움직임이 글로벌하게 확산되고 있음을 보여주는 사례입니다.
+- summary: (로마=연합뉴스) 민경락 특파원 = 이탈리아 경쟁당국이 온라인 숙박예약 플랫폼 부킹닷컴의 불공정 검색 알고리즘 제공 혐의에 대한 조사에 착수했다...
+
+### (6) Coinbase and Gemini Accused of Illegal Gambling in N.Y. Lawsuits
+- score: 15
+- source: nyt
+- published_at: Wed, 22 Apr 2026 18:29:42 +0000
+- url: https://www.nytimes.com/2026/04/22/nyregion/coinbase-crypto-prediction-markets-lawsuit.html
+- matched_terms: ai:AI x1
+  platform:빅테크 x1
+  platform:플랫폼 x1
+- significance: 코인베이스와 제미니에 대한 뉴욕주의 소송은 암호화폐 플랫폼의 예측 시장 운영에 대한 규제 당국의 감시 강화와 빅테크 기업의 불법 활동에 대한 규제 확산 흐름을 보여줍니다.
+- summary: Attorney General Letitia James said the cryptocurrency giants were illegally running gambling platforms in the state after they expanded into prediction markets, which are loosely regulated.
+
+### (7) Former Employee Sues MrBeast’s Company Over Harassment Claims
+- score: 19
+- source: nyt
+- published_at: Wed, 22 Apr 2026 18:19:54 +0000
+- url: https://www.nytimes.com/2026/04/22/business/mrbeast-lawsuit-harassment-claims.html
+- matched_terms: ai:AI x3
+  platform:플랫폼 x1
+- significance: 유튜브 스타 기업의 성희롱 및 임신 차별 피소는 온라인 플랫폼 및 콘텐츠 기업의 사회적 책임과 노동 환경에 대한 규제 강화 가능성을 시사한다.
+- summary: The former employee of the YouTube star’s production company said in a federal lawsuit that she had experienced sexual harassment and pregnancy discrimination. Beast Industries denies all of the claim
